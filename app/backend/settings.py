@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'backend'
 ]
 
 MIDDLEWARE = [
@@ -47,9 +48,10 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+
 ]
 
-ROOT_URLCONF = 'mysite.urls'
+ROOT_URLCONF = 'backend.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'mysite.wsgi.application'
+WSGI_APPLICATION = 'backend.wsgi.application'
 
 
 # Database
