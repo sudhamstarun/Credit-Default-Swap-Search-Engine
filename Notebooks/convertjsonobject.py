@@ -1,6 +1,6 @@
 import os
 import pandas
-import glob
+import glob/
 import re
 
 parent_dir = "../Data/"
@@ -22,17 +22,21 @@ def makefilelist(parent_dir):
     return filelist
 
 
-def readCSV(fileList):
-    master_csv_headers = []
+def jsonObject(fileList):
     for filename in fileList:
-        with open(filename, 'r') as f:
-            d_reader = csv.DictReader(f)
-            headers = d_reader.fieldnames
-            for header in headers:
-                master_csv_headers.append(header)
+        csv_rows = []
+        with open(filename) as csvfile:
+            reader = csv.DictReader(csvfile)
+            title = reader.fieldnames
+            for row in reader:
+                csv_rows.extend([{title[i]:row[title[i]]
+                                  for i in range(len(title))}])
+            write_json(csv_rows, json_file, format)
 
-    return master_csv_headers
+
+def writejsonobject(data, json_file, format):
 
 
 if __name__ == "__main__":
-    makefilelist(parent_dir)
+    filelist = makefilelist(parent_dir)
+    readCSV(fileList)
