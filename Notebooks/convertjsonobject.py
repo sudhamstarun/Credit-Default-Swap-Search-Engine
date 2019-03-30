@@ -1,9 +1,11 @@
 import os
 import pandas
-import glob/
+import glob
+import csv
+import json
 import re
 
-parent_dir = "../Data/"
+parent_dir = "../Testdata/"
 filelist = []
 
 
@@ -22,21 +24,20 @@ def makefilelist(parent_dir):
     return filelist
 
 
-def jsonObject(fileList):
-    for filename in fileList:
-        csv_rows = []
+def createJsonOjectArray(filelist):
+    json_array = []
+    for filename in filelist:
+        csv_data = []
         with open(filename) as csvfile:
-            reader = csv.DictReader(csvfile)
-            title = reader.fieldnames
-            for row in reader:
-                csv_rows.extend([{title[i]:row[title[i]]
-                                  for i in range(len(title))}])
-            write_json(csv_rows, json_file, format)
+            for row in csv.DictReader(csvfile):
+                csv_data.append(row)
 
+        json_data = json.dumps(csv_data)
+        json_array.append(json_data)
 
-def writejsonobject(data, json_file, format):
+    return json_array
 
 
 if __name__ == "__main__":
     filelist = makefilelist(parent_dir)
-    readCSV(fileList)
+    print(createJsonOjectArray(filelist))
