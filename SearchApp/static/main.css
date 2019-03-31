@@ -464,9 +464,9 @@ legend {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
-      justify-content: center;
+  justify-content: center;
   -ms-flex-align: center;
-      align-items: center;
+  align-items: center;
   background: #d9eff5;
   padding: 15px;
   font-family: 'Lato', sans-serif;
@@ -519,7 +519,8 @@ legend {
   font-weight: 400;
 }
 
-.s010 form .inner-form .input-field input:hover, .s010 form .inner-form .input-field input:focus {
+.s010 form .inner-form .input-field input:hover,
+.s010 form .inner-form .input-field input:focus {
   box-shadow: none;
   outline: 0;
 }
@@ -581,7 +582,8 @@ legend {
   font-weight: 400;
 }
 
-.s010 form .inner-form .input-field .btn-delete:hover, .s010 form .inner-form .input-field .btn-delete:focus {
+.s010 form .inner-form .input-field .btn-delete:hover,
+.s010 form .inner-form .input-field .btn-delete:focus {
   color: #000;
   outline: 0;
   box-shadow: none;
@@ -609,7 +611,7 @@ legend {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-align: center;
-      align-items: center;
+  align-items: center;
   width: 60px;
   height: 100%;
 }
@@ -624,11 +626,13 @@ legend {
   .s010 form .inner-form .basic-search .input-field input {
     padding: 10px 110px 10px 30px;
   }
+
   .s010 form .inner-form .basic-search .input-field .icon-wrap {
     width: 80px;
     -ms-flex-pack: center;
-        justify-content: center;
+    justify-content: center;
   }
+
   .s010 form .inner-form .basic-search .input-field .icon-wrap svg {
     width: 30px;
     height: 30px;
