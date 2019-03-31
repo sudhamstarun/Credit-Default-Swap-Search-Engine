@@ -7,3 +7,6 @@ Data/
 env/
 .ipynb_checkpoints/
 Testdata/
+dist/
+node_modules/
+test/
