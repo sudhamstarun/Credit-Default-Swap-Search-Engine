@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DataSorcerer is an efficient Flask web applicayion based JSON-search to search specific datapoints through complex and intricate machine learning datasets and view the results in tables
+DataSorcerer is an efficient Flask web application to search specific datapoints through complex and intricate machine learning datasets and view the results in tables🕵🏽‍
 
 ## Requirements
 
@@ -12,6 +12,6 @@ DataSorcerer is an efficient Flask web applicayion based JSON-search to search s
     <li>Jinja2==2.10</li>
     <li>json2html==1.2.1</li>
     <li>pandas==0.24.2</li>
-<ul>
+</ul>
 
 _More updates will follow with time_
