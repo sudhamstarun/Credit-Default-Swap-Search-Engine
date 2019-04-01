@@ -1,4 +1,6 @@
 from flask import Flask, render_template, request
+from json2html import *
+
 import os
 import pandas
 import glob
@@ -6,7 +8,7 @@ import csv
 import json
 import re
 
-parent_dir = "Testdata/"
+parent_dir = "../Data/"
 filelist = []
 
 
@@ -58,10 +60,13 @@ def get_form():
 
 @app.route("/results", methods=['POST', 'GET'])
 def printJsonResults():
+    tags = []
     if request.method == 'POST':
         search_string = request.form['input']
         results = searchJsonArray(search_string)
-        return render_template('result.html', results=results)
+        for json_object in results:
+            tags.append(json2html.convert(json=json_object))
+        return render_template('result.html', results=tags)
 
     return '', 204
 

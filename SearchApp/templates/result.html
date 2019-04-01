@@ -2,11 +2,14 @@
 <html>
 
 <head>
-    <title>Register</title>
+    <title>Results</title>
 </head>
 
 <body>
-    {{results}}
+    {% for thing in results %}
+    {{ thing }}
+    {{br}}
+    {% endfor %}
 </body>
 
 </html>
