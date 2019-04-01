@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request5
 
 app = Flask(__name__)
 
@@ -8,13 +8,10 @@ def get_form():
     return render_template('index.html')
 
 
-@app.route('/input', methods=['GET', 'POST'])
+@app.route('/take_input', methods=['GET', 'POST'])
 def takeInput():
-    if request.method == 'POST':
-        input = request.form['text']
-    print(input)
-
-    return render_template("index.html")
+    input = request.form['input_1']
+    return render_template('result.html', result=input)
 
 
 if __name__ == "__main__":
