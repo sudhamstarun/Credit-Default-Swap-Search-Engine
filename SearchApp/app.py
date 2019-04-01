@@ -11,11 +11,9 @@ filelist = []
 
 
 def makefilelist(parent_dir):
-    headers = []
-    csv_headers = []
     subject_dirs = [os.path.join(parent_dir, dir) for dir in os.listdir(
         parent_dir) if os.path.isdir(os.path.join(parent_dir, dir))]
-    ilelist = []
+    filelist = []
     for dir in subject_dirs:
         csv_files = [os.path.join(dir, csv) for csv in os.listdir(
             dir) if os.path.isfile(os.path.join(dir, csv)) and csv.endswith('.csv')]
@@ -37,16 +35,14 @@ def createJsonOjectArray(filelist):
     return json_array
 
 
-def searchJsonArray():
+def searchJsonArray(search_string):
     filelist = []
     json_array = []
     filelist = makefilelist(parent_dir)
     json_array = createJsonOjectArray(filelist)
-
     # search
-    results = [elem for elem in json_array if elem[1] ==
-               search_string]
-
+    results = [elem for elem in json_array if search_string.lower()
+               in elem.lower()]
     return results
 
 
@@ -60,19 +56,14 @@ def get_form():
     return render_template("index.html")
 
 
-@app.route("/input", methods=['POST', 'GET'])
-def getSearchString():
-    global search_string
+@app.route("/results", methods=['POST', 'GET'])
+def printJsonResults():
     if request.method == 'POST':
         search_string = request.form['input']
+        results = searchJsonArray(search_string)
+        return render_template('result.html', results=results)
 
     return '', 204
-
-
-@app.route("/input/results", methods=['POST', 'GET'])
-def printJsonResults():
-    results = searchJsonArray()
-    return render_template('result.html', input=results)
 
 
 if __name__ == "__main__":

@@ -33,7 +33,7 @@ def createJsonOjectArray(filelist):
         with open(filename) as csvfile:
             for row in csv.DictReader(csvfile):
                 json_data = json.dumps(row)
-                json_array.append(json_data)
+        json_array.append(json_data)
 
     return json_array
 
