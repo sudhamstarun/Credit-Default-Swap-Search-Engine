@@ -7,8 +7,10 @@
 
 <body>
     {% for thing in results %}
-    {{ thing }}
-    {{br}}
+    {{ thing | safe}}
+    {% if not loop.last %}
+    <br />
+    {% endif %}
     {% endfor %}
 </body>
 
