@@ -26,18 +26,18 @@ def makefilelist(parent_dir):
 
 def createJsonOjectArray(filelist):
     json_array = []
+    print(filelist)
+    counter = 0
     for filename in filelist:
-        csv_data = []
+        json_data = []
         with open(filename) as csvfile:
             for row in csv.DictReader(csvfile):
-                csv_data.append(row)
-
-        json_data = json.dumps(csv_data)
-        json_array.append(json_data)
+                json_data = json.dumps(row)
+                json_array.append(json_data)
 
     return json_array
 
 
 if __name__ == "__main__":
     filelist = makefilelist(parent_dir)
-    print(createJsonOjectArray(filelist))
+    createJsonOjectArray(filelist)

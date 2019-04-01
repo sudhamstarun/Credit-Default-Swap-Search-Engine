@@ -6,18 +6,21 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="author" content="colorlib.com">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700" rel="stylesheet" />
-	<link href="{{ url_for('static',    filename='main.css') }}" rel="stylesheet">
+	<link href="{{ url_for('static', filename='main.css') }}" rel="stylesheet">
 </head>
 
 <body>
 	<div class="lol">
 		<h1> Credit Default Swap Search </h1>
 		<div class="s010">
-			<form method="POST" action="/take_input">
+			<form method="POST" action="/input/results">
 				<div class=" inner-form">
 					<div class="basic-search">
 						<div class="input-field">
-							<input id="search" name="input_1" type="text" placeholder="Search CDS" />
+							<input id="search" name="input" type="text" placeholder="Search CDS" />
+							{% if input == 0 %}
+							<strong> Please enter a keyword to search for CDS!</strong>
+							{% endif %}
 							<div class="icon-wrap">
 								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
 									<path
