@@ -51,7 +51,7 @@ body {
   line-height: 24px;
   color: #333;
   background: #ececec;
-  overflow-y: scroll;
+  overflow: hidden;
 }
 
 p {
@@ -328,8 +328,8 @@ a.button {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-size: 2em;
-  margin: 4.0em 0;
+  font-size: 2.5em;
+  margin: 3.0em 0;
 }
 
 /* Grouping content
