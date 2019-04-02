@@ -1,0 +1,2 @@
+Counterparty,Reference   Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Notional Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
+Barclays Bank PLC,CDX.NA.IG.19   Index,Sell,1.0,12/20/17,"5,000,000","41,882 ","25,528 ","16,354 ",0001015965,N-Q,13

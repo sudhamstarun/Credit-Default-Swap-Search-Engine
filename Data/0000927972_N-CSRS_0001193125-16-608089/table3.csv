@@ -1,0 +1,8 @@
+Counterparty,NotionalAmount,ExpirationDate,Receive (Pay)Fixed Rate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+Goldman Sachs International,400000,5/11/63,(3.000%),CMBX.NA.BBB.6 ,7377,"(32,048","(24,671",0000927972,N-CSRS,16
+Goldman Sachs International,1120000,5/11/63,(3.000%),CMBX.NA.BBB.6 ,27914,"(96,992","(69,078",0000927972,N-CSRS,16
+Goldman Sachs International,1500000,11/17/45,(3.000%),CMBX.NA.BBB.6 ,"(93,439",924,"(92,515",0000927972,N-CSRS,16
+Goldman Sachs International,260000,5/11/63,(3.000%),CMBX.NA.BBB.6 ,4795,"(20,831","(16,036",0000927972,N-CSRS,16
+Goldman Sachs International,730000,5/11/63,(3.000%),CMBX.NA.BBB.6 ,18194,"(63,218","(45,024",0000927972,N-CSRS,16
+Goldman Sachs International,1220000,11/17/45,(3.000%),CMBX.NA.BBB.6 ,"(75,997",752,"(75,245",0000927972,N-CSRS,16
+JP Morgan Chase Bank N.A.,520000,11/17/45,(3.000%),CMBX.NA.BBB.6 ,"(32,712",640,"(32,072",0000927972,N-CSRS,16

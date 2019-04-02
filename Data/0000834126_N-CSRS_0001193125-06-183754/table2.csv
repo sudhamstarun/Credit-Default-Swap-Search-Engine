@@ -1,0 +1,3 @@
+Counterparty,TerminationDate,NotionalAmount (000),FixedRate,UnderlyingBond,UnrealizedDepreciation,CIK,Reporting Type,Report Year
+Barclays Bank PLC(1),3/20/2011,"1,000",0.82,"Starwood Hotel &Resorts Worldwide, Inc.","(1,120",0000834126,N-CSRS,06
+Morgan Stanley Capital Services(2),12/20/2009,830,0.6,"RPM International, Inc.","(3,851",0000834126,N-CSRS,06

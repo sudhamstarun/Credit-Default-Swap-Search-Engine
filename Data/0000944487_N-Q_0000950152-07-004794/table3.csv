@@ -1,0 +1,13 @@
+Underlying Instrument,Counterparty,Amount ($),Rate (%),Date,CIK,Reporting Type,Report Year
+Dow Jones CDS Indices; Series 7,Citibank N.A.,215,0.59,03/20/17,0000944487,N-Q,07
+Brunswick Corp,Merrill Lynch,(20,1.15,03/20/17,0000944487,N-Q,07
+Campbell Soup,Citigroup,(20,0.33,03/20/17,0000944487,N-Q,07
+"Cardinal Health, Inc.",Merrill Lynch,(20,0.53,03/20/17,0000944487,N-Q,07
+HJ Heinz Co.,Citigroup,(20,0.74,03/20/17,0000944487,N-Q,07
+"IStar Financial, Inc.",Citigroup,(20,0.7,03/20/17,0000944487,N-Q,07
+Lennar Corp.,Citigroup,(20,1.02,03/20/17,0000944487,N-Q,07
+"Nordstrom, Inc.",Citigroup,(20,0.45,03/20/17,0000944487,N-Q,07
+Nucor Corp.,Citigroup,(20,0.42,03/20/17,0000944487,N-Q,07
+"Quest Diagnostics, Inc.",Merrill Lynch,(20,0.78,03/20/17,0000944487,N-Q,07
+Sprint Nextel Corp.,Citigroup,(20,1.18,03/20/17,0000944487,N-Q,07
+Weyerhauser Co.,Citigroup,(20,1.05,03/20/17,0000944487,N-Q,07

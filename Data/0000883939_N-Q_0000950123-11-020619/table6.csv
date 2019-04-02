@@ -1,0 +1,13 @@
+Underlying Instrument,Counterparty,Amount($),Rate(%),Date,CIK,Reporting Type,Report Year
+"Capital One Financial
+Corp.",Morgan Stanley,8640,1,12/20/15,0000883939,N-Q,11
+"Citigroup, Inc.",Credit Suisse First Boston,8525,1,12/20/15,0000883939,N-Q,11
+"Emerging Markets CDX
+Indices, Series 14",Barclays Bank PLC,2235,5,12/20/15,0000883939,N-Q,11
+"Emerging Markets CDX
+indices, Series 14",JPMorgan,1426,5,12/20/15,0000883939,N-Q,11
+"Federative Republic of
+Brazil",Morgan Stanley,3216,1,12/20/15,0000883939,N-Q,11
+"Ryder System, Inc.",JPMorgan,8640,1,12/20/15,0000883939,N-Q,11
+Wells Fargo & Co.,Morgan Stanley,8525,1,12/20/15,0000883939,N-Q,11
+Whirlpool Corp.,Barclays Bank PLC,8660,1,12/20/15,0000883939,N-Q,11

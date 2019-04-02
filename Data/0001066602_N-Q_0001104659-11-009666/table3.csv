@@ -1,0 +1,4 @@
+Counterparty,Reference Entity/Obligation,Protection,Fixed Rate (%),Date,Amount (4),Value (5),Made/(Received),(Depreciation),CIK,Reporting Type,Report Year
+"Citigroup, Inc.",MBIA Inc.,Buy,(5.000),09/20/13,640000,64383,117689,"(53,306)",0001066602,N-Q,11
+"Citigroup, Inc.",MBIA Inc.,Buy,(5.000),09/20/13,1311000,131885,231375,"(99,490)",0001066602,N-Q,11
+JPMorgan   Chase & Co.,MBIA Inc.,Buy,(5.000),09/20/13,5079000,510941,487813,23128,0001066602,N-Q,11

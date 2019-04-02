@@ -1,0 +1,226 @@
+" 
+Counterparty
+
+"," 
+ReferenceEntity
+
+","
+
+Fixed
+							Rate 
+","
+
+
+ExpirationDate
+","
+
+Notional Amount
+","
+
+Unrealized Depreciation
+",CIK,Reporting Type,Report Year
+" 
+Lehman Brothers
+
+"," 
+						Dow Jones 
+						   CDX Emerging 
+						   Markets Series 5
+"," 
+
+							1.35%
+
+"," 
+
+							6-20-11
+
+"," 
+
+							$(7,000,000)
+
+"," 
+
+							(365,241)
+
+",0000883622,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX
+						   Emerging Markets
+						   Series 5
+"," 
+
+							1.35%
+
+"," 
+
+							6-20-11
+
+"," 
+
+							(7,000,000)
+
+"," 
+
+							(378,453)
+
+",0000883622,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones 
+						   CDX Emerging
+						   Markets Series 5
+"," 
+
+							1.35%
+
+"," 
+
+							6-20-11
+
+"," 
+
+							(14,000,000)
+
+"," 
+
+							(751,621)
+
+",0000883622,N-Q,07
+" 
+Lehman Brothers
+
+"," Dow Jones CDX 
+						   North America 
+						   High Yield Series 7
+"," 
+
+							3.25%
+
+"," 
+
+							12-20-11
+
+"," 
+
+							(53,600,000)
+
+"," 
+
+							(1,338,274)
+
+",0000883622,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX 
+						   North America 
+						   High Yield Series 7
+"," 
+
+							3.25%
+
+"," 
+
+							12-20-11
+
+"," 
+
+							(22,150,000)
+
+"," 
+
+							(526,031)
+
+",0000883622,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX 
+						   North America 
+						   High Yield Series 7
+"," 
+
+							3.25%
+
+"," 
+
+							12-20-11
+
+"," 
+
+							(23,100,000)
+
+"," 
+
+							(576,756)
+
+",0000883622,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones CDX 
+						   North America 
+						   High Yield Series 7
+"," 
+
+							3.25%
+
+"," 
+
+							12-20-11
+
+"," 
+
+							(15,250,000)
+
+"," 
+
+							(362,166)
+
+",0000883622,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones CDX 
+						   North America 
+						   High Yield Series 7
+"," 
+
+							3.25%
+
+"," 
+
+							12-20-11
+
+"," 
+
+							(30,000,000)
+
+"," 
+
+							(749,034)
+
+",0000883622,N-Q,07
+" 
+Morgan Stanley
+
+"," 
+						Federative Republic 
+						   of Brazil
+"," 
+
+							1.89%
+
+"," 
+
+							6-20-11
+
+"," 
+
+							(9,000,000)
+
+"," 
+
+							(363,471)
+
+",0000883622,N-Q,07

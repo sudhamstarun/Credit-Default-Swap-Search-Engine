@@ -1,0 +1,37 @@
+Counterparty,"Reference
+  
+  Entity/Obligation","Buy/Sell
+  Protection (1)","(Pay)/
+  Receive
+  Fixed 
+  Rate (%)","Termination
+  Date","Notional
+  Amount (4)","Market
+  Value (5)","Upfront 
+  Premium
+  Paid/
+  (Received)","Unrealized
+  Appreciation/
+  (Depreciation)",CIK,Reporting Type,Report Year
+"Morgan Stanley Capital
+  Services Inc.","Domtar Inc. 7.875%,
+  10/15/11",Buy,(2.650),09/20/11,"543,500","69,232","69,232",,0000846799,N-Q,09
+"Goldman Sachs
+  International","Dow Chemical Co. 7.375%,
+  11/01/29",Buy,(1.280),12/20/13,"681,000","103,756","103,756",,0000846799,N-Q,09
+Barclays Bank PLC,"GAP Inc. 8.800%,
+  12/15/08*",Buy,(1.200),06/20/13,"344,000","(8,934)","(8,934)",,0000846799,N-Q,09
+"Citibank N.A., New York","MBIA Inc. 6.625%,
+  10/01/28",Buy,(5.000),09/20/13,"140,000","40,080","42,337","(2,257)",0000846799,N-Q,09
+"Citibank N.A., New York","MBIA Inc. 6.625%, 10/01/28",Buy,(5.000),09/20/13,"284,000","81,306","82,427","(1,121)",0000846799,N-Q,09
+"JPMorgan Chase Bank,
+  N.A. New York","MBIA Inc. 6.625%,
+  10/01/28",Buy,(5.000),09/20/13,"959,000","274,551","151,471","123,080",0000846799,N-Q,09
+"Morgan Stanley Capital
+  Services Inc.","Temple-Inland Inc. 7.875%,
+  05/01/12",Buy,(1.600),09/20/17,"811,000","133,582","133,582",,0000846799,N-Q,09
+"Morgan Stanley Capital
+  Services Inc.","VF Corp. 8.500%,
+  10/01/10",Buy,(0.850),09/20/13,"596,000","(2,054)","(2,054)",,0000846799,N-Q,09
+"Citibank N.A., New York","Weyerhaeuser Co. 7.125%,
+  07/15/23",Buy,(3.150),12/20/13,"700,000","(37,797)","(37,797)",,0000846799,N-Q,09

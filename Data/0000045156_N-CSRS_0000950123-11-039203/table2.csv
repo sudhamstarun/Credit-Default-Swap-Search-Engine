@@ -1,0 +1,4 @@
+Reference Entity/Swap Counterparty,Buy/Sell Credit Protection,Notional Amount (000s),Receive Fixed Rate,Termination,CIK,Reporting Type,Report Year
+Barclays Bank plc,Sell,34000,1.0,12/20/15,0000045156,N-CSRS,11
+Barclays Bank plc,Buy,34000,1.0,12/20/15,0000045156,N-CSRS,11
+Goldman Sachs International,Buy,50000,0.25,9/20/15,0000045156,N-CSRS,11

@@ -1,0 +1,481 @@
+"
+Counterparty
+","
+ Reference Entity
+","
+Buy/Sell Protection
+","
+Fixed Rate
+","
+Termination Date
+","
+ Notional Amount
+",CIK,Reporting Type,Report Year
+"
+BNP Paribas S.A.
+","
+Expedia, Inc.
+","
+Buy
+","
+(1.00%)
+","
+3/20/2018
+","
+           (3,500,000)
+",0001360480,N-CSRS,13
+"
+BNP Paribas S.A.
+","
+Markit CDX.HY.20.10
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+           (5,000,000)
+",0001360480,N-CSRS,13
+"
+BNP Paribas S.A.
+","
+Markit CDX.HY.20.11
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+           (4,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+ArcelorMittal
+","
+Buy
+","
+(1.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Best Buy, Inc.
+","
+Buy
+","
+(5.00%)
+","
+9/20/2017
+","
+           (1,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Energias de Portugal SA
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Fiat Industrial SpA
+","
+Buy
+","
+(1.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Gannett Co. Inc.
+","
+Buy
+","
+(5.00%)
+","
+9/20/2017
+","
+           (1,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Heidelberg Cement AG
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Jaguar Land Rover Automotive
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Lafarge SA
+","
+Buy
+","
+(1.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Markit CDX.HY.20.11
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+           (7,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Nokia OYJ
+","
+Buy
+","
+(5.00%)
+","
+12/20/2015
+","
+           (1,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Portugal Telecom International
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Pitney Bowes
+","
+Buy
+","
+(5.00%)
+","
+9/20/2017
+","
+           (1,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Staples, Inc.
+","
+Buy
+","
+(1.00%)
+","
+9/20/2017
+","
+           (1,000,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Stena AB
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Telecom Italia SpA
+","
+Buy
+","
+(1.00%)
+","
+6/20/2018
+","
+              (100,000)
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Xerox Corp.
+","
+Buy
+","
+(1.00%)
+","
+12/20/2017
+","
+           (1,000,000)
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+Capital One Financial Corp.
+","
+Buy
+","
+(1.00%)
+","
+12/20/2016
+","
+           (2,000,000)
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+H&R Block
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+           (2,000,000)
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+Kimco Realty Corp.
+","
+Buy
+","
+(1.00%)
+","
+6/20/2016
+","
+           (2,250,000)
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+Markit CDX.EM.19.10
+","
+Buy
+","
+(5.00%)
+","
+6/20/2018
+","
+           (3,000,000)
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+Mohawk Industries, Inc.
+","
+Buy
+","
+(1.00%)
+","
+6/20/2017
+","
+           (2,000,000)
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+YUM! Brands, Inc.
+","
+Buy
+","
+(1.00%)
+","
+3/20/2018
+","
+           (3,000,000)
+",0001360480,N-CSRS,13
+"
+BNP Paribas S.A.
+","
+JC Penney
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+            1,000,000
+",0001360480,N-CSRS,13
+"
+BNP Paribas S.A.
+","
+Markit CDX.HY.20.10
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+            5,000,000
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Markit CMBX.NA.AAA.4.11
+","
+Sell
+","
+0.35%
+","
+2/17/2051
+","
+               993,600
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Markit CMBX.NA.AAA.4.12
+","
+Sell
+","
+0.35%
+","
+2/17/2051
+","
+            4,968,001
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+MGM
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+            1,500,000
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Sunrise Communications
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+               150,000
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+UnityMedia
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+               150,000
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+UPC Holding BV
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+               150,000
+",0001360480,N-CSRS,13
+"
+Credit Suisse
+","
+Virgin Media Finance PLC
+","
+Sell
+","
+5.00%
+","
+6/20/2018
+","
+               150,000
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+Markit CMAA4.18
+","
+Sell
+","
+0.35%
+","
+2/17/2051
+","
+               993,600
+",0001360480,N-CSRS,13
+"
+Goldman Sachs & Co.
+","
+Markit CMAA4.19
+","
+Sell
+","
+0.35%
+","
+2/17/2051
+","
+            1,490,400
+",0001360480,N-CSRS,13

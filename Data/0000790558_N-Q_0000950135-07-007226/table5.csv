@@ -1,0 +1,5 @@
+CounterParty,Reference Entity,Buy/Sell Protection,Receive Fixed Rate,Expiration Date,Notional Amount,Appreciation/ (Depreciation),CIK,Reporting Type,Report Year
+"Lehman Brothers Special Financing, Inc.","HCA, Inc.",Buy,2.7,12/20/10,10400,325,0000790558,N-Q,07
+"Lehman Brothers Special Financing, Inc.","HCA, Inc.",Sell,3.5,12/20/11,10400,(387,0000790558,N-Q,07
+"Lehman Brothers Special Financing, Inc.",Lehman ABX Index,Sell,0.32,07/25/45,14800,1199,0000790558,N-Q,07
+JP Morgan Chase Bank,Residential Capital LLC,Sell,5.75,09/20/08,10500,"(1,450",0000790558,N-Q,07

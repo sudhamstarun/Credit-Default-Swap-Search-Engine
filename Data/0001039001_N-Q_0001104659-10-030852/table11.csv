@@ -1,0 +1,102 @@
+Counterparty,"Reference
+  Entity/Obligation",Protection,"Rate
+  (%)",Date,"03/31/10
+  (%) (2)","Amount
+  (3)","Value
+  (4)",(Received),(Depreciation),CIK,Reporting Type,Report Year
+"Deutsche
+  Bank AG","American
+  International Group 6.250%, 05/01/36",Sell,5.0,12/20/13,2.29,1000000,93903,"(67,767)",161670,0001039001,N-Q,10
+"Barclays
+  Bank PLC","Citigroup
+  Inc. 6.500%, 01/18/11",Sell,1.0,03/20/11,0.79,100000,205,(511),716,0001039001,N-Q,10
+"Goldman
+  Sachs International","Citigroup
+  Inc. 6.500%, 01/18/11",Sell,1.0,03/20/11,0.79,400000,822,"(1,928)",2750,0001039001,N-Q,10
+"UBS
+  AG","Citigroup
+  Inc. 6.500%, 01/18/11",Sell,1.0,03/20/11,0.79,500000,1027,"(2,411)",3438,0001039001,N-Q,10
+"Barclays
+  Bank PLC","Federative
+  Republic of Brazil 12.250%, 03/06/30",Sell,1.0,06/20/15,1.31,500000,"(7,461)","(7,187)",(274),0001039001,N-Q,10
+"Goldman
+  Sachs International","Federative
+  Republic of Brazil 12.250%, 03/06/30",Sell,1.0,06/20/15,1.31,500000,"(7,461)","(6,712)",(749),0001039001,N-Q,10
+"Goldman
+  Sachs International","Ford
+  Motor Credit Co. 7.000%, 10/01/13",Sell,3.85,09/20/12,2.74,100000,2570,2570,,0001039001,N-Q,10
+"Barclays
+  Bank PLC, London","GAZ
+  Capital (GAZPROM) LPN 8.625%, 04/28/34",Sell,1.6,12/20/12,1.73,1300000,"(4,565)","(4,565)",,0001039001,N-Q,10
+"Morgan
+  Stanley & Co. International","GAZ
+  Capital (GAZPROM) LPN 8.625%, 04/28/34",Sell,2.18,02/20/13,1.76,500000,5795,5795,,0001039001,N-Q,10
+"Morgan
+  Stanley Capital Services Inc.","GAZ
+  Capital (GAZPROM) LPN 8.625%, 04/28/34",Sell,2.48,02/20/13,1.76,2300000,45924,45924,,0001039001,N-Q,10
+"BNP
+  Paribas","General
+  Electric Capital Corp. 5.625%, 09/15/17",Sell,4.7,12/20/13,1.36,600000,70685,70685,,0001039001,N-Q,10
+"Citibank
+  N.A., New York","General
+  Electric Capital Corp. 5.625%, 09/15/17",Sell,5.0,06/20/10,0.91,400000,3671,(210),3881,0001039001,N-Q,10
+"Citibank
+  N.A., New York","General
+  Electric Capital Corp. 5.625%, 09/15/17",Sell,5.0,06/20/11,0.94,1000000,49627,"(28,416)",78043,0001039001,N-Q,10
+"Citibank
+  N.A., New York","General
+  Electric Capital Corp. 5.625%, 09/15/17",Sell,4.325,12/20/13,1.36,300000,31371,31371,,0001039001,N-Q,10
+"Morgan
+  Stanley Capital Services Inc.","General
+  Electric Capital Corp. 5.625%, 09/15/17",Sell,1.0,09/20/11,1.05,1000000,(677),"(12,205)",11528,0001039001,N-Q,10
+"Barclays
+  Bank PLC","General
+  Electric Capital Corp. 6.000%, 06/15/12",Sell,0.62,03/20/11,0.94,1200000,"(3,788)","(3,788)",,0001039001,N-Q,10
+"Barclays
+  Bank PLC","General
+  Electric Capital Corp. 6.000%, 06/15/12",Sell,0.64,12/20/12,1.29,1200000,"(20,779)","(20,779)",,0001039001,N-Q,10
+"Deutsche
+  Bank AG","General
+  Electric Capital Corp. 6.000%, 06/15/12",Sell,1.5,09/20/11,1.06,200000,1284,1284,,0001039001,N-Q,10
+"Deutsche
+  Bank AG","GMAC
+  LLC 6.875%, 08/28/12",Sell,3.2,09/20/12,2.92,200000,1306,1306,,0001039001,N-Q,10
+"Deutsche
+  Bank AG","GMAC
+  LLC 6.875%, 08/28/12",Sell,4.0,09/20/12,2.92,1900000,47480,47480,,0001039001,N-Q,10
+"Goldman
+  Sachs International","Government
+  of France O.A.T. 4.250%, 04/25/2019",Sell,0.25,03/20/15,0.47,1700000,"(17,358)","(28,975)",11617,0001039001,N-Q,10
+"Deutsche
+  Bank AG","Japanese
+  Government 20-Year Issue 2.000%, 03/21/2022",Sell,1.0,03/20/15,0.64,1000000,17067,11401,5666,0001039001,N-Q,10
+"Deutsche
+  Bank AG","People s
+  Republic of China 4.750%, 10/29/2013",Sell,1.0,03/20/15,0.63,5000000,88138,27700,60438,0001039001,N-Q,10
+"Deutsche
+  Bank AG","Reynolds
+  American Inc. 7.625%, 06/01/16",Sell,1.28,06/20/17,1.83,600000,"(20,039)","(20,039)",,0001039001,N-Q,10
+"Citibank
+  N.A., New York","SLM
+  Corp. 5.125%, 08/27/12",Sell,4.85,03/20/13,3.04,700000,35265,35265,,0001039001,N-Q,10
+"BNP
+  Paribas SA","United
+  Kingdom Gilt 4.250%, 06/07/2032",Sell,1.0,12/20/14,0.75,100000,1123,704,419,0001039001,N-Q,10
+"Deutsche
+  Bank AG","United
+  Kingdom Gilt 4.250%, 06/07/2032",Sell,1.0,12/20/14,0.75,200000,2247,1322,925,0001039001,N-Q,10
+"Goldman
+  Sachs International","United
+  Kingdom Gilt 4.250%, 06/07/2032",Sell,1.0,06/20/15,0.78,4600000,48638,42302,6336,0001039001,N-Q,10
+"Morgan
+  Stanley Capital Services Inc.","United
+  Kingdom Gilt 4.250%, 06/07/2032",Sell,1.0,12/20/14,0.75,100000,1123,704,419,0001039001,N-Q,10
+"Barclays
+  Bank PLC","United
+  Mexican States 7.500%, 04/08/33",Sell,1.0,03/20/15,1.14,600000,"(3,886)","(13,102)",9216,0001039001,N-Q,10
+"Citibank
+  N.A., New York","United
+  Mexican States 7.500%, 04/08/33",Sell,1.0,03/20/15,1.14,600000,"(3,886)","(13,370)",9484,0001039001,N-Q,10
+"Deutsche
+  Bank AG","United
+  Mexican States 7.500%, 04/08/33",Sell,1.0,03/20/15,1.14,200000,"(1,295)","(4,456)",3161,0001039001,N-Q,10

@@ -1,0 +1,5 @@
+NotionalAmount,Expiration Date,Counterparty,Buy/SellProtection,Receive(Pay) FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium Received (Paid),Value,CIK,Reporting Type,Report Year
+"1,400,000",6/20/15,Barclays Bank PLC,Sell***,5.000%,CDX.EM.13 (PIMCO Rating: BA+)**,908,"170,050","170,958",0000067160,N-Q,10
+"100,000",12/20/15,Barclays Bank PLC,Sell***,5.000%,CDX.EM.14 (PIMCO Rating: BA+)**,212,"12,900","13,112",0000067160,N-Q,10
+"1,300,000",12/20/15,Credit Suisse Securities LLC,Sell***,1.000%,CDX.NA.IG.15 (PIMCO Rating: BAA+)**,450,"(4,950","(4,500",0000067160,N-Q,10
+"100,000",12/20/15,Goldman Sachs & Co.,Sell***,1.000%,CDX.NA.IG.15 (PIMCO Rating: BAA+)**,126,(472,(346,0000067160,N-Q,10

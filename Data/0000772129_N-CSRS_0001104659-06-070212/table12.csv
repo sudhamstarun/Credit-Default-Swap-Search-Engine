@@ -1,0 +1,22 @@
+"
+NotionalAmount","
+ExpirationDate","
+Counterparty","
+Receive (Pay)","
+AnnualPremium","
+DeliverableOn Default","
+NetUnrealizedAppreciation(Depreciation)",CIK,Reporting Type,Report Year
+"
+10,000,000","
+12/20/2015","
+Lehman Brothers","
+Receive",0.7,"
+Reference","
+ ",0000772129,N-CSRS,06
+"
+25,000,000","
+12/20/2015","
+Lehman Brothers","
+Receive",0.7,"
+Referencesecurity withinCDX Index","
+212,492",0000772129,N-CSRS,06

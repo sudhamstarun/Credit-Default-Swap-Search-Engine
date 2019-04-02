@@ -1,0 +1,4 @@
+Counterparty(a),TerminationDate,NotionalAmount000 s,FixedRate,Underlying,UnrealizedAppreciation,CIK,Reporting Type,Report Year
+Goldman Sachs International,9/20/2005,800,1.75,"MCI, Inc., 6.69%, due 5/1/09","3,729",0000711175,N-Q,04
+Goldman Sachs International,9/20/2005,"1,300",1.75,"MCI, Inc., 6.69%, due 5/1/09","6,066",0000711175,N-Q,04
+Merrill Lynch International,1/7/2005,"1,500",1.04,"Russian Federation, 5.00%, due 3/31/30","1,529",0000711175,N-Q,04

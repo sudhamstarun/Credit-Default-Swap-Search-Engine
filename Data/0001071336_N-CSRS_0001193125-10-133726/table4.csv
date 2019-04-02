@@ -1,0 +1,9 @@
+Counterparty,Referenced Entity,Buy/SellProtection (9),CurrentCreditSpread (8),NotionalAmount,FixedRate*,TerminationDate,Value(U.S. Dollars),UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+Bank of America,Boyd Gaming Corporation,Sell,12.4,"3,200,000",5.0,3/20/15,"(709,476","26,524",0001071336,N-CSRS,10
+Barclays Bank PLC,TRW Automotive Inc.,Sell,4.58,"2,350,000",5.0,3/20/15,"42,274","(26,779",0001071336,N-CSRS,10
+Citibank,Masco Corporation,Buy,1.36,"2,700,000",5.15,3/20/14,"(376,193","(376,193",0001071336,N-CSRS,10
+Credit Suisse,"Harrah's Operating CompanyInc., LCDS",Sell,3.12,"1,760,000",5.0,6/20/10,"9,836","203,436",0001071336,N-CSRS,10
+Credit Suisse,Dynegy Holdings Inc.,Sell,10.87,"1,000,000",5.0,3/20/14,"(161,711","(21,711",0001071336,N-CSRS,10
+Deutsche Bank,Aetna Inc.,Buy,0.81,"2,700,000",1.15,3/20/14,"(35,153","(35,153",0001071336,N-CSRS,10
+Goldman Sachs,"K. Hovnanian Enterprises, Inc.",Sell,10.01,"2,350,000",5.0,6/20/14,"(345,711","30,289",0001071336,N-CSRS,10
+JPMorgan,"Mohawk Industries, Inc.",Buy,1.5,"2,700,000",3.7,3/20/14,"(222,555","(222,555",0001071336,N-CSRS,10

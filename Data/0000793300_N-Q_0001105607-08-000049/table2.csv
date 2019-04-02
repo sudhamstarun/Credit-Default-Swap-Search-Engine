@@ -1,0 +1,109 @@
+" 
+Counterparty
+
+"," 
+ReferenceEntity
+
+","
+
+
+FixedRate
+","
+
+ExpirationDate
+","
+
+NotionalAmount
+","
+
+UnrealizedAppreciation
+",CIK,Reporting Type,Report Year
+" 
+Goldman Sachs
+
+"," Dow Jones CDX High
+						   Yield Series 7
+"," 
+3.25%
+
+"," 
+
+							12 20 11
+
+"," $2,900,000
+"," 
+98,419
+
+",0000793300,N-Q,08
+" Merrill Lynch   International:
+"," Dow Jones CDX High
+						   Yield Series 7
+"," 
+3.25%
+
+"," 
+
+							12 20 11
+
+"," 
+3,000,000
+
+"," 
+50,175
+
+",0000793300,N-Q,08
+ Merrill Lynch   International:," Dow Jones CDX High
+						   Yield Series 7
+"," 
+3.25%
+
+"," 
+
+							12 20 11
+
+"," 
+2,800,000
+
+"," 
+45,500
+
+",0000793300,N-Q,08
+" 
+Morgan Stanley
+
+"," Dow Jones CDX High
+						   Yield Series 7
+"," 
+3.25%
+
+"," 
+
+							12 20 11
+
+"," 
+5,800,000
+
+"," 
+97,003
+
+",0000793300,N-Q,08
+" 
+Goldman Sachs
+
+"," 
+LCDX Series 8 Index
+
+"," 
+1.20%
+
+"," 
+
+							6 20 12
+
+"," 
+3,000,000
+
+"," 
+97,624
+
+",0000793300,N-Q,08

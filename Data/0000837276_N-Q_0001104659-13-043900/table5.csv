@@ -1,0 +1,8 @@
+Counterparty,Reference Entity/Obligation,Buy/Sell Protection,(Pay)/ Receive Fixed Rate (%),Termination Date,Implied   Credit   Spread at   03/31/13 (%) (4),Notional Amount(2),Fair Value(3),Upfront Payments Paid/ (Received),Unrealized Appreciation/ (Depreciation),CIK,Reporting Type,Report Year
+Credit Suisse Group AG,AES Corp.,Sell,5.0,03/20/14,0.385,"2,000,000","90,953","(188,750)","279,703",0000837276,N-Q,13
+"Citigroup, Inc.",Aramark Services,Sell,5.0,03/20/14,0.396,"100,000","4,537","(2,718)","7,255",0000837276,N-Q,13
+"Citigroup, Inc.",Community Health   Systems,Sell,5.0,09/20/14,0.677,"100,000","6,426","(9,000)","15,426",0000837276,N-Q,13
+Credit Suisse Group AG,El Paso Corp.,Sell,5.0,12/20/14,0.53,"2,500,000","194,099","(75,000)","269,099",0000837276,N-Q,13
+Goldman Sachs & Co.,El Paso Corp.,Sell,5.0,09/20/14,0.452,"2,000,000","135,492","(190,000)","325,492",0000837276,N-Q,13
+Goldman Sachs & Co.,NRG Energy Inc.,Sell,4.2,09/20/13,0.318,"225,000","4,258","4,258",,0000837276,N-Q,13
+Barclays Bank PLC,SLM Corp.,Sell,5.0,12/20/13,0.312,"1,000,000","34,617","(110,000)","144,617",0000837276,N-Q,13

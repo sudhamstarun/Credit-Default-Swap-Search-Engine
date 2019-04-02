@@ -1,0 +1,117 @@
+COUNTERPARTY,REFERENCE ENTITY/OBLIGATION,PROTECTION,FIXED RATE (%),DATE,AMOUNT,(DEPRECIATION),CIK,Reporting Type,Report Year
+UBS AG,"LCDX.NA.8
+  Index",Sell,1.2,06/20/12,520000,42329,0000877233,N-Q,07
+Merrill Lynch International,"Lennar
+  Corp. 5.950%, 03/01/13",Buy,(2.300),09/20/12,220000,4427,0000877233,N-Q,07
+UBS AG,"Lennar
+  Corp. 5.950%, 03/01/13",Buy,(1.230),09/20/12,547000,32882,0000877233,N-Q,07
+UBS AG,"Lennar
+  Corp. 5.950%, 03/01/13",Buy,(1.400),09/20/12,483000,25584,0000877233,N-Q,07
+JPMorgan Chase Bank N.A.,"Macy s
+  Inc. 6.625%, 04/01/11",Buy,(0.980),09/20/12,200000,"(1,939)",0000877233,N-Q,07
+UBS AG,"Macy s
+  Inc. 6.625%, 04/01/11",Buy,(0.980),09/20/12,420000,"(3,816)",0000877233,N-Q,07
+Barclays Bank PLC,"Merrill
+  Lynch & Co. 5.000%, 01/15/15",Buy,(0.860),09/20/12,552000,541,0000877233,N-Q,07
+UBS AG,"Merrill
+  Lynch & Co. 5.000%, 01/15/15",Buy,(0.830),09/20/12,98000,(123),0000877233,N-Q,07
+"Bear Stearns Credit Products
+  Inc.","Norbord
+  Inc. 7.250%, 07/01/12",Buy,(1.600),06/20/12,241000,3271,0000877233,N-Q,07
+Credit Suisse International,"Norbord
+  Inc. 7.250%, 07/01/12",Buy,(1.450),06/20/14,375000,17022,0000877233,N-Q,07
+UBS AG,"Norbord
+  Inc. 7.250%, 07/01/12",Buy,(1.500),06/20/12,49500,884,0000877233,N-Q,07
+UBS AG,"Norfolk
+  Southern Corp. 7.700%, 05/15/17",Buy,(0.400),09/20/12,315000,(238),0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","Radian
+  Group Inc. 5.375%, 06/15/15",Sell,3.9,09/20/14,490200,"(14,297)",0000877233,N-Q,07
+UBS AG,"Radian
+  Group Inc. 5.375%, 06/15/15",Buy,(0.850),09/20/14,490200,83703,0000877233,N-Q,07
+"Citibank N.A., New York","Royal
+  Bank of Scotland PLC 6.000%, 05/10/13",Buy,(0.290),09/20/17,240000,5604,0000877233,N-Q,07
+UBS AG,"Royal
+  Bank of Scotland PLC 6.000%, 05/10/13",Buy,(0.400),09/20/17,186000,2690,0000877233,N-Q,07
+"Citibank N.A., New York","Simon
+  Property Group 6.350%, 08/28/12",Buy,(0.380),09/20/12,51000,685,0000877233,N-Q,07
+"Citibank N.A., New York","Societe
+  Generale 6.625%, 04/27/15",Buy,(0.510),09/20/17,50000,109,0000877233,N-Q,07
+"Citibank N.A., New York","Societe
+  Generale 6.625%, 04/27/15",Buy,(0.510),09/20/17,113000,250,0000877233,N-Q,07
+UBS AG,"Societe
+  Generale 6.625%, 04/27/15",Buy,(0.380),09/20/17,186000,2337,0000877233,N-Q,07
+"Citibank N.A., New York","Standard
+  Chartered Bank 3.625%, 02/03/17",Buy,(0.670),09/20/17,50000,520,0000877233,N-Q,07
+UBS AG,"Standard
+  Chartered Bank 3.625%, 02/03/17",Buy,(0.420),09/20/17,186000,5615,0000877233,N-Q,07
+Goldman Sachs International,"Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(1.040),03/20/14,109000,993,0000877233,N-Q,07
+JPMorgan Chase Bank N.A.,"Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(0.890),03/20/14,231000,3762,0000877233,N-Q,07
+JPMorgan Chase Bank N.A.,"Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(1.020),03/20/14,311000,2798,0000877233,N-Q,07
+"Morgan Stanley Capital Services
+  Inc.","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(0.900),03/20/14,203000,2225,0000877233,N-Q,07
+"Morgan Stanley Capital
+  Services Inc.","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(1.600),09/20/17,210000,"(1,836)",0000877233,N-Q,07
+UBS AG,"Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(0.900),03/20/14,217000,2921,0000877233,N-Q,07
+UBS AG,"Toll
+  Bros Finance Corp. 6.875%, 11/15/12",Buy,(1.000),06/20/12,456000,28080,0000877233,N-Q,07
+UBS AG,"Union
+  Pacific Corp. 6.625%, 02/01/29",Buy,(0.410),09/20/12,315000,(394),0000877233,N-Q,07
+"Citibank N.A., New York","United
+  Mexican States 7.500%, 04/08/33",Sell,0.16,07/20/08,776000,(256),0000877233,N-Q,07
+"Citibank N.A., New York","United
+  Mexican States 7.500%, 04/08/33",Buy,(0.355),07/20/12,97000,989,0000877233,N-Q,07
+UBS AG,"United
+  Mexican States 7.500%, 04/08/33",Buy,(0.620),08/20/12,373000,1950,0000877233,N-Q,07
+Barclays Bank PLC,"UST
+  Inc. 6.625%, 07/15/12",Buy,(0.300),03/20/14,235000,528,0000877233,N-Q,07
+"Bear Stearns Credit Products
+  Inc.","UST
+  Inc. 6.625%, 07/15/12",Buy,(0.280),03/20/14,641000,1485,0000877233,N-Q,07
+"Bear Stearns Credit Products
+  Inc.","UST
+  Inc. 6.625%, 07/15/12",Buy,(0.380),03/20/17,512000,1831,0000877233,N-Q,07
+"Morgan Stanley Capital
+  Services Inc.","UST
+  Inc. 6.625%, 07/15/12",Buy,(0.420),03/20/17,235000,(60),0000877233,N-Q,07
+UBS AG,"UST
+  Inc. 6.625%, 07/15/12",Buy,(0.280),03/20/14,34000,41,0000877233,N-Q,07
+UBS AG,"UST
+  Inc. 6.625%, 07/15/12",Buy,(0.380),03/20/17,41000,116,0000877233,N-Q,07
+UBS AG,"Westpac
+  Banking Corp. 5.875%, 04/29/18",Buy,(0.350),09/20/17,186000,2124,0000877233,N-Q,07
+"Citibank N.A., New York","Weyerhaeuser
+  Co. 6.750%, 03/15/12",Buy,(0.580),03/20/14,40000,582,0000877233,N-Q,07
+JPMorgan Chase Bank N.A.,"Weyerhaeuser
+  Co. 6.750%, 03/15/12",Buy,(0.640),03/20/14,253000,3026,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","Weyerhaeuser
+  Co. 6.750%, 03/15/12",Buy,(0.570),03/20/14,231000,3577,0000877233,N-Q,07
+"Morgan Stanley Capital
+  Services Inc.","Weyerhaeuser
+  Co. 6.750%, 03/15/12",Buy,(0.600),03/20/14,429000,5685,0000877233,N-Q,07
+"Morgan Stanley Capital
+  Services Inc.","Weyerhaeuser
+  Co. 6.750%, 03/15/12",Buy,(0.880),03/20/17,235000,3803,0000877233,N-Q,07
+Barclays Bank PLC,"Weyerhaeuser
+  Co. 7.125%, 07/15/23",Sell,0.78,09/20/12,226000,69,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","Weyerhaeuser
+  Co. 7.125%, 07/15/23",Sell,0.78,09/20/12,190000,564,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","Weyerhaeuser
+  Co. 7.125%, 07/15/23",Sell,0.77,09/20/12,480000,1209,0000877233,N-Q,07
+UBS AG,"Weyerhaeuser
+  Co. 7.125%, 07/15/23",Sell,0.79,09/20/12,157000,709,0000877233,N-Q,07
+"Citibank N.A., New York","Williams
+  Partners LP 7.500%, 06/15/11",Sell,1.03,03/20/12,268494,(498),0000877233,N-Q,07
+UBS AG,"XL
+  Capital Ltd. 5.250%, 09/15/14",Buy,(0.610),09/20/16,161000,2397,0000877233,N-Q,07
+UBS AG,"XL
+  Capital Ltd. 5.250%, 09/15/14",Buy,(0.610),09/20/16,322000,4795,0000877233,N-Q,07

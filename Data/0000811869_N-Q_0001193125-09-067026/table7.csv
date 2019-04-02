@@ -1,0 +1,3 @@
+Interest Rate,FundReceives,Fund Pays,TerminationDate,NotionalPrincipalAmount,UpfrontPaymentsReceived(Made),Value,UnrealizedGain/(Loss),CIK,Reporting Type,Report Year
+"Bank of America, N.A., 2 Year",5.306%  ,3 Month,6/29/2009,"$15,000,000",,"$243,949","$243,949  ",0000811869,N-Q,09
+"Bank of America, N.A., 2 Year",5.275%  ,3 Month,5/29/2009,"11,000,000",,"138,321","138,321  ",0000811869,N-Q,09

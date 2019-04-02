@@ -1,0 +1,27 @@
+Counterparty (Issuer),Reference Entity, Fixed Rate,Date,Amount (a),CIK,Reporting Type,Report Year
+Citibank NA,Berkshire Hathaway,1.0,03/20/2016,300,0000898745,N-Q,12
+Citibank NA,Republic of Brazil,1.0,06/20/2015,1000,0000898745,N-Q,12
+Citibank NA,Republic of Brazil,1.0,03/20/2021,9900,0000898745,N-Q,12
+Citibank NA,Republic of Brazil,1.0,09/20/2015,1000,0000898745,N-Q,12
+Citibank NA,Republic of Brazil,1.0,06/20/2016,5400,0000898745,N-Q,12
+Citibank NA,Republic of Indonesia,1.0,06/20/2021,14200,0000898745,N-Q,12
+Citibank NA,Russian Federation,1.0,03/20/2016,11200,0000898745,N-Q,12
+Citibank NA,Spanish Government,1.0,06/20/2016,900,0000898745,N-Q,12
+Citibank NA,UK GILT; 4.25%;,1.0,06/20/2016,5100,0000898745,N-Q,12
+Citibank NA,United Mexican States;,1.0,06/20/2016,2900,0000898745,N-Q,12
+Citibank NA,United Mexican States;,1.0,09/20/2015,700,0000898745,N-Q,12
+Citibank NA,United Mexican States;,1.0,03/20/2015,1500,0000898745,N-Q,12
+Deutsche Bank AG,Arab Republic of Egypt;,1.0,03/20/2016,4400,0000898745,N-Q,12
+Deutsche Bank AG,France (Govt of) OAT,0.25,03/20/2016,500,0000898745,N-Q,12
+Deutsche Bank AG,General Electric Capital,4.9,12/20/2013,300,0000898745,N-Q,12
+Deutsche Bank AG,General Electric Capital,4.3,12/20/2013,300,0000898745,N-Q,12
+Deutsche Bank AG,General Electric Capital,4.75,12/20/2013,100,0000898745,N-Q,12
+Deutsche Bank AG,General Electric Capital,4.23,12/20/2013,800,0000898745,N-Q,12
+Deutsche Bank AG,Japanese Government,1.0,03/20/2015,1000,0000898745,N-Q,12
+Deutsche Bank AG,Metlife Inc; 5.00%;,1.0,03/20/2018,4600,0000898745,N-Q,12
+Deutsche Bank AG,Republic of Brazil,1.0,06/20/2015,600,0000898745,N-Q,12
+Deutsche Bank AG,Republic of Brazil,1.0,06/20/2016,3300,0000898745,N-Q,12
+Deutsche Bank AG,Republic of Indonesia;,1.0,09/20/2015,500,0000898745,N-Q,12
+Deutsche Bank AG,Republic of Italy Global,1.0,06/20/2016,2300,0000898745,N-Q,12
+Deutsche Bank AG,Republic of Korea,1.0,06/20/2016,600,0000898745,N-Q,12
+Deutsche Bank AG,Republic of Korea,1.0,06/20/2016,1000,0000898745,N-Q,12

@@ -1,0 +1,17 @@
+Counterparty,Reference Entity,Buy/Sell Protection,Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Bear Stearns,"Dr Horton,
+  5.38%, 6/15/12",Sell,4.75,12/20/08,400,0,0000802716,N-Q,08
+Bear Stearns,"Pulte Homes,
+  5.25%, 1/15/14",Sell,5,12/20/08,200,,0000802716,N-Q,08
+Bear Stearns,"Pulte Homes,
+  5.25%, 1/15/14",Sell,4.7,12/20/08,200,,0000802716,N-Q,08
+Bear Stearns,"Stanley
+  Works, 4.90%, 11/1/12",Buy,(1.20,03/20/13,400,(8,0000802716,N-Q,08
+Barclays Bank PLC,"Freeport-McMoRan
+  Copper & Gold, 6.88%, 2/1/14",Sell,1,12/20/12,400,(15,0000802716,N-Q,08
+Barclays Bank PLC,"Loews Corp.,
+  5.25%, 3/15/16",Buy,(.45,03/20/13,400,0,0000802716,N-Q,08
+Barclays Bank PLC,"Transocean, Inc.,
+  7.38%, 4/15/18",Sell,0.82,03/20/13,400,0,0000802716,N-Q,08
+Barclays Bank PLC,"Suncor
+  Energy, Inc., 6.70%, 8/22/11",Buy,(.65,03/20/13,400,0,0000802716,N-Q,08

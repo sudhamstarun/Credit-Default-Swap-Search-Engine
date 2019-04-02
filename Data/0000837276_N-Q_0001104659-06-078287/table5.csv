@@ -1,0 +1,92 @@
+COUNTERPARTY,REFERENCE ENTITY/OBLIGATION,PROTECTION,FIXED RATE,DATE,AMOUNT,(DEPRECIATION),CIK,Reporting Type,Report Year
+"UBS
+  AG, London",Ford Motor Credit Company 7% due 10/1/2013,Sell,5,12/20/06,3600000,35623,0000837276,N-Q,06
+"Merrill
+  Lynch International",Russian Federation 5% step-up due 3/31/2030,Sell,0.61,3/20/07,1900000,3333,0000837276,N-Q,06
+"Goldman
+  Sachs International",Russian Federation 5% step-up due 3/31/2030,Sell,0.7,3/20/07,2100000,4568,0000837276,N-Q,06
+"JPMorgan
+  Chase Bank N.A.","Russian Federation 2.25% step-up due
+  3/31/2030",Sell,0.77,5/20/07,100000,316,0000837276,N-Q,06
+"Morgan
+  Stanley Capital Services Inc.",Ford Motor Credit Company 7% due 10/1/2013,Sell,3.75,6/20/07,1000000,15461,0000837276,N-Q,06
+"UBS
+  AG, London",Ford Motor Credit Company 7% due 10/1/2013,Sell,3.6,6/20/07,500000,7198,0000837276,N-Q,06
+"JPMorgan
+  Chase Bank N.A., New York",Ford Motor Credit Company 7% due 10/1/2013,Sell,4.75,6/20/07,2000000,45124,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Ford Motor Credit Company 7% due 10/1/2013,Sell,2.5,9/20/07,800000,4507,0000837276,N-Q,06
+"JPMorgan
+  Chase Bank, N.A.","American International Group Convertible Zero
+  Coupon due 11/9/2031",Sell,0.05,12/20/07,6800000,1633,0000837276,N-Q,06
+"Morgan
+  Stanley Capital Services Inc.","Allstate Corporation (The) 6.125% due
+  2/15/2012",Buy,(0.26,12/20/08,1800000,"(6,491",0000837276,N-Q,06
+"JPMorgan
+  Chase Bank","Capital One Financial Corporation 8.75% due
+  2/1/2007",Buy,(1.35,12/20/08,100000,"(2,564",0000837276,N-Q,06
+"ABN
+  AMRO Bank N.V., London",Carnival Corporation 6.15% due 4/15/2008,Buy,(0.48,12/20/08,100000,(848,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.","Costco Wholesale Corporation 5.50% due
+  3/15/2007",Buy,(0.24,12/20/08,300000,"(1,018",0000837276,N-Q,06
+"Citibank
+  N.A. New York",Eaton Corporation 5.75% due 7/15/2012,Buy,(0.28,12/20/08,1400000,"(6,237",0000837276,N-Q,06
+"Barclays
+  Bank PLC",Eli Lilly & Co Inc 6% due 3/15/2012,Buy,(0.16,12/20/08,1500000,"(4,139",0000837276,N-Q,06
+"Morgan
+  Stanley Capital Services Inc.",Emerson Electric Co. 4.625% due 10/15/2012,Buy,(0.21,12/20/08,1100000,"(3,501",0000837276,N-Q,06
+"Credit
+  Suisse First Boston Intl.","Federated Dept Stores, Inc. 6.625% due
+  4/1/2011",Buy,(0.41,12/20/08,300000,"(1,335",0000837276,N-Q,06
+"Barclays
+  Bank PLC",Fedex Corporation 7.25% due 2/15/2011,Buy,(0.29,12/20/08,1100000,"(5,134",0000837276,N-Q,06
+"Merrill
+  Lynch International","Gannett Co., Inc. 6.375% due 4/1/2012",Buy,(0.22,12/20/08,400000,(510,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Goodrich Corporation 7.625% due 12/15/2012,Buy,(0.97,12/20/08,600000,"(11,325",0000837276,N-Q,06
+"Credit
+  Suisse First Boston Intl.",Goodrich Corporation 7.625% due 12/15/2012,Buy,(0.90,12/20/08,300000,"(5,217",0000837276,N-Q,06
+"Merrill
+  Lynch International",Ingersoll-Rand Company 6.48% due 6/1/2025,Buy,(0.32,12/20/08,800000,"(4,243",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Johnson & Johnson 3.8% due 5/15/2013,Buy,(0.11,12/20/08,1500000,"(3,184",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.","Lockheed Martin Corporation 8.20% due
+  12/1/2009",Buy,(0.53,12/20/08,600000,"(5,854",0000837276,N-Q,06
+"Credit
+  Suisse First Boston Intl.","Lockheed Martin Corporation 8.20% due
+  12/1/2009",Buy,(0.44,12/20/08,300000,"(2,355",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Masco Corporation 5.875% 7/15/2012,Buy,(0.30,12/20/08,700000,(745,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Northrop Grumman Corporation 7.125% 2/15/2011,Buy,(0.48,12/20/08,600000,"(5,729",0000837276,N-Q,06
+"UBS
+  AG, London","Northrop Grumman Space & Mission Systems
+  Corp. 7.125% due 6/1/2009",Buy,(0.29,12/20/08,100000,(382,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",RadioShack Corporation 7.375% 5/15/2011,Buy,(0.35,12/20/08,700000,2354,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.","The Home Depot, Inc. 5.375% due 4/1/2006*",Buy,(0.12,12/20/08,1500000,"(1,911",0000837276,N-Q,06
+"Credit
+  Suisse First Boston Intl.","Wal-Mart Stores, Inc. 4.55% due 5/1/2013",Buy,(0.15,12/20/08,300000,(700,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.","Wal-Mart Stores, Inc. 6.875% due 8/10/2009",Buy,(0.14,12/20/08,2300000,"(4,881",0000837276,N-Q,06
+"Citibank,
+  N.A. New York","Wal-Mart Stores, Inc. 6.875% due 8/10/2009",Buy,(0.14,12/20/08,200000,(424,0000837276,N-Q,06
+"Barclays
+  Bank PLC",Walt Disney Company (The) 6.375% due 3/1/2012,Buy,(0.67,12/20/08,900000,"(11,452",0000837276,N-Q,06
+"Credit
+  Suisse First Boston Intl.",Walt Disney Company (The) 6.375% due 3/1/2012,Buy,(0.53,12/20/08,300000,"(2,927",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Whirlpool Corporation 8.60% due 5/1/2010,Buy,(0.29,12/20/08,700000,"(3,119",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Republic of Turkey 11.875% 1/15/2030,Buy,(2.26,9/20/10,1200000,"(21,410",0000837276,N-Q,06
+"Morgan
+  Stanley Capital Services Inc.",Republic of Turkey 11.875% 1/15/2030,Buy,(2.20,10/20/10,600000,"(8,759",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Republic of Turkey 11.875% 1/15/2030,Buy,(2.11,10/20/10,500000,"(5,696",0000837276,N-Q,06
+"Goldman
+  Sachs International",ABX.HE.A.06-1,Buy,(0.54,7/25/45,1000000,(874,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",ABX.HE.A.06-1,Buy,(0.54,7/25/45,5000000,"(4,370",0000837276,N-Q,06

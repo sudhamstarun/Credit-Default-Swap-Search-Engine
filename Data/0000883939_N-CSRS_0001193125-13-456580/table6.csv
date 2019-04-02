@@ -1,0 +1,2 @@
+Underlying Instrument,Counterparty,NotionalAmount,FixedRate,ExpirationDate,ImpliedCreditSpread*,UpfrontPaymentsReceived,Value,UnrealizedDepreciation,CIK,Reporting Type,Report Year
+CDX.NA.HY.20,JPMorgan,"$13,045,000",1.0,09/20/18,"$(498,680)","$(498,680)",$ ,,0000883939,N-CSRS,13

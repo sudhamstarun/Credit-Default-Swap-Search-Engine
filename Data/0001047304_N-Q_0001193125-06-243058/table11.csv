@@ -1,0 +1,5 @@
+Counterparty,Reference Entity,Buy/SellProtection+,(Pay)ReceiveFixed Rate,ExpirationDate,NotionalAmount,UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+Bank of America,Ford Motor Credit Co. 7.000% due 10/01/2013,Sell,4.150,06/20/2007,200,,0001047304,N-Q,06
+Goldman Sachs & Co.,Dow Jones CDX N.A. HV5 Index,Buy,(0.850,12/20/2010,200,(1,0001047304,N-Q,06
+Morgan Stanley,Ford Motor Credit Co. 7.000% due 10/01/2013,Sell,5.200,12/20/2006,100,,0001047304,N-Q,06
+UBS Warburg LLC,Ford Motor Credit Co. 7.000% due 10/01/2013,Sell,4.750,12/20/2006,100,,0001047304,N-Q,06

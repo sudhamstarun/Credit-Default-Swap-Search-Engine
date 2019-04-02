@@ -1,0 +1,17 @@
+SWAP COUNTERPARTY &REFERENCE OBLIGATION,BUY/SELL PROTECTION,NOTIONAL AMOUNT(000 S),INTEREST RATE,TERMINATION DATE,APPRECIATION(DEPRECIATION),CIK,Reporting Type,Report Year
+"Merril Lynch, Inc.
+Dow Jones Index",Sell,5200,5.0,"June 20, 2014",64022,0000093284,N-Q,09
+"Goldman Sachs International
+Dow Jones Index",Sell,4304,1.55,"June 20, 2013","(67,690",0000093284,N-Q,09
+"Bank of America, N.A.
+Carnival Corp.",Buy,605,1.57,"March 20, 2018",(416,0000093284,N-Q,09
+"Bank of America, N.A.
+Centurytel Inc.",Buy,395,0.88,"September 20, 2017",1035,0000093284,N-Q,09
+"Goldman Sachs International
+Sealed Air Corp.",Buy,250,1.08,"March 20, 2018",1563,0000093284,N-Q,09
+"Bank of America, N.A.
+Toll Brothers, Inc.",Buy,770,2.9,"March 20, 2013","(37,203",0000093284,N-Q,09
+"Bank of America, N.A.
+Tyco Electronics Ltd.",Buy,385,5.0,"June 20, 2014","(29,853",0000093284,N-Q,09
+"Barclays Capital Group
+Whirlpool Corp.",Buy,250,1.0,"June 20, 2014",3901,0000093284,N-Q,09

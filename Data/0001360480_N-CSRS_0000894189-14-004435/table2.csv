@@ -1,0 +1,61 @@
+"
+Counterparty
+",Reference Entity,"
+Buy/Sell
+Protection
+","
+(Pay)/
+Receive
+Fixed Rate
+","
+Termination
+Date
+","
+Notional
+Value
+","
+Moody s Rating
+of Reference
+Entity
+","
+Maximum
+Potential
+Future Payment
+(Receipt)
+","
+Upfront
+Premium
+Paid
+(Received)
+","
+Unrealized
+Appreciation/
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+BNP Paribas
+","
+Markit CDX.NA.HY.19 (a)
+","
+Buy
+",(5.00,"
+12/20/2017
+","2,000,000",B1,"(2,000,000","(12,985","(170,833",0001360480,N-CSRS,14
+"
+BNP Paribas
+","
+Markit CDX.NA.HY.21 (a)
+","
+Buy
+",(5.00,"
+12/20/2018
+","2,000,000",B1,"(2,000,000","(76,012","(107,135",0001360480,N-CSRS,14
+"
+BNP Paribas
+","
+Markit CDX.NA.HY.19 (a)
+","
+Sell
+",5.00,"
+12/20/2017
+","2,000,000",B1,"2,000,000","108,945","74,872",0001360480,N-CSRS,14

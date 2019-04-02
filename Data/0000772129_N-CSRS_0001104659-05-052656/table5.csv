@@ -1,0 +1,28 @@
+Notional Amount,Expiration Date,Counterparty,Receive(Pay),Annual Premium,Deliverable On Default,Appreciation(Depreciation),CIK,Reporting Type,Report Year
+5000000,4/2/2007,Lehman Brothers,Receive,0.52%,General Electric Capital Corporation,24138,0000772129,N-CSRS,05
+3000000,4/17/2007,UBS AG,Receive,0.80%,EOP Operating LP,28746,0000772129,N-CSRS,05
+3000000,4/17/2007,UBS AG,Receive,0.47%,"Goldman Sachs Group, Inc.",11676,0000772129,N-CSRS,05
+3000000,4/17/2007,Bear Stearns,Receive,1.28%,National Rural Utilities Cooperative Finance Corp.,54003,0000772129,N-CSRS,05
+10000000,12/16/2007,Citibank N.A.,Receive,2.41%,"AOL Time Warner, Inc.",486069,0000772129,N-CSRS,05
+5000000,6/20/2008,Lehman Brothers,Receive,0.50%,"Dominion Resources, Inc.",32468,0000772129,N-CSRS,05
+5000000,6/20/2008,Deutsche Bank AG,Receive,0.48%,Household Finance Corporation,46662,0000772129,N-CSRS,05
+5000000,6/20/2008,Deutsche Bank AG,Receive,0.65%,"Kraft Foods, Inc.",72359,0000772129,N-CSRS,05
+5000000,6/20/2008,Deutsche Bank AG,Receive,0.40%,Norfolk Southern Corporation,31922,0000772129,N-CSRS,05
+5000000,6/20/2008,Deutsche Bank AG,Receive,0.40%,"Washington Mutual, Inc.",14591,0000772129,N-CSRS,05
+10000000,9/20/2008,Deutsche Bank AG,Receive,0.32%,"American International Group, Inc.",49678,0000772129,N-CSRS,05
+10000000,12/20/2008,Lehman Brothers,Receive,0.27%,Federal Home Loan Bank System,67636,0000772129,N-CSRS,05
+5000000,5/20/2009,JP Morgan,Receive,1.13%,United Mexican States,103248,0000772129,N-CSRS,05
+5000000,6/20/2009,Citibank N.A.,Receive,0.25%,ConocoPhillips Company,16626,0000772129,N-CSRS,05
+5000000,6/20/2009,Lehman Brothers,Receive,1.81%,Ford Motor Credit Co.,"(546,128",0000772129,N-CSRS,05
+5000000,6/20/2009,Lehman Brothers,Receive,1.73%,General Motors Corp.,"(599,836",0000772129,N-CSRS,05
+5000000,6/20/2009,Barclays Bank PLC,Receive,0.91%,Sprint Capital Corp.,138879,0000772129,N-CSRS,05
+5000000,6/20/2009,Lehman Brothers,Receive,0.67%,Wyeth Energy,112087,0000772129,N-CSRS,05
+5000000,9/20/2009,UBS AG,Receive,0.59%,Capital One Bank,81648,0000772129,N-CSRS,05
+5000000,9/20/2009,Citibank N.A.,Receive,0.30%,"Coca-Cola Enterprises, Inc.",33911,0000772129,N-CSRS,05
+5000000,9/20/2009,Citibank N.A.,Receive,0.69%,"Comcast Cable Communications, Inc.",75792,0000772129,N-CSRS,05
+5000000,9/20/2009,UBS AG,Receive,0.62%,Devon Energy Corp.,75252,0000772129,N-CSRS,05
+5000000,9/20/2009,Barclays Bank PLC,Receive,0.54%,Duke Energy Corp.,63293,0000772129,N-CSRS,05
+5000000,9/20/2009,Citibank N.A.,Receive,0.25%,International Business Machines,14655,0000772129,N-CSRS,05
+5000000,9/20/2009,UBS AG,Receive,0.53%,Kinder Morgan Energy Partners L.P.,52850,0000772129,N-CSRS,05
+5000000,12/20/2009,Deutsche Bank AG,Receive,0.25%,"AT&T Wireless Services, Inc.",21228,0000772129,N-CSRS,05
+5000000,12/20/2009,Deutsche Bank AG,Receive,0.21%,Bank of America Corp.,23881,0000772129,N-CSRS,05

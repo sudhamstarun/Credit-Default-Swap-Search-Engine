@@ -1,0 +1,171 @@
+COUNTERPARTY,REFERENCE ENTITY/OBLIGATION,PROTECTION,FIXED RATE (%),DATE,AMOUNT,(DEPRECIATION),CIK,Reporting Type,Report Year
+"Barclays
+  Bank PLC","Alcoa Inc. 5.375%, 01/15/13",Buy,(0.390),09/20/12,210000,579,0000877233,N-Q,07
+"JPMorgan
+  Chase Bank N.A.","Alcoa Inc. 5.375%, 01/15/13",Buy,(0.430),09/20/12,113000,41,0000877233,N-Q,07
+"Lehman
+  Brothers Special Financing Inc.","Alcoa Inc. 5.375%, 01/15/13",Buy,(0.400),09/20/12,227000,(309),0000877233,N-Q,07
+UBS AG,"Australia
+  & New Zealand Banking Group Ltd. 4.450%, 02/05/15",Buy,(0.350),09/20/17,186000,(804),0000877233,N-Q,07
+"Citibank N.A., New York","Bank
+  of Scotland 5.125%, 12/05/13",Buy,(0.320),09/20/17,240000,7116,0000877233,N-Q,07
+"Citibank N.A., New York","Bank
+  of Scotland 5.125%, 12/05/13",Buy,(0.660),09/20/17,242000,653,0000877233,N-Q,07
+"Citibank N.A., New York","Bank
+  of Scotland 5.125%, 12/05/13",Buy,(0.650),09/20/17,113000,399,0000877233,N-Q,07
+UBS AG,"Bank
+  of Scotland 5.125%, 12/05/13",Buy,(0.410),09/20/17,186000,4202,0000877233,N-Q,07
+"Citibank N.A., New York","Belo
+  Corp. 8.000%, 11/01/08",Buy,(0.930),09/20/12,124000,(773),0000877233,N-Q,07
+"Citibank N.A., New York","Belo
+  Corp. 8.000%, 11/01/08",Buy,(1.400),09/20/14,125000,"(2,143)",0000877233,N-Q,07
+"Citibank N.A., New York","BNP
+  Paribas 5.250%, 12/17/12",Buy,(0.250),09/20/17,240000,6048,0000877233,N-Q,07
+"Citibank N.A., New York","BNP
+  Paribas 5.250%, 12/17/12",Buy,(0.520),09/20/17,50000,193,0000877233,N-Q,07
+"Citibank N.A., New York","BNP
+  Paribas 5.250%, 12/17/12",Buy,(0.520),09/20/17,113000,413,0000877233,N-Q,07
+UBS AG,"Burlington
+  Northern Santa Fe Corp. 4.300%, 07/01/13",Buy,(0.350),09/20/12,315000,33,0000877233,N-Q,07
+"Citibank N.A., New York","CDX.EM.6
+  Index",Buy,(1.400),12/20/11,377000,7128,0000877233,N-Q,07
+"Citibank N.A., New York","CDX.EM.7
+  Index",Buy,(1.250),06/20/12,646000,"(10,197)",0000877233,N-Q,07
+"Citibank N.A., New York","CDX.EM.7
+  Index",Buy,(1.250),06/20/12,649000,"(16,147)",0000877233,N-Q,07
+"Citibank N.A., New York","CDX.EM.7
+  Index",Buy,(1.250),06/20/12,163000,(453),0000877233,N-Q,07
+UBS AG,"CDX.EM.7
+  Index",Buy,(1.250),06/20/12,105000,"(2,297)",0000877233,N-Q,07
+UBS AG,"CDX.EM.7
+  Index",Buy,(1.250),06/20/12,525000,"(12,275)",0000877233,N-Q,07
+UBS AG,"CDX.EM.7
+  Index",Buy,(1.250),06/20/12,245000,"(2,412)",0000877233,N-Q,07
+UBS AG,"CDX.EM.7
+  Index",Buy,(1.250),06/20/12,394000,"(2,506)",0000877233,N-Q,07
+UBS AG,"CDX.EM.7
+  Index",Buy,(1.250),06/20/12,513739,"(10,955)",0000877233,N-Q,07
+UBS AG,"CDX.EM.7
+  Index",Buy,(1.250),06/20/12,400000,,0000877233,N-Q,07
+Barclays Bank PLC,"CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,388000,18442,0000877233,N-Q,07
+Barclays Bank PLC,"CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,492000,"(17,786)",0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,665000,27895,0000877233,N-Q,07
+UBS AG,"CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,191000,4055,0000877233,N-Q,07
+UBS AG,"CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,157250,(144),0000877233,N-Q,07
+UBS AG,"CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,494000,"(3,326)",0000877233,N-Q,07
+UBS AG,"CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,672000,3805,0000877233,N-Q,07
+UBS AG,"CDX.NA.HY.8
+  Index",Sell,2.75,06/20/12,481000,13981,0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.HY.8
+  Index",Buy,(2.750),06/20/12,131000,(71),0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.HY.8
+  Index (0-10% Tranche)",Sell,0,06/20/14,340000,"(9,350)",0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.HY.8
+  Index (35-60% Tranche)",Sell,2.55,06/20/12,901000,23807,0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.IG.6
+  Index (7-10% Tranche)",Sell,1.003,06/20/16,463680,"(26,369)",0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.IG.7
+  Index (30-100% Tranche)",Buy,(0.048),12/20/16,1611000,16977,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.IG.7
+  Index (30-100% Tranche)",Buy,(0.048),12/20/16,4480000,52226,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.IG.8
+  Index",Buy,(0.350),06/20/12,2242000,"(4,214)",0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.IG.8
+  Index",Buy,(0.350),06/20/12,2242000,"(6,074)",0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.IG.8
+  Index",Buy,(0.350),06/20/12,999000,"(1,996)",0000877233,N-Q,07
+UBS AG,"CDX.NA.IG.8
+  Index",Buy,(0.350),06/20/12,401000,(459),0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.IG.8
+  Index (30-100% Tranche)",Sell,0.225,06/20/17,6091000,15110,0000877233,N-Q,07
+"Citibank N.A., New York","CDX.NA.IG.HVOL.8
+  Index",Buy,(0.750),06/20/12,230000,(365),0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.IG.HVOL.8
+  Index",Buy,(0.750),06/20/12,2259000,54260,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","CDX.NA.IG.HVOL.8
+  Index",Buy,(0.750),06/20/12,1680000,"(8,696)",0000877233,N-Q,07
+"Citibank N.A., New York","Centurytel
+  Inc. 7.875%, 08/15/12",Buy,(0.730),09/20/12,294000,"(4,786)",0000877233,N-Q,07
+"Citibank N.A., New York","Centurytel
+  Inc. 7.875%, 08/15/12",Buy,(0.720),09/20/12,51000,(806),0000877233,N-Q,07
+Merrill Lynch International,"Centurytel
+  Inc. 7.875%, 08/15/12",Buy,(0.740),09/20/12,112000,"(1,871)",0000877233,N-Q,07
+"Citibank N.A., New York","CMS
+  Energy Corporation 6.875%, 12/15/15",Sell,0.82,03/20/12,50000,(797),0000877233,N-Q,07
+Merrill Lynch International,"CMS
+  Energy Corporation 6.875%, 12/15/15",Sell,0.84,03/20/12,270000,"(4,828)",0000877233,N-Q,07
+Merrill Lynch International,"Countrywide
+  Home Loan 4.000%, 03/22/11",Buy,(7.000),09/20/12,68202,"(12,089)",0000877233,N-Q,07
+UBS AG,"Countrywide
+  Home Loan 4.000%, 03/22/11",Buy,(7.000),09/20/12,50000,"(8,726)",0000877233,N-Q,07
+"Morgan Stanley Capital
+  Services Inc.","Domtar
+  Inc. 7.875%, 10/15/2011",Buy,(2.650),09/20/11,84500,"(1,252)",0000877233,N-Q,07
+UBS AG,"Domtar
+  Inc. 7.875%, 10/15/2011",Sell,2.6,09/20/11,84000,1089,0000877233,N-Q,07
+Barclays Bank PLC,"Federative
+  Republic of Brazil 12.25%, 03/06/30",Sell,0.24,06/20/08,732000,(946),0000877233,N-Q,07
+Barclays Bank PLC,"Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(0.725),06/20/12,256000,3215,0000877233,N-Q,07
+Barclays Bank PLC,"Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(1.600),08/20/12,200000,"(4,737)",0000877233,N-Q,07
+"Citibank N.A., New York","Federative
+  Republic of Brazil 12.25%, 03/06/30",Sell,0.24,07/20/08,512000,(716),0000877233,N-Q,07
+"Citibank N.A., New York","Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(0.740),07/20/12,128000,1340,0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(0.800),07/20/12,230000,2257,0000877233,N-Q,07
+UBS AG,"Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(0.780),07/20/12,527500,4607,0000877233,N-Q,07
+UBS AG,"Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(0.860),08/20/12,148000,892,0000877233,N-Q,07
+UBS AG,"Federative
+  Republic of Brazil 12.25%, 03/06/30",Buy,(1.150),08/20/12,354000,1590,0000877233,N-Q,07
+"Citibank N.A., New York","First
+  Data Corp. 5.625%, 11/01/11",Buy,(5.700),09/20/12,96000,1465,0000877233,N-Q,07
+Barclays Bank PLC,"Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.780),09/20/14,198000,"(1,137)",0000877233,N-Q,07
+"Citibank N.A., New York","Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.690),06/20/14,287000,(535),0000877233,N-Q,07
+"Citibank N.A., New York","Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.860),09/20/14,128000,"(1,278)",0000877233,N-Q,07
+"Citibank N.A., New York","Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.770),09/20/14,125000,(539),0000877233,N-Q,07
+"Citibank N.A., New York","Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.810),09/20/14,125000,(822),0000877233,N-Q,07
+Barclays Bank PLC,"Georgia-Pacific
+  Corp. 7.750%, 11/15/29",Sell,3,09/20/12,105000,"(2,348)",0000877233,N-Q,07
+"Citibank N.A., New York","Georgia-Pacific
+  Corp. 7.750%, 11/15/29",Sell,3.65,09/20/12,95000,340,0000877233,N-Q,07
+"Citibank N.A., New York","Georgia-Pacific
+  Corp. 7.750%, 11/15/29",Sell,4.2,09/20/12,117000,2795,0000877233,N-Q,07
+UBS AG,"Georgia-Pacific
+  Corp. 7.750%, 11/15/29",Sell,3,09/20/12,137000,"(3,064)",0000877233,N-Q,07
+"Lehman Brothers Special
+  Financing Inc.","Harrah s
+  Operating Co., Inc. 5.625%, 06/01/15",Sell,0.6,03/20/08,1031000,"(8,910)",0000877233,N-Q,07
+UBS AG,"HSBC
+  Bank PLC 4.250%, 03/18/16",Buy,(0.400),09/20/17,186000,2110,0000877233,N-Q,07
+Barclays Bank PLC,"Kinder
+  Morgan Inc. 6.500%, 09/01/12",Sell,1.7,09/20/11,34000,230,0000877233,N-Q,07
+UBS AG,"LCDX.NA.8
+  Index",Buy,(1.200),06/20/12,999327,"(17,279)",0000877233,N-Q,07
+UBS AG,"LCDX.NA.8
+  Index",Buy,(1.200),06/20/12,168308,"(4,251)",0000877233,N-Q,07
+UBS AG,"LCDX.NA.8
+  Index",Sell,1.2,06/20/12,1998653,"(62,707)",0000877233,N-Q,07

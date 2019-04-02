@@ -1,0 +1,25 @@
+Expiration,Counterparty,"Reference Debt 
+        Obligation/ 
+        Index","Notional 
+        Amount","Fixed 
+        Payments 
+        Made by 
+        the Fund","Frequency of 
+        Payments 
+        Made","Unrealized 
+        Gain (Loss)",CIK,Reporting Type,Report Year
+03/20/2009,CitiBank,"AIG, 6.25%,
+05/01/2036","12,000,000",1.55,Quarterly,"(794,180",0001046232,N-CSRS,09
+03/20/2009,Goldman Sachs,"Morgan Stanley, 6.60%,
+04/01/2012","8,000,000",1.75,Quarterly,"(120,807",0001046232,N-CSRS,09
+09/20/2010,Goldman Sachs,"Duke Realty, Ltd., 5.40%,
+08/15/2014","8,000,000",0.75,Quarterly,"(813,533",0001046232,N-CSRS,09
+06/20/2012,Morgan Stanley,"Dow Jones CDX, North
+American Investment Grade Index","15,744,000",0.35,Quarterly,"(907,902",0001046232,N-CSRS,09
+06/20/2012,Morgan Stanley,"PG&E Corp., 4.80%,
+03/01/2014","10,000,000",0.24,Quarterly,"(689,348",0001046232,N-CSRS,09
+09/20/2012,Morgan Stanley,"Duke Realty, Ltd.,
+5.40%, 08/15/2014","8,000,000",0.9,Quarterly,"(1,562,138",0001046232,N-CSRS,09
+12/13/2049,Morgan Stanley,CMBX North America AA Index,"4,200,000",0.27,Monthly,"(1,808,594",0001046232,N-CSRS,09
+02/25/2051,Goldman Sachs,CMBX North America AA Index,"22,000,000",1.75,Monthly,"(5,827,151",0001046232,N-CSRS,09
+12/25/2051,Goldman Sachs,CMBX North America AA Index,"24,500,000",1.65,Monthly,"(10,437,677",0001046232,N-CSRS,09

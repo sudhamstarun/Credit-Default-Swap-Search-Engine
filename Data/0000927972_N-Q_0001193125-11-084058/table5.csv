@@ -1,0 +1,14 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/Sell,"Receive(Pay)FixedRate
+",Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"1,750,000",10/12/52,Bank of America N.A.,Buy,(0.100,CMBX.NA.AAA.1,"(32,419","84,219","51,800",0000927972,N-Q,11
+"6,575,000",10/12/52,Bank of America N.A.,Buy,(0.500,CMBX.NA.AM.1,"(241,960","526,000","284,040",0000927972,N-Q,11
+"325,000",6/20/14,Barclays Bank PLC,Buy,(1.000,Centex Corp.,"1,854","6,019","7,873",0000927972,N-Q,11
+"484,327",7/25/45,Credit Suisse Securities LLC,Buy,(0.180,ABX.HE.AAA.06-1,"4,647","49,646","54,293",0000927972,N-Q,11
+"1,500,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(105,600","150,000","44,400",0000927972,N-Q,11
+"5,100,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(342,165","493,125","150,960",0000927972,N-Q,11
+"1,075,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(38,055","69,875","31,820",0000927972,N-Q,11
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(50,848","99,688","48,840",0000927972,N-Q,11
+"2,000,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(35,800","95,000","59,200",0000927972,N-Q,11
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(48,345","119,625","71,280",0000927972,N-Q,11
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(48,345","119,625","71,280",0000927972,N-Q,11
+"3,300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(96,690","239,250","142,560",0000927972,N-Q,11

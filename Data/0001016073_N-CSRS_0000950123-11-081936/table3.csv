@@ -1,0 +1,60 @@
+"
+Counterparty
+","
+Reference Instrument
+","
+Notional AmountB
+","
+Pay/Receive(A)
+","
+Fixed Rate
+","
+ExpirationDate
+","
+Appreciation/(Depreciation)
+","
+Credit Event
+","
+RatingC
+",CIK,Reporting Type,Report Year
+"
+
+    Goldman Sachs
+
+","
+    Tyson Foods, Inc.
+    6.85%, 4/1/16
+","
+    6,000,000
+","
+    Pay
+",3.05,"
+    9/20/2013
+","
+    (307,749
+","
+    Bankruptcy/FTP
+","
+    BBB-
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Vornado Realty L.P.
+    4.75%, 12/1/10
+","
+    5,500,000
+","
+    Pay
+",1.5,"
+    6/20/2013
+","
+    (112,811
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    BBB
+",0001016073,N-CSRS,11

@@ -1,0 +1,20 @@
+Counterparty,"Reference
+  Entity/Obligation",Protection,"Fixed
+  Rate (%)",Date,"Amount
+  (4)","Value
+  (5)",Paid/(Received),(Depreciation),CIK,Reporting Type,Report Year
+"UBS
+  AG","Domtar Inc. 7.875%,
+  10/15/11",Sell,2.6,09/20/11,1288000,31305,31305,,0001066602,N-Q,10
+"Citibank
+  N.A., New York","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,1311000,"(791,118)","(400,180)","(390,938)",0001066602,N-Q,10
+"Citibank
+  N.A., New York","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,641000,"(386,809)","(179,363)","(207,446)",0001066602,N-Q,10
+"Goldman
+  Sachs International","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,1271000,"(766,980)","(351,146)","(415,834)",0001066602,N-Q,10
+"JPMorgan
+  Chase Bank, N.A. New York","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,2540000,"(1,532,755)","(352,161)","(1,180,594)",0001066602,N-Q,10

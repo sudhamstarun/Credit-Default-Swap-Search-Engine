@@ -1,0 +1,10 @@
+Underlying Instrument,Counterparty,ExpirationDate,"ImpliedCreditSpread atJune 30,2014(%)(d)",NotionalAmount($)(e),FixedRate(%),Value($),UpfrontPremiumsPaid/(Received)($),UnrealizedAppreciation/(Depreciation)($),CIK,Reporting Type,Report Year
+"Transocean, Inc.",JPMorgan Chase,6/20/19,1.42,"63,000",1.0,"1,145","1,506",(362,0001301708,N-CSRS,14
+"Transocean, Inc.",Barclays Bank,6/20/19,1.42,"159,000",1.0,"2,889","3,838",(949,0001301708,N-CSRS,14
+"Transocean, Inc.",Barclays Bank,6/20/19,1.42,"254,000",1.0,"4,614","6,640","(2,026",0001301708,N-CSRS,14
+"Transocean, Inc.",Barclays Bank,6/20/19,1.42,"105,719",1.0,"1,921","2,620",(699,0001301708,N-CSRS,14
+"Transocean, Inc.",Barclays Bank,6/20/19,1.42,"352,400",1.0,"6,402","8,733","(2,331",0001301708,N-CSRS,14
+"Transocean, Inc.",Citibank,6/20/19,1.42,"246,673",1.0,"4,481","5,450",(968,0001301708,N-CSRS,14
+"Transocean, Inc.",Barclays Bank,6/20/19,1.42,"355,270",1.0,"6,454","6,552",(98,0001301708,N-CSRS,14
+"Transocean, Inc.",Barclays Bank,6/20/19,1.42,"355,269",1.0,"6,454","5,746",708,0001301708,N-CSRS,14
+"Transocean, Inc.",JPMorgan Chase,6/20/19,1.42,"222,736",1.0,"4,047","5,308","(1,262",0001301708,N-CSRS,14

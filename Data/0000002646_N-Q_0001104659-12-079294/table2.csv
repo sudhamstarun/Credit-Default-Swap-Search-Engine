@@ -1,0 +1,4 @@
+Counterparty,Reference Entity/Obligation,Buy/Sell Protection,(Pay)/ Receive Fixed Rate (%),Termination Date,Notional Amount(2),Fair Value(3),Upfront Payments Paid/ (Received),Unrealized Appreciation/ (Depreciation),CIK,Reporting Type,Report Year
+"Citigroup, Inc.",MBIA Inc.,Buy,(5.000),09/20/13,"3,460,000"," 207,082"," 217,692"," (10,610)",0000002646,N-Q,12
+"Citigroup, Inc.",MBIA Inc.,Buy,(5.000),09/20/13,"1,710,000","102,344"," 112,100","(9,756)",0000002646,N-Q,12
+JPMorgan   Chase & Co.,MBIA Inc.,Buy,(5.000),09/20/13,"13,751,000","823,002"," 470,829","352,173",0000002646,N-Q,12

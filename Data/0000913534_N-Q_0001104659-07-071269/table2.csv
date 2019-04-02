@@ -1,0 +1,10 @@
+SWAP COUNTERPARTY &REFERENCE OBLIGATION,PROTECTION,AMOUNT(000 s),FIXED RATE,DATE,(DEPRECIATION),CIK,Reporting Type,Report Year
+Southwest Airlines Co.,Buy,350,0.22,"December 20, 2011",3346,0000913534,N-Q,07
+Dell Inc.,Buy,300,0.22,"March 20, 2012",(255,0000913534,N-Q,07
+Covidien Limited,Buy,113,0.43,"March 20, 2012",(554,0000913534,N-Q,07
+Covidien Limited,Buy,50,0.43,"March 20, 2012",(244,0000913534,N-Q,07
+Tyco Electronics,Buy,113,0.43,"March 20, 2012",1267,0000913534,N-Q,07
+Tyco Electronics,Buy,50,0.43,"March 20, 2012",559,0000913534,N-Q,07
+Tyco International Limited,Buy,113,0.43,"March 20, 2012",1267,0000913534,N-Q,07
+Tyco International Limited,Buy,50,0.43,"March 20, 2012",559,0000913534,N-Q,07
+Dow Jones CDX.NA.IG8,Sell,800,0.35,"June 20, 2012",,0000913534,N-Q,07

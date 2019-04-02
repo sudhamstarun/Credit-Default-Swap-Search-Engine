@@ -1,0 +1,5 @@
+Underlying Instrument,Counterparty,Amount($),Rate(%),Date,Value($),CIK,Reporting Type,Report Year
+"Abitibi Consolidated, Inc.",JPMorgan,500,4.5,6/20/09,(29,0000883939,N-Q,08
+"Domtar, Inc.",Deutsche Bank,(425,2.15,12/20/12,,0000883939,N-Q,08
+Ford Motor Co.,Deutsche Bank,425,5.05,12/20/12,(40,0000883939,N-Q,08
+Russian Federation,Merrill Lynch,"1,115",0.87,9/20/12,,0000883939,N-Q,08

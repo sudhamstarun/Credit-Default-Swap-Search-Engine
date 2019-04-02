@@ -1,0 +1,37 @@
+Counterparty,Reference Entity,Buy/SellProtection+,(Pay)/ReceiveFixed Rate,ExpirationDate,NotionalAmount,UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+Barclays Bank PLC,Ukraine Government International Bond7.650% due 06/11/2013,Sell,1.700,03/20/2011,500,(2,0001047304,N-Q,06
+Barclays Bank PLC,Salomon Brothers (Gazprom) 9.125%due 04/25/2007,Sell,0.940,05/20/2011,"2,500",,0001047304,N-Q,06
+Barclays Bank PLC,RSHB Capital SA for OJSC RussianAgricultural Bank 6.875% due11/29/2010,Sell,1.650,07/20/2011,800,16,0001047304,N-Q,06
+Barclays Bank PLC,Brazilian Government International Bond12.250% due 03/06/2030,Sell,1.360,08/20/2011,"2,000",11,0001047304,N-Q,06
+Barclays Bank PLC,Brazilian Government International Bond12.250% due 03/06/2030,Sell,1.370,08/20/2011,"1,000",,0001047304,N-Q,06
+Barclays Bank PLC,Indonesia Government InternationalBond 6.750% due 03/10/2014,Sell,1.700,09/20/2011,"1,000",,0001047304,N-Q,06
+Barclays Bank PLC,Brazilian Government International Bond12.250% due 03/06/2030,Buy,(2.150,08/20/2016,"1,000",(9,0001047304,N-Q,06
+Barclays Bank PLC,Brazilian Government International Bond12.250% due 03/06/2030,Buy,(2.170,08/20/2016,"1,000",(10,0001047304,N-Q,06
+Citibank N.A.,Indonesia Government InternationalBond 6.750% due 03/10/2014,Sell,1.580,12/20/2011,100,0,0001047304,N-Q,06
+Goldman Sachs & Co.,"Russia Government International Bond,5.000% until 03/31/2007 and 7.500%thereafter, due 03/31/2030",Sell,0.700,03/20/2007,75,0,0001047304,N-Q,06
+JPMorgan Chase & Co.,Brazilian Government International Bond12.250% due 03/06/2030,Sell,1.390,08/20/2011,"1,000",,0001047304,N-Q,06
+JPMorgan Chase & Co.,Indonesia Government InternationalBond 6.750% due 03/10/2014,Sell,2.050,09/20/2011,750,17,0001047304,N-Q,06
+JPMorgan Chase & Co.,Mexico Government International Bond11.500% due 05/15/2026,Sell,2.840,01/04/2013,"1,600",197,0001047304,N-Q,06
+JPMorgan Chase & Co.,Multiple Reference Entities of Gazprom,Sell,1.500,04/20/2016,"1,000",17,0001047304,N-Q,06
+JPMorgan Chase & Co.,Petroleos Mexicanos 9.500% due09/15/2027,Sell,1.130,04/20/2016,"1,400",16,0001047304,N-Q,06
+JPMorgan Chase & Co.,Brazilian Government International Bond12.250% due 03/06/2030,Buy,(2.190,08/20/2016,"1,000",(12,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Ecuador Government International Bond10.000% due 08/15/2030,Buy,(4.150,10/20/2008,500,,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Brazilian Government International Bond12.250% due 03/06/2030,Sell,1.770,06/20/2011,500,14,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Petroleos Mexicanos 9.500% due09/15/2027,Sell,0.800,07/20/2011,261,,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Ecuador Government International Bond10.000% due 08/15/2030,Buy,(4.650,10/20/2011,500,,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Dow Jones CDX N.A. EM6 Index,Sell,1.400,12/20/2011,"5,200",(10,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Brazilian Government International Bond12.250% due 03/06/2030,Sell,2.020,07/20/2013,290,,0001047304,N-Q,06
+"Lehman Brothers, Inc.","Russia Government International Bond,5.000% until 03/31/2007 and 7.500%thereafter, due 03/31/2030",Sell,2.550,03/20/2014,350,39,0001047304,N-Q,06
+"Lehman Brothers, Inc.",Multiple Reference Entities of Gazprom,Sell,1.330,03/20/2016,"1,000",(2,0001047304,N-Q,06
+"Merrill Lynch & Co., Inc.","Russia Government International Bond,5.000% until 03/31/2007 and 7.500%thereafter, due 03/31/2030",Sell,3.160,10/02/2013,450,70,0001047304,N-Q,06
+"Merrill Lynch & Co., Inc.","Russia Government International Bond,5.000% until 03/31/2007 and 7.500%thereafter, due 03/31/2030",Sell,2.310,01/21/2014,525,51,0001047304,N-Q,06
+Morgan Stanley,Ecuador Government International Bond10.000% due 08/15/2030,Buy,(2.420,09/20/2008,"1,000",42,0001047304,N-Q,06
+Morgan Stanley,Colombia Government InternationalBond 10.375% due 01/28/2033,Sell,0.760,03/20/2010,250,(1,0001047304,N-Q,06
+Morgan Stanley,Turkey Government International Bond11.875% due 01/15/2030,Buy,(2.200,10/20/2010,400,(10,0001047304,N-Q,06
+Morgan Stanley,Multiple Reference Entities of Gazprom,Sell,1.050,04/20/2011,"1,000",,0001047304,N-Q,06
+Morgan Stanley,Brazilian Government International Bond12.250% due 03/06/2030,Sell,2.100,08/20/2016,250,,0001047304,N-Q,06
+Morgan Stanley,Multiple Reference Entities of Gazprom,Sell,1.350,08/20/2016,"1,000",0,0001047304,N-Q,06
+Royal Bank of Scotland PLC,Indonesia Government InternationalBond 6.750% due 03/10/2014,Sell,2.480,09/20/2016,"1,000",,0001047304,N-Q,06
+Royal Bank of Scotland PLC,Indonesia Government InternationalBond 6.750% due 03/10/2014,Sell,2.385,09/20/2016,200,0,0001047304,N-Q,06
+Royal Bank of Scotland PLC,Indonesia Government InternationalBond 6.750% due 03/10/2014,Sell,2.345,12/20/2016,100,0,0001047304,N-Q,06
+UBS Warburg LLC,Brazilian Government International Bond12.250% due 03/06/2030,Sell,1.870,06/20/2011,200,,0001047304,N-Q,06

@@ -1,0 +1,50 @@
+Counterparty,Currency,NotionalAmount,ExpirationDate,Payments Made by Fund,Payments Received by Fund,UnrealizedAppreciation(Depreciation),Receive(Pay)FixedRate,Deliverable on Default,CIK,Reporting Type,Report Year
+Barclays Bank PLC,MXN,9000000,9/13/17,MXN TIIE Mexican Banxico,Fixed 5.500%,33037,,,0000067160,N-CSRS,14
+Barclays Bank PLC,MXN,14000000,9/02/22,MXN TIIE Mexican Banxico,Fixed 6.000%,21389,,,0000067160,N-CSRS,14
+Goldman Sachs Bank USA,BRL,200000,1/02/17,CETIP Interbank,Fixed 9.095%,"(4,044",,,0000067160,N-CSRS,14
+Goldman Sachs Bank USA,MXN,2000000,1/18/19,MXN TIIE Mexican Banxico,Fixed 5.700%,6568,,,0000067160,N-CSRS,14
+JP Morgan Chase Bank,MXN,9000000,1/18/19,MXN TIIE Mexican Banxico,Fixed 5.700%,30009,,,0000067160,N-CSRS,14
+JP Morgan Chase Bank,MXN,2000000,6/05/23,MXN TIIE Mexican Banxixo,Fixed 6.000%,5831,,,0000067160,N-CSRS,14
+UBS AG,BRL,400000,1/02/17,CETIP Interbank,Fixed 8.900%,"(8,006",,,0000067160,N-CSRS,14
+Barclays Bank PLC,,1600000,6/20/15,,,"(97,281",5.000%,CDX.EM.13  (PIMCO Rating: BA+)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,400000,12/20/15,,,5682,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,400000,3/20/16,,,7227,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1500000,3/20/16,,,19131,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1400000,6/20/16,,,197,1.000%,General Electric Capital Corp. (PIMCO Rating: AA+)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,900000,6/20/16,,,9284,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,800000,12/20/16,,,26410,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1000000,6/20/17,,,6287,1.000%,Italian Government (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,500000,9/20/17,,,19792,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1500000,3/20/18,,,26839,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,2100000,3/20/19,,,27322,1.000%,"MetLife, Inc. (PIMCO Rating: A-)**",0000067160,N-CSRS,14
+Barclays Bank PLC,,2200000,3/20/19,,,18943,1.000%,"Prudential Financial, Inc. (PIMCO Rating: A)**",0000067160,N-CSRS,14
+Barclays Bank PLC,,100000,6/20/19,,,1185,1.000%,Italian Government (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,200000,6/20/19,,,2466,1.000%,Italian Government (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Credit Suisse International,,800000,6/20/16,,,8258,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Credit Suisse International,,200000,9/20/17,,,7824,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,0000067160,N-CSRS,14
+Goldman Sachs Bank USA,,500000,6/20/17,,,2183,1.000%,Italian Government (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Goldman Sachs International,,1300000,12/20/14,,,37705,1.000%,"MetLife, Inc. (PIMCORating: A-)**",0000067160,N-CSRS,14
+Goldman Sachs International,,200000,6/20/15,,,(103,1.000%,United Kingdom Gilt (PIMCO Rating: AAA)**,0000067160,N-CSRS,14
+Goldman Sachs International,,100000,3/20/16,,,3011,1.000%,General Electric Capital Corp. (PIMCO Rating: AA+)**,0000067160,N-CSRS,14
+Goldman Sachs International,,300000,9/20/16,,,6266,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+Goldman Sachs International,,1500000,3/20/19,,,13743,1.000%,American International Group (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+Goldman Sachs International,,1300000,3/20/19,,,27665,1.000%,Colombia LA (PIMCORating: BAA)**,0000067160,N-CSRS,14
+JP Morgan Chase Bank,,200000,6/20/16,,,5431,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,0000067160,N-CSRS,14
+JP Morgan Chase Bank,,100000,9/20/16,,,1516,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+JP Morgan Chase Bank,,100000,9/20/16,,,1042,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+JP Morgan Chase Bank,,1300000,3/20/19,,,13957,1.000%,General Electric Capital Corp. (PIMCO Rating: AA+)**,0000067160,N-CSRS,14
+JP Morgan Chase Bank,,3000000,3/20/19,,,40478,1.000%,Mexico LA (PIMCORating: A-)**,0000067160,N-CSRS,14
+UBS AG,,100000,9/20/16,,,2440,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,0000067160,N-CSRS,14
+UBS AG,,1000000,9/20/16,,,20563,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+UBS AG,,300000,6/20/17,,,10616,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,0000067160,N-CSRS,14
+EUR,,9000000,6/20/19,,,97757,1.000%,ITRAXX Europe Series 21 (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1600000,6/20/15,,,"(97,281",5.000%,CDX.EM.13  (PIMCO Rating: BA+)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,400000,12/20/15,,,5682,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,400000,3/20/16,,,7227,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1500000,3/20/16,,,19131,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1400000,6/20/16,,,197,1.000%,General Electric Capital Corp. (PIMCO Rating: AA+)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,900000,6/20/16,,,9284,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,800000,12/20/16,,,26410,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1000000,6/20/17,,,6287,1.000%,Italian Government (PIMCO Rating: BAA)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,500000,9/20/17,,,19792,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,0000067160,N-CSRS,14
+Barclays Bank PLC,,1500000,3/20/18,,,26839,1.000%,United Mexican States (PIMCO Rating: A-)**,0000067160,N-CSRS,14

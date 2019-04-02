@@ -1,0 +1,26 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"1,000,000",12/20/15,Goldman Sachs & Co.,Sell ,1.000%,United Kingdom of Great Britain and Northern Ireland (PIMCO Rating: AAA)**,"1,126","23,194","24,320",0000916053,N-Q,12
+"7,700,000",12/20/15,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"284,615","(207,341","77,274",0000916053,N-Q,12
+"1,000,000",12/20/15,Goldman Sachs & Co.,Sell ,1.000%,United Kingdom of Great Britain and Northern Ireland (PIMCO Rating: AAA)**,"1,305","23,015","24,320",0000916053,N-Q,12
+"5,200,000",3/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"107,255","(195,802","(88,547",0000916053,N-Q,12
+"4,300,000",3/20/16,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"169,772","(132,765","37,007",0000916053,N-Q,12
+"13,000,000",3/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"582,123","(803,491","(221,368",0000916053,N-Q,12
+"3,700,000",6/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"19,801","(96,633","(76,832",0000916053,N-Q,12
+"1,600,000",6/20/16,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"6,707","16,292","22,999",0000916053,N-Q,12
+"1,300,000",9/20/16,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"13,412","(6,020","7,392",0000916053,N-Q,12
+"300,000",9/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"7,872","(15,221","(7,349",0000916053,N-Q,12
+"7,600,000",12/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"347,272","(568,138","(220,866",0000916053,N-Q,12
+"3,300,000",3/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"63,584","(27,613","35,971",0000916053,N-Q,12
+"6,000,000",3/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"108,476","(43,075","65,401",0000916053,N-Q,12
+"2,200,000",3/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"38,710","(14,729","23,981",0000916053,N-Q,12
+"4,900,000",6/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"60,557","(14,576","45,981",0000916053,N-Q,12
+"1,300,000",6/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"16,065","(3,866","12,199",0000916053,N-Q,12
+"1,300,000",6/20/17,Goldman Sachs & Co.,Sell ,1.000%,Republic of South Korea (PIMCO Rating: AA-)**,"26,184","(15,122","11,062",0000916053,N-Q,12
+"7,900,000",12/20/20,Goldman Sachs & Co.,Sell ,1.000%,American International Group (PIMCO Rating: A-)**,"1,196,142","(1,643,800","(447,658",0000916053,N-Q,12
+"200,000",12/20/15,JP Morgan Chase Bank,Sell ,5.000%,CDX.EM.14+ (PIMCO Rating: BA+)**,"(6,335","26,400","20,065",0000916053,N-Q,12
+"6,600,000",3/20/16,JP Morgan Chase Bank,Sell ,1.000%,"MetLife, Inc. (PIMCO Rating: A-)**","20,777","(159,291","(138,514",0000916053,N-Q,12
+"5,900,000",6/20/17,JP Morgan Chase Bank,Sell ,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"63,469","(80,807","(17,338",0000916053,N-Q,12
+"5,100,000",6/20/17,JP Morgan Chase Bank,Sell ,1.000%,Australia Government (PIMCO Rating: AAA)**,"53,361","55,455","108,816",0000916053,N-Q,12
+"5,700,000",9/20/17,JP Morgan Chase Bank,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"77,758","(78,938","(1,180",0000916053,N-Q,12
+"700,000",12/20/15,Royal Bank of Scotland PLC,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"4,569","(13,898","(9,329",0000916053,N-Q,12
+"1,000,000",3/20/16,Royal Bank of Scotland PLC,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"16,559","(33,588","(17,029",0000916053,N-Q,12

@@ -1,0 +1,19 @@
+Underlying Instrument,Counterparty,Amount($),Rate(%),Date,Value($),CIK,Reporting Type,Report Year
+"Bear Stearns Cos., Inc. (The)",Bank Of America,(560,1.29,09/20/17,,0000883939,N-Q,08
+Brunswick Corp,Merrill Lynch,(560,1.15,03/20/17,,0000883939,N-Q,08
+Carnival Corp,JPMorgan,(565,0.7,09/20/17,(1,0000883939,N-Q,08
+Centex Corp,Credit Suisse First Boston,(560,2.65,09/20/17,17,0000883939,N-Q,08
+Dow Chemical Co.,Barclays Bank PLC,(560,0.67,09/20/17,(6,0000883939,N-Q,08
+Dow Jones CDS Indicies; Series 7,Merrill Lynch,"3,340",0.59,12/20/16,60,0000883939,N-Q,08
+Dow Jones CDS Indicies; Series 7,Credit Suisse First Boston,"1,160",0.65,12/20/16,30,0000883939,N-Q,08
+Dow Jones CDS Indicies; Series 7,Bank Of America,"1,680",0.6,06/20/17,73,0000883939,N-Q,08
+Dow Jones CDS Indicies; Series 7,Merrill Lynch,565,0.6,06/20/17,26,0000883939,N-Q,08
+"Gannett Co., Inc.",Citibank N.A.,(560,0.81,06/20/17,11,0000883939,N-Q,08
+"IStar Financial, Inc.",Citibank N.A.,(560,0.7,03/20/17,76,0000883939,N-Q,08
+"MBIA, Inc.",Bank Of America,(560,1.35,09/20/17,94,0000883939,N-Q,08
+"MBIA, Inc.",Credit Suisse First Boston,(580,0.88,09/20/17,112,0000883939,N-Q,08
+"North America High Yield Index;
+Series 8",Merrill Lynch,"15,055",2.75,06/20/12,(451,0000883939,N-Q,08
+Wells Fargo & Co.,JPMorgan,(560,0.22,06/20/17,16,0000883939,N-Q,08
+Weyerhauser Co.,Citibank N.A.,(560,1.05,03/20/17,,0000883939,N-Q,08
+"Yum Brands, Inc.",Barclays Bank PLC,(560,1.06,9/20/2017,(9,0000883939,N-Q,08

@@ -1,0 +1,27 @@
+"Swap
+  Counterparty",Referenced Obligation,"Receive
+  Buy/Sell
+  Protection",Fixed Rate,Expiration Date,"Notional
+  Amount","Upfront
+  Premium
+  Paid (Received)",Value of Contract,CIK,Reporting Type,Report Year
+Barclays Capital,"HSBC Finance Corp.
+  7.000% 05/15/12",Buy,5.0,06/20/14,"2,015,000","(82,606","(270,927",0001097519,N-Q,10
+Barclays Capital,"Macy s, Inc.
+  7.450% 07/15/17",Buy,5.0,06/20/14,"2,040,000","(82,973","(205,989",0001097519,N-Q,10
+Barclays Capital,"D.R. Horton, Inc.
+  5.375% 06/15/12",Buy,1.0,09/20/14,"4,100,000","174,260","26,359",0001097519,N-Q,10
+Barclays Capital,"Toll Brothers, Inc.
+  5.150% 05/15/15",Buy,1.0,09/20/14,"4,100,000","14,252","46,713",0001097519,N-Q,10
+Barclays Capital,"Toll Brothers, Inc.
+  5.150% 05/15/15",Buy,1.0,09/20/14,"5,165,000","40,574","37,654",0001097519,N-Q,10
+Barclays Capital,"Limited Brands, Inc.
+  7.450% 07/15/17",Buy,5.0,09/20/14,"3,800,000","(309,287","(200,995",0001097519,N-Q,10
+JPMorgan,"Macy s, Inc.
+  7.450% 07/15/17",Buy,1.0,06/20/14,"7,055,000","590,572","(333,558",0001097519,N-Q,10
+JPMorgan,"D.R. Horton, Inc.
+  5.375% 06/15/12",Buy,1.0,09/20/14,"5,165,000","203,926","47,727",0001097519,N-Q,10
+Morgan Stanley,"The Home Depot, Inc.
+  5.875% 12/16/36",Buy,3.35,12/20/13,"9,000,000","(1,004,864",,0001097519,N-Q,10
+Morgan Stanley,"Limited Brands, Inc.
+  7.450% 07/15/17",Buy,5.0,09/20/14,"4,000,000","(307,205","(228,610",0001097519,N-Q,10

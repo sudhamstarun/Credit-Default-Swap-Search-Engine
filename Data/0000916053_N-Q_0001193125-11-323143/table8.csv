@@ -1,0 +1,16 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"1,000,000",6/20/16,Goldman Sachs & Co.,Sell ,1.000%,Republic of Italy (PIMCO Rating: A)**,"(119,905","(19,704","(139,609",0000916053,N-Q,11
+"3,700,000",6/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"(142,349","(96,633","(238,982",0000916053,N-Q,11
+"1,300,000",9/20/16,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"(46,499","(6,020","(52,519",0000916053,N-Q,11
+"300,000",9/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"(5,534","(15,221","(20,755",0000916053,N-Q,11
+"600,000",9/20/12,JPMorgan Chase Bank,Sell ,1.000%,Bank of America Corp. (PIMCO Rating: A)**,"6,005","(26,443","(20,438",0000916053,N-Q,11
+"200,000",12/20/15,JP Morgan Chase Bank,Sell ,5.000%,CDX.EM.14 (PIMCORating: BA+)**,"(13,799","26,400","12,601",0000916053,N-Q,11
+"6,600,000",3/20/16,JP Morgan Chase Bank,Sell ,1.000%,"MetLife, Inc. (PIMCO Rating: A-)**","(428,290","(159,291","(587,581",0000916053,N-Q,11
+"700,000",12/20/15,Royal Bank of Scotland PLC,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"(24,870","(13,898","(38,768",0000916053,N-Q,11
+"1,000,000",3/20/16,Royal Bank of Scotland PLC,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"(26,384","(33,588","(59,972",0000916053,N-Q,11
+"1,000,000",9/20/15,UBS AG,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"(13,320","(14,147","(27,467",0000916053,N-Q,11
+"800,000",12/20/15,UBS AG,Sell ,5.000%,CDX.EM.14 (PIMCORating: BA+)**,"(60,648","111,050","50,402",0000916053,N-Q,11
+"4,300,000",6/20/16,UBS AG,Sell ,0.250%,Federal Republic of Germany (PIMCO Rating: AAA)**,"(3,785","(145,559","(149,344",0000916053,N-Q,11
+"14,300,000",6/20/16,UBS AG,Sell ,0.250%,Federal Republic of Germany (PIMCO Rating: AAA)**,"(355,728","(140,928","(496,656",0000916053,N-Q,11
+"1,300,000",9/20/16,UBS AG,Sell ,1.000%,Republic of South Korea (PIMCO Rating: A+)**,"(56,436",-,"(56,436",0000916053,N-Q,11
+"5,400,000",9/20/16,UBS AG,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"(194,462","(23,694","(218,156",0000916053,N-Q,11
