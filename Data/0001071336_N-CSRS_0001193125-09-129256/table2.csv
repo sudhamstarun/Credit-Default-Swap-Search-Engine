@@ -1,8 +1,0 @@
-Counterparty,Referenced Entity,Buy/SellProtection,CurrentCreditSpread (10),NotionalAmount,FixedRate,TerminationDate,"Value atMarch 31,2009(U.S. Dollars)",UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
-Citibank,Masco Corporation,Buy ,5.19,"1,000,000",5.15,3/20/14,(279,(279,0001071336,N-CSRS,09
-Deutsche Bank AG,Aetna Inc.,Buy ,1.34,"1,000,000",1.15,3/20/14,"8,281","8,281",0001071336,N-CSRS,09
-Goldman Sachs,DJ High Yield CDX,Sell ,17.56,"2,000,000",5.0,12/20/13,"(599,166","(224,767",0001071336,N-CSRS,09
-Goldman Sachs,Georgia-Pacific LLC,Sell ,6.86,"100,000",2.25,6/20/09,(965,(965,0001071336,N-CSRS,09
-Goldman Sachs,"K. Hovnanian Enterprises, Inc.",Sell ,28.44,"50,000",5.0,6/20/09,"(2,412","(1,287",0001071336,N-CSRS,09
-JPMorgan,Newell Rubbermaid Inc.,Buy ,2.72,"1,300,000",2.82,6/20/14,"(5,674","(5,674",0001071336,N-CSRS,09
-JPMorgan,"Mohawk Industries, Inc.",Buy ,4.12,"1,000,000",3.7,3/20/14,"15,748","15,748",0001071336,N-CSRS,09

@@ -1,9 +1,0 @@
-Counterparty,Reference Entity/Obligation,Buy/Sell Protection,"(Pay)/
-  Receive
-  Fixed  Rate (%)",Termination Date,Notional Amount (3),Fair Value (4),"Upfront 
-  Premium
-  Paid/(Received)","Unrealized 
-  Appreciation/(Depreciation)",CIK,Reporting Type,Report Year
-"Goldman Sachs &
-  Co.",CDX.NA.IG.14 Index,Buy,(1.000),06/20/15,18518000,14837,190353,"(175,516)",0000002646,N-Q,10
-Morgan Stanley,CDX.NA.IG.14 Index,Buy,(1.000),06/20/15,127730000,102339,1243768,"(1,141,429)",0000002646,N-Q,10

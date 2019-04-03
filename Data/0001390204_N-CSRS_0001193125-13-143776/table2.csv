@@ -1,3 +1,0 @@
-Counterparty,Reference Entity,Buy/SellProtection (7),CurrentCreditSpread (8),NotionalAmount(U.S. Dollars),FixedRate(Annualized),TerminationDate,Value(U.S. Dollars),UnrealizedAppreciation(Depreciation)(U.S. Dollars) (6),CIK,Reporting Type,Report Year
-JPMorgan ,Markit CDX NA HY 18 Index,Sell,4.44,"1,800,000",5.0,12/20/17,"53,219","38,156",0001390204,N-CSRS,13
-JPMorgan ,Markit CDX NA IG 19 Index,Sell,0.89,"1,000,000",1.0,12/20/17,"6,351","4,555",0001390204,N-CSRS,13

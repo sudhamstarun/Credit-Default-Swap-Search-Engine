@@ -1,9 +1,0 @@
-Swap Reference Entity,Counterparty,Buy/Sell Credit Protection,Notional Amount(000s),Fixed Rate,Termination Date,CIK,Reporting Type,Report Year
-Inco Ltd:,"Morgan Stanley Capital Services, Inc.",Buy,240,0.63,3/20/17,0000355411,N-CSRS,09
-Inco Ltd:,"Morgan Stanley Capital Services, Inc.",Buy,240,0.7,3/20/17,0000355411,N-CSRS,09
-"Merrill Lynch & Co., Inc.:
-",Barclays Bank plc,Sell,460,4.15,9/20/09,0000355411,N-CSRS,09
-"Merrill Lynch & Co., Inc.:",Credit Suisse International,Sell,230,4.15,9/20/09,0000355411,N-CSRS,09
-"Vale Overseas:
-","Morgan Stanley Capital Services, Inc.",Sell,240,1.1,3/20/17,0000355411,N-CSRS,09
-Vale Overseas:,"Morgan Stanley Capital Services, Inc.",Sell,240,1.17,3/20/17,0000355411,N-CSRS,09

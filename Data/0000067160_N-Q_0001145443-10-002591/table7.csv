@@ -1,5 +1,0 @@
-NotionalAmount,ExpirationDate,Description,Premiums Received,Value,CIK,Reporting Type,Report Year
-"5,000",11/26/10,"U.S. Treasury Notes 5 Year Future Put, Strike 119.00","2,757",859,0000067160,N-Q,10
-"2,000",11/26/10,"U.S. Treasury Notes 5 Year Future Call, Strike 121.00","1,026","1,266",0000067160,N-Q,10
-"3,000",11/26/10,"U.S. Treasury Notes 5 Year Future Call, Strike 121.50",745,"1,242",0000067160,N-Q,10
-"1,000,000",6/18/12,"Interest Rate Swaption USD 3 Year Put, Strike 3.00*","6,325","5,275",0000067160,N-Q,10

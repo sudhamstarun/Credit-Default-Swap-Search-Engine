@@ -1,8 +1,0 @@
-Counterparty,ExpirationDate,NotionalAmount,Swap Details,UnrealizedAppreciation/(Depreciation),ImpliedCreditSpread*,CIK,Reporting Type,Report Year
-JPMorgan Chase Bank N.A.,12/20/2020,"2,590,000","Receive: Bombardier, Inc.(T)Pay: Fixed rate equal to 5.00%","87,094",11.34,0000887210,N-Q,16
-Goldman Sachs,03/20/2020,"2,740,000","Receive: Transocean, Inc.(T)Pay: Fixed rate equal to 5.00%","621,183",19.4,0000887210,N-Q,16
-Goldman Sachs International,03/20/2018,"1,265,000",Pay: Rite Aid(T) Receive: Fixed rate equal to 5.00%,"170,942",0.56,0000887210,N-Q,16
-Deutsche Bank,03/20/2018,"3,460,000",Pay: Rite Aid(T) Receive: Fixed rate equal to 5.00%,"458,908",0.56,0000887210,N-Q,16
-Goldman Sachs International,03/20/2018,"5,000,000",Pay: Rite Aid(T) Receive: Fixed rate equal to 5.00%,"663,162",0.56,0000887210,N-Q,16
-Morgan Stanley,06/20/2018,"450,000",Pay: New Albertsons(T)Receive: Fixed rate equal to 5.00%,"71,250",1.75,0000887210,N-Q,16
-Morgan Stanley,06/20/2018,"4,515,000",Pay: New Albertsons(T)Receive: Fixed rate equal to 5.00%,"726,163",1.75,0000887210,N-Q,16

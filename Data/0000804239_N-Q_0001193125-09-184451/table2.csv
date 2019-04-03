@@ -1,8 +1,0 @@
-Counterparty,Reference Entity/Obligation,Buy/SellProtection,(Pays)/ReceivesRate,TerminationDate,NotionalAmount(Thousands),Net UnrealizedAppreciation(Depreciation)($ Thousands),CIK,Reporting Type,Report Year
-Bank of America,"Radian Group Inc., 7.750%, 06/01/11",BUY,(0.39,12/20/13,750,311,0000804239,N-Q,09
-JPMorgan Chase Bank,"Hasbro Inc., 2.750%, 12/01/21",BUY,(0.39,12/20/11,750,,0000804239,N-Q,09
-JPMorgan Chase Bank,"Jones Apparel Group., 5.125%, 11/15/14",BUY,(0.77,12/20/11,750,52,0000804239,N-Q,09
-JPMorgan Chase Bank,"Radian Group Inc., 7.750%, 06/01/11",BUY,(0.39,12/20/13,750,259,0000804239,N-Q,09
-JPMorgan Chase Bank,"Southwest Airlines Co., 6.500%, 03/01/12",BUY,(0.27,12/20/11,750,60,0000804239,N-Q,09
-Merrill Lynch,"MDC Holdings Inc., 5.500%, 05/15/13",BUY,(0.90,12/20/11,750,(1,0000804239,N-Q,09
-Merrill Lynch,"Southwest Airlines Co, 6.500%, 03/01/12",BUY,(0.27,12/20/11,750,60,0000804239,N-Q,09

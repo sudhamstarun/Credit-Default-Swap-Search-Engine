@@ -1,4 +1,0 @@
-Counterparty,Reference Entity,Buy/SellProtection,Pay/Receive,ExpirationDate,NotionalAmount,UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
-"Lehman Brothers, Inc.","Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.61,03/20/2007,"3,000",(14,0001047304,N-Q,05
-Morgan Stanley Dean Witter & Co.,"Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.7,05/24/2005,"1,800",,0001047304,N-Q,05
-Morgan Stanley Dean Witter & Co.,"Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,1.0,07/20/2005,700,,0001047304,N-Q,05

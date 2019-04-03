@@ -1,3 +1,0 @@
-Reference Entity,Buy/SellProtection,(Pay)/ReceiveFixedRate,Expiration Date,ImpliedCreditSpead,NotionalAmount (000 s),UnrealizedAppreciation/(Depreciation)(000 s),CIK,Reporting Type,Report Year
-"Markit CDX Emerging Markets Index, Series 19",Sell,5.00%,6/18,2.940%,"  4,200",$(160),0000742212,N-Q,13
-"Markit CDX Emerging Markets Index, Series 20",Sell,5.00%,12/18,3.120%,"  9,000",(110),0000742212,N-Q,13

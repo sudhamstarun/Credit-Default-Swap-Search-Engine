@@ -1,2 +1,0 @@
-NotionalAmount,ExpirationDate,Counterparty,Payments Made by Fund,Payments Received by Fund,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
-"48,750,000",6/14/11,Goldman Sachs & Co.,Absolute value of [(USD-CMM30-FNMA rate- USD-10Y CMS rate + 0.568)% if negative],Absolute value of [(USD-CMM30-FNMA rate-USD-10Y CMS rate + 0.568)% if positive],"35,670",        -,"35,670",0000927972,N-Q,11

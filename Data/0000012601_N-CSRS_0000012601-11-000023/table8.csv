@@ -1,8 +1,0 @@
-Buy/Sell ,(Pay)/Receive ,Expiration ,Notional ,Appreciation ,CIK,Reporting Type,Report Year
-Protection ,Fixed Rate ,Date ,Amount ,(Depreciation) ,0000012601,N-CSRS,11
-Buy ,(5.00)% ,12/20/2015 ,"$ 1,570 $ ",1 ,0000012601,N-CSRS,11
-Buy ,(5.00)% ,12/20/2015 ,"4,000 ",2 ,0000012601,N-CSRS,11
-Buy ,(5.00)% ,12/20/2015 ,"2,430 ",(107) ,0000012601,N-CSRS,11
-Buy ,(5.00)% ,12/20/2015 ,"3,500 ",(4) ,0000012601,N-CSRS,11
-Contracts ,Notional Value ,Current Market Value ,Appreciation/(Depreciation) ,,0000012601,N-CSRS,11
-11 ,"$ 1,359 ","           $ 1,346 $ ",13 ,,0000012601,N-CSRS,11

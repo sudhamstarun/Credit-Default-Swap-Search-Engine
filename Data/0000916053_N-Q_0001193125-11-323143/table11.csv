@@ -1,5 +1,0 @@
-NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay) FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
-"21,000",3/15/49,Goldman Sachs & Co.,Buy,(0.070,CMBX 2 2006-2 AAA,636,945,"1,581",0000916053,N-Q,11
-"20,000",2/17/51,Morgan Stanley & Co.,Buy,(0.500,CMBX.NA.AM.4,"4,268","2,050","6,318",0000916053,N-Q,11
-"42,000",10/12/52,Morgan Stanley & Co.,Buy,(0.100,CMBX 1 2006-1 AAA,727,"2,205","2,932",0000916053,N-Q,11
-"26,000",10/12/52,Morgan Stanley & Co.,Buy,(0.100,CMBX 1 2006-1 AAA,515,"1,300","1,815",0000916053,N-Q,11

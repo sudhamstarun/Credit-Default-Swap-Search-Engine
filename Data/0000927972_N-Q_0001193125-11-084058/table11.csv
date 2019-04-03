@@ -1,5 +1,0 @@
-NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
-"125,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(2,237","5,938","3,701",0000927972,N-Q,11
-"175,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(5,127","12,687","7,560",0000927972,N-Q,11
-"175,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(5,128","12,687","7,559",0000927972,N-Q,11
-"335,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(9,816","24,288","14,472",0000927972,N-Q,11

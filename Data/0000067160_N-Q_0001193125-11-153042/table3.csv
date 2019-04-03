@@ -1,5 +1,0 @@
-NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
-"1,400,000",6/20/15,Barclays Bank PLC,Sell***,5.000%,CDX.EM.13 (PIMCO Rating: BA+)**,"(9,469","170,050","160,581",0000067160,N-Q,11
-"400,000",12/20/15,Barclays Bank PLC,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA-)**,793,"(2,308","(1,515",0000067160,N-Q,11
-"1,600,000",12/20/15,Barclays Bank PLC,Sell***,5.000%,CDX.EM.14 (PIMCO Rating: BA+)**,(750,"204,800","204,050",0000067160,N-Q,11
-"1,200,000",12/20/15,Barclays Bank PLC,Sell***,5.000%,CDX.NA.HY.15 (PIMCO Rating: B-)**,"2,564","37,500","40,064",0000067160,N-Q,11

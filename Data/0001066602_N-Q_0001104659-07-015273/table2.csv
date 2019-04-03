@@ -1,6 +1,0 @@
-Counterparty,Reference Entity/Obligation,Protection,Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
-"Bear Stearns Credit Products, Inc.","Idearc, Inc., 8.000%, due 11/15/16",Buy,(1.66)%,12/20/11,1900000,"(23,774)",0001066602,N-Q,07
-Merrill Lynch International,"Idearc, Inc., 8.000%, due 11/15/16",Buy,(1.73)%,12/20/11,1900000,"(29,453)",0001066602,N-Q,07
-"Citibank N.A., New York","R.H. Donnelley Corp., 8.875%, due 01/15/16",Sell,2.35%,12/20/11,1900000,24913,0001066602,N-Q,07
-Goldman Sachs International,"R.H. Donnelley Corp., 8.875%, due 01/15/16",Sell,2.45%,12/20/11,1900000,38654,0001066602,N-Q,07
-"Citibank N.A., New York","United States Steel Corp., 9.750%, due 05/15/10",Buy,(1.70)%,12/20/16,1250000,"(14,134)",0001066602,N-Q,07

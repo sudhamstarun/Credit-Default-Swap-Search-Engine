@@ -1,3 +1,0 @@
-Underlying Instrument,Broker (Exchange),NotionalAmount,FixedRate,Expiration Date,ImpliedCreditSpread*,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
-CDX.NA.HY.20,JPMorgan (CME),"$62,500,000",5.0,06/20/18,3.592,"$3,655,048","$204,725",0000883939,N-CSRS,13
-CDX.NA.HY.20,JPMorgan (CME),"44,000,000",5.0,06/20/18,3.592,"(2,573,154","(559,723",0000883939,N-CSRS,13

@@ -1,5 +1,0 @@
-Counterparty,Reference   Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Implied   Credit   Spread at   03/31/13 (%)   (5),Notional   Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
-"Citigroup, Inc.","MBIA Global Funding, LLC",Sell,5.0,09/20/13,79.017,"3,460,000","(923,387)","(133,769)","(789,618)",0000002646,N-Q,13
-"Citigroup, Inc.","MBIA Global Funding, LLC",Sell,5.0,09/20/13,79.017,"1,710,000","(456,356)","(60,604)","(395,752)",0000002646,N-Q,13
-Goldman   Sachs & Co.,"MBIA Global Funding, LLC",Sell,5.0,09/20/13,79.017,"3,435,000","(916,716)","(120,198)","(796,518)",0000002646,N-Q,13
-JPMorgan   Chase & Co.,"MBIA Global Funding, LLC",Sell,5.0,09/20/13,79.017,"6,874,000","(1,834,499)","(120,711)","(1,713,788)",0000002646,N-Q,13

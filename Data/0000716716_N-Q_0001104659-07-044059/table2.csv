@@ -1,8 +1,0 @@
-SWAP COUNTERPARTY & REFERENCE OBLIGATION,BUY/SELL PROTECTION,NOTIONAL AMOUNT(000 s),PAY/RECEIVE FIXED RATE,TERMINATION DATE,APPRECIATION (DEPRECIATION),CIK,Reporting Type,Report Year
-"Goldman Sachs International
-  Countrywide Home Loan",Sell,350,0.35,"March 20, 2010","(1,022",0000716716,N-Q,07
-"Goldman Sachs International
-  Southwest Airlines Co.",Buy,400,0.22,"December 20, 2011",1407,0000716716,N-Q,07
-Goldman Sachs International Dell Inc.,Buy,365,0.22,"March 20, 2012",88,0000716716,N-Q,07
-Citigroup Global Tyco International Ltd.,Buy,160,0.43,"March 20, 2012",155,0000716716,N-Q,07
-Citigroup Global Tyco International Ltd.,Buy,390,0.43,"March 20, 2012",377,0000716716,N-Q,07

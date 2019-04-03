@@ -1,8 +1,0 @@
-ISSUER  ,NOTIONAL  AMOUNT  ,SELL PROTECTION  ,RECEIVED  FIXED RATE  ,TERMINATION  DATE  ,COUNTERPARTY  ,APPRECIATION/  DEPRECIATION  ,CIK,Reporting Type,Report Year
-"Abitibi-Consolidated, Inc.  ","$3,000,000  ",SELL  ,8.00%  ,Sep 2012  ,Morgan Stanley  ,"($1,178,830)  ",0000315554,N-Q,08
-AMR Corp.  ,3000000,SELL  ,6.6,Sep 2012  ,Morgan Stanley  ,"(1,427,842)  ",0000315554,N-Q,08
-AMR Corp.  ,5000000,SELL  ,5,Sep 2010  ,Morgan Stanley  ,"(487,009)  ",0000315554,N-Q,08
-AMR Corp.  ,3000000,SELL  ,5,Sep 2010  ,Morgan Stanley  ,"(183,700)  ",0000315554,N-Q,08
-AMR Corp.  ,3000000,SELL  ,5,Sep 2010  ,Morgan Stanley  ,"(210,698)  ",0000315554,N-Q,08
-AMR Corp.  ,2000000,SELL  ,5,Mar 2013  ,Lehman Brothers  ,"(732,479)  ",0000315554,N-Q,08
-"BoWater, Inc.  ",3000000,SELL  ,7,Sep 2012  ,Morgan Stanley  ,"(716,187)  ",0000315554,N-Q,08

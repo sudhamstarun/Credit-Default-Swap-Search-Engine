@@ -1,9 +1,0 @@
-NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
-"100,000",9/20/16,JP Morgan Chase Bank,Sell***,1.000%,Federative Republic of Brazil(PIMCO Rating: BAA)**,166,(609,(443,0000067160,N-Q,13
-"700,000",6/20/17,JP Morgan Chase Bank,Sell***,1.000%,Japan Government(PIMCO Rating: AA-)**,"12,704","(1,215","11,489",0000067160,N-Q,13
-"300,000",6/20/17,JP Morgan Chase Bank,Sell***,1.000%,Republic of Indonesia(PIMCO Rating: BAA-)**,"5,076","(8,967","(3,891",0000067160,N-Q,13
-"900,000",6/20/17,JP Morgan Chase Bank,Sell***,1.000%,Federative Republic of Brazil(PIMCO Rating: BAA)**,"2,640","(12,047","(9,407",0000067160,N-Q,13
-"1,000,000",9/20/16,UBS AG,Sell***,1.000%,United Mexican States(PIMCO Rating: BAA+)**,"13,108","(4,388","8,720",0000067160,N-Q,13
-"700,000",9/20/16,UBS AG,Sell***,1.000%,People s Republic of China(PIMCO Rating: AA-)**,"9,642","3,634","13,276",0000067160,N-Q,13
-"100,000",9/20/16,UBS AG,Sell***,1.000%,Republic of Indonesia(PIMCO Rating: BAA-)**,"1,557","(1,578",(21,0000067160,N-Q,13
-"300,000",6/20/17,UBS AG,Sell***,1.000%,Republic of Indonesia(PIMCO Rating: BAA-)**,"5,357","(9,247","(3,890",0000067160,N-Q,13

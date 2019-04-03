@@ -1,4 +1,0 @@
-Underlying Instrument,Counterparty,NotionalAmount($),FixedRate(%),ExpirationDate,UpfrontPaymentsMade(Received)($),Value($),"UnrealizedAppreciation
-(Depreciation)($)",CIK,Reporting Type,Report Year
-French Republic 5 Year,JPMorgan,"17,495,000",1.0,12/20/16,"1,210,321","1,529,827","319,506",0000883939,N-Q,12
-Republic of Turkey 5 Year,JPMorgan,"16,680,000",1.0,12/20/16,"1,489,967","1,492,027","2,060",0000883939,N-Q,12
