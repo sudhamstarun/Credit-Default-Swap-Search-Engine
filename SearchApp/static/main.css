@@ -38,7 +38,7 @@ section {
 
 /** buttons */
 
-input[name=lol1] {
+input[name=button1] {
   background-color: #00AE68;
   border: 0;
   border-radius: 5px;
@@ -53,7 +53,7 @@ input[name=lol1] {
   width: 180px
 }
 
-input[name=lol2] {
+input[name=button2] {
   background-color: #FFAA40;
   border: 0;
   border-radius: 5px;
