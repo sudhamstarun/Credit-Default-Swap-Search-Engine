@@ -48,6 +48,9 @@ def searchJsonArray(search_string):
     return results
 
 
+def searchCSV(search_string)
+
+
 app = Flask(__name__)
 
 # Functions with URL routing
@@ -64,15 +67,22 @@ def favicon():
                                'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 
-@app.route("/results", methods=['POST', 'GET'])
+@app.route("/raw_results", methods=['POST', 'GET'])
 def printJsonResults():
-    tags = []
-    if request.method == 'POST':
-        search_string = request.form['input']
-        results = searchJsonArray(search_string)
-        for json_object in results:
-            tags.append(json2html.convert(json=json_object,))
-        return render_template('result.html', results=tags)
+    if 'button1' in request.form:
+        tags = []
+        if request.method == 'POST':
+            search_string = request.form['input']
+            results = searchJsonArray(search_string)
+            for json_object in results:
+                tags.append(json2html.convert(json=json_object,))
+            return render_template('raw_result.html', results=tags)
+
+    if 'button2' in request.form:
+        tags = []
+        if request.method == 'POST':
+            search_string = request.form['input']
+            results = searchJsonArray(search_string)
 
     return '', 204
 
