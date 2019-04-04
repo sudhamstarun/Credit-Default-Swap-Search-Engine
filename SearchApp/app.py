@@ -65,7 +65,7 @@ def printJsonResults():
         search_string = request.form['input']
         results = searchJsonArray(search_string)
         for json_object in results:
-            tags.append(json2html.convert(json=json_object))
+            tags.append(json2html.convert(json=json_object,))
         return render_template('result.html', results=tags)
 
     return '', 204

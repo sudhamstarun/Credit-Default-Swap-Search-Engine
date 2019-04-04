@@ -7,14 +7,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="author" content="colorlib.com">
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet'>
-
 	<link href="{{ url_for('static', filename='main.css') }}" rel="stylesheet">
 </head>
+
 
 <body>
 	<div class="lol">
 		<div class="s010">
 			<form method="POST" action="/results">
+				<input type="submit" name="button3" value="Search"></input>
+				<input type="submit" name="button4" value="NER Model"></input>
+				<input type="submit" name="button5" value="Extract Info"></input>
 				<h1> Credit Default Swap Search </h1>
 				<div class=" inner-form">
 					<div class="basic-search">
