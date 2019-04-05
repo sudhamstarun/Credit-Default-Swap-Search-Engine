@@ -48,8 +48,16 @@ def searchJsonArray(search_string):
     return results
 
 
-def searchCSV(search_string)
+# def searchCSV(search_string):
+    #csv_file = csv.reader(open('test.csv', "rb"), delimiter=",")
 
+'''
+# loop through csv list
+for row in csv_file:
+    # if current rows 2nd value is equal to input, print that row
+    if number == row[1]:
+        print row
+'''
 
 app = Flask(__name__)
 
