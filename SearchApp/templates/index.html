@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet'>
+	<link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
 	<link href="{{ url_for('static', filename='main.css') }}" rel="stylesheet">
 </head>
 
@@ -21,7 +22,8 @@
 				<div class=" inner-form">
 					<div class="basic-search">
 						<div class="input-field">
-							<input id="search" name="input" type="text" placeholder="Search CDS" />
+							<input id="search" name="input" type="text" placeholder="Search CDS"
+								class="mdc-text-field__input" />
 							{% if input == 0 %}
 							<strong> Please enter a keyword to search for CDS!</strong>
 							{% endif %}
