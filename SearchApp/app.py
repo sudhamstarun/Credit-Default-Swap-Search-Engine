@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request, send_from_directory
 from json2html import *
+from flask_cors import CORS
+from serve import get_model_api
 
 import os
 import pandas as pd
@@ -73,7 +75,8 @@ def search_csv(search_string):
 
 
 app = Flask(__name__)
-
+CORS(app)
+model_api = get_model_api()
 # Functions with URL routing
 
 
@@ -106,6 +109,19 @@ def printJsonResults():
             return render_template('unified_results.html', results=result)
 
     return '', 204
+
+
+@app.route('/ner', methods=['GET', 'POST'])
+def ner():
+    return render_template('ner_front.html')
+
+
+@app.route('/ner/api', methods=['POST'])
+def api():
+    input_data = request.json
+    output_data = model_api(input_data)
+    response = jsonify(output_data)
+    return response
 
 
 if __name__ == "__main__":

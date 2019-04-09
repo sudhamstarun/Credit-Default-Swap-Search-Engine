@@ -14,9 +14,9 @@
 <body>
 	<div class="lol">
 		<div class="s010">
-			<form method="POST" action="/raw_results">
-				<input type="image" name="button3" src="/static/search.svg" action="/raw_results"></input>
-				<input type="image" name="button4" src="/static/face-scanner.svg"></input>
+			<form method="POST">
+				<input type="image" name="button3" src="/static/search.svg" formaction="/raw_results"></input>
+				<input type="image" name="button4" src="/static/face-scanner.svg" formaction="/ner"></input>
 				<input type="image" name="button5" src="/static/mining.svg"></input>
 				<h1> Credit Default Swap Search </h1>
 				<div class=" inner-form">
@@ -37,8 +37,8 @@
 						</div>
 					</div>
 				</div>
-				<input type="submit" name="button1" value="Raw Tables"></input>
-				<input type="submit" name="button2" value="Unified Table"></input>
+				<input type="submit" name="button1" value="Raw Tables" formaction="/raw_results"></input>
+				<input type="submit" name="button2" value="Unified Table" formaction="/raw_results"></input>
 			</form>
 		</div>
 	</div>
