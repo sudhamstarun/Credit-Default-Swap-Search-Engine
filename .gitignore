@@ -12,3 +12,4 @@ test/
 UnifiedCSVTestData/
 Data/
 UnifiedCSV/
+__pycache__/
