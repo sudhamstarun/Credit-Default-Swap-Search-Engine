@@ -8,7 +8,7 @@ import csv
 import json
 import re
 
-pd.set_option('display.max_columns', None)
+pd.set_option('display.max_colwidth', -1)
 parent_dir = "../Data/"
 filelist = []
 
