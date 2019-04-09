@@ -48,16 +48,17 @@ def searchJsonArray(search_string):
     return results
 
 
-# def searchCSV(search_string):
-    #csv_file = csv.reader(open('test.csv', "rb"), delimiter=",")
+def search_csv(search_string):
+    csv_file = pd.read_csv('../UnifiedCSV/final_csv.csv')
 
-'''
-# loop through csv list
-for row in csv_file:
-    # if current rows 2nd value is equal to input, print that row
-    if number == row[1]:
-        print row
-'''
+    num_columns = len(list(csv_file))
+    # loop through csv list
+    for row in csv_file:
+        # Search
+        for iterator in range(0, num_columns):
+            if number == row[]:
+                print row
+
 
 app = Flask(__name__)
 
