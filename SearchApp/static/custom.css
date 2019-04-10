@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-
+    background: #d9eff5;
     font-family: monospace;
     margin: 0 0 0px;
     font-size: 15px;
@@ -19,9 +19,12 @@
 }
 
 .col-lg-6 {
-
+    background: #d9eff5;
     margin-top: 300px;
+}
 
+body {
+    background: #d9eff5;
 }
 
 .spinner {
