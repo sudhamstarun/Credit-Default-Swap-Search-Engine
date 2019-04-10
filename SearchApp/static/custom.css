@@ -18,6 +18,12 @@
     padding: 0;
 }
 
+.col-lg-6 {
+
+    margin-top: 300px;
+
+}
+
 .spinner {
     width: 40px;
     height: 40px;

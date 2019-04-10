@@ -30,43 +30,31 @@
     </div>
 </body>
 
-
-
-<script type="text/javascript">
+<script>
     function api_call(input) {
-        // hide button and make the spinner appear
-        $('#btn').toggle();
-        $('#spinner').toggle();
         $.ajax({
-            url: "http://0.0.0.0:5000/ner/api",
+            url: "http://0.0.0.0:5000/api",
             method: 'POST',
             contentType: 'application/json',
             data: JSON.stringify(input),
             success: function (data, textStatus, jQxhr) {
-                // toggle the spinner and button
-                $('#btn').toggle();
-                $('#spinner').toggle();
-                // fill the html for answer
-                $('#api_input').html(data.input);
+                $('#api_input').html(input);
                 $('#api_output').html(data.output);
                 $("#input").val("");
             },
             error: function (jqXhr, textStatus, errorThrown) {
-                $('#btn').toggle();
-                $('#spinner').toggle();
-                $('#api_input').html("Sorry, the server is asleep...");
-                $('#api_output').html("Try again in a moment!");
+                $('#api_output').html("There was an error");
                 console.log(errorThrown);
             },
-            timeout: 3000 // sets timeout to 10 seconds
+            timeout: 3000
         });
     }
     $(document).ready(function () {
         // request when clicking on the button
         $('#btn').click(function () {
-            // get the input data
             var input = $("#input").val();
             api_call(input);
             input = "";
         });
     });
+</script>
