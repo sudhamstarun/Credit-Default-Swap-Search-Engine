@@ -60,8 +60,6 @@ def search_csv(search_string):
     results_rows = []
     csvreader_file = csv.reader(
         open('../UnifiedCSV/final_csv.csv', "r"), delimiter=",")
-
-    print(csvreader_file)
     for row in csvreader_file:
         for iterator in range(num_columns):
             if search_string in row[iterator]:
