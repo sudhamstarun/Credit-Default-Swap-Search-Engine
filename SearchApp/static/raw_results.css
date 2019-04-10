@@ -8,3 +8,19 @@ td {
     text-align: left;
     padding: 8px;
 }
+
+button {
+    background-color: #00AE68;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.4;
+    padding: 10px;
+    width: 180px
+}
