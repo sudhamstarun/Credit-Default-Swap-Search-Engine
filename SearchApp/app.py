@@ -75,6 +75,7 @@ def search_csv(search_string):
 app = Flask(__name__)
 CORS(app)
 # Functions with URL routing
+# Need to add consolidated view
 
 
 @app.route("/")
