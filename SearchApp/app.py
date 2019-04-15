@@ -84,6 +84,7 @@ def search_csv(search_string):
     return html_tags
 
 # Functions with URL routing
+# Need to add consolidated view
 
 
 @app.route("/")
