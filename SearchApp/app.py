@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, send_from_directory, jsonify
 from json2html import *
+from werkzeug.utils import secure_filename
 from flask_cors import CORS
 from serve import model_api
 
@@ -13,6 +14,17 @@ import re
 pd.set_option('display.max_colwidth', -1)
 parent_dir = "../Data/"
 filelist = []
+
+app = Flask(__name__)
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+CORS(app)
+UPLOAD_FOLDER = '/path/to/the/uploads'
+ALLOWED_EXTENSIONS = set(['txt', 'pdf'])
+
+
+def allowed_file(filename):
+    return '.' in filename and \
+           filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 
 def makefilelist(parent_dir):
@@ -71,9 +83,6 @@ def search_csv(search_string):
     html_tags = search_results.to_html()
     return html_tags
 
-
-app = Flask(__name__)
-CORS(app)
 # Functions with URL routing
 
 
@@ -119,6 +128,10 @@ def api():
     output_data = model_api(input_data)
     response = jsonify(output_data)
     return response
+
+
+@app.route('/file_upload', methods=['POST'])
+def processReport():
 
 
 if __name__ == "__main__":
