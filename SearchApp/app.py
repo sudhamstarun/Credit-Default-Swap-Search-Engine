@@ -8,6 +8,7 @@ from serve import model_api
 import os
 import pandas as pd
 import glob
+import subprocess
 import csv
 import json
 import re
@@ -163,9 +164,7 @@ def upload():
 def extractReport():
     global filename
     filepath = UPLOAD_FOLDER + "/" + filename
-    with open(filepath, 'rb') as f:
-        content = f.read()
-
+    subprocess.call(['../Uploads/./duplicate.sh'])
     return '', 204
 
 
