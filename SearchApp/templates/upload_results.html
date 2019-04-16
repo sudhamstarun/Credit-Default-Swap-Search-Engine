@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<head>
+    <link href="{{ url_for('static', filename='raw_results.css') }}" rel="stylesheet">
+</head>
+<html>
+
+<head>
+    <title>Results</title>
+</head>
+
+<body>
+    {% for thing in results %}
+    {{ thing | safe}}
+    {% if not loop.last %}
+    <br>
+    {% endif %}
+    {% endfor %}
+</body>
+
+</html>

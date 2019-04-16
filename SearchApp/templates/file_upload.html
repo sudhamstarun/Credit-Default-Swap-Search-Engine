@@ -1,22 +1,18 @@
-<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<!DOCTYPE html>
+<html>
 
-<div class="file-upload">
-    <div class="file-select">
-        <div class="file-select-button" id="fileName">Choose File</div>
-        <div class="file-select-name" id="noFile">No file chosen...</div>
-        <input type="file" name="chooseFile" id="chooseFile">
-    </div>
-</div>
+<head>
+    <title>Upload New File</title>
+</head>
 
-<script>
-    $('#chooseFile').bind('change', function () {
-        var filename = $("#chooseFile").val();
-        if (/^\s*$/.test(filename)) {
-            $(".file-upload").removeClass('active');
-            $("#noFile").text("No file chosen...");
-        } else {
-            $(".file-upload").addClass('active');
-            $("#noFile").text(filename.replace("C:\\fakepath\\", ""));
-        }
-    });
-</script>
+<body>
+    <h1>Upload Files</h1>
+
+    <form action="handle_form" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+
+</body>
+
+</html>
