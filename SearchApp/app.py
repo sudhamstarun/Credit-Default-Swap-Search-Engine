@@ -16,7 +16,6 @@ import re
 pd.set_option('display.max_colwidth', -1)
 parent_dir = "../Data/"
 filelist = []
-filename = ""
 
 UPLOAD_FOLDER = '../Uploads/files'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf'])
@@ -153,7 +152,6 @@ def upload():
             return redirect('/redirect')
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
-            print(filename)
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             return redirect(url_for('extractReport'))
 
@@ -162,10 +160,17 @@ def upload():
 
 @app.route('/extractResults', methods=['GET'])
 def extractReport():
-    global filename
-    filepath = UPLOAD_FOLDER + "/" + filename
+    listOfFiles = []
+    jsonObjects = [[]]
+    finalResults = []
+    filepath = "../Uploads/m_formatwithouttotal/"
     subprocess.call(['../Uploads/./duplicate.sh'])
-    return '', 204
+    listOfFiles = makefilelist(filepath)
+    jsonObjects = createJsonOjectArray(listOfFiles)
+    for json_object in jsonObjects:
+        finalResults.append(json2html.convert(json=json_object,))
+
+    return render_template('upload_results.html', results=finalResults)
 
 
 if __name__ == "__main__":
