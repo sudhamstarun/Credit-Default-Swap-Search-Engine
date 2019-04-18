@@ -1,0 +1,17 @@
+Notional Amount,Expiration Date,Counterparty,Receive(Pay),Annual Premium,Deliverable On Default,Deliverable On Default.1,CIK,Reporting Type,Report Year
+"$10,000,000",10/20/2005,"Deutsche
+  Bank AG",(Pay),0.80%,"Bolivarian Republic of
+  Venezuela","$    (33,372",0000772129,N-CSRS,05
+10000000,11/6/2005,"JP
+  Morgan Chase Bank",(Pay),9.30%,Republic of Colombia,"(465,254",0000772129,N-CSRS,05
+10000000,12/9/2005,"Lehman
+  Brothers",(Pay),1.55%,Gazprom Loan Facility,"(64,625",0000772129,N-CSRS,05
+10000000,12/20/2005,"UBS
+  AG",(Pay),2.03%,Republic of Brazil,"(87,680",0000772129,N-CSRS,05
+15000000,1/21/2006,"Deutsche
+  Bank AG",Receive,5.40%,Gazprom Loan Facility,381302,0000772129,N-CSRS,05
+14000000,2/20/2006,"UBS
+  AG",(Pay),2.10%,Republic of Ecuador,114166,0000772129,N-CSRS,05
+15000000,4/3/2006,"Morgan
+  Guaranty Trust Company",(Pay),0.25%,"Banco Santander Senior
+  Bonds or Loans","(22,140",0000772129,N-CSRS,05

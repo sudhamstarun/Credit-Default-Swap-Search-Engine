@@ -1,0 +1,67 @@
+"
+Credit Default SwapsCounterparty
+
+","
+Reference Entity
+
+","
+Buy/Sell
+
+","
+Pay/ReceiveFixed Rate
+
+","
+ExpirationDate
+
+","
+NotionalAmount
+
+","
+Appreciation/(Depreciation)
+
+",CIK,Reporting Type,Report Year
+"
+JP Morgan Chase
+","
+Republic of Hungary4.75%, 2/3/2015
+","
+Buy
+","
+0.300%
+","
+11/20/2011
+","
+$1,500,000
+","
+$(39)
+",0000918199,N-CSR,07
+"
+JP Morgan Chase
+","
+Dow JonesCDX Index
+","
+Buy
+","
+1.400%
+","
+12/20/2011
+","
+$15,000,000
+","
+- --
+",0000918199,N-CSR,07
+"
+JP Morgan Chase
+","
+Bolivarian Republicof Venezuela9.25%, 9/15/2027
+","
+Sell
+","
+1.460%
+","
+11/20/2011
+","
+$1,500,000
+","
+$(4,369)
+",0000918199,N-CSR,07

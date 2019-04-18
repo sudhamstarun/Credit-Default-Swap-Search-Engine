@@ -1,0 +1,17 @@
+NotionalAmount,Expiration Date,Counterparty,Payments Made by Fund,Payments Received by Fund,UnrealizedAppreciation(Depreciation),Premium Received (Paid),Value,Unnamed: 8,CIK,Reporting Type,Report Year
+16150000,6/14/11,Goldman Sachs International,Absolute value of (USD-CMM30-FNMA rate - the USD-10Y CMS rate - 0.57)% if negative,Absolute value of (USD-CMM30-FNMA rate -the USD-10Y CMS rate -0.57)% if positive,"(3,902",-,"(3,902",,0000927972,N-Q,10
+14950000,11/02/10,Goldman Sachs International,Absolute value of (USD-CMM30-FNMA rate - the USD-10Y CMT rate - 0.54)% if negative,Absolute value of (USD-CMM30-FNMA rate -the USD-10Y CMT rate -0.54)% if positive,-,-,-,,0000927972,N-Q,10
+5100000,10/12/52,Bank of America N.A.,Buy,(0.100%),CMBX.NA.AAA.1,42203,245437,287640,0000927972,N-Q,10
+2200000,6/20/14,Barclays Bank PLC,Buy,(1.000%),Centex Corp.,"(8,580",40744,32164,0000927972,N-Q,10
+9800000,6/20/15,Barclays Bank PLC,Buy,(1.000%),CDX.NA.IG.14,"(119,364",138816,19452,0000927972,N-Q,10
+3300000,6/20/17,Barclays Bank PLC,Buy,(0.850%),Sara Lee Corp.,"(18,242",-,"(18,242",0000927972,N-Q,10
+4020000,6/20/16,Credit Suisse Securities LLC,Buy,(0.580%),"Marriot International, Inc.",148033,-,148033,0000927972,N-Q,10
+1602115,7/25/45,Credit Suisse Securities LLC,Buy,(0.180%),CDX.NA.IG.14,28830,164225,193055,0000927972,N-Q,10
+17000000,10/12/52,Goldman Sachs & Co.,Buy,(0.100%),CMBX.NA.AAA.1,"(684,950",1643750,958800,0000927972,N-Q,10
+5000000,10/12/52,Goldman Sachs & Co.,Buy,(0.100%),CMBX.NA.AAA.1,"(218,000",500000,282000,0000927972,N-Q,10
+5100000,10/12/52,Goldman Sachs & Co.,Buy,(0.100%),CMBX.NA.AAA.1,"(20,485",308125,287640,0000927972,N-Q,10
+4175000,10/12/52,Goldman Sachs & Co.,Buy,(0.100%),CMBX.NA.AAA.1,37157,198312,235469,0000927972,N-Q,10
+2500000,10/12/52,Goldman Sachs & Co.,Buy,(0.100%),CMBX.NA.AAA.1,"(21,500",162500,141000,0000927972,N-Q,10
+19600000,6/20/15,"JPMorgan Chase Bank, N.A.",Buy,(1.000%),CDX.NA.IG.14,"(225,237",264141,38904,0000927972,N-Q,10
+48750000,6/14/11,Goldman Sachs International,Absolute value of (USD-CMM30-FNMA rate - the USD-10Y CMS rate - 0.57)% if negative,Absolute value of (USD-CMM30-FNMA rate -the USD-10Y CMS rate -0.57)% if positive,"(11,779",-,"(11,779",,0000927972,N-Q,10
+46850000,11/02/10,Goldman Sachs International,Absolute value of (USD-CMM30-FNMA rate - the USD-10Y CMS rate - 0.54)% if negative,Absolute value of (USD-CMM30-FNMA rate -the USD-10Y CMS rate -0.54)% if positive,-,-,-,,0000927972,N-Q,10

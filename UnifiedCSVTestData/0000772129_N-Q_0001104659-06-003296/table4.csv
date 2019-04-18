@@ -1,0 +1,13 @@
+"Notional
+  Amount","Expiration
+  Date",Counterparty,"Receive
+  (Pay)","Annual
+  Premium","Deliverable
+  On Default","Net
+  Unrealized
+  Appreciation
+  (Depreciation)",CIK,Reporting Type,Report Year
+"13,000,000",9/20/2010,"Morgan Stanley Capital
+  Services Inc.",Receive,0.4,"Credit Swap Eagle Creek
+  CDO","(121,739",0000772129,N-Q,06
+"5,000,000",3/20/2015,Lehman Brothers,Receive,0.88,Credit Swap AAA CDO,"(155,288",0000772129,N-Q,06

@@ -1,0 +1,6 @@
+Notional Amount,Expiration Date,Counterparty,Value,CIK,Reporting Type,Report Year
+"4,400,000",03/20/21,Goldman Sachs International,"60,708",0001320615,N-CSR,12
+"400,000",12/20/16,Citibank N.A.,"8,970",0001320615,N-CSR,12
+"900,000",03/20/16,Deutsche Bank AG,"15,023",0001320615,N-CSR,12
+"1,400,000",03/20/16,Morgan Stanley Capital Services LLC,"23,368",0001320615,N-CSR,12
+"400,000",12/20/15,Deutsche Bank AG,"(4,061",0001320615,N-CSR,12

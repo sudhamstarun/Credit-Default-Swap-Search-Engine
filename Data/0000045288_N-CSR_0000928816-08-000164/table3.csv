@@ -1,0 +1,3 @@
+ISSUER  ,AMOUNT  ,PROTECTION  ,FIXED RATE  ,DATE  ,COUNTERPARTY,DEPRECIATION  ,CIK,Reporting Type,Report Year
+Ford Motor Company  ,"$5,000,000  ",SELL  ,2.15%  ,Jun 08  ,Morgan Stanley  ,"($22,019)  ",0000045288,N-CSR,08
+Rubber Company  ,5000000,SELL  ,1.51,Jun 12  ,Bank of America  ,"(194,446)  ",0000045288,N-CSR,08

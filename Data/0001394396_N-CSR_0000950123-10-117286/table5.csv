@@ -1,0 +1,57 @@
+"
+Entity
+","
+Counterparty
+","
+AMount(000s)
+","
+Rate*
+","
+Date
+","
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+    Austria
+","
+    Barclays Bank PLC
+",200000,"
+    .44%
+","
+    12/20/13
+","
+    506
+",0001394396,N-CSR,10
+"
+    Austria
+","
+    Barclays Bank PLC
+",100000,"
+    1.42
+","
+    3/20/14
+","
+    (3,028)
+",0001394396,N-CSR,10
+"
+    Egypt
+","
+    Bank of America
+",100000,"
+    1
+","
+    6/20/15
+","
+    (896)
+",0001394396,N-CSR,10
+"
+    Egypt
+","
+    Citigroup Global Markets
+",50000,"
+    1
+","
+    6/20/20
+","
+    (337)
+",0001394396,N-CSR,10

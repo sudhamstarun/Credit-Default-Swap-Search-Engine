@@ -1,0 +1,11 @@
+Counterparty,Referenced Entity,Buy/SellProtection,CurrentCreditSpread (9),NotionalAmount,FixedRate*,TerminationDate,Value(U.S. Dollars),UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+Bank of America,Ford Motor Company,Sell(10),6.85,4800000,5.0,12/20/14,"(317,147",210853,0001071336,N-Q,10
+Barclays Bank PLC,"TRW Automotive, Inc.",Sell(10),4.2,2350000,5.0,3/20/15,8550,13497,0001071336,N-Q,10
+Citibank,Masco Corporation,Buy(10),1.73,2700000,5.15,3/20/14,"(361,189","(361,189",0001071336,N-Q,10
+Credit Suisse,"Harrah s Operating Company, Inc., LCDS",Sell(10),5.73,1760000,5.0,6/20/10,"(3,295",190305,0001071336,N-Q,10
+Credit Suisse,"Harrah s Operating Company, Inc.",Buy(10),5.24,1760000,5.0,6/20/10,(753,"(546,353",0001071336,N-Q,10
+Credit Suisse,Dynegy Holdings Inc.,Sell(10),6.44,1000000,5.0,3/20/14,"(45,972",94028,0001071336,N-Q,10
+Credit Suisse,Tesoro Corporation,Buy(10),3.56,4500000,5.0,9/20/14,"(263,825","(95,787",0001071336,N-Q,10
+Deutsche Bank,Aetna Inc.,Buy(10),0.43,2700000,1.15,3/20/14,"(79,789","(79,789",0001071336,N-Q,10
+JPMorgan,"Mohawk Industries, Inc.",Buy(10),1.73,2700000,3.7,3/20/14,"(208,253","(208,253",0001071336,N-Q,10
+JPMorgan,Chesapeake Energy Corporation,Sell(10),3.33,4500000,5.0,9/20/14,308825,460700,0001071336,N-Q,10

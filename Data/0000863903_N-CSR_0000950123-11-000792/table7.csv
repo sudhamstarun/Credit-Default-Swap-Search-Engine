@@ -1,0 +1,36 @@
+"
+Amount
+","
+Currency
+","
+Date
+","
+Counterparty
+","
+Receive (Pay) 
+","
+Premium
+","
+Reference Entity
+","
+Value
+",CIK,Reporting Type,Report Year
+"
+
+    6,800,000
+
+","
+    USD
+","
+    09/20/2015
+","
+    JPMorgan Chase
+","
+    (Pay)
+","
+    5.000%
+","
+    K. Hovanian Enterprises
+","
+    2,192,481
+",0000863903,N-CSR,11

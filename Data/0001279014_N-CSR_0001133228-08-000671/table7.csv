@@ -1,0 +1,15 @@
+Expiration,Counterparty,"Reference Debt 
+Obligation/Index","Notional
+Amount","Fixed 
+Payments
+Received","Frequency 
+of Payments 
+Received","Unrealized 
+Gain (Loss)",CIK,Reporting Type,Report Year
+09/20/2013,Deutsche Bank,"Centex, 5.25%, 06/15/2015","80,000",4.75%,Quarterly,583,0001279014,N-CSR,08
+09/20/2013,Lehman Brothers,"Centex 5.25%, 06/15/2015","85,000",4.50%,Quarterly,(136),0001279014,N-CSR,08
+09/20/2013,Lehman Brothers,"Centex, 5.25%, 06/15/2015","155,000",3.85%,Quarterly,"(3,514)",0001279014,N-CSR,08
+12/13/2049,Deutsche Bank,CMBX North America,"65,000",1.47%,Monthly,297,0001279014,N-CSR,08
+12/13/2049,Goldman Sachs,CMBX North America,"55,000",0.08%,Monthly,340,0001279014,N-CSR,08
+12/13/2049,Goldman Sachs,CMBX North America,"135,000",1.47%,Monthly,"5,449",0001279014,N-CSR,08
+12/13/2049,Lehman Brothers,CMBX North America,"5,000",1.47%,Monthly,640,0001279014,N-CSR,08

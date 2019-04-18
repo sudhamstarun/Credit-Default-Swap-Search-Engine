@@ -1,0 +1,123 @@
+"
+SWAP 
+  COUNTERPARTY &
+  REFERENCE 
+  OBLIGATION
+","
+BUY/SELL
+  PROTECTION
+","
+NOTIONAL
+  AMOUNT
+  (000 s)
+","
+INTEREST
+  RATE
+","
+TERMINATION
+  DATE
+","
+UNREALIZED
+  APPRECIATION
+  (DEPRECIATION)
+","
+UPFRONT
+  PAYMENTS
+","
+VALUE
+","
+CREDIT
+  RATING OF
+  REFERENCE
+  OBLIGATION+ (unaudited)
+",CIK,Reporting Type,Report Year
+"
+Bank of America, N.A.
+  Carnival Corp.
+","
+Buy
+","
+1,185
+000",1.57,"
+March 20, 2018
+","
+(32,968
+","
+ 
+","
+(32,968
+","
+BBB+
+",0000716716,N-Q,10
+"
+Goldman Sachs
+  International Sealed Air Corp.
+","
+Buy
+","
+505
+000",1.08,"
+March 20, 2018
+","
+ 22,555
+","
+ 
+","
+22,555
+","
+BB+
+",0000716716,N-Q,10
+"
+Bank of America, N.A.
+  Toll Brothers Inc.
+","
+Buy
+","
+1,695
+000",2.9,"
+March 20, 2013
+","
+ (86,109
+","
+ 
+","
+(86,109
+","
+BBB-
+",0000716716,N-Q,10
+"
+Bank of America, N.A.
+  Tyco Electronics Ltd.
+","
+Buy
+","
+925
+000",5.0,"
+June 20, 2014
+","
+(123,978
+","
+(38,859
+","
+(162,837
+","
+BBB-
+",0000716716,N-Q,10
+"
+Barclays Capital 
+  Whirlpool Corp.
+","
+Buy
+","
+450
+000",1.0,"
+June 20, 2014
+","
+ (23,931
+","
+24,264
+","
+333
+","
+BBB-
+",0000716716,N-Q,10

@@ -1,0 +1,9 @@
+Counterparty,Reference Obligation,Implied   Credit   Spread (3),Fixed   Received /   Pay Rate (5),Expiration   Date,Notional   Amount (1).(4),Value,Unrealized   Appreciation,CIK,Reporting Type,Report Year
+BOA,CDX.IG-18,1.13,1.0,06/20/2017,"(3,400",(20,9.0,0001532747,N-CSR,12
+CSI,CDX.IG-18,1.13,1.0,06/20/2017,"(2,865",(17,,0001532747,N-CSR,12
+GSI,CDX.IG-18,1.13,1.0,06/20/2017,(425,(3,,0001532747,N-CSR,12
+MSC,"Federated   Republic of Brazil, 12.25%, 03/06/2030",1.49,1.0,06/20/2017,(100,(2,,0001532747,N-CSR,12
+MSC,"People s   Republic of China, 4.75%, 10/29/2013",1.15,1.0,06/20/2017,(60,,,0001532747,N-CSR,12
+GSI,"Republic   of Korea, 4.88%, 09/22/2014",1.17,1.0,06/20/2017,(100,(1,,0001532747,N-CSR,12
+DUB,"Russian   Federation, 7.50%, 03/31/2030",2.26,1.0,06/20/2017,(60,(4,,0001532747,N-CSR,12
+GSI,"United   Mexican States, 5.95%, 03/29/2019",1.33,1.0,06/20/2017,(100,(2,,0001532747,N-CSR,12

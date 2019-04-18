@@ -1,0 +1,15 @@
+Counterparty,Reference   Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Notional   Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
+Barclays   Bank PLC,CDX.EM.13 Index,Sell,5.0,06/20/15,"7,500,000","647,070","533,378","113,692",0001039001,N-Q,12
+Deutsche   Bank AG,CDX.EM.13 Index,Sell,5.0,06/20/15,"900,000","77,649","62,047","15,602",0001039001,N-Q,12
+Goldman   Sachs & Co.,CDX.EM.13 Index,Sell,5.0,06/20/15,"200,000","17,255","13,133","4,122",0001039001,N-Q,12
+HSBC,CDX.EM.13 Index,Sell,5.0,06/20/15,"5,600,000","483,145","365,676","117,469",0001039001,N-Q,12
+Morgan   Stanley,CDX.EM.13 Index,Sell,5.0,06/20/15,"3,000,000","258,828","192,039","66,789",0001039001,N-Q,12
+Deutsche   Bank AG,CDX.EM.14 Index,Sell,5.0,12/20/15,"800,000","78,617","59,937","18,680",0001039001,N-Q,12
+HSBC,CDX.EM.14 Index,Sell,5.0,12/20/15,"700,000","68,790","56,226","12,564",0001039001,N-Q,12
+Morgan   Stanley,CDX.EM.14 Index,Sell,5.0,12/20/15,"1,400,000","137,580","112,022","25,558",0001039001,N-Q,12
+Deutsche   Bank AG,CDX.NA.IG.10 Index   (30-100% Tranche),Sell,0.53,06/20/13,"964,499","3,552","3,552",,0001039001,N-Q,12
+Deutsche   Bank AG,CDX.NA.IG.9 Index   (30-100% Tranche),Sell,0.708,12/20/12,"2,893,497","4,475","4,475",,0001039001,N-Q,12
+Goldman   Sachs & Co.,CDX.NA.IG.9 Index   (30-100% Tranche),Sell,0.5479999999999999,12/20/17,"675,149","10,141","10,141",,0001039001,N-Q,12
+Deutsche   Bank AG,CMBX.NA.AAA.3 Index,Sell,0.08,12/13/49,"900,000","(53,681)","(52,216)","(1,465)",0001039001,N-Q,12
+"Citigroup, Inc.",MCDX.NA.18,Sell,1.0,06/20/22,"1,600,000","(99,361)","(120,299)","20,938",0001039001,N-Q,12
+Morgan   Stanley,MCDX.NA.18,Sell,1.0,06/20/17,"1,700,000","(39,267)","(52,722)","13,455",0001039001,N-Q,12

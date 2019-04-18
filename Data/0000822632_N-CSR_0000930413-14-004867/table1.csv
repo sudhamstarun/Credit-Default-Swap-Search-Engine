@@ -1,0 +1,9 @@
+"Reference
+    Entity","Buy/Sell
+    Protection","Receive
+    (Pay) Fixed Rate","Maturity
+    Dates","Cleared
+    Exchange","Notional
+    Amount",Unrealized Appreciation(Depreciation),CIK,Reporting Type,Report Year
+CDX.IG-22,Sell,1.00%,June 2019,CME,"$1,000,000","2,634",0000822632,N-CSR,14
+CDX.HY-22,Sell,5.00%,June 2019,ICE,"990,000","(3,582",0000822632,N-CSR,14

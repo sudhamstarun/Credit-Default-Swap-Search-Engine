@@ -1,0 +1,6 @@
+Counterparty,TerminationDate,NotionalAmount(000),FixedRate,UnderlyingBond,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley Capital Services(1),12/20/2009,830000,0.60%,"RPM International, Inc.6.25%, 12/15/13","(3,924",0000834126,N-CSR,08
+"JPMorgan Chase Bank, N.A.(1)",06/20/2012,"1,000000",0.30%,"PPG Industries, Inc.7.05%, 08/15/09",407,0000834126,N-CSR,08
+"Citibank, N.A.(1)",09/20/2012,"1,000000",0.32%,"Clorox Co. (The)6.125%, 02/01/11","(1,924",0000834126,N-CSR,08
+"JPMorgan Chase Bank, N.A.(1)",09/20/2012,"1,000000",0.55%,"Gannett Co., Inc.6.375%, 04/01/12","10,942",0000834126,N-CSR,08
+"Citibank, N.A.(1)",09/20/2012,"1,000000",0.31%,"Altria Group, Inc.7.00%, 11/04/13",(2,0000834126,N-CSR,08

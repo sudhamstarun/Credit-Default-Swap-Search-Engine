@@ -1,0 +1,10 @@
+Fund,Reference entity,Counterparty,"Maturity
+date","Fixed payments
+received by
+fund per annum","Implied credit
+spread at
+9/30/2011","Notional
+amount",CIK,Reporting Type,Report Year
+Bond,Republic of Peru,JP Morgan,6/20/16,1,1.95,1000000,0001084380,N-CSR,11
+Bond Plus,Republic of Peru,JP Morgan,6/20/16,1,1.95,500000,0001084380,N-CSR,11
+Short-Term Bond,Republic of Peru,JP Morgan,6/20/16,1,1.95,500000,0001084380,N-CSR,11

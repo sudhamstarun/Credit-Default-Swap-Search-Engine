@@ -1,0 +1,82 @@
+"
+SWAP COUNTERPARTY ANDREFERENCE OBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000'S)","
+PAY/RECEIVEFIXEDRATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)",CIK,Reporting Type,Report Year
+"
+Goldman Sachs InternationalHartford Life Inc","
+Buy",280000,0.12,"
+December 20, 2011","
+2,068",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalMotorola, Inc.","
+Buy",90000,0.15,"
+December 20, 2011","
+1,543",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalMotorola, Inc.","
+Buy",190000,0.157,"
+December 20, 2011","
+3,209",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalUnion Pacific Corporation","
+Buy",135000,0.2,"
+December 20, 2011","
+595",0000924394,N-CSR,08
+"
+Citigroup Global MarketsCovidien","
+Buy",107000,0.43,"
+March 20, 2012","
+(772",0000924394,N-CSR,08
+"
+Citigroup Global MarketsCovidien","
+Buy",53000,0.43,"
+March 20, 2012","
+(386",0000924394,N-CSR,08
+"
+Citigroup Global MarketsTyco Electronics","
+Buy",107000,0.43,"
+March 20, 2012","
+(108",0000924394,N-CSR,08
+"
+Citigroup Global MarketsTyco Electronics","
+Buy",53000,0.43,"
+March 20, 2012","
+(54",0000924394,N-CSR,08
+"
+Citigroup Global MarketsTyco International","
+Buy",107000,0.43,"
+March 20, 2012","
+(108",0000924394,N-CSR,08
+"
+Citigroup Global MarketsTyco International","
+Buy",53000,0.43,"
+March 20, 2012","
+(54",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalChubb Corp","
+Buy",270000,0.1,"
+March 20, 2012","
+1,812",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalDell Inc","
+Buy",135000,0.22,"
+March 20, 2012","
+415",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalGap Inc","
+Buy",160000,1.19,"
+March 20, 2012","
+(2,865",0000924394,N-CSR,08
+"
+Goldman Sachs InternationalQwest Capital Funding","
+Sell",125000,3.25,"
+December 20, 2012","
+(861",0000924394,N-CSR,08
+"
+Lehman BrothersDJ CDX NA HVOL","
+Sell",980000,3.75,"
+December 20, 2012","
+19,762",0000924394,N-CSR,08

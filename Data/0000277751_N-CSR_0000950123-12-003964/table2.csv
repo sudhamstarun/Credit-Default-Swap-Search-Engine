@@ -1,0 +1,58 @@
+"
+Counterparty and Reference Entity
+","
+Receive Rate
+","
+Amount
+","
+Value
+","
+Received
+","
+Date
+",CIK,Reporting Type,Report Year
+"
+
+    UBS A.G. Federal Republic of Germany
+
+","
+    (0.25)
+","
+    700,000
+","
+    24,664
+","
+    22,787
+","
+    12/20/16
+",0000277751,N-CSR,12
+"
+
+    UBS A.G. French Republic
+
+","
+    (0.25)
+","
+    1,000,000
+","
+    76,158
+","
+    20,857
+","
+    6/20/16
+",0000277751,N-CSR,12
+"
+
+    UBS A.G. Russian Federation
+
+","
+    1.00
+","
+    1,000,000
+","
+    (69,057)
+","
+    (15,520)
+","
+    6/20/16
+",0000277751,N-CSR,12

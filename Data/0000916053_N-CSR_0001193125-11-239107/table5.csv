@@ -1,0 +1,25 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"1,500,000",6/20/15,Barclays Bank PLC,Sell ,5.000%,CDX.NA.EM.13 (PIMCO Rating: BA+)**,"(4,556","165,700","161,144",0000916053,N-CSR,11
+"1,000,000",6/20/15,Barclays Bank PLC,Sell ,5.000%,CDX.EM.13 (PIMCO Rating: BA+)**,"(5,572","113,000","107,428",0000916053,N-CSR,11
+"15,100,000",12/20/15,Barclays Bank PLC,Sell ,5.000%,CDX.EM.14 (PIMCO Rating: BA+)**,"(175,103","1,932,800","1,757,697",0000916053,N-CSR,11
+"6,900,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,People s Republic of China (PIMCO Rating: AA-)**,"(35,041","83,717","48,676",0000916053,N-CSR,11
+"1,000,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,People s Republic of China (PIMCO Rating: AA-)**,"(4,895","11,950","7,055",0000916053,N-CSR,11
+"10,600,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"15,376","(51,149","(35,773",0000916053,N-CSR,11
+"20,700,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(7,167","(90,235","(97,402",0000916053,N-CSR,11
+"800,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,Republic of Italy (PIMCO Rating: AA)**,"4,821","(31,136","(26,315",0000916053,N-CSR,11
+"11,600,000",6/20/16,Barclays Bank PLC,Sell ,1.000%,People s Republic of China (PIMCO Rating: AA-)**,"(80,901","150,653","69,752",0000916053,N-CSR,11
+"7,400,000",6/20/16,Barclays Bank PLC,Sell ,5.000%,CDX.NA.HY.16 (PIMCO Rating: B)**,"81,305","(27,750","53,555",0000916053,N-CSR,11
+"14,800,000",6/20/16,Credit Suisse Securities LLC,Sell ,1.000%,CDX.NA.IG.16 (PIMCO Rating: BAA+)**,"(38,113","70,770","32,657",0000916053,N-CSR,11
+"6,100,000",6/20/16,Credit Suisse Securities LLC,Sell ,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(30,384","(8,878","(39,262",0000916053,N-CSR,11
+"1,000,000",12/20/15,Goldman Sachs & Co.,Sell ,1.000%,United Kingdom of Great Britain and Northern Ireland (PIMCO Rating: AAA)**,"(5,160","23,194","18,034",0000916053,N-CSR,11
+"1,000,000",12/20/15,Goldman Sachs & Co.,Sell ,1.000%,United Kingdom of Great Britain and Northern Ireland (PIMCO Rating: AAA)**,"(4,981","23,015","18,034",0000916053,N-CSR,11
+"300,000",12/20/15,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,(729,"(5,883","(6,612",0000916053,N-CSR,11
+"5,200,000",3/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"67,016","(195,801","(128,785",0000916053,N-CSR,11
+"200,000",3/20/16,Goldman Sachs & Co.,Sell ,1.000%,Republic of Italy (PIMCO Rating: AA)**,"1,116","(7,694","(6,578",0000916053,N-CSR,11
+"400,000",3/20/16,Goldman Sachs & Co.,Sell ,1.000%,Kingdom of Spain (PIMCO Rating: AA)**,"(2,804","(26,582","(29,386",0000916053,N-CSR,11
+"2,600,000",3/20/16,Goldman Sachs & Co.,Sell ,1.000%,Republic of Italy (PIMCO Rating: AA)**,"8,700","(94,224","(85,524",0000916053,N-CSR,11
+"3,000,000",3/20/16,Goldman Sachs & Co.,Sell ,1.000%,Kingdom of Spain (PIMCO Rating: AA)**,"(38,177","(182,213","(220,390",0000916053,N-CSR,11
+"1,000,000",6/20/16,Goldman Sachs & Co.,Sell ,1.000%,Kingdom of Spain (PIMCO Rating: AA)**,"(17,109","(60,347","(77,456",0000916053,N-CSR,11
+"1,000,000",6/20/16,Goldman Sachs & Co.,Sell ,1.000%,Republic of Italy (PIMCO Rating: AA)**,"(15,914","(19,704","(35,618",0000916053,N-CSR,11
+"3,700,000",6/20/16,Goldman Sachs & Co.,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"(5,108","(96,633","(101,741",0000916053,N-CSR,11
+"1,600,000",6/20/16,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA)**,"(9,014","16,292","7,278",0000916053,N-CSR,11

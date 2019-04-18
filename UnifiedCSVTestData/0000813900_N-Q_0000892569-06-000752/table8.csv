@@ -1,0 +1,9 @@
+Counterparty,Reference Entity,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Citigroup Inc,"General Motors Acceptance Corp
+6.875% due 08/28/12",Sell,1.7,09/20/06,"$200,000",($835,0000813900,N-Q,06
+The Bear Stearns Cos Inc,"General Motors Acceptance Corp
+6.875% due 08/28/12",Sell,3.55,06/20/07,1500000,11287,0000813900,N-Q,06
+JPMorgan Chase & Co,General Motors Corp 7.125% due 07/15/13,Sell,6.4,06/20/07,2000000,"(69,871",0000813900,N-Q,06
+UBS AG,"General Motors Acceptance Corp
+6.875% due 08/28/12",Sell,2.65,09/20/07,1500000,"(7,327",0000813900,N-Q,06
+UBS AG,Ford Motor Credit Co 7.000% due 10/01/13,Sell,5.25,09/20/07,6500000,152398,0000813900,N-Q,06

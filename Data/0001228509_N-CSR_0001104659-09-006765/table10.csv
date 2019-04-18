@@ -1,0 +1,44 @@
+"
+SWAP COUNTERPARTY
+(REFERENCE ENTITY)
+","
+NOTIONAL
+  AMOUNT(2)
+","
+TERMINATION
+  DATE
+","
+PERIODIC
+  PAYMENTS
+  RECEIVED BY
+  THE FUND 
+","
+MARKET
+  VALUE(3)
+","
+UPFRONT
+  PREMIUMS
+  PAID/
+  (RECEIVED)
+","
+UNREALIZED
+  APPRECIATION/
+  (DEPRECIATION)
+",CIK,Reporting Type,Report Year
+"
+Barclay s Capital
+  Inc. (CDX North America High Yield Index)
+","
+$147,000,000
+","
+12/20/12
+","
+3.750%
+  quarterly
+","
+$(33,961,689
+","
+$1,653,750
+","
+$(35,615,439
+",0001228509,N-CSR,09

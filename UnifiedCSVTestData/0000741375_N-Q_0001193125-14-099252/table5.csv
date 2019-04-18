@@ -1,0 +1,9 @@
+Swap Counterparty andReference Obligation,Buy/SellProtection,NotionalAmount(000),Pay/ReceiveFixed Rate,TerminationDate,CIK,Reporting Type,Report Year
+"Barclays BankAlcoa, Inc.",Buy,110000,1,9/20/18,0000741375,N-Q,14
+Barclays BankQuest Diagnostics Inc.,Buy,200000,1,12/20/18,0000741375,N-Q,14
+"Barclays BankYum! Brands, Inc.",Buy,200000,1,12/20/18,0000741375,N-Q,14
+JPMorgan ChaseCDX.NA.IG.20,Sell,450000,1,6/20/18,0000741375,N-Q,14
+JPMorgan ChaseCDX.NA.IG.20,Sell,90000,1,6/20/18,0000741375,N-Q,14
+JPMorgan ChaseKohl s Corporation,Buy,250000,1,6/20/18,0000741375,N-Q,14
+"Morgan Stanley & Co., LLCCDX.NA.HY.20",Sell,1000000,5,6/20/18,0000741375,N-Q,14
+Morgan Stanley & Co; LLCCDX.NA.IG.21,Sell,200000,1,12/20/18,0000741375,N-Q,14

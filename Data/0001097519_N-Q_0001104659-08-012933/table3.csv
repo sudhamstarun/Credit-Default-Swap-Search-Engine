@@ -1,0 +1,13 @@
+Counterparty,Obligation,Protection,Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+"CS First
+  Boston","Capital One
+  Financial
+  6.250% 11/15/13",Buy,2.9,12/20/12,500000,"(4,291",0001097519,N-Q,08
+"RBS
+  Greenwich","Bear Stearns
+  companies, Inc.
+  5.300% 10/30/15",Buy,1.55,12/20/17,900000,"(9,071",0001097519,N-Q,08
+"Morgan
+  Stanley","Limited Brands
+  Inc.
+  6.125% 12/01/12",Buy,1.97,12/20/12,1000000,6156,0001097519,N-Q,08

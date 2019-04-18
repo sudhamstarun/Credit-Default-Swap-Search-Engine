@@ -1,0 +1,26 @@
+"
+Counterparty","
+ReferenceEntity","
+Buy/SellProtection","
+ReceiveFixed Rate","
+ExpirationDate","
+NotionalAmount","
+UnrealizedAppreciation",CIK,Reporting Type,Report Year
+"
+Bear Stearns","
+D.R. Horton, Inc. 5.38%, 6/15/12","
+Sell",4.75,"
+12/20/08","
+1,600",2,0000802716,N-CSR,09
+"
+Bear Stearns","
+Pulte Homes, Inc. 5.25%, 1/15/14","
+Sell",4.7,"
+12/20/08","
+800",5,0000802716,N-CSR,09
+"
+Bear Stearns","
+Pulte Homes, Inc. 5.25%, 1/15/14","
+Sell",5.0,"
+12/20/08","
+800",6,0000802716,N-CSR,09

@@ -1,0 +1,49 @@
+"
+Counterparty
+","
+ Reference Entity
+","
+Protection
+","
+Fixed Rate
+","
+Date
+","
+Amount
+",CIK,Reporting Type,Report Year
+"
+BNP Paribas
+","
+ Markit CDX.NA.HY.19 (a)
+","
+Buy
+",(5.00,"
+12/20/2017
+",1940000,0001171324,N-Q,15
+"
+BNP Paribas
+","
+ Markit CDX.NA.HY.21 (a)
+","
+Buy
+",(5.00,"
+12/20/2018
+",1940000,0001171324,N-Q,15
+"
+BNP Paribas
+","
+ Markit CDX.NA.HY.19 (a)
+","
+Sell
+",5,"
+12/20/2017
+",1940000,0001171324,N-Q,15
+"
+BNP Paribas
+","
+ Markit CDX.NA.HY.21 (a)
+","
+Sell
+",5,"
+12/20/2018
+",1940000,0001171324,N-Q,15

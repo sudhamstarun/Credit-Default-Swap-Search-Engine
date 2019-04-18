@@ -1,0 +1,15 @@
+Counterparty,Reference Entity/Obligation,Buy/Sell   Protection,(Pay)/Receive   Fixed Rate (%),Termination   Date,Implied   Credit   Spread at   03/31/11 (%) (2),Notional   Amount (3),Fair   Value (4),Upfront   Premium   Paid/   (Received),Unrealized   Appreciation/ (Depreciation),CIK,Reporting Type,Report Year
+Credit   Suisse First Boston,AES Corp.,Sell,5.0,03/20/14,1.829,"2,000,000","182,577","(188,750","371,327",0000837276,N-Q,11
+"Citigroup, Inc.",Aramark Services,Sell,5.0,03/20/14,2.865,"100,000","6,033","(2,718","8,751",0000837276,N-Q,11
+"Citigroup, Inc.",Community Health Systems,Sell,5.0,09/20/14,3.307,"100,000","5,472","(9,000","14,472",0000837276,N-Q,11
+Goldman   Sachs & Co.,Community Health Systems,Sell,5.0,03/20/14,2.855,"2,300,000","139,348","(209,875","349,223",0000837276,N-Q,11
+Credit   Suisse First Boston,El Paso Corp.,Sell,5.0,12/20/14,1.227,"2,500,000","339,338","(75,000","414,338",0000837276,N-Q,11
+Goldman   Sachs & Co.,El Paso Corp.,Sell,5.0,09/20/14,1.133,"2,000,000","261,295","(190,000","451,295",0000837276,N-Q,11
+Deutsche   Bank AG,GMAC LLC,Sell,5.0,03/20/12,1.146,"340,000","12,759","(52,700","65,459",0000837276,N-Q,11
+Goldman   Sachs & Co.,NRG Energy Inc.,Sell,4.2,09/20/13,1.984,"225,000","12,067","12,067",,0000837276,N-Q,11
+Morgan   Stanley,RRI Energy Inc.,Sell,5.0,12/20/14,1.997,"300,000","(5,022","(30,000","24,978",0000837276,N-Q,11
+Goldman   Sachs & Co.,RRI Energy Inc.,Sell,5.0,09/20/14,5.244,"3,300,000","(24,760","(610,500","585,740",0000837276,N-Q,11
+Barclays   Bank PLC,SLM Corp.,Sell,5.0,09/20/11,0.4270000000000001,"2,550,000","55,876","(184,875","240,751",0000837276,N-Q,11
+Barclays   Bank PLC,SLM Corp.,Sell,5.0,12/20/13,1.513,"1,000,000","92,826","(110,000","202,826",0000837276,N-Q,11
+Goldman   Sachs & Co.,SLM Corp.,Sell,7.6,03/20/12,0.528,"250,000","17,326","17,326",,0000837276,N-Q,11
+"Citigroup, Inc.",Sungard Data Systems   Inc.,Sell,5.0,03/20/14,2.806,"800,000","49,775","(52,216","101,991",0000837276,N-Q,11

@@ -1,0 +1,19 @@
+Counterparty,TerminationDate,NotionalAmount#,FixedRate,Reference Entity/Obligation,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Credit Suisse International(2),08/25/37,"800,000",0.09%,ABX HE AAA 07-1,"12,928",0001067442,N-CSR,08
+Morgan Stanley & Co.(1),12/20/08,"200,000",0.26%,"Allstate Corp.,6.125%, due 02/15/12",146,0001067442,N-CSR,08
+UBS AG(1),12/20/08,"200,000",0.35%,"AutoZone, Inc.,5.875%, due 10/15/12",69,0001067442,N-CSR,08
+"Barclays Capital, Inc.(1)",09/20/11,"100,000",0.54%,"DaimlerChrysler N.A.,5.75%, due 09/08/11",241,0001067442,N-CSR,08
+"Lehman Brothers, Inc.(1)",12/20/11,"700,000",0.00%,Dow Jones CDX HY7 Index,"17,307",0001067442,N-CSR,08
+Merrill Lynch & Co.(1),12/20/11,"300,000",0.00%,Dow Jones CDX HY7 Index,"52,949",0001067442,N-CSR,08
+Morgan Stanley & Co.(2),06/20/12,"1,600,000",2.08%,Dow Jones CDX HY8 Index,"(107,242",0001067442,N-CSR,08
+"Citigroup, Inc.(1)",06/20/12,"6,700,000",0.47%,Dow Jones CDX HY8 Index,"(144,446",0001067442,N-CSR,08
+Merrill Lynch & Co.(1),06/20/12,"2,500,000",2.75%,Dow Jones CDX HY8 Index,"157,506",0001067442,N-CSR,08
+"Citigroup, Inc.(1)",06/20/12,"300,000",2.14%,Dow Jones CDX HY8 Index,"(19,379",0001067442,N-CSR,08
+Deutsche Bank(2),12/20/12,"1,800,000",3.75%,Dow Jones CDX HY9 Index,"(66,372",0001067442,N-CSR,08
+Morgan Stanley & Co.(2),12/20/15,"530,000",0.46%,Dow Jones CDX IG5 Index,"(49,919",0001067442,N-CSR,08
+Morgan Stanley & Co.(1),12/20/12,"700,000",0.14%,Dow Jones CDX IG5 Index,"47,747",0001067442,N-CSR,08
+Morgan Stanley & Co.(2),12/20/15,"1,900,000",0.46%,Dow Jones CDX IG5 Index,"(178,308",0001067442,N-CSR,08
+Morgan Stanley & Co.(1),12/20/12,"2,700,000",0.14%,Dow Jones CDX IG5 Index,"184,168",0001067442,N-CSR,08
+Goldman Sachs & Co.(1),12/20/16,"100,000",0.65%,Dow Jones CDX IG7 Index,"4,751",0001067442,N-CSR,08
+"Barclays Capital, Inc.(1)",12/20/11,"1,300,000",0.75%,Dow Jones CDX IG7 Index,"80,322",0001067442,N-CSR,08
+Morgan Stanley & Co.(1),12/20/16,"1,200,000",0.65%,Dow Jones CDX IG7 Index,"57,505",0001067442,N-CSR,08

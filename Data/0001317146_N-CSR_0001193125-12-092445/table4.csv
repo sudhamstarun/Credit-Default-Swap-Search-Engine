@@ -1,0 +1,3 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"375,000",12/20/16,Bank of America N.A.,Buy,(0.250%,Kingdom of Denmark,"3,293","15,395","18,688",0001317146,N-CSR,12
+"525,000",9/20/16,Barclays Bank PLC,Buy,(0.250%,Kingdom of Sweden,"3,000","8,542","11,542",0001317146,N-CSR,12

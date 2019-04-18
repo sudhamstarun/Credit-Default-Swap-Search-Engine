@@ -1,0 +1,9 @@
+Swap Counterparty and    Reference Obligation,Buy/Sell   Protection,Notional   Amount   (000),Pay/Receive   Fixed Rate,Termination   Date,Upfront   Payment   Paid   (Received)   (000),Unrealized   Appreciation   (Depreciation)   (000),Value   (000),Credit   Rating of   Reference   Obligation ,CIK,Reporting Type,Report Year
+CMBX.NA.BB.60,Sell,13000,5.00,5/11/63,( @000,(2000,(2000,NR,0000741375,N-Q,17
+CMBX.NA.BB.60,Sell,20000,5.00,5/11/63,( @000,(3000,(3000,NR,0000741375,N-Q,17
+CMBX.NA.BBB.60,Sell,200000,3.00,5/11/63,(13000,(11000,NR000,,0000741375,N-Q,17
+CMBX.NA.BBB.60,Sell,27000,3.00,5/11/63,(1000,( @000,(1000,NR,0000741375,N-Q,17
+CMBX.NA.BBB.60,Sell,64000,3.00,5/11/63,(2000,(1000,(3000,NR,0000741375,N-Q,17
+CMBX.NA.BBB.60,Sell,109000,3.00,5/11/63,(5000,(2000,(7000,NR,0000741375,N-Q,17
+CDX.NA.HY.26,Buy,200000,5.00,6/20/21,(9000,(5000,(14000,NR,0000741375,N-Q,17
+633,(30,(11000,(41,,nan000,nan000,nan000,,0000741375,N-Q,17

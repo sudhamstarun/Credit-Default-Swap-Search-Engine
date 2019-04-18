@@ -1,0 +1,9 @@
+NotionalAmount,Expiration Date,Counterparty,Buy/SellProtection,Receive(Pay) FixedRate,Deliverable on Default,Net UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+"105,000",3/20/14,Barclays Bank PLC,Buy,(2.150)%,RadioShack Corp.,"(3,292",0000927972,N-CSR,09
+"35,000",3/20/14,Barclays Bank PLC,Buy,(2.150)%,RadioShack Corp.,"(1,097",0000927972,N-CSR,09
+"200,000",12/20/09,Barclays Bank PLC,Buy,(0.550)%,"Cox Communications, Inc.",,0000927972,N-CSR,09
+"140,000",6/20/17,Barclays Bank PLC,Buy,(0.850)%,Sara Lee Corp.,"(3,788",0000927972,N-CSR,09
+"50,000",3/20/14,Barclays Bank PLC,Buy,(3.350),Southwest Airlines Co.,"(1,927",0000927972,N-CSR,09
+"25,000",9/20/17,Credit Suisse Securities LLC,Buy,(1.050)%,Brunswick Corp.,"7,259",0000927972,N-CSR,09
+"180,000",6/20/16,Credit Suisse Securities LLC,Buy,(0.580)%,"Marriot International, Inc.","15,788",0000927972,N-CSR,09
+"100,000",6/20/14,Goldman Sachs & Co.,Buy,(1.000)%,"Pitney Bowes, Inc.",(673,0000927972,N-CSR,09

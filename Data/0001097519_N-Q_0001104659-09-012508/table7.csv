@@ -1,0 +1,18 @@
+Counterparty,Obligation,Protection,Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Barclays,"SLM Corp.
+  5.125% 08/27/12",Sale,4.75,03/20/09,3500000,"(16,466",0001097519,N-Q,09
+JPMorgan,"Capital One
+  Financial 
+  6.250% 11/15/13",Sale,2.75,12/20/13,6580000,"(472,311",0001097519,N-Q,09
+Morgan Stanley,"Macy s, Inc.
+  7.450% 
+  07/15/17",Buy,(3.600,12/20/13,7055000,915407,0001097519,N-Q,09
+Morgan Stanley,"Home
+  Depot, Inc. 
+  5.875 12/16/36",Buy,(3.350,12/20/13,9000000,"(241,171",0001097519,N-Q,09
+Morgan Stanley,"Limited
+  Brands, Inc. 
+  6.125% 12/01/12",Buy,(5.270,12/20/13,9250000,230608,0001097519,N-Q,09
+Barclays,"Limited
+  Brands, Inc. 
+  6.125% 12/01/12",Buy,(6.150,03/20/14,1000000,"(14,152",0001097519,N-Q,09

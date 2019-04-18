@@ -1,0 +1,18 @@
+Underlying Instrument,Counterparty,Amount($),Rate(%),Date,Value($),CIK,Reporting Type,Report Year
+Austria,UBS AG,"1,730",0.54,11/20/13,56,0000883939,N-Q,09
+Denmark,Barclays Bank PLC,370,0.63,12/20/13,9,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",Citibank N.A.,885,3.35,12/20/13,134,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",Citibank N.A.,500,3.35,12/20/13,76,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",Credit Suisse First Boston,355,3.35,12/20/13,54,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",Merrill Lynch,355,3.35,12/20/13,54,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",JPMorgan,355,3.35,12/20/13,54,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",Barclays Bank PLC,480,3.35,12/20/13,73,0000883939,N-Q,09
+"Emerging Markets CDX Indices, Series 10",Credit Suisse First Boston,370,3.35,12/20/13,56,0000883939,N-Q,09
+"North America High Yield CDX Indices, Series 11",Barclays Bank PLC,(955,5.0,12/20/13,(192,0000883939,N-Q,09
+"North America High Yield CDX Indices, Series 11",Barclays Bank PLC,(955,5.0,12/20/13,(192,0000883939,N-Q,09
+"North America High Yield CDX Indices, Series 11",Merrill Lynch,(955,5.0,12/20/13,(192,0000883939,N-Q,09
+"North America High Yield CDX Indices, Series 11",Merrill Lynch,(955,5.0,12/20/13,(192,0000883939,N-Q,09
+"North America High Yield CDX Indices, Series 11",Barclays Bank PLC,(500,5.0,12/20/13,(100,0000883939,N-Q,09
+"North America High Yield CDX Indices, Series 11",Barclays Bank PLC,(500,5.0,12/20/13,(100,0000883939,N-Q,09
+Sweden,Barclays Bank PLC,330,0.55,12/20/13,9,0000883939,N-Q,09
+United Kingdom,Credit Suisse First Boston,370,0.73,12/20/13,,0000883939,N-Q,09

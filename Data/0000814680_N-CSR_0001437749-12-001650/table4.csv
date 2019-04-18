@@ -1,0 +1,27 @@
+"
+Counterparty/
+Reference Entity
+","
+Notional
+Amount
+","
+Buy/Sell
+Protection
+","
+Interest 
+Rate
+","
+Termination
+Date
+","
+Premiums
+Paid
+(Received)
+","
+Unrealized
+Appreciation
+(Depreciation)
+","
+Value
+",CIK,Reporting Type,Report Year
+Bank of America ,"$900,000",Buy,1.00%,6/20/16,"$(1,124)","$7,548","$6,424",0000814680,N-CSR,12

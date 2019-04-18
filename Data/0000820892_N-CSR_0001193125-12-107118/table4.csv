@@ -1,0 +1,4 @@
+Counterparty,Reference Entity,Buy/SellProtection (11),CurrentCreditSpread (12),NotionalAmount,Received*Fixed Rate,TerminationDate,Value,AppreciationDepreciation)(U.S. Dollars)(10),CIK,Reporting Type,Report Year
+JPMorgan Chase,Markit CDX NA HY17 Index,Sell,8.35,"5,488,000",5.0,12/20/16,"(375,885","275,806",0000820892,N-CSR,12
+UBS,Markit CDX NA HY17 Index,Sell,8.37,"3,136,000",5.0,12/20/16,"(402,733","165,273",0000820892,N-CSR,12
+UBS,Markit CDX NA HY17 Index,Sell,8.37,"5,880,000",5.0,12/20/16,"(214,791","299,016",0000820892,N-CSR,12

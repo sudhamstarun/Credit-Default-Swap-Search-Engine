@@ -1,0 +1,11 @@
+"Reference
+    Entity/Obligation","Buy/Sell
+    Protection","(Pay)/
+    Receive Fixed Rate (%)",Clearinghouse,"Termination
+    Date","Notional
+    Amount(2)","Fair
+Value(3)","Unrealized
+    Appreciation/ (Depreciation)",CIK,Reporting Type,Report Year
+"CDX North American Investment Grade
+    Index Series 25, Version 1",Sell,1.0,Intercontinental Exchange,12/20/20,"143,510,000
+                                          ","783,995","(396,137",0001066602,N-Q,16

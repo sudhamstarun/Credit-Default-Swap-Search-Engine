@@ -1,0 +1,29 @@
+COUNTERPARTY,REFERENCE ENTITY/OBLIGATION,PROTECTION,FIXED RATE,DATE,AMOUNT,(DEPRECIATION),CIK,Reporting Type,Report Year
+"Credit
+  Suisse First Boston International",Bombadier Inc. 6.75% due 5/1/2012,Sell,1.85,12/20/06,2000000,4634,0000837276,N-Q,06
+"JPMorgan
+  Chase Bank, N.A.",Lear Corporation 8.11% due 5/15/2009,Sell,7.75,3/20/07,2200000,57432,0000837276,N-Q,06
+"Goldman
+  Sachs International","Arvinmeritor, Inc. 8.75% due 3/1/2012",Sell,2.4,3/20/07,1000000,2609,0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Primedia Inc. 8.875% due 5/15/2011,Sell,2.5,3/20/07,1000000,"(2,252",0000837276,N-Q,06
+"Merrill
+  Lynch International",AES Corporation 8.75% due 6/15/2008,Sell,0.95,6/20/07,2000000,6490,0000837276,N-Q,06
+"JPMorgan
+  Chase Bank, N.A.",Abitibi Consolidated 8.375% due 4/01/2015,Sell,1.5,6/20/07,500000,(41,0000837276,N-Q,06
+"Merrill
+  Lynch International",AES Corporation 8.75% due 6/15/2008,Sell,0.95,6/20/07,1200000,3894,0000837276,N-Q,06
+"Deutsche
+  Bank AG",Russian Federation 5% Step Up due 3/31/2030,Sell,0.44,6/20/07,2000000,2290,0000837276,N-Q,06
+Citibank,Ford Motor Credit Co. 7% due 10/1/2013,Sell,1.6,6/20/07,4000000,778,0000837276,N-Q,06
+"Morgan
+  Stanley Capital Services Inc.",GAZ Capital 8.625% 4/28/2034,Sell,1.05,4/20/11,3000000,8477,0000837276,N-Q,06
+"Barclays
+  Bank PLC","Federative Republic of Brazil 12.25% due
+  3/6/2030",Sell,1.48,10/20/11,3000000,18551,0000837276,N-Q,06
+"Deutsche
+  Bank AG",Dow Jones CDX.NA.HY.7,Buy,(3.25),12/20/11,24300000,43447,0000837276,N-Q,06
+"Goldman
+  Sachs International",Dow Jones CDX.NA.HY.7,Buy,(3.25),12/20/11,5000000,"(3,560",0000837276,N-Q,06
+"Lehman
+  Brothers Special Financing Inc.",Dow Jones CDX.NA.HY.7,Buy,(3.25),12/20/11,29700000,37125,0000837276,N-Q,06

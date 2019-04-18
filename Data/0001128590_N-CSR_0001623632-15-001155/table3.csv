@@ -1,0 +1,113 @@
+"Credit Default Swap
+Counterparty
+","Reference
+Entity
+","Buy/Sell
+","Pay/Receive
+Fixed Rate
+","Expiration
+Date
+","Implied
+Credit
+Spread at
+5/31/201510
+","Notional
+Amount
+","Market
+Value
+","Upfront
+Premiums
+Paid
+(Received)
+","Unrealized
+Appreciation
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"Barclays Capital
+","Government of Venezuela
+","Buy
+","5.00%
+","3/20/2020
+","40.26%
+","$4,100,000
+","$2,449,392
+","$2,552,250
+","$(102,858)
+",0001128590,N-CSR,15
+"Goldman Sachs
+","CDX Index EM Series 23
+","Buy
+","1.00%
+","6/20/2020
+","1.90%
+","$107,760,000
+","$9,321,003
+","$9,858,858
+","$(537,855)
+",0001128590,N-CSR,15
+"Goldman Sachs
+","Government of Greece
+","Buy
+","1.00%
+","6/20/2020
+","20.45%
+","$2,400,000
+","$1,103,935
+","$1,248,000
+","$(144,065)
+",0001128590,N-CSR,15
+"Bank of America
+","Government of Venezuela
+","Buy
+","5.00%
+","6/20/2020
+","39.19%
+","$9,775,000
+","$5,873,253
+","$5,681,719
+","$191,534
+",0001128590,N-CSR,15
+"Barclays Capital
+","Government of Turkey
+","Sell
+","1.00%
+","6/20/2020
+","2.14%
+","$5,000,000
+","$(257,293)
+","$(258,493)
+","$1,200
+",0001128590,N-CSR,15
+"Deutsche Bank
+","Government of Ukraine
+","Buy
+","5.00%
+","3/20/2020
+","34.21%
+","$4,375,000
+","$2,334,346
+","$2,778,125
+","$(443,779)
+",0001128590,N-CSR,15
+"Barclays Capital
+","Government of Ukraine
+","Buy
+","5.00%
+","3/20/2020
+","34.21%
+","$2,750,000
+","$1,467,303
+","$1,362,750
+","$104,553
+",0001128590,N-CSR,15
+"Goldman Sachs
+","Government of Ukraine
+","Buy
+","5.00%
+","3/20/2020
+","34.21%
+","$4,375,000
+","$2,334,346
+","$2,832,813
+","$(498,467)
+",0001128590,N-CSR,15

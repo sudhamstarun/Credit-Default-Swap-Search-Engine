@@ -1,0 +1,42 @@
+"
+Counterparty
+","
+ Reference Entity
+","
+Protection
+","
+Fixed Rate
+","
+Date
+","
+ Value
+","
+Entity
+","
+ (Receipt)
+","
+ (Received)
+","
+ (Depreciation)
+",CIK,Reporting Type,Report Year
+"
+BNP Paribas S.A.
+","
+ Markit CDX.NA.HY.19
+","
+Buy
+","
+(5.00%)
+","
+12/20/2017
+","
+ $            2,000,000
+","
+B1
+","
+ $           (2,000,000)
+","
+              (18,750)
+","
+                (71,250)
+",0001360480,N-CSR,13

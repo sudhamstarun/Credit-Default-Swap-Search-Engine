@@ -1,0 +1,83 @@
+"
+Counterparty
+","
+Reference Entity/Obligation
+","
+  Buy/
+ Sell
+","
+
+
+(Pay)
+ Fixed
+Rate
+(%)
+","
+
+Termination
+Date
+","
+
+Notional
+Amount(2)
+","
+
+Fair
+Value(3)
+","
+Upfront
+Payments
+(Received)/
+ Paid
+",CIK,Reporting Type,Report Year
+"
+Morgan Stanley Capital Services Inc.
+","
+CDX.NA.HY.19
+","
+Buy
+","
+(5.00)
+","
+12/20/2017
+","
+391,680
+","
+(17,298
+","
+(11,532
+",0001508782,N-CSR,16
+"
+Morgan Stanley Capital Services Inc.
+","
+CDX.NA.HY.22
+","
+Buy
+","
+(5.00)
+","
+  6/20/2019
+","
+739,200
+","
+(44,844
+","
+(62,396
+",0001508782,N-CSR,16
+"
+Morgan Stanley Capital Services Inc.
+","
+CDX.NA.IG.18
+","
+Buy
+","
+(1.00)
+","
+  6/20/2017
+","
+1,520,000
+","
+(12,693
+","
+10,538
+",0001508782,N-CSR,16

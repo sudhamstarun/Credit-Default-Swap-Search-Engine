@@ -1,0 +1,3 @@
+Reference Entity,Counterparty,TerminationDate,Buy/SellProtection1,NotionalAmount(000)2,(Pay)/ReceiveFixed Rate3,Upfront PremiumsReceived/(Paid),Value,UnrealizedAppreciation/Depreciation4,CIK,Reporting Type,Report Year
+"12.25%, due 3/6/30",Citigroup,3/20/2019,Buy,"16,253000",1.0,"(727,165","722,529","(4,636",0000887340,N-CSR,14
+"5.50%, due 3/9/20",Citigroup,3/20/2019,Buy,"4,063000",1.0,"(207,506","201,632","(5,874",0000887340,N-CSR,14

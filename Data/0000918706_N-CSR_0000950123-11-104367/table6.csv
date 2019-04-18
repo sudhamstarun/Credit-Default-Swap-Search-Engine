@@ -1,0 +1,495 @@
+"
+Entity
+","
+Counterparty
+","
+Amount
+","
+Rate**
+","
+Date
+",CIK,Reporting Type,Report Year
+"
+
+    Austria
+
+","
+    Barclays Bank PLC
+","
+    8,800
+",0.44,"
+    12/20/13
+",0000918706,N-CSR,11
+"
+
+    Austria
+
+","
+    Barclays Bank PLC
+","
+    3,700
+",1.42,"
+    3/20/14
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Bank of America
+","
+    18,450
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Bank of America
+","
+    11,450
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Bank of America
+","
+    51,475
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Bank of America
+","
+    22,575
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Bank of America
+","
+    7,450
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Bank of America
+","
+    3,600
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Barclays Bank PLC
+","
+    9,000
+",1.65,"
+    (82,908
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Barclays Bank PLC
+","
+    47,170
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Citigroup Global Markets
+","
+    9,440
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Credit Suisse
+","
+    20,000
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Credit Suisse
+","
+    14,225
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Deutsche Bank
+","
+    10,600
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Deutsche Bank
+","
+    11,580
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    HSBC Bank USA
+","
+    14,225
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    HSBC Bank USA
+","
+    9,710
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Standard Chartered Bank
+","
+    9,440
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    Brazil
+
+","
+    Standard Chartered Bank
+","
+    2,700
+",1.0,"
+    12/20/20
+",0000918706,N-CSR,11
+"
+
+    China
+
+","
+    Barclays Bank PLC
+","
+    37,413
+",1.0,"
+    12/20/16
+",0000918706,N-CSR,11
+"
+
+    China
+
+","
+    Credit Suisse
+","
+    22,200
+",1.0,"
+    12/20/16
+",0000918706,N-CSR,11
+"
+
+    China
+
+","
+    Deutsche Bank
+","
+    13,655
+",1.0,"
+    12/20/16
+",0000918706,N-CSR,11
+"
+
+    China
+
+","
+    Deutsche Bank
+","
+    15,969
+",1.0,"
+    12/20/16
+",0000918706,N-CSR,11
+"
+
+    Colombia
+
+","
+    Bank of America
+","
+    17,400
+",1.0,"
+    9/20/21
+",0000918706,N-CSR,11
+"
+
+    Colombia
+
+","
+    Goldman Sachs, Inc.
+","
+    13,390
+",1.0,"
+    9/20/21
+",0000918706,N-CSR,11
+"
+
+    Colombia
+
+","
+    HSBC Bank USA
+","
+    38,410
+",1.0,"
+    9/20/21
+",0000918706,N-CSR,11
+"
+
+    Colombia
+
+","
+    Morgan Stanley
+","
+    19,970
+",1.0,"
+    9/20/21
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Bank of America
+","
+    4,550
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Bank of America
+","
+    7,050
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Barclays Bank PLC
+","
+    7,000
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Barclays Bank PLC
+","
+    4,770
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Barclays Bank PLC
+","
+    9,000
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Citigroup Global Markets
+","
+    5,000
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Citigroup Global Markets
+","
+    3,050
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Citigroup Global Markets
+","
+    4,550
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Citigroup Global Markets
+","
+    4,550
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Credit Suisse
+","
+    11,000
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Credit Suisse
+","
+    5,050
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    9,540
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    7,000
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    4,700
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    4,550
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    2,375
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    1,510
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11

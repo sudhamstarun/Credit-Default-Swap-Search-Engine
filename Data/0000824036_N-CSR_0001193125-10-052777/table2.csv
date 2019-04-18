@@ -1,0 +1,18 @@
+ReferenceEntity,Counterparty,NotionalAmount,Fund (Pays)/ReceivesFixed Rate,TerminationDate,MarketValue$,CIK,Reporting Type,Report Year
+ABX - HE Index for Sub-Prime Home Equity Sector,Barclays Bank PLC,"1,300",0.760%,01/25/38,(809,0000824036,N-CSR,10
+ABX - HE Index for Sub-Prime Home Equity Sector,Citibank,611,0.170%,05/25/46,(544,0000824036,N-CSR,10
+ABX - HE Index for Sub-Prime Home Equity Sector,JP Morgan,"1,300",0.090%,08/25/37,(849,0000824036,N-CSR,10
+CMBX AJ Index,Bank of America,100,(0.840%,10/12/52,24,0000824036,N-CSR,10
+CMBX AJ Index,Barclays Bank PLC,340,(0.840%,10/12/52,81,0000824036,N-CSR,10
+CMBX AJ Index,Barclays Bank PLC,360,(0.840%,10/12/52,87,0000824036,N-CSR,10
+CMBX AJ Index,Credit Suisse First Boston,"2,050",(0.840%,10/12/52,497,0000824036,N-CSR,10
+Dow Jones CDX Index,Bank of America,"1,200",(1.000%,12/20/14,(8,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,772,0.708%,12/20/12,13,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,94,(5.000%,06/20/14,,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,400",(1.000%,12/20/14,(10,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,000",(1.000%,12/20/14,(7,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,000",(1.000%,12/20/14,(7,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,400",(1.000%,12/20/14,(8,0000824036,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,000",(1.000%,12/20/14,(5,0000824036,N-CSR,10
+Dow Jones CDX Index,Goldman Sachs,193,0.548%,12/20/17,,0000824036,N-CSR,10
+Dow Jones CDX Index,JP Morgan,386,0.553%,12/20/17,,0000824036,N-CSR,10

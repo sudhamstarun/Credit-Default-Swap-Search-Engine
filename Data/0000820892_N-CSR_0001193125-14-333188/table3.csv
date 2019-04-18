@@ -1,0 +1,2 @@
+Counterparty,ReferencedEntity,Buy/SellProtection (11),CurrentCreditSpread (12),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Barclays*,Markit CDX NAHY22 Index,Buy,3.04,"22,077,000",5.0,6/20/19,"(1,933,631","(269,051",0000820892,N-CSR,14

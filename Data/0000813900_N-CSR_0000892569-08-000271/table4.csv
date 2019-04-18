@@ -1,0 +1,41 @@
+Counterparty,Referenced Obligation,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+"Barclays
+","Republic of Turkey 11.875% due 01/15/30
+","Buy
+",(1.545,"10/20/12
+","$14,500,000","$11,545",0000813900,N-CSR,08
+"Deutsche Bank
+","Republic of Argentina 8.280% due 12/31/33
+","Sell
+",3.425,"10/20/12
+",16980000,"(686,588",0000813900,N-CSR,08
+"Barclays
+","Dow Jones CDX NA IG HVOL Index
+","Sell
+",1.4,"12/20/12
+",112000000,"(601,450",0000813900,N-CSR,08
+"Deutsche Bank
+","Dow Jones CDX NA EM8 Index
+","Buy
+",(1.750,"12/20/12
+",60560000,"(480,422",0000813900,N-CSR,08
+"Deutsche Bank
+","Dow Jones CDX NA EM8 Index
+","Buy
+",(1.750,"12/20/12
+",8360000,96513,0000813900,N-CSR,08
+"Barclays
+","Dow Jones CDX NA HY9 Index
+","Buy
+",(3.750,"12/20/12
+",20000000,"(237,321",0000813900,N-CSR,08
+"Deutsche Bank
+","Dow Jones CDX NA HY9 Index
+","Sell
+",3.75,"12/20/12
+",5000000,106186,0000813900,N-CSR,08
+"Deutsche Bank
+","Ukraine Government Bond 7.650% due 06/11/13
+","Sell
+",2.06,"05/20/17
+",1160000,"(71,140",0000813900,N-CSR,08

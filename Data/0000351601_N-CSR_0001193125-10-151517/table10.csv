@@ -1,0 +1,5 @@
+ReferenceEntity,Counterparty,NotionalAmount,Fund (Pays)/ReceivesFixed Rate,TerminationDate,MarketValue$,CIK,Reporting Type,Report Year
+Dow Jones CDX Index,Barclays Bank PLC,200,5.000%,06/20/15,27.0,0000351601,N-CSR,10
+Dow Jones CDX Index,Barclays Bank PLC,"1,000",5.000%,06/20/15,132.0,0000351601,N-CSR,10
+Dow Jones CDX Index,Dow Jones CDX Index,96,0.553%,12/20/17,,0000351601,N-CSR,10
+Dow Jones CDX Index,Dow Jones CDX Index,96,0.548%,12/20/17,,0000351601,N-CSR,10

@@ -1,0 +1,34 @@
+"Swap
+ Counterparty","Fund
+Receives","Referenced
+ Index","Termination
+ Date","Notional
+ Amount","Market
+ Value","Upfront
+ Payments
+ Received**","Unrealized
+ Appreciation/
+ (Depreciation)","Credit
+ Default
+ Swap
+ Agreements
+ Payable at
+ Fair Value***",CIK,Reporting Type,Report Year
+Credit Suisse,.35%,"Markit CMBX.
+ NA.AAA.4",2/17/2051,"29,500,000","26,550,000","2,403,215","$(546,785","$2,950,000",0000911507,N-CSR,12
+Goldman Sachs,.50%,"Markit CMBX.
+ NA.AM.4",2/17/2051,"9,900,000","7,647,750","1,873,869","(378,381","2,252,250",0000911507,N-CSR,12
+Goldman Sachs,.08%,"Markit CMBX.
+ NA.AAA.3",12/13/2049,"9,900,000","8,947,125","797,279","(155,596","952,875",0000911507,N-CSR,12
+J.P. Morgan,.10%,"Markit CMBX.
+ NA.AAA.1",10/12/2052,"24,800,000","23,730,500","1,053,069","(16,431","1,069,500",0000911507,N-CSR,12
+J.P. Morgan,.10%,"Markit CMBX.
+ NA.AAA.1",10/12/2052,"48,000,000","45,930,000","1,810,506","(259,494","2,070,000",0000911507,N-CSR,12
+Morgan Stanley,.50%,"Markit CMBX.
+ NA.AM.4",2/17/2051,"9,800,000","7,570,500","1,830,767","(398,733","2,229,500",0000911507,N-CSR,12
+Morgan Stanley,.50%,"Markit CMBX.
+ NA.AM.4",2/17/2051,"9,800,000","7,570,500","1,869,363","(360,137","2,229,500",0000911507,N-CSR,12
+Morgan Stanley,.10%,"Markit CMBX.
+ NA.AAA.1",10/12/2052,"49,350,000","47,221,781","1,848,004","(280,215","2,128,219",0000911507,N-CSR,12
+Morgan Stanley,.10%,"Markit CMBX.
+ NA.AAA.1",10/12/2052,"48,350,000","46,264,906","1,750,684","(334,409","2,085,093",0000911507,N-CSR,12

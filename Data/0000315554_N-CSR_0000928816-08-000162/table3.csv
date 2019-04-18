@@ -1,0 +1,4 @@
+ISSUER  ,AMOUNT ,PROTECTION ,FIXED RATE  ,DATE  ,COUNTERPARTY  ,(DEPRECIATION)  ,CIK,Reporting Type,Report Year
+"Abitibi-Consolidated, Inc. ","$3,000,000   ",SELL  ,8.00%  ,Sep 2012  ,Morgan Stanley  ,"($310,874)  ",0000315554,N-CSR,08
+"American Airlines, Inc.  ",3000000,SELL  ,6.6,Sep 2012  ,Morgan Stanley  ,31339,0000315554,N-CSR,08
+"BoWater, Inc.  ",3000000,SELL  ,7,Sep 2012  ,Morgan Stanley  ,"(333,850)  ",0000315554,N-CSR,08

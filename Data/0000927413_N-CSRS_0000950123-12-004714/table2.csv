@@ -1,0 +1,4 @@
+Counterparty,Termination Date,Notional Amount(1),Fixed Rate,Reference Entity/Obligation,Fair value(2),CIK,Reporting Type,Report Year
+Barclays Bank PLC**,6/20/16,4700000,5,Dow Jones CDX EM15 Index,393476,0000927413,N-CSRS,12
+JPMorgan Chase Bank**,12/20/15,100000,5,Dow Jones CDX EM14 Index,7804,0000927413,N-CSRS,12
+"Morgan Stanley Capital Services, Inc.**",12/20/15,200000,5,Dow Jones CDX EM14 Index,15609,0000927413,N-CSRS,12

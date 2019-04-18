@@ -1,0 +1,5 @@
+Counterparty,Reference Entity,Buy/Sell Protection,Fixed Rate,Expiration Date,Notional Amount,(Depreciation),CIK,Reporting Type,Report Year
+Bear Stearns,"Rohm &
+  Haas",Buy,0.31,9/20/12,1600,,0000802716,N-Q,07
+Bear Stearns,VF Corp.,Buy,0.42,9/20/12,2400,(5,0000802716,N-Q,07
+Bear Stearns,Nucor,Buy,0.46,9/20/17,2400,10,0000802716,N-Q,07

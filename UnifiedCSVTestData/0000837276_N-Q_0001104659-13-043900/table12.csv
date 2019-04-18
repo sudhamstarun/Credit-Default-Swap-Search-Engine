@@ -1,0 +1,17 @@
+Counterparty,Reference   Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Notional Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
+Deutsche Bank AG,CDX.EM.12 Index,Sell,5.0,12/20/14,"1,400,000"," 40,649"," 47,777"," (7,128)",0000837276,N-Q,13
+Barclays Bank PLC,CDX.EM.13 Index,Sell,5.0,06/20/15,"200,000","8,677","10,529","(1,852)",0000837276,N-Q,13
+Credit Suisse Group AG,CDX.EM.13 Index,Sell,5.0,06/20/15,"1,800,000","78,091","103,423","(25,332)",0000837276,N-Q,13
+Deutsche Bank AG,CDX.EM.13 Index,Sell,5.0,06/20/15,"19,100,000","828,635","1,016,460","(187,825)",0000837276,N-Q,13
+Goldman Sachs &   Co.,CDX.EM.13 Index,Sell,5.0,06/20/15,"100,000","4,338","5,243",(905),0000837276,N-Q,13
+Goldman Sachs &   Co.,CDX.EM.13 Index,Sell,5.0,06/20/15,"100,000","4,338","5,361","(1,023)",0000837276,N-Q,13
+HSBC,CDX.EM.13 Index,Sell,0.5,06/20/15,"30,300,000","1,314,536","1,138,592","175,944",0000837276,N-Q,13
+HSBC,CDX.EM.13 Index,Sell,5.0,06/20/15,"12,800,000","555,316","673,404","(118,088)",0000837276,N-Q,13
+Morgan Stanley,CDX.EM.13 Index,Sell,5.0,06/20/15,"3,100,000","134,491","163,470","(28,979)",0000837276,N-Q,13
+Deutsche Bank AG,CDX.NA.IG.10 Index   (30-100% Tranche),Sell,0.53,06/20/13,"2,989,946","3,665","3,664",,0000837276,N-Q,13
+Goldman Sachs &   Co.,CDX.NA.IG.10 Index   (30-100% Tranche),Sell,0.463,06/20/13,"3,761,546","4,019","4,019",,0000837276,N-Q,13
+Goldman Sachs &   Co.,CDX.NA.IG.9 Index   (30-100% Tranche),Sell,0.5479999999999999,12/20/17,"2,218,347","38,064","38,064",,0000837276,N-Q,13
+Morgan Stanley,CMBX.AAA.4 Index,Sell,0.35,02/17/51,"16,500,000","(484,440)","(1,126,691)","642,251",0000837276,N-Q,13
+Deutsche Bank AG,CMBX.NA.AAA.3 Index,Sell,0.08,12/13/49,"3,700,000","(116,550)","(211,776)","95,226",0000837276,N-Q,13
+Goldman Sachs &   Co.,CMBX.NA.AAA.3 Index,Sell,0.08,12/13/49,"400,000","(12,600)","(14,940)","2,340",0000837276,N-Q,13
+"Citigroup, Inc.",MCDX.NA.19 Index,Sell,1.0,12/20/22,"2,400,000","(96,529)","(89,060)","(7,469)",0000837276,N-Q,13

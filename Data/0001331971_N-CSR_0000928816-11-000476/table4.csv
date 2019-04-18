@@ -1,0 +1,5 @@
+Counterparty ,Obligation ,Amount ,Rate ,Date ,Payment ,(Depreciation) ,Value ,CIK,Reporting Type,Report Year
+Citibank N.A. ,CMBX.NA.AAA.4 ,"$4,000,000 ",0.350% ,Feb 2051 ,"($811,085) ","$621,357 ","($189,728) ",0001331971,N-CSR,11
+Citibank N.A. ,CMBX NA AM S ,5000000,0.500% ,Feb 2051 ,"(1,151,020) ",604632,"(546,388) ",0001331971,N-CSR,11
+Citibank N.A. ,CMBX NA AM 4 ,2000000,0.500% ,Feb 2051 ,"(527,170) ",308614,"(218,556) ",0001331971,N-CSR,11
+Citibank N.A. ,CDX.NA.HY.15 ,45700000,5.000% ,Dec 2015 ,1286172,589188,1875360,0001331971,N-CSR,11

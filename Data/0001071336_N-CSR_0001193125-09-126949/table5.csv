@@ -1,0 +1,12 @@
+Counterparty,Referenced Entity,Buy/SellProtection,NotionalAmount,FixedRate,TerminationDate,"Value atMarch 31,2009(U.S. Dollars)",UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+Citibank,Masco Corporation,Buy ,5.19,2700000,5.15,3/20/14,(754,0001071336,N-CSR,09
+Credit Suisse,International Lease Finance Corporation,Sell ,23.87,1000000,2.0,6/20/09,"(47,139",0001071336,N-CSR,09
+Credit Suisse,Dynegy Holdings Inc.,Sell ,12.51,1000000,5.0,3/20/14,"(223,061",0001071336,N-CSR,09
+Deutsche Bank,Aetna Inc.,Buy ,1.34,2700000,1.15,3/20/14,22359,0001071336,N-CSR,09
+Goldman Sachs,DJ High Yield CDX,Sell ,16.36,19200000,5.0,6/20/13,"(5,346,301",0001071336,N-CSR,09
+Goldman Sachs,Georgia-Pacific LLC,Sell ,6.86,2900000,2.25,6/20/09,"(27,972",0001071336,N-CSR,09
+Goldman Sachs,"K. Hovnanian Enterprises, Inc.",Sell ,28.44,1950000,5.0,6/20/09,"(94,074",0001071336,N-CSR,09
+Goldman Sachs,"K. Hovnanian Enterprises, Inc.",Sell ,28.44,1000000,5.0,6/20/09,"(48,243",0001071336,N-CSR,09
+Goldman Sachs,Visteon Corporation,Sell ,343.71,1000000,5.0,9/20/13,"(883,333",0001071336,N-CSR,09
+JPMorgan,"Mohawk Industries, Inc.",Buy ,4.12,2700000,3.7,3/20/14,42521,0001071336,N-CSR,09
+JPMorgan,Newell Rubbermaid Inc.,Buy ,2.72,2700000,2.82,6/20/14,"(11,784",0001071336,N-CSR,09

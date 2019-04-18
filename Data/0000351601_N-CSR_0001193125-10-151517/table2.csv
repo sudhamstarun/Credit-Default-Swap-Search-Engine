@@ -1,0 +1,28 @@
+ReferenceEntity,Counterparty,NotionalAmount,Fund (Pays)/ReceivesFixed Rate,TerminationDate,MarketValue$,CIK,Reporting Type,Report Year
+ABX - HE Index for Sub-Prime Home Equity Sector,Barclays Bank PLC,"16,900",0.760%,01/25/38,"(8,768",0000351601,N-CSR,10
+ABX - HE Index for Sub-Prime Home Equity Sector,JP Morgan,"16,500",0.090%,08/25/37,"(8,918",0000351601,N-CSR,10
+ABX - HE Index for Sub-Prime Home Equity Sector,JP Morgan,"7,435",0.170%,05/25/46,"(6,284",0000351601,N-CSR,10
+CMBX AJ Index,Bank of America,"1,230",(0.840%,10/12/52,184,0000351601,N-CSR,10
+CMBX AJ Index,Bank of America,"5,455",(0.840%,10/12/52,825,0000351601,N-CSR,10
+CMBX AJ Index,Barclays Bank PLC,"6,500",(0.840%,10/12/52,967,0000351601,N-CSR,10
+CMBX AJ Index,Barclays Bank PLC,"6,500",(0.840%,10/12/52,967,0000351601,N-CSR,10
+CMBX AJ Index,Credit Suisse First Boston,"3,690",(0.840%,10/12/52,555,0000351601,N-CSR,10
+CMBX AJ Index,Credit Suisse First Boston,"1,410",(0.840%,10/12/52,187,0000351601,N-CSR,10
+Dow Jones CDX Index,Barclays Bank PLC,"5,600",5.000%,06/20/15,726,0000351601,N-CSR,10
+Dow Jones CDX Index,Chase Securities Inc.,"2,000",1.120%,12/20/12,50,0000351601,N-CSR,10
+Dow Jones CDX Index,Citibank,"4,911",0.355%,06/20/12,(8,0000351601,N-CSR,10
+Dow Jones CDX Index,Citibank,"4,815",0.360%,06/20/12,(7,0000351601,N-CSR,10
+Dow Jones CDX Index,Citibank,"1,059",0.401%,06/20/12,(1,0000351601,N-CSR,10
+Dow Jones CDX Index,Credit Suisse Financial Products,"1,300",5.000%,06/20/15,168,0000351601,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"9,163",0.708%,12/20/12,162,0000351601,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,350",0.530%,06/20/13,17,0000351601,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"1,400",5.000%,06/20/15,179,0000351601,N-CSR,10
+Dow Jones CDX Index,Deutsche Bank,"23,300",(1.000%,06/20/15,(112,0000351601,N-CSR,10
+Dow Jones CDX Index,Goldman Sachs,"7,600",1.120%,12/20/12,191,0000351601,N-CSR,10
+Dow Jones CDX Index,Goldman Sachs,"1,736",0.463%,06/20/13,18,0000351601,N-CSR,10
+Dow Jones CDX Index,Goldman Sachs,200,5.000%,06/20/15,27,0000351601,N-CSR,10
+Dow Jones CDX Index,Goldman Sachs,579,0.548%,12/20/17,,0000351601,N-CSR,10
+Dow Jones CDX Index,HSBC,"2,000",5.000%,06/20/15,258,0000351601,N-CSR,10
+Dow Jones CDX Index,JP Morgan,"1,447",0.553%,12/20/17,18,0000351601,N-CSR,10
+Dow Jones CDX Index,Merrill Lynch,"19,254",1.580%,12/20/12,508,0000351601,N-CSR,10
+Dow Jones CDX Index,Merrill Lynch,"19,254",1.640%,12/20/12,587,0000351601,N-CSR,10

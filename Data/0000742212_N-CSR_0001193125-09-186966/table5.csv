@@ -1,0 +1,5 @@
+CounterParty,Reference Entity,Buy/SellProtection,(Pay)/ReceiveFixed Rate,ExpirationDate,NotionalAmount(000 s),UnrealizedAppreciation/(Depreciation)(000 s),CIK,Reporting Type,Report Year
+Morgan Stanley,Philippine Government,Sell,2.44%    ,9/17,USD    100000,    $           1     000,0000742212,N-CSR,09
+JPMorgan Chase,Dow Jones CDX NA Emerging,Sell,2.65%    ,6/13,"USD  3,000000",$      (220)    000,0000742212,N-CSR,09
+Morgan Stanley,Dow Jones CDX NA Emerging,Sell,2.65%    ,6/13,"USD    10,000000",(698)    000,0000742212,N-CSR,09
+Morgan Stanley,Dow Jones CDX NA High,Sell,3.75%    ,12/12,"USD  4,400000",(467)    000,0000742212,N-CSR,09

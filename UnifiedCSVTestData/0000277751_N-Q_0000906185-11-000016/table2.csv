@@ -1,0 +1,55 @@
+"
+Counterparty and
+Reference
+Entity
+","
+Fixed Deal (Pay)
+Receive Rate
+","
+Notional
+Amount
+","
+Market
+Value
+","
+Upfront
+Premium (Paid)
+Received
+","
+Termination
+Date
+","
+Unrealized
+Appreciation/
+(Depreciation)
+","
+Credit Rating
+of Referenced
+Entity 
+",CIK,Reporting Type,Report Year
+"
+UBS A.G. Federal Republic of Germany
+",(.25,"800,000","29,888","5,835","
+6/20/16
+","24,053","
+Aaa
+",0000277751,N-Q,11
+"
+UBS A.G. Russian Federation
+",1.00,"1,000,000","(87,475","(16,394","
+6/20/16
+","(71,081","
+Baa1
+",0000277751,N-Q,11
+"
+UBS A.G. French Republic
+",(.25,"1,000,000","68,117","22,033","
+6/20/16
+","46,084","
+Aaa
+",0000277751,N-Q,11
+"
+UBS A.G. Kingdom of Spain
+",(1.00,"1,100,000","130,515","105,359","
+9/20/16
+","25,156",A1,0000277751,N-Q,11

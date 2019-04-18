@@ -1,0 +1,7 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(59,758","99,688","39,930",0000927972,N-CSR,11
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(50,820","119,625","68,805",0000927972,N-CSR,11
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(50,820","119,625","68,805",0000927972,N-CSR,11
+"3,300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(101,640","239,250","137,610",0000927972,N-CSR,11
+"600,000",6/20/16,JP Morgan Chase Bank,Buy,(1.000,Kingdom of Spain,"(1,399","38,088","36,689",0000927972,N-CSR,11
+"1,200,000",6/20/16,JP Morgan Chase Bank,Buy,(1.000,Kingdom of Spain,"1,719","71,659","73,378",0000927972,N-CSR,11

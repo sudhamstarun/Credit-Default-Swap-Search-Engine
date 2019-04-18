@@ -1,0 +1,490 @@
+"
+Counterparty
+","
+Reference Instrument
+","
+Notional AmountB
+","
+Pay/Receive(A)
+","
+Fixed Rate
+","
+ExpirationDate
+","
+Paid (Received)
+","
+Appreciation/(Depreciation)
+","
+Credit Event
+","
+RatingC
+",CIK,Reporting Type,Report Year
+"
+
+    Goldman Sachs
+
+","
+    iStar Financial, Inc.
+    5.95%, 10/15/13
+","
+    5,000,000
+","
+    Pay
+",5.0,"
+    6/20/2013
+","
+    700,000
+","
+    (637,805
+","
+    Bankruptcy/FTP
+","
+    B
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    iStar Financial, Inc.
+    5.95%, 10/15/13
+","
+    5,000,000
+","
+    Pay
+",5.0,"
+    6/20/2013
+","
+    725,000
+","
+    (662,805
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    B
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Limited Brands, Inc.
+    6.13%, 12/1/12
+","
+    4,150,000
+","
+    Pay
+",3.38,"
+    6/20/2013
+","
+     
+","
+    (210,815
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    BB+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Limited Brands, Inc.
+    6.13%, 12/1/12
+","
+    4,700,000
+","
+    Pay
+",2.55,"
+    6/20/2013
+","
+     
+","
+    (161,222
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    BB+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Limited Brands, Inc.
+    6.90%, 7/15/17
+","
+    15,000,000
+","
+    Pay
+",1.0,"
+    12/20/2015
+","
+    679,159
+","
+    (137,202
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    BB+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Liz Claiborne, Inc.
+    5.00%, 7/8/13
+","
+    15,000,000
+","
+    Pay
+",5.0,"
+    9/20/2014
+","
+    1,875,000
+","
+    (1,263,397
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    B
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Liz Claiborne, Inc.
+    5.00%, 7/8/13
+","
+    15,000,000
+","
+    Pay
+",5.0,"
+    12/20/2014
+","
+    1,087,500
+","
+    (379,842
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    B
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Masco Corp.
+    6.13%, 10/3/16
+","
+    15,000,000
+","
+    Pay
+",1.0,"
+    12/20/2015
+","
+    1,047,333
+","
+    (142,744
+","
+    Bankruptcy/FTP
+","
+    BBB
+",0001016073,N-CSRS,11
+"
+
+    Morgan Stanley
+
+","
+    Masco Corp.
+    6.13%, 10/03/16
+","
+    4,500,000
+","
+    Pay
+",1.0,"
+    3/20/2016
+","
+    273,169
+","
+    37,179
+","
+    Bankruptcy/FTP
+","
+    BBB
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Newell Rubbermaid, Inc.
+    5.50%, 4/15/13
+","
+    30,000,000
+","
+    Pay
+",1.0,"
+    6/20/2014
+","
+    620,488
+","
+    (818,684
+","
+    Bankruptcy/FTP
+","
+    BBB-
+",0001016073,N-CSRS,11
+"
+
+    Merrill Lynch
+
+","
+    Pitney Bowes, Inc. 
+    4.63%, 10/01/12
+","
+    25,000,000
+","
+    Pay
+",1.0,"
+    3/20/2016
+","
+    562,996
+","
+    (351,591
+","
+    Bankruptcy/FTP
+","
+    BBB+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    RadioShack Corp.
+    7.38%, 5/15/11
+","
+    9,000,000
+","
+    Pay
+",2.27,"
+    9/20/2013
+","
+     
+","
+    (71,989
+","
+    Bankruptcy/FTP
+","
+    BB
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Realogy Corp.
+    10.50%, 4/15/14
+","
+    5,000,000
+","
+    Pay
+",5.0,"
+    3/20/2016
+","
+    475,000
+","
+    65,238
+","
+    Bankruptcy/FTP
+","
+    B
+",0001016073,N-CSRS,11
+"
+
+    Morgan Stanley
+
+","
+    Sprint Nextel Corp.
+    6.00%, 12/1/16
+","
+    5,000,000
+","
+    Pay
+",5.0,"
+    12/20/2015
+","
+    (276,094
+","
+    (202,601
+","
+    Restructuring/
+    Bankruptcy/FTP
+","
+    BB-
+",0001016073,N-CSRS,11
+"
+
+    Morgan Stanley
+
+","
+    Sprint Nextel Corp.
+    6.00%, 12/1/16
+","
+    10,000,000
+","
+    Pay
+",5.0,"
+    3/20/2016
+","
+    (694,225
+","
+    (239,599
+","
+    Bankruptcy/FTP
+","
+    BB-
+",0001016073,N-CSRS,11
+"
+
+    Morgan Stanley
+
+","
+    Sprint Nextel Corp.
+    6.00%, 12/1/16
+","
+    13,000,000
+","
+    Pay
+",5.0,"
+    6/20/2016
+","
+    (1,097,608
+","
+    (92,684
+","
+    Bankruptcy/FTP
+","
+    BB-
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    Standard Pacific Corp.
+    7.00%, 8/15/15
+","
+    4,000,000
+","
+    Receive
+",6.7,"
+    9/20/2013
+","
+     
+","
+    413,363
+","
+    Bankruptcy/FTP
+","
+    B
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    The Chubb Corp. 
+    6.60%, 8/15/18
+","
+    10,000,000
+","
+    Pay
+",1.0,"
+    12/20/2014
+","
+    (242,813
+","
+    117,740
+","
+    Bankruptcy/FTP
+","
+    A+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    The Chubb Corp.
+    6.60%, 8/15/18
+","
+    10,000,000
+","
+    Pay
+",1.0,"
+    3/20/2015
+","
+    (257,326
+","
+    137,536
+","
+    Bankruptcy/FTP
+","
+    A+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    TRW Automotive, Inc.
+    7.25%, 3/15/17
+","
+    5,000,000
+","
+    Pay
+",5.0,"
+    3/20/2015
+","
+    92,579
+","
+    (726,753
+","
+    Bankruptcy/FTP
+","
+    BB+
+",0001016073,N-CSRS,11
+"
+
+    Goldman Sachs
+
+","
+    TRW Automotive, Inc.
+    7.25%, 3/15/17
+","
+    3,000,000
+","
+    Pay
+",5.0,"
+    6/20/2015
+","
+    (133,100
+","
+    (258,426
+","
+    Bankruptcy/FTP
+","
+    BB+
+",0001016073,N-CSRS,11

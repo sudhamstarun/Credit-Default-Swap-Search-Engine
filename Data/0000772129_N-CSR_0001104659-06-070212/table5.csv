@@ -1,0 +1,28 @@
+"
+NotionalAmount","
+ExpirationDate","
+Counterparty","
+Receive (Pay)","
+AnnualPremium","
+DeliverableOn Default","
+Net UnrealizedAppreciation(Depreciation)",CIK,Reporting Type,Report Year
+"
+60,000,000","
+9/20/2010","
+Morgan Stanley","
+Receive",0.4,"
+Credit Swap ",,0000772129,N-CSR,06
+"
+31,000,000","
+3/20/2013","
+Morgan StanleyCapital Services Inc.","
+Receive",0.25,"
+MS Synthetic 2006-1","
+(220,380",0000772129,N-CSR,06
+"
+28,000,000","
+3/20/2015","
+Lehman Brothers","
+Receive",0.88,"
+Credit Swap AAA CDO","
+(244,044",0000772129,N-CSR,06

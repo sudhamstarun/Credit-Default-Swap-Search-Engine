@@ -1,0 +1,6 @@
+Counterparty,NotionalAmount,ExpirationDate,Payments Made by Fund,Payments Received by Fund,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Goldman Sachs International,6500000,10/13/17,1.125%,USA-CPI-U,71256,0000927972,N-CSR,17
+Bank of America N.A.,9000000,11/06/17,1.275%,USA-CPI-U,96269,0000927972,N-CSR,17
+Goldman Sachs International,6700000,1/13/18,1.295%,USA-CPI-U,94342,0000927972,N-CSR,17
+JP Morgan Chase Bank N.A.,6500000,2/17/18,1.033%,USA-CPI-U,139068,0000927972,N-CSR,17
+Bank of America N.A.,5900000,2/16/19,2.195%,USA-CPI-U,6585,0000927972,N-CSR,17

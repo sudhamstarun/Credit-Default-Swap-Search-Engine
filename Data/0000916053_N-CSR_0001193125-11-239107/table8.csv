@@ -1,0 +1,8 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"200,000",12/20/15,JP Morgan Chase Bank,Sell ,5.000%,CDX.EM.14 (PIMCO Rating: BA+)**,"(3,119","26,400","23,281",0000916053,N-CSR,11
+"6,600,000",3/20/16,JP Morgan Chase Bank,Sell ,1.000%,"MetLife, Inc. (PIMCO Rating: A-)**","(7,175","(159,291","(166,466",0000916053,N-CSR,11
+"700,000",12/20/15,Royal Bank of Scotland PLC,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"(1,531","(13,898","(15,429",0000916053,N-CSR,11
+"1,000,000",3/20/16,Royal Bank of Scotland PLC,Sell ,0.250%,French Republic (PIMCO Rating: AAA)**,"8,820","(33,587","(24,767",0000916053,N-CSR,11
+"1,000,000",9/20/15,UBS AG,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"13,200","(14,147",(947,0000916053,N-CSR,11
+"800,000",12/20/15,UBS AG,Sell ,5.000%,CDX.EM.14 (PIMCO Rating: BA+)**,"(17,927","111,050","93,123",0000916053,N-CSR,11
+"14,300,000",6/20/16,UBS AG,Sell ,0.250%,Federal Republic of Germany (PIMCO Rating: AAA)**,"29,874","(140,928","(111,054",0000916053,N-CSR,11

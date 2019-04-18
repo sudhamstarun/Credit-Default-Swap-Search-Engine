@@ -1,0 +1,49 @@
+Counterparty,Referenced Obligation,"Buy/Sell
+Protection (1) ","(Pay)/Receive
+ Fixed Rate","Expiration
+ Date","Notional
+ Amount","Unrealized
+ Appreciation
+ (Depreciation)",CIK,Reporting Type,Report Year
+Goldman Sachs,"Ford Motor Credit
+ Co 7.000% due 10/01/13",Sell,1.400,09/20/08,"100,000","1,282",0001137761,N-CSRS,07
+Lehman Brothers,"General Motors
+ Acceptance Corp 6.875% due 08/28/12",Sell,1.425,09/20/08,"100,000","(1,517",0001137761,N-CSRS,07
+Goldman Sachs,"General Motors
+ Acceptance Corp 6.875% due 08/28/12",Buy,(5.050,09/20/08,"500,000","(9,254",0001137761,N-CSRS,07
+"Royal Bank of
+ Scotland","Republic of
+ Indonesia 6.750% due 03/10/14",Sell,0.400,12/20/08,"1,000,000","(1,943",0001137761,N-CSRS,07
+Credit Suisse,"Chesapeake Energy
+ Corp 6.875% due 01/15/16",Sell,1.010,06/20/12,"100,000",(348,0001137761,N-CSRS,07
+Lehman Brothers,"Dow Jones CDX NA
+ HY-8 Index",Sell,2.300,06/20/12,"200,000","4,522",0001137761,N-CSRS,07
+Merrill Lynch,"Dow Jones CDX NA
+ HY-8 Index",Sell,2.460,06/20/12,"120,000","3,520",0001137761,N-CSRS,07
+Merrill Lynch,"Dow Jones CDX NA
+ HY-8 Index",Sell,2.750,06/20/12,"500,000","11,694",0001137761,N-CSRS,07
+Morgan Stanley,"General Motors
+ Acceptance Corp 6.875% due 08/28/12",Sell,6.850,06/20/12,"100,000","12,005",0001137761,N-CSRS,07
+"Royal Bank of
+ Scotland","Lehman Brothers
+ Holding Inc 6.625% due 01/18/12",Sell,0.660,09/20/12,"100,000",(780,0001137761,N-CSRS,07
+Citigroup,"The Bear Stearns
+ Cos Inc 5.300% due 10/30/15",Sell,0.720,09/20/12,"100,000",(778,0001137761,N-CSRS,07
+Morgan Stanley,"The Goldman Sachs
+ Group Inc 6.600% due 01/15/12",Sell,0.750,09/20/12,"100,000","1,365",0001137761,N-CSRS,07
+Morgan Stanley,"The Goldman Sachs
+ Group Inc 6.600% due 01/15/12",Sell,0.800,09/20/12,"100,000","1,586",0001137761,N-CSRS,07
+Credit Suisse,"Chesapeake Energy
+ Corp 6.875% due 01/15/16",Sell,1.550,09/20/12,"100,000","1,805",0001137761,N-CSRS,07
+Goldman Sachs,"General Motors
+ Acceptance Corp 6.875% due 08/28/12",Sell,3.050,09/20/12,"100,000","(1,012",0001137761,N-CSRS,07
+Citigroup,"RH Donnelley
+ Holding Company 8.875% due 01/15/16",Sell,3.400,09/20/12,"100,000","1,814",0001137761,N-CSRS,07
+Morgan Stanley,"Ford Motor Credit
+ Co 7.000% due 10/01/13",Sell,3.800,09/20/12,"100,000",(412,0001137761,N-CSRS,07
+Citigroup,"General Motors
+ Acceptance Corp 6.875% due 08/28/12",Buy,(5.000,09/20/12,"100,000","(5,859",0001137761,N-CSRS,07
+Goldman Sachs,"General Motors
+ Acceptance Corp 6.875% due 08/28/12",Sell,5.350,09/20/12,"500,000","35,462",0001137761,N-CSRS,07
+BNP Paribas,"The Goldman Sachs
+ Group Inc 6.600% due 01/15/12",Buy,(0.390,12/20/12,"100,000",276,0001137761,N-CSRS,07

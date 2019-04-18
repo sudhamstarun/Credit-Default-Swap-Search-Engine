@@ -1,0 +1,2 @@
+Counterparty,ReferencedEntity,Buy/SellProtection (14),CurrentCreditSpread (15),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,VariationMarginReceivable/(Payable),UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley Capital Services LLC*,CDX.NA.HY.26,Sell,0.47,"20,000,000",5.0,6/20/21,"957,527","75,448","454,325",0001093428,N-CSR,16

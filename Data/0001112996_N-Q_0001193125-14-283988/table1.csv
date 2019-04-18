@@ -1,0 +1,3 @@
+Counterparty/,Reference,Buy/,(Pay)/,ExpirationDate,Implied,Notional,UpfrontPayments,Unrealized,CIK,Reporting Type,Report Year
+Credit Suisse Securities (USA) LLC/CME,IG.22.V1,Sell,1.00%,06/20/24,1.07%,"$38,000,000","$492,584","$278,468",0001112996,N-Q,14
+Credit Suisse Securities (USA) LLC/CME,IG.22.V1,Buy,(1.00),06/20/19,0.62,"195,000,000","(3,111,635)","(485,772)",0001112996,N-Q,14

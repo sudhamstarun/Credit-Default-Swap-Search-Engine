@@ -1,0 +1,57 @@
+"
+Counterparty","
+ReferenceEntity","
+Buy/Sell","
+NotionalAmount(000'somitted)","
+Pay/ReceiveAnnualFixedRate","
+TerminationDate","
+NetUnrealizedAppreciation(Depreciation)",CIK,Reporting Type,Report Year
+"
+Barclays Capital Services, Inc.","Turkey
+(Republic of)","
+Buy","
+1,190000",2.12,"
+01/20/13","
+8,863",0001394395,N-CSR,08
+"
+Barclays Capital Services, Inc.","Iceland
+(Republic of)","
+Sell","
+200000",1.88,"
+03/20/18","
+4,150",0001394395,N-CSR,08
+"
+J.P.Morgan Chase, N.A.","Peru
+(Republic of)","
+Sell","
+300000",1.7,"
+03/20/18","
+2,176",0001394395,N-CSR,08
+"
+J.P.Morgan Chase, N.A.","Iceland
+(Republic of)","
+Sell","
+500000",1.75,"
+03/20/18","
+5,502",0001394395,N-CSR,08
+"
+J.P.Morgan Chase, N.A.","Iceland
+(Republic of)","
+Sell","
+100000",1.9,"
+03/20/18","
+2,225",0001394395,N-CSR,08
+"
+J.P.Morgan Chase, N.A.","Iceland
+(Republic of)","
+Sell","
+200000",2.1,"
+03/20/18","
+8,350",0001394395,N-CSR,08
+"
+J.P.Morgan Chase, N.A.","Iceland
+(Republic of)","
+Sell","
+200000",2.45,"
+03/20/18","
+15,119",0001394395,N-CSR,08

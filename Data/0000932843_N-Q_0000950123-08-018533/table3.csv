@@ -1,0 +1,9 @@
+SWAP COUNTERPARTY &REFERENCE OBLIGATION,PROTECTION,AMOUNT(000 S),RATE,DATE,(DEPRECIATION),CIK,Reporting Type,Report Year
+"Goldman Sachs International
+Dow Jones Index",Sell,394,0.8,"December 20, 2017","(17,993",0000932843,N-Q,08
+"Goldman Sachs International
+Dow Jones Index",Sell,497,1.55,"June 20, 2013","(15,797",0000932843,N-Q,08
+"JPMorgan Chase Bank, N.A. New York
+Nordstrom, Inc.",Buy,135,1.07,"March 20, 2018",17232,0000932843,N-Q,08
+"Bank of America, N.A.
+Sealed Air Corp.         ",Buy,40,1.12,"March 20, 2018",3727,0000932843,N-Q,08

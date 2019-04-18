@@ -1,0 +1,3 @@
+Description,Counterparty /Exchange,NotionalAmounta,PeriodicPaymentRate,ExpirationDate,UpfrontPremiumsPaid(Received),UnrealizedAppreciation,UnrealizedDepreciation,MarketValue,CIK,Reporting Type,Report Year
+MCDX.NA.21,CITI,7000000,1,12/20/18,"(104,821",173015,68194,Non InvestmentGrade,0000837274,N-CSR,15
+MCDX.NA.23,CITI,3000000,1,12/20/19,19683,2602,22285,Non InvestmentGrade,0000837274,N-CSR,15

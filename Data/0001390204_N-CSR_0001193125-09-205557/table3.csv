@@ -1,0 +1,3 @@
+Counterparty,Referenced Entity,Buy/SellProtection,CurrentCreditSpread (6),NotionalAmount(U.S. Dollars),FixedRate,TerminationDate,"Value atJuly 31,2009(U.S. Dollars)",UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+Barclays Bank PLC,DJ Investment Grade CDX,Sell,1.11,3000000,1,6/20/14,"(10,792",113977,0001390204,N-CSR,09
+JPMorgan,DJ High Yield CDX,Sell,7.54,1880000,5,6/20/14,"(163,558",292342,0001390204,N-CSR,09

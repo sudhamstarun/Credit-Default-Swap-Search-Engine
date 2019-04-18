@@ -1,0 +1,11 @@
+Counterparty,"
+ReferenceEntity/Obligation","
+Buy/SellProtection","
+(Pay)/ReceiveFixedRate (%)","
+TerminationDate","
+NotionalAmount(2) ","
+FairValue(3) ","
+UpfrontPaymentsPaid/(Received)","
+UnrealizedAppreciation/(Depreciation)",CIK,Reporting Type,Report Year
+"Citigroup, Inc.","Citigroup, Inc.",Buy,(5.000,06/20/18,"2,631,000","(209,780","(288,630","78,850",0000002663,N-CSR,13
+Deutsche Bank AG,Republic of Turkey,Buy,(1.000,06/20/18,"215,000","8,606","4,148","4,458",0000002663,N-CSR,13

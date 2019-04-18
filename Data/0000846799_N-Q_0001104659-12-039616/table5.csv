@@ -1,0 +1,7 @@
+Counterparty,Reference Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Notional   Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
+"Citigroup, Inc.",MBIA   Inc.,Buy,(5.000),09/20/13,"140,000","8,406","13,922","(5,516)",0000846799,N-Q,12
+"Citigroup, Inc.",MBIA   Inc.,Buy,(5.000),09/20/13,"284,000","17,051","27,105","(10,054)",0000846799,N-Q,12
+JPMorgan   Chase & Co.,MBIA   Inc.,Buy,(5.000),09/20/13,"959,000","57,579","49,811","7,768",0000846799,N-Q,12
+"Citigroup, Inc.",Republic   of Turkey,Buy,(1.000),03/20/17,"212,959","12,308","12,729",(421),0000846799,N-Q,12
+Morgan Stanley,Spanish   Government Bond,Buy,(1.000),06/20/17,"2,618,000","373,750","385,260","(11,510)",0000846799,N-Q,12
+Deutsche Bank AG,United   Mexican States,Buy,(1.000),03/20/17,"1,783,902","11,320","29,398","(18,078)",0000846799,N-Q,12

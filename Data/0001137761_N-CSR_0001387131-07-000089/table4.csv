@@ -1,0 +1,45 @@
+Counterparty,Referenced Obligation,"Buy/Sell 
+ Protection (1)","(Pay)/Receive 
+ Fixed Rate","Expiration
+ Date","Notional
+ Amount","Unrealized
+ Appreciation
+ (Depreciation)",CIK,Reporting Type,Report Year
+Goldman Sachs,"American International Group
+ 5.600% due 10/18/16",Sell,0.055,03/20/08,"900,000",312,0001137761,N-CSR,07
+UBS,"The Goldman Sachs Group Inc
+ 6.600% due 01/15/12",Sell,0.170,09/20/08,"500,000",27,0001137761,N-CSR,07
+UBS,"Morgan Stanley 6.600% due
+ 04/01/12",Sell,0.190,09/20/08,"500,000",(730,0001137761,N-CSR,07
+Lehman Brothers,"Johnson & Johnson 3.800%
+ due 05/15/13",Buy,(0.110,12/20/08,"100,000",(109,0001137761,N-CSR,07
+Lehman Brothers,"The Home Depot Inc 5.375%
+ due 04/01/06",Buy,(0.120,12/20/08,"100,000",96,0001137761,N-CSR,07
+Citigroup,"Wal-Mart Stores Inc 3.375%
+ due 10/01/08",Buy,(0.140,12/20/08,"100,000",(109,0001137761,N-CSR,07
+Barclays,"Eli Lilly & Co 6.000%
+ due 03/15/12",Buy,(0.160,12/20/08,"100,000",(170,0001137761,N-CSR,07
+Morgan Stanley,"Emerson Electric Co 4.625%
+ due 10/15/12",Buy,(0.210,12/20/08,"100,000",(194,0001137761,N-CSR,07
+Merrill Lynch,"Gannett Co Inc 6.375% due
+ 04/01/12",Buy,(0.220,12/20/08,"100,000",(73,0001137761,N-CSR,07
+Morgan Stanley,"The Allstate Corp 6.125% due
+ 02/15/12",Buy,(0.260,12/20/08,"100,000",(133,0001137761,N-CSR,07
+Citigroup,"Eaton Corp 5.750% due
+ 07/15/12",Buy,(0.280,12/20/08,"100,000",(242,0001137761,N-CSR,07
+Barclays,"FedEx Corp 7.250% due
+ 02/15/11",Buy,(0.290,12/20/08,"100,000",(230,0001137761,N-CSR,07
+Lehman Brothers,"Whirlpool Corp 8.600% due
+ 05/01/10",Buy,(0.290,12/20/08,"100,000",(291,0001137761,N-CSR,07
+Merrill Lynch,"Ingersoll-Rand Co Ltd 6.480%
+ due 06/01/25",Buy,(0.320,12/20/08,"100,000",(291,0001137761,N-CSR,07
+Royal Bank of Scotland,"Republic of Indonesia 6.750%
+ due 03/10/14",Sell,0.400,12/20/08,"200,000",(389,0001137761,N-CSR,07
+Barclays,"Ukraine Government Bond
+ 7.650% due 06/11/13",Sell,0.710,12/20/08,"100,000",(106,0001137761,N-CSR,07
+Morgan Stanley,"Glitnir Banki HF 5.618% due
+ 04/20/10",Buy,(0.170,06/20/10,"100,000","1,519",0001137761,N-CSR,07
+Morgan Stanley,Dow Jones CDX NA EM3 Index,Sell,2.100,06/20/10,"400,000","24,422",0001137761,N-CSR,07
+JPMorgan Chase,"Health Care Properties
+ 5.950% due 09/15/11",Buy,(0.460,09/20/11,"900,000","9,967",0001137761,N-CSR,07
+Morgan Stanley,Dow Jones CDX NA IG8 Index,Buy,(0.170,06/20/12,"4,800,000","(17,587",0001137761,N-CSR,07

@@ -1,0 +1,67 @@
+"
+Counterparty
+","
+Entity
+","
+Protection
+","
+Fixed
+      Rate
+","
+Date
+","
+Amount
+","
+Depreciation
+",CIK,Reporting Type,Report Year
+"
+JP
+      Morgan
+","
+Ford
+      Motor Credit Co. (e)
+","
+SELL
+","
+5.15%
+","
+3/20/2011
+","
+$     2,250,000
+","
+($805,091)
+",0001014913,N-Q,08
+"
+JP
+      Morgan
+","
+GE
+      Capital Corp. (e)
+","
+SELL
+","
+5.40%
+","
+9/20/2013
+","
+6,470,000
+","
+(73,564)
+",0001014913,N-Q,08
+"
+JP
+      Morgan
+","
+GE
+      Capital Corp. (e)
+","
+SELL
+","
+5.30%
+","
+9/20/2013
+","
+1,620,000
+","
+(24,559)
+",0001014913,N-Q,08

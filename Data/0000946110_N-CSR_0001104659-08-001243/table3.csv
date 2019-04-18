@@ -1,0 +1,18 @@
+"
+Currency","
+NotionalAmount","
+Expiration Date","
+Underlying Instrument","
+Counterparty","
+AnnualRate","
+Unrealized Appreciation / (Depreciation)","
+Upfront Payment",CIK,Reporting Type,Report Year
+"
+USD   ","
+1,250,000","
+6/20/12","
+CDX North America High Yield Index","
+Lehman Brothers","
+2.75%","
+$(32,779)","
+$68,750",0000946110,N-CSR,08

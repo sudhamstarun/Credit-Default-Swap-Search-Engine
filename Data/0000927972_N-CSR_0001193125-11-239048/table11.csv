@@ -1,0 +1,13 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"1,125,000",6/20/16,Credit Suisse Securities LLC,Buy,(0.580,"Marriott International, Inc.","24,782",        -,"24,782",0000927972,N-CSR,11
+"328,638",7/25/45,Credit Suisse Securities LLC,Buy,(0.180,ABX.HE.AAA.06-1,"(4,241","33,687","29,446",0000927972,N-CSR,11
+"4,420,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(320,411","427,375","106,964",0000927972,N-CSR,11
+"1,300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(98,540","130,000","31,460",0000927972,N-CSR,11
+"440,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(17,952","28,600","10,648",0000927972,N-CSR,11
+"575,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(13,397","27,313","13,916",0000927972,N-CSR,11
+"1,250,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(45,271","75,521","30,250",0000927972,N-CSR,11
+"875,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(26,950","63,437","36,487",0000927972,N-CSR,11
+"875,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(26,950","63,437","36,487",0000927972,N-CSR,11
+"1,725,000",10/12/52,Goldman Sachs & Co.,Buy,(0.500,CMBX.NA.AM.1,"(53,130","125,063","71,933",0000927972,N-CSR,11
+"140,000",6/20/16,JP Morgan Chase Bank,Buy,(1.000,Kingdom of Spain,(326,"8,887","8,561",0000927972,N-CSR,11
+"275,000",6/20/16,JP Morgan Chase Bank,Buy,(1.000,Kingdom of Spain,394,"16,422","16,816",0000927972,N-CSR,11

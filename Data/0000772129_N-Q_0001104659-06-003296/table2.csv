@@ -1,0 +1,84 @@
+"Notional
+  Amount","Expiration
+  Date",Counterparty,"Receive
+  (Pay)","Annual
+  Premium","Deliverable
+  On Default","Net
+  Unrealized
+  Appreciation
+  (Depreciation)",CIK,Reporting Type,Report Year
+"5,000,000",4/2/2007,"Lehman
+  Brothers",Receive,0.52,"General
+  Electric
+  Capital Corporation","23,813",0000772129,N-Q,06
+"3,000,000",4/17/2007,"UBS
+  AG",Receive,0.8,"EOP
+  Operating LP","21,633",0000772129,N-Q,06
+"3,000,000",4/17/2007,"UBS
+  AG",Receive,0.47,"Goldman
+  Sachs
+  Group, Inc.","12,200",0000772129,N-Q,06
+"3,000,000",4/17/2007,"Bear
+  Stearns",Receive,1.28,"National
+  Rural
+  Utilities Cooperative
+  Finance Corp.","46,189",0000772129,N-Q,06
+"10,000,000",12/16/2007,Citigroup,Receive,2.41,"AOL
+  Time
+  Warner, Inc.","439,175",0000772129,N-Q,06
+"5,000,000",6/20/2008,"Lehman
+  Brothers",Receive,0.5,"Dominion
+  Resources, Inc.","24,595",0000772129,N-Q,06
+"5,000,000",6/20/2008,"Deutsche
+  Bank AG",Receive,0.48,"Household
+  Finance Corp.","39,904",0000772129,N-Q,06
+"5,000,000",6/20/2008,"Deutsche
+  Bank AG",Receive,0.65,"Kraft
+  Foods, Inc.","62,866",0000772129,N-Q,06
+"5,000,000",6/20/2008,"Deutsche
+  Bank AG",Receive,0.4,"Norfolk
+  Southern
+  Corporation","31,266",0000772129,N-Q,06
+"5,000,000",6/20/2008,"Deutsche
+  Bank AG",Receive,0.4,"Washington
+  Mutual, Inc.","21,504",0000772129,N-Q,06
+"10,000,000",9/20/2008,"Deutsche
+  Bank AG",Receive,0.32,"American
+  International
+  Group, Inc.","55,478",0000772129,N-Q,06
+"10,000,000",12/20/2008,"Lehman
+  Brothers",Receive,0.27,"Federal
+  Home
+  Loan Bank System","70,210",0000772129,N-Q,06
+"5,000,000",5/20/2009,"JP
+  Morgan
+  Chase Bank",Receive,1.13,"United
+  Mexican
+  States","112,267",0000772129,N-Q,06
+"5,000,000",6/20/2009,Citigroup,Receive,0.25,"ConocoPhillips
+  Company","23,149",0000772129,N-Q,06
+"5,000,000",6/20/2009,"Barclays
+  Bank PLC",Receive,0.91,"Sprint
+  Capital
+  Corp.","121,154",0000772129,N-Q,06
+"5,000,000",6/20/2009,"Lehman
+  Brothers",Receive,0.67,"Wyeth
+  Energy","89,237",0000772129,N-Q,06
+"5,000,000",9/20/2009,"UBS
+  AG",Receive,0.59,"Capital
+  One Bank","84,125",0000772129,N-Q,06
+"5,000,000",9/20/2009,Citigroup,Receive,0.3,"Coca-Cola
+  Enterprises, Inc.","19,643",0000772129,N-Q,06
+"5,000,000",9/20/2009,Citigroup,Receive,0.69,"Comcast
+  Cable
+  Communications, Inc.","54,789",0000772129,N-Q,06
+"5,000,000",9/20/2009,"UBS
+  AG",Receive,0.62,"Devon
+  Energy Corp.","78,116",0000772129,N-Q,06
+"5,000,000",9/20/2009,"Barclays
+  Bank PLC",Receive,0.54,"Duke
+  Energy Corp.","50,001",0000772129,N-Q,06
+"5,000,000",9/20/2009,Citigroup,Receive,0.25,"International
+  Business Machines","22,707",0000772129,N-Q,06
+"5,000,000",9/20/2009,UBS AG,Receive,0.53,"Kinder Morgan
+  Energy Partners L.P.","53,452",0000772129,N-Q,06

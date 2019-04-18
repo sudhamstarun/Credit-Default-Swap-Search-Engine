@@ -1,0 +1,32 @@
+Counterparty,"Reference
+  
+  Entity/Obligation","Buy/Sell
+  Protection (2)","(Pay)/
+  Receive
+  Fixed 
+  Rate (%)","Termination
+  Date","Implied 
+  Credit 
+  Spread at 
+  03/31/09 (%) (3)","Notional
+  Amount (4)","Market
+  Value (5)","Upfront
+  Premium
+  Paid/
+  (Received)","Unrealized
+  Appreciation/
+  (depreciation)",CIK,Reporting Type,Report Year
+UBS AG,"Domtar Inc. 7.875%,
+  10/15/11",Sell,2.6,09/20/11,8.94,"542,000","(69,589)","(69,589)",,0000846799,N-Q,09
+"Citibank N.A., New York","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,52.05,"139,000","(89,618)","(46,771)","(42,847)",0000846799,N-Q,09
+"Citibank N.A., New York","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,52.05,"284,000","(183,105)","(104,246)","(78,859)",0000846799,N-Q,09
+"Goldman Sachs
+  International","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,52.05,"241,000","(155,381)","(80,065)","(75,316)",0000846799,N-Q,09
+"JPMorgan
+  Chase Bank, N.A. New York","MBIA Global Funding LLC,
+  FRN, 10/06/10",Sell,5.0,09/20/13,52.05,"480,000","(309,473)","(80,027)","(229,446)",0000846799,N-Q,09
+Barclays Bank PLC,"Weyerhaeuser Co. 7.125%,
+  07/15/23",Sell,0.78,09/20/12,1.78,"874,000","(28,685)","(28,685)",,0000846799,N-Q,09

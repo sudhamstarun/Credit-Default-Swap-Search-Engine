@@ -1,0 +1,57 @@
+Counterparty,Entity,Protection,Fixed Rate,Date,Amount,CIK,Reporting Type,Report Year
+"
+
+    Citigroup
+","
+
+    Constellation Energy Group, Inc.
+",Buy,0.240%,06/20/2012,4100,0000820892,N-CSR,07
+"
+
+    Citigroup
+","
+
+    Lennar Corporation
+",Buy,1.050%,09/20/2012,4000,0000820892,N-CSR,07
+"
+
+    Citigroup
+","
+
+    Ryland Group
+",Buy,1.250%,09/20/2012,4000,0000820892,N-CSR,07
+"
+
+    Deutsche Bank
+","
+
+    Dow Jones CDX HVOL8 Index
+",Buy,0.750%,06/20/2012,17200,0000820892,N-CSR,07
+"
+
+    Deutsche Bank
+","
+
+    Dow Jones CDX XO8 Index
+",Buy,1.400%,06/20/2012,17000,0000820892,N-CSR,07
+"
+
+    J.P. Morgan
+","
+
+    Centurytel, Inc.
+",Buy,0.540%,09/20/2012,6535,0000820892,N-CSR,07
+"
+
+    J.P. Morgan
+","
+
+    Dow Jones CDX HVOL8 Index
+",Buy,0.750%,06/20/2012,43500,0000820892,N-CSR,07
+"
+
+    J.P. Morgan
+","
+
+    Dow Jones CDX HY8 Index
+",Buy,2.750%,06/20/2012,8100,0000820892,N-CSR,07

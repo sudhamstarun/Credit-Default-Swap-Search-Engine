@@ -1,0 +1,4 @@
+Counterparty,ReferenceObligation,(Pay)/ReceiveFixed Rate,ExpirationDate,ImpliedCreditSpread^,NotionalValue( ),UnamortizedUp FrontPremiumPaid/(Received),MarketValue,UnrealizedAppreciation(Depreciation),FeesReceivable/(Payable),CIK,Reporting Type,Report Year
+Citibank N.A.,"CDX.EM* Series 22, 5-Year",1.00%,12/20/2019,2.07,"3,700,000","(270,607","(286,719","(16,112","7,194",0000052136,N-CSR,15
+Citibank N.A.,"CDX.EM* Series 22, 5-Year",1.00%,12/20/2019,2.07,"600,000","(45,476","(46,494","(1,018","1,167",0000052136,N-CSR,15
+Citibank N.A.,Republic of Russia,1.00%,12/20/2019,3.18,"350,000","(29,735","(34,237","(4,502",632,0000052136,N-CSR,15

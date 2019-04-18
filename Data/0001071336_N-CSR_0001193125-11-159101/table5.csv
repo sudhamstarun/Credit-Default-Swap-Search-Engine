@@ -1,0 +1,5 @@
+Counterparty,Referenced Entity,Buy/SellProtection (11),CurrentCreditSpread (12),NotionalAmount(U.S. Dollars),FixedRate*,TerminationDate,Value(U.S. Dollars),UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+JPMorgan,DJ Investment Grade CDX,Sell,0.96,"2,900,000",1.0,6/20/16,"6,493",(886,0001071336,N-CSR,11
+JPMorgan,DJ High Yield CDX,Sell,4.52,"2,000,000",5.0,6/20/16,"43,606","2,356",0001071336,N-CSR,11
+UBS AG,"Freescale Semiconductor, Inc.",Sell,6.71,"140,000",5.0,6/20/15,"(2,108","24,492",0001071336,N-CSR,11
+UBS AG,DJ High Yield CDX,Sell,4.52,"1,200,000",5.0,6/20/16,"26,164",(86,0001071336,N-CSR,11

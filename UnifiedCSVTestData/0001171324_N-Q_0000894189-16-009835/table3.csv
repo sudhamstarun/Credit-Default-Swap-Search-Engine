@@ -1,0 +1,52 @@
+"
+Counterparty
+","
+Reference Entity
+","
+Protection
+","
+Fixed Rate
+","
+Date
+","
+Amount
+",CIK,Reporting Type,Report Year
+"
+BNP Paribas S.A.
+","
+Markit CDX.HY.25 (a)
+","
+Buy
+","
+(5.00
+","
+Dec 20 2020
+","
+1,500,000
+",0001171324,N-Q,16
+"
+BNP Paribas S.A.
+","
+Markit CDX.IG.26 (b)
+","
+Buy
+","
+(1.00
+","
+Jun 20 2021
+","
+2,000,000
+",0001171324,N-Q,16
+"
+Credit Suisse
+","
+Staples, Inc.
+","
+Buy
+","
+(1.00
+","
+Jun 20 2019
+","
+5,000,000
+",0001171324,N-Q,16

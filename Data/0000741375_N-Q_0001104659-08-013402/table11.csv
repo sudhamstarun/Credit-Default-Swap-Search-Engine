@@ -1,0 +1,13 @@
+Swap Counterparty and Reference Obligation,"Buy/Sell
+  Protection","Notional
+  Amount
+  (000)","Pay/Receive
+  Fixed Rate","Termination
+  Date","Unrealized
+  Appreciation
+  (Depreciation)
+  (000)",CIK,Reporting Type,Report Year
+"Tyco International Ltd., 6.38%, 10/15/11",Buy,"1,000",0.8,3/20/11,(17,0000741375,N-Q,08
+"Tyco International Ltd., 2.75%, 1/15/18",Buy,"1,000",0.65,3/20/11,(12,0000741375,N-Q,08
+"Dow Jones CDX North America High Yield
+  Index, Series 9",Sell,"6,200",3.75,12/20/12,133,0000741375,N-Q,08

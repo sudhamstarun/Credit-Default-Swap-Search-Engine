@@ -1,0 +1,4 @@
+Counterparty,Referenced Entity,Buy/SellProtection,NotionalAmount,FixedRate,Termination,"Value atDecember 31, 2007",Unrealized,CIK,Reporting Type,Report Year
+Bank of America,"Freescale Semiconductor, Inc.",Sell,"1,000,000",3.25,12/20/08,"(1,350","(1,350",0001071336,N-Q,08
+Goldman Sachs,DJ Investment Grade CDX,Sell,"23,500,000",3.75,12/20/12,"(1,003,003","(131,753",0001071336,N-Q,08
+Lehman Brothers,Harrah s Entertainment Inc.,Sell,"750,000",3.75,9/20/08,"3,181","3,169",0001071336,N-Q,08

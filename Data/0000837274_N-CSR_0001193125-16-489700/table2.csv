@@ -1,0 +1,2 @@
+Description,PeriodicPaymentRate,Counterparty /Exchange,NotionalAmounta,ExpirationDate,UnamortizedUpfrontPayments(Receipts),UnrealizedAppreciation,UnrealizedDepreciation,Value,Ratingb,CIK,Reporting Type,Report Year
+MCDX.NA.25,1.0,GSCO,"10,000,000",12/20/20,"(22,018","42,608","20,590",NonInvestmentGrade,,0000837274,N-CSR,16

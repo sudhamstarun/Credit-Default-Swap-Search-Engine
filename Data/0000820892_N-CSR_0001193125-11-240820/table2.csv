@@ -1,0 +1,5 @@
+Counterparty,Reference Index,"Buy/SellProtection 
+(1)","CurrentCreditSpread 
+(3)",NotionalAmount (2),ReceivedFixed Rate,TerminationDate,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+JPMorgan,Markit CDX NA HY16 Index,Sell,4.55,"5,600,000",5.0,6/20/16,"90,690","88,837",0000820892,N-CSR,11
+UBS,Markit CDX NA HY16 Index,Sell,4.55,"20,000,000",5.0,6/20/16,"139,273","94,842",0000820892,N-CSR,11

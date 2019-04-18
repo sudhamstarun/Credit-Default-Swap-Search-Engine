@@ -1,0 +1,26 @@
+Counterparty(a),TerminationDate,NotionalAmount(000),FixedRate,Underlying      Bond      ,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley,12/20/08,200000,0.26,"Allstate Corp. (The), 6.125%, due 2/15/12",(863,0000711175,N-CSR,05
+UBS AG,12/20/08,200000,0.35,"AutoZone, Inc., 5.875%, due 10/15/12","1,267",0000711175,N-CSR,05
+Goldman Sachs(b),06/20/10,"2,200000",0.4,Dow Jones CDX NA IG4 Index,"(4,728",0000711175,N-CSR,05
+Bear Stearns(b),06/20/10,900000,0.4,Dow Jones CDX NA IG4 Index,673,0000711175,N-CSR,05
+"Bank of America, N.A",06/20/10,"1,000000",0.4,Dow Jones CDX NA IG4 Index,"7,611",0000711175,N-CSR,05
+Citigroup,12/20/08,200000,0.28,"Eaton Corp., 5.75%, due 7/15/12",(470,0000711175,N-CSR,05
+"Bank of America, N.A",12/20/08,100000,0.13,"E.I. DuPont de Nemours & Co., 6.875%, due 10/15/09",(68,0000711175,N-CSR,05
+Barclays,12/20/08,200000,0.16,"Eli Lilly & Co., Inc., 6.00%, due 3/15/12",(484,0000711175,N-CSR,05
+Morgan Stanley,12/20/08,100000,0.21,"Emerson Electric Co., 4.625%, due 10/15/12",82,0000711175,N-CSR,05
+Citigroup,12/20/08,100000,0.29,"FedEx Corp., 7.25%, due 2/15/11",(232,0000711175,N-CSR,05
+Lehman Brothers,12/20/08,100000,0.97,"Goodrich Corp., 7.625%, due 12/15/12","(1,778",0000711175,N-CSR,05
+Bear Stearns,12/20/08,200000,0.32,"Hewlett Packard Co., 6.50%, due 7/1/12",(514,0000711175,N-CSR,05
+Merrill Lynch,12/20/08,100000,0.32,"Ingersoll-Rand Co., 6.48%, due 6/1/25",(343,0000711175,N-CSR,05
+Lehman Brothers,12/20/08,200000,0.11,"Johnson & Johnson, 3.80%, due 5/15/13",(268,0000711175,N-CSR,05
+Lehman Brothers,12/20/08,100000,0.53,"Lockheed Martin Corp., 8.20%, due 12/1/09","(1,161",0000711175,N-CSR,05
+Lehman Brothers,12/20/08,100000,0.3,"Masco Corp., 5.875%, due 7/15/12",(97,0000711175,N-CSR,05
+Lehman Brothers,12/20/08,100000,0.48,"Northrop Grumman Corp., 7.125%, due 2/15/11",(944,0000711175,N-CSR,05
+Lehman Brothers,06/20/09,400000,0.4,"People s Republic of China, 6.80%, due 5/23/11","(2,025",0000711175,N-CSR,05
+Lehman Brothers,12/20/08,100000,0.35,"RadioShack Corp., 7.375%, due 5/15/11","1,277",0000711175,N-CSR,05
+Merrill Lynch(b),03/20/07,200000,0.61,"Russian Federation, 5.00%, due 3/31/30",20,0000711175,N-CSR,05
+CS First Boston(b),09/07/05,100000,0.55,"Russian Feferation, 5.00%, due 3/31/30",34,0000711175,N-CSR,05
+Lehman Brothers,12/20/08,200000,0.12,"The Home Depot, Inc., 5.375%, due 4/1/06",(46,0000711175,N-CSR,05
+Barclays,12/20/08,100000,0.67,"The Walt Disney Co., 6.375%, due 3/1/12","(1,576",0000711175,N-CSR,05
+Citigroup,12/20/08,300000,0.14,"Wal-Mart Stores, Inc., 6.875%, due 8/10/09",(471,0000711175,N-CSR,05
+Lehman Brothers,12/20/08,100000,0.29,"Whirlpool Corp., 8.60%, due 5/1/10",712,0000711175,N-CSR,05

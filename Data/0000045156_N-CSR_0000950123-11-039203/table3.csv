@@ -1,0 +1,4 @@
+Swap Counterparty,Protection,Amount(000 s),Rate,Date,CIK,Reporting Type,Report Year
+Barclays Bank plc,Sell,34000000,1.0,12/20/15,0000045156,N-CSR,11
+Barclays Bank plc,Buy,34000000,1.0,12/20/15,0000045156,N-CSR,11
+Goldman Sachs International,Buy,50000000,0.25,9/20/15,0000045156,N-CSR,11

@@ -1,0 +1,4 @@
+Underlying Reference Entity,Counterparty,Amount,Date,CIK,Reporting Type,Report Year
+Markit IOS Index,Goldman Sachs,10773,01/12/41,0000351601,N-CSR,17
+Markit IOS Index,Goldman Sachs,16257,01/12/45,0000351601,N-CSR,17
+Markit IOS Index,Goldman Sachs,29483,01/12/45,0000351601,N-CSR,17

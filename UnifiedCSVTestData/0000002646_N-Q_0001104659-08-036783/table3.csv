@@ -1,0 +1,213 @@
+Counterparty,Reference Entity/Obligation,"Buy/Sell
+  Protection","(Pay)/Receive
+  Fixed Rate (%)","Termination
+  Date","Notional
+  Amount","Unrealized
+  Appreciation/
+  (Depreciation)",CIK,Reporting Type,Report Year
+"Citibank N.A., New York","First
+  Data Corp. 4.700%, 08/01/13",Buy,(5.350),12/20/12,"7,311,000","775,368",0000002646,N-Q,08
+"Citibank N.A., New York","First
+  Data Corp. 4.700%, 08/01/13",Buy,(5.900),12/20/17,"4,133,000","516,213",0000002646,N-Q,08
+"Citibank N.A., New York","Ford
+  Motor Co. 6.500%, 08/01/18",Sell,6.100,12/20/12,"3,159,000","(549,446)",0000002646,N-Q,08
+"Citibank N.A., New York","Federal
+  Home Loan Mortgage Corp. 5.500%, 09/15/11",Buy,(0.560),03/20/13,"7,873,000","(23,099)",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Federal
+  Home Loan Mortgage Corp. 5.500%, 09/15/11",Buy,(0.960),03/20/13,"3,316,000","(70,829)",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Federal
+  Home Loan Mortgage Corp. 5.875%, 03/21/11",Buy,(2.100),03/20/13,"3,316,000","(116,810)",0000002646,N-Q,08
+Barclays Bank PLC,"Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.780),09/20/14,"5,612,000","479,007",0000002646,N-Q,08
+"Citibank N.A., New York","Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.690),06/20/14,"8,772,000","775,180",0000002646,N-Q,08
+"Citibank N.A., New York","Gannett
+  Co. 6.375%, 04/01/12",Buy,(0.860),09/20/14,"2,745,000","222,730",0000002646,N-Q,08
+"Citibank N.A., New York","General
+  Electric Capital Corp. 6.000%, 06/15/12",Sell,1.170,03/20/13,"27,468,000","(183,813)",0000002646,N-Q,08
+Barclays Bank PLC,"Georgia-Pacific
+  Corp. 7.750%, 11/15/29",Sell,3.000,09/20/12,"2,907,000","(232,202)",0000002646,N-Q,08
+"Citibank N.A., New York","Goldman
+  Sachs Group Inc. 6.600%, 01/15/12",Buy,(0.960),12/20/12,"8,950,000","207,632",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Goldman
+  Sachs Group Inc. 6.600%, 01/15/12",Buy,(1.030),12/20/12,"6,593,000","133,528",0000002646,N-Q,08
+"Morgan Stanley Capital
+  Services Inc.","Goldman
+  Sachs Group Inc. 6.600%, 01/15/12",Buy,(1.030),12/20/12,"5,742,000","116,293",0000002646,N-Q,08
+UBS AG,"Harrah s
+  Operating Co. Inc. 5.625%, 06/01/15",Buy,(7.450),03/20/13,"2,847,000","334,556",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Hilton
+  Hotels Corp. 7.625%, 12/01/12",Buy,(7.250),03/20/13,"2,445,500","205,632",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Hilton
+  Hotels Corp. 7.625%, 12/01/12",Buy,(7.650),03/20/13,"5,953,000","422,251",0000002646,N-Q,08
+UBS AG,"HSBC
+  Bank PLC 4.250%, 03/18/16",Buy,(0.400),09/20/17,"5,233,000","574,214",0000002646,N-Q,08
+UBS AG,"LCDX.NA.8
+  Index",Buy,(1.200),06/20/12,"26,790,840","858,843",0000002646,N-Q,08
+UBS AG,"LCDX.NA.8
+  Index",Buy,(1.200),06/20/12,"4,512,142","111,576",0000002646,N-Q,08
+"Citibank N.A., New York","Lehman
+  Brothers Hldgs. 6.625%, 01/18/12",Buy,(1.100),12/20/12,"2,676,000","201,972",0000002646,N-Q,08
+"Citibank N.A., New York","Lehman
+  Brothers Hldgs. 6.625%, 01/18/12",Buy,(1.100),12/20/12,"2,664,000","201,066",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Liberty
+  Mutual Insurance 7.875%, 10/15/26",Buy,(1.150),03/20/13,"6,580,000","(91,727)",0000002646,N-Q,08
+Barclays Bank PLC,"Lloyds
+  TSB Group PLC 5.875%, 07/08/14",Buy,(0.500),12/20/17,"2,859,000","229,852",0000002646,N-Q,08
+Barclays Bank PLC,"Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(3.850),03/20/13,"1,853,000","123,820",0000002646,N-Q,08
+"Citibank N.A., New York","Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(2.000),12/20/12,"3,317,000","436,069",0000002646,N-Q,08
+"Citibank N.A., New York","Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(2.100),12/20/12,"5,970,000","763,273",0000002646,N-Q,08
+"Citibank N.A., New York","Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(3.010),03/20/13,"1,700,000","167,114",0000002646,N-Q,08
+"Citibank N.A., New York","Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(3.375),03/20/13,"5,177,000","438,093",0000002646,N-Q,08
+"Morgan Stanley Capital
+  Services Inc.","Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(2.230),12/20/12,"5,742,000","707,150",0000002646,N-Q,08
+UBS AG,"Louisiana-Pacific
+  Corp. 8.875%, 08/15/10",Buy,(2.000),12/20/12,"3,489,000","458,681",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Macquarie
+  Bank Ltd. FRN, 09/18/15",Buy,(1.200),12/20/12,"22,001,000","2,220,796",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Macquarie
+  Bank Ltd. FRN, 09/18/15",Sell,1.300,12/20/17,"13,104,000","(2,152,714)",0000002646,N-Q,08
+"Citibank N.A., New York","Marks &
+  Spencer PLC 6.375%, 11/07/11",Buy,(1.100),03/20/13,"8,289,000","352,618",0000002646,N-Q,08
+"Citibank N.A., New York","Marks &
+  Spencer PLC 6.375%, 11/07/11",Buy,(1.400),03/20/13,"5,960,000","175,274",0000002646,N-Q,08
+"JPMorgan Chase Bank
+  N.A., New York","MBIA
+  Inc. 6.625%, 10/01/28",Sell,0.000,09/20/08,"16,585,000","250,330",0000002646,N-Q,08
+Barclays Bank PLC,"Merrill
+  Lynch & Co. 5.000%, 01/15/15",Buy,(0.860),09/20/12,"12,627,000","908,271",0000002646,N-Q,08
+Barclays Bank PLC,"Morgan
+  Stanley 6.600%, 04/01/12",Buy,(1.040),12/20/12,"5,724,000","258,143",0000002646,N-Q,08
+"Citibank N.A., New York","Morgan
+  Stanley 6.600%, 04/01/12",Buy,(1.080),12/20/12,"8,950,000","388,864",0000002646,N-Q,08
+"Citibank N.A., New York","Norbord
+  Inc. 7.250%, 07/01/12",Sell,2.200,06/20/12,"1,495,500","(219,859)",0000002646,N-Q,08
+"Citibank N.A., New York","Norbord
+  Inc. 7.250%, 07/01/12",Buy,(5.250),03/20/13,"3,658,000","186,259",0000002646,N-Q,08
+"Citibank N.A., New York","Norbord
+  Inc. 7.250%, 07/01/12",Buy,(2.450),12/20/17,"8,363,000","1,461,297",0000002646,N-Q,08
+"Credit Suisse
+  International","Norbord
+  Inc. 7.250%, 07/01/12",Buy,(1.450),06/20/14,"9,317,000","1,895,093",0000002646,N-Q,08
+UBS AG,"Norbord
+  Inc. 7.250%, 07/01/12",Buy,(1.500),06/20/12,"1,495,500","253,380",0000002646,N-Q,08
+UBS AG,"Norbord
+  Inc. 7.250%, 07/01/12",Buy,(2.400),12/20/17,"3,325,000","589,969",0000002646,N-Q,08
+"Citibank N.A., New York","Potash
+  Corp. of Saskatchewan 7.750%, 05/31/11",Buy,(0.600),03/20/13,"3,264,000","9,735",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Potash
+  Corp. of Saskatchewan 7.750%, 05/31/11",Buy,(0.670),03/20/18,"9,767,000","77,648",0000002646,N-Q,08
+"Morgan Stanley Capital
+  Services Inc.","Potash
+  Corp. of Saskatchewan 7.750%, 05/31/11",Buy,(0.610),03/20/13,"6,531,000","16,488",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","Radian
+  Group Inc. 5.375%, 06/15/15",Sell,3.900,09/20/14,"13,533,900","(2,695,181)",0000002646,N-Q,08
+UBS AG,"Radian
+  Group Inc. 5.375%, 06/15/15",Buy,(0.850),09/20/14,"13,533,900","4,113,785",0000002646,N-Q,08
+"Citibank N.A., New York","Royal
+  Bank of Scotland PLC 6.000%, 05/10/13",Buy,(0.290),09/20/17,"6,645,000","959,443",0000002646,N-Q,08
+UBS AG,"Royal
+  Bank of Scotland PLC 6.000%, 05/10/13",Buy,(0.400),09/20/17,"5,233,000","713,905",0000002646,N-Q,08
+"Citibank N.A., New York","Societe
+  Generale 6.625%, 04/27/15",Buy,(0.510),09/20/17,"1,410,000","149,260",0000002646,N-Q,08
+"Citibank N.A., New York","Societe
+  Generale 6.625%, 04/27/15",Buy,(0.510),09/20/17,"3,151,000","333,559",0000002646,N-Q,08
+UBS AG,"Societe
+  Generale 6.625%, 04/27/15",Buy,(0.380),09/20/17,"5,233,000","604,056",0000002646,N-Q,08
+"JPMorgan Chase Bank
+  N.A., New York","Sprint
+  Nextel Corp. 6.000%, 12/01/16",Sell,3.820,03/20/13,"6,590,000","(522,737)",0000002646,N-Q,08
+"Morgan Stanley Capital
+  Services Inc.","Sprint
+  Nextel Corp. 6.000%, 12/01/16",Sell,3.800,03/20/13,"13,203,000","(1,057,066)",0000002646,N-Q,08
+Barclays Bank PLC,"Standard
+  Chartered Bank 3.625%, 02/03/17",Buy,(0.750),12/20/17,"2,859,000","275,473",0000002646,N-Q,08
+"Citibank N.A., New York","Standard
+  Chartered Bank 3.625%, 02/03/17",Buy,(0.670),09/20/17,"1,410,000","141,599",0000002646,N-Q,08
+UBS AG,"Standard
+  Chartered Bank 3.625%, 02/03/17",Buy,(0.420),09/20/17,"5,233,000","621,510",0000002646,N-Q,08
+"Goldman Sachs
+  International","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(1.040),03/20/14,"2,105,000","185,564",0000002646,N-Q,08
+"JPMorgan Chase Bank
+  N.A., New York","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(0.890),03/20/14,"6,218,000","593,602",0000002646,N-Q,08
+"JPMorgan Chase Bank
+  N.A., New York","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(1.020),03/20/14,"6,015,000","536,110",0000002646,N-Q,08
+"Morgan Stanley Capital
+  Services Inc.","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(0.900),03/20/14,"5,447,000","517,343",0000002646,N-Q,08
+"Morgan Stanley Capital
+  Services Inc.","Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(1.600),09/20/17,"5,813,000","470,359",0000002646,N-Q,08
+UBS AG,"Temple-Inland
+  Inc. 7.875%, 05/01/12",Buy,(0.900),03/20/14,"5,820,000","552,770",0000002646,N-Q,08
+UBS AG,"Toll
+  Bros Finance Corp. 6.875%, 11/15/12",Buy,(1.000),06/20/12,"13,620,000","1,060,779",0000002646,N-Q,08
+"Citibank N.A., New York","United
+  Mexican States 7.500%, 04/08/33",Sell,0.160,07/20/08,"21,337,000","(1,195)",0000002646,N-Q,08
+"Citibank N.A., New York","United
+  Mexican States 7.500%, 04/08/33",Buy,(0.355),07/20/12,"2,668,000","87,445",0000002646,N-Q,08
+UBS AG,"United
+  Mexican States 7.500%, 04/08/33",Buy,(0.620),08/20/12,"10,673,000","248,133",0000002646,N-Q,08
+"Citibank N.A., New York","Univision
+  Communications Inc. 9.750%, 03/15/15",Sell,5.000,03/20/13,"2,967,000","(431,788)",0000002646,N-Q,08
+"Citibank N.A., New York","Univision
+  Communications Inc. 9.750%, 03/15/15",Sell,5.000,03/20/13,"2,344,000","(320,967)",0000002646,N-Q,08
+"Citibank N.A., New York","Univision
+  Communications Inc. 9.750%, 03/15/15",Sell,5.000,03/20/13,"2,108,000","(293,764)",0000002646,N-Q,08
+"Citibank N.A., New York","Univision
+  Communications Inc. 9.750%, 03/15/15",Sell,5.000,03/20/13,"3,315,000","(445,114)",0000002646,N-Q,08
+"Citibank N.A., New York","Univision
+  Communications Inc. 9.750%, 03/15/15",Sell,5.000,03/20/13,"3,680,000","(494,554)",0000002646,N-Q,08
+"Citibank N.A., New York","Univision
+  Communications Inc. 9.750%, 03/15/15",Sell,5.000,03/20/13,"1,860,000","(231,684)",0000002646,N-Q,08
+"Citibank N.A., New York","Verizon
+  Communications Inc. 4.900%, 09/15/15",Buy,(1.150),03/20/13,"1,639,000","(5,835)",0000002646,N-Q,08
+"Citibank N.A., New York","Wachovia
+  Corp. 3.625%, 02/17/09",Sell,1.170,03/20/13,"11,270,000","(524,154)",0000002646,N-Q,08
+"Citibank N.A., New York","Wachovia
+  Corp. 3.625%, 02/17/09",Sell,2.950,03/20/13,"6,653,000","340,086",0000002646,N-Q,08
+UBS AG,"Westpac
+  Banking Corp. 5.875%, 04/29/18",Buy,(0.350),09/20/17,"5,233,000","502,824",0000002646,N-Q,08
+UBS AG,"Westpac
+  Banking Corp. 5.875%, 04/29/18",Buy,(0.510),09/20/17,"5,067,000","428,022",0000002646,N-Q,08
+"JPMorgan Chase Bank
+  N.A., New York","Weyerhaeuser
+  Co. 6.750%, 03/15/12",Buy,(0.640),03/20/14,"6,191,000","376,518",0000002646,N-Q,08
+Barclays Bank PLC,"Weyerhaeuser
+  Co. 7.125%, 07/15/23",Sell,0.780,09/20/12,"5,906,000","(234,831)",0000002646,N-Q,08
+"Citibank N.A., New York","Williams
+  Partners LP 7.500%, 06/15/11",Sell,1.030,03/20/12,"7,035,351","(35,521)",0000002646,N-Q,08
+Deutsche Bank AG,"XL Capital
+  Assurance Inc. (no specified obligation)",Buy,(5.000),03/20/13,"1,990,000","162,509",0000002646,N-Q,08
+"Lehman Brothers Special
+  Financing Inc.","XL
+  Capital Assurance Inc. (no specified obligation)",Buy,(5.000),03/20/13,"1,323,000","102,110",0000002646,N-Q,08
+Merrill Lynch International,"XL
+  Capital Assurance Inc. (no specified obligation)",Buy,(5.000),03/20/13,"1,990,000","162,509",0000002646,N-Q,08
+UBS AG,"XL
+  Capital Assurance Inc. (no specified obligation)",Buy,(6.400),12/20/12,"1,927,000","364,475",0000002646,N-Q,08
+UBS AG,"XL
+  Capital Assurance Inc. (no specified obligation)",Buy,(5.000),03/20/13,"6,954,000","(85,064)",0000002646,N-Q,08
+UBS AG,"XL
+  Capital Ltd. 5.250%, 09/15/14",Buy,(0.610),09/20/16,"5,501,000","817,336",0000002646,N-Q,08
+UBS AG,"XL
+  Capital Ltd. 5.250%, 09/15/14",Buy,(0.610),09/20/16,"11,002,000","1,634,672",0000002646,N-Q,08

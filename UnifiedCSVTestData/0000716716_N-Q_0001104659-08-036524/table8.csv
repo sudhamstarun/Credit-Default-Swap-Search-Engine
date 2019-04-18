@@ -1,0 +1,23 @@
+SWAP COUNTERPARTY &REFERENCE OBLIGATION,BUY/SELL PROTECTION,NOTIONAL AMOUNT(000 S),INTEREST RATE,TERMINATION DATE,APPRECIATION(DEPRECIATION),CIK,Reporting Type,Report Year
+"DJ CDX, N.A.",Sell,475000,1.4,"December 20, 2012","4,138",0000716716,N-Q,08
+"DJ CDX, N.A.",Sell,770000,1.4,"December 20, 2012","21,423",0000716716,N-Q,08
+"DJ CDX, N.A.",Sell,"1,485000",3.75,"December 20, 2012","(71,492",0000716716,N-Q,08
+"Qwest Capital Funding, Inc.",Sell,110000,3.25,"December 20, 2012","(10,085",0000716716,N-Q,08
+SLM Corp.,Sell,120000,4.95,"March 20, 2013","(13,877",0000716716,N-Q,08
+SLM Corp.,Sell,120000,5.0,"March 20, 2013","(13,678",0000716716,N-Q,08
+ABX.HE Indices,Buy,75000,0.18,"July 25, 1945","(4,118",0000716716,N-Q,08
+ABX.HE Indices,Buy,75000,0.18,"July 25, 1945","(3,369",0000716716,N-Q,08
+"American Standard, Inc.",Buy,235000,0.5,"March 20, 2013","1,770",0000716716,N-Q,08
+"American Standard, Inc.",Buy,250000,0.6,"March 20, 2018","1,863",0000716716,N-Q,08
+"American Standard, Inc.",Buy,80000,0.5,"March 20, 2013",602,0000716716,N-Q,08
+"American Standard, Inc.",Buy,40000,0.6,"March 20, 2018",298,0000716716,N-Q,08
+"Arrow Electronics, Inc.",Buy,275000,1.0,"March 20, 2015","1,447",0000716716,N-Q,08
+"Arrow Electronics, Inc.",Buy,60000,1.04,"March 20, 2018",469,0000716716,N-Q,08
+"Arrow Electronics, Inc.",Buy,630000,1.4,"March 20, 2013",,0000716716,N-Q,08
+"Arrow Electronics, Inc.",Buy,330000,1.11,"March 20, 2013","(1,525",0000716716,N-Q,08
+Avalonbay Communities,Buy,415000,3.05,"March 20, 2013","(3,189",0000716716,N-Q,08
+Carnival Corp.,Buy,255000,1.57,"March 20, 2018","(3,488",0000716716,N-Q,08
+Carnival Corp.,Buy,215000,1.57,"March 20, 2018","(2,941",0000716716,N-Q,08
+Carnival Corp.,Buy,250000,1.5,"March 20, 2018","(2,103",0000716716,N-Q,08
+Carnival Corp.,Buy,140000,1.6,"March 20, 2018","(1,805",0000716716,N-Q,08
+"Coca-Cola Enterprises, Inc.",Buy,430000,0.5870000000000001,"March 20, 2013",(872,0000716716,N-Q,08

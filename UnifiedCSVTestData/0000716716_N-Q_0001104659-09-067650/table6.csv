@@ -1,0 +1,21 @@
+"SWAP
+  COUNTERPARTY &
+  REFERENCE
+  OBLIGATION","BUY/SELL
+  PROTECTION","NOTIONAL
+  AMOUNT
+  (000 s)","INTEREST
+  RATE","TERMINATION
+  DATE","UNREALIZED
+  APPRECIATION
+  (DEPRECIATION)","UPFRONT
+  PAYMENTS",VALUE,"CREDIT
+  RATING OF
+  REFERENCE
+  OBLIGATION+ (unaudited)",CIK,Reporting Type,Report Year
+"Merrill Lynch
+  Capital Services Inc. Dow Jones Index",Sell,"1,200000",1.0,"June 20,
+  2014","39,082","(44,241","(5,159",A,0000716716,N-Q,09
+"Bank of America,
+  N.A. Tyco Electronics Ltd.",Buy,165000,5.0,"June 20,
+  2014","(22,825","(6,932","(29,757",BBB-,0000716716,N-Q,09

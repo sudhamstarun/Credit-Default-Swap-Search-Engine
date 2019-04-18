@@ -1,0 +1,46 @@
+Counterparty,Reference Entity/Obligation,Protection,Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Deutsche Bank AG,"INCO LTD 7.750%, 05/15/12",Buy,(0.630),03/20/17,200000,"(1,249)",0001039001,N-Q,07
+Deutsche Bank AG,"INCO LTD 7.750%, 05/15/12",Buy,(0.420),03/20/17,180000,928,0001039001,N-Q,07
+"JPMorgan Chase Bank, N.A., NY","INCO LTD 7.750%, 05/15/12",Buy,(0.520),03/20/17,95000,145,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","INCO LTD 7.750%, 05/15/12",Buy,(0.520),03/20/17,195000,560,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","INCO LTD 7.750%, 05/15/12",Buy,(0.520),03/20/17,180000,517,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","INCO LTD 7.750%, 05/15/12",Buy,(0.600),3/20/17,195000,(703),0001039001,N-Q,07
+Goldman Sachs International,"K. Hovnanian Enterprises, Inc. 6.500%, 01/15/14",Sell,2,06/20/08,615000,"(1,729)",0001039001,N-Q,07
+Goldman Sachs International,"K. Hovnanian Enterprises, Inc. 6.500%, 01/15/14",Sell,2,06/20/08,385000,"(1,082)",0001039001,N-Q,07
+Goldman Sachs International,"K. Hovnanian Enterprises, Inc. 6.500%, 01/15/14",Sell,1.8,06/20/08,385000,"(1,082)",0001039001,N-Q,07
+Credit Suisse International,"NJSC Naftogaz of Ukraine 8.125%, 09/30/09",Sell,3.25,04/20/11,605000,,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Republic of Colombia 10.375%, 01/28/33",Buy,(3.700),08/20/15,360000,"(55,913)",0001039001,N-Q,07
+"Citibank N.A., New York","Republic of Hungary 4.500%, 01/29/14",Buy,(0.400),12/20/15,745000,"(3,768)",0001039001,N-Q,07
+UBS AG,"Republic of Indonesia 6.750%, 03/10/14",Sell,2.3,09/20/11,275000,13712,0001039001,N-Q,07
+Deutsche Bank AG,"Republic of Peru 8.750%, 11/21/33",Buy,(1.710),12/20/16,420000,"(16,516)",0001039001,N-Q,07
+Deutsche Bank AG,"Republic of Peru 8.750%, 11/21/33",Sell,1.32,04/20/17,225000,1039,0001039001,N-Q,07
+Deutsche Bank AG,Republic of the Philippines 10.625% 03/16/25,Buy,(3.690),09/20/15,1500000,"(186,258)",0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Republic of Turkey 11.875%, 01/15/30",Sell,2.75,11/20/16,255000,5518,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Republic of Venezuela 9.250%, 09/15/27",Buy,(3.480),11/20/15,125000,"(11,277)",0001039001,N-Q,07
+Barclays Bank PLC,"Residential Capital, LLC 6.375%, 06/30/10",Sell,1.22,03/20/08,375000,22,0001039001,N-Q,07
+Barclays Bank PLC,"Residential Capital, LLC 6.375%, 06/30/10",Sell,1.2,03/20/08,188000,(28),0001039001,N-Q,07
+Goldman Sachs International,"Residential Capital, LLC 6.375%, 06/30/10",Sell,1.36,03/20/08,188000,109,0001039001,N-Q,07
+Goldman Sachs International,"Residential Capital, LLC 6.375%, 06/30/10",Sell,1.18,03/20/08,187000,(215),0001039001,N-Q,07
+Barclays Bank PLC,"Residential Capital, LLC 6.500%, 04/17/13",Sell,1.75,03/20/08,286000,1515,0001039001,N-Q,07
+Credit Suisse International,"Residential Capital, LLC 6.500%, 04/17/13",Sell,1.3,03/20/08,188000,174,0001039001,N-Q,07
+Barclays Bank PLC,"Smithfield Foods Inc. 7.750%, 05/15/13",Sell,1.5,03/20/12,180000,"(1,418)",0001039001,N-Q,07
+Credit Suisse International,"Smithfield Foods Inc. 7.750%, 05/15/13",Sell,1.49,03/20/12,185000,"(1,265)",0001039001,N-Q,07
+"Lehman Brothers Special Financing, Inc.","Smithfield Foods Inc. 7.750%, 05/15/13",Sell,1.58,03/20/12,235000,(760),0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Smithfield Foods Inc. 7.750%, 05/15/13",Sell,1.51,03/20/12,260000,"(1,192)",0001039001,N-Q,07
+Goldman Sachs International,"Standard Pacific Corp. 6.875%, 05/15/11",Sell,2.2,06/20/08,1115000,,0001039001,N-Q,07
+"JPMorgan Chase Bank, N.A., NY","Ukraine Government 7.650%, 06/11/13",Sell,1.92,08/20/11,75000,1922,0001039001,N-Q,07
+"Citibank N.A., New York","Univision Communications Inc. 7.850%, 07/15/11",Sell,1.1,06/20/08,96000,(3),0001039001,N-Q,07
+"Lehman Brothers Special Financing, Inc.","Univision Communications Inc. 7.850%, 07/15/11",Sell,1.1,06/20/08,96000,(56),0001039001,N-Q,07
+"Lehman Brothers Special Financing, Inc.","Univision Communications Inc. 7.850%, 07/15/11",Sell,1.15,06/20/08,193000,,0001039001,N-Q,07
+"Lehman Brothers Special Financing, Inc.","Univision Communications Inc. 7.850%, 07/15/11",Sell,1.2,06/20/08,426000,,0001039001,N-Q,07
+Credit Suisse International,"Vale Overseas Limited 8.250%, 01/17/34",Sell,1.03,03/20/17,95000,198,0001039001,N-Q,07
+Deutsche Bank AG,"Vale Overseas Limited 8.250%, 01/17/34",Sell,1.05,03/20/17,200000,2969,0001039001,N-Q,07
+Deutsche Bank AG,"Vale Overseas Limited 8.250%, 01/17/34",Sell,1,03/20/17,180000,1966,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Vale Overseas Limited 8.250%, 01/17/34",Sell,1.04,03/20/17,195000,964,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Vale Overseas Limited 8.250%, 01/17/34",Sell,1.06,03/20/17,95000,565,0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Vale Overseas Limited 8.250%, 01/17/34",Sell,0.92,03/20/17,195000,(900),0001039001,N-Q,07
+"Morgan Stanley Capital Services, Inc.","Vale Overseas Limited 8.250%, 01/17/34",Sell,0.97,03/20/17,180000,(152),0001039001,N-Q,07
+"Citibank N.A., New York","Williams Companies Inc. 7.125%, 09/01/11",Sell,1.11,03/20/12,100000,471,0001039001,N-Q,07
+Credit Suisse International,"Williams Companies Inc. 7.125%, 09/01/11",Sell,1.15,03/20/12,100000,601,0001039001,N-Q,07
+Credit Suisse International,"Williams Companies Inc. 7.125%, 09/01/11",Sell,1.14,03/20/12,100000,644,0001039001,N-Q,07
+Deutsche Bank AG,"Williams Companies Inc. 7.125%, 09/01/11",Sell,1.02,03/20/12,230000,756,0001039001,N-Q,07

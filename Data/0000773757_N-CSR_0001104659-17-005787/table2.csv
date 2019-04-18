@@ -1,0 +1,34 @@
+Counterparty,"
+ReferenceEntity","
+ExpirationDate","
+ReceiveFixedRate (%)","
+ImpliedCreditSpread (%)*","
+NotionalCurrency","
+NotionalAmount","
+MarketValue ($)","
+Premium Paid ($)","
+Premium Received ($)",CIK,Reporting Type,Report Year
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(1,500,000","(113,094","(89,408",3000,"(20,686",0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(1,000,000","(75,396","(60,225",2000,"(13,171",0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(2,000,000","(150,792","(129,494",4000,"(17,298",0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(1,000,000","(75,395","(62,224",2000,"(11,171",0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(1,000,000","(75,396","(62,257",2000,"(11,139",0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(1,500,000","(113,094","(112,911",3000,2817,0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(16,000,000","(1,206,333","(1,203,199","(3,134",,0000773757,N-CSR,17
+"
+JPMorgan        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(2,000,000","(150,793","(150,371",4000,3578,0000773757,N-CSR,17

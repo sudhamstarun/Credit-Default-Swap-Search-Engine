@@ -1,0 +1,2 @@
+Counterparty,Reference Entity,Buy/SellProtection (15),CurrentCreditSpread (16),NotionalAmount(U.S. Dollars),ReceivedFixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation) (13),CIK,Reporting Type,Report Year
+JPMorgan,Markit CDX NA HY19 Index,Sell,4.01,"5,000,000",5.0,12/20/17,"215,227"," 76,777",0000820892,N-Q,13

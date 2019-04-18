@@ -1,0 +1,47 @@
+"Counterparty
+  ","Reference
+  Entity/Obligation","Buy/Sell
+  Protection (1)","(Pay)/
+  Receive
+  Fixed
+  Rate (%)","Termination
+  Date","Notional
+  Amount (4)","Market
+  Value (5)","Upfront
+  Premium
+  Paid/
+  (Received)","Unrealized
+  Appreciation/
+  (Depreciation)",CIK,Reporting Type,Report Year
+"Credit Suisse
+  International","Cemex  S.A.B de C.V.
+  9.625%, 10/01/09",Buy,(5.300),10/20/13,"270,000","65,509","65,509",,0001039001,N-Q,09
+UBS AG,"Cemex  S.A.B de C.V.
+  9.625%, 10/01/09",Buy,(5.300),10/20/13,"270,000","65,509","65,509",,0001039001,N-Q,09
+"Goldman Sachs
+  International","Pemex Project Funding Master Trust
+  6.625%,  06/15/35",Buy,(3.450),11/20/13,"170,000","6,327","6,327",,0001039001,N-Q,09
+Deutsche Bank AG,"Republic of Peru 8.750%,
+  11/21/33",Buy,(1.710),12/20/16,"420,000","51,381","51,381",,0001039001,N-Q,09
+"Citibank N.A., New York","Republic of Turkey
+  11.875%, 01/15/30",Buy,(5.250),12/20/13,"520,000","(26,655)","(26,655)",,0001039001,N-Q,09
+"Goldman Sachs
+  International","Republic of Turkey
+  11.875%, 01/15/30",Buy,(5.290),12/20/13,"1,040,000","(54,998)","(54,998)",,0001039001,N-Q,09
+"Morgan Stanley Capital
+  Services Inc.","Republic of Turkey
+  11.875%, 01/15/30",Buy,(2.670),09/20/13,"520,000","26,570","26,570",,0001039001,N-Q,09
+"Citibank N.A., New York","Ukraine Government
+  7.650%, 06/11/13",Buy,(4.180),08/20/13,"360,000","216,573","216,573",,0001039001,N-Q,09
+"Citibank N.A., New York","Ukraine Government
+  7.650%, 06/11/13",Buy,(6.650),10/20/13,"680,000","385,539","385,539",,0001039001,N-Q,09
+"Goldman Sachs
+  International","Ukraine Government
+  7.650%, 06/11/13",Buy,(4.220),08/20/13,"1,530,000","919,531","919,531",,0001039001,N-Q,09
+"Merrill Lynch
+  International","Ukraine Government
+  7.650%, 06/11/13",Buy,(4.300),08/20/13,"1,530,000","917,728","917,728",,0001039001,N-Q,09
+UBS AG,"Ukraine Government
+  7.650%, 06/11/13",Buy,(4.180),08/20/13,"600,000","360,954","360,954",,0001039001,N-Q,09
+"Goldman Sachs
+  International","VTB Capital S.A. 6.875%, 05/29/18",Buy,(7.400),05/28/13,"520,000","38,014","38,014",,0001039001,N-Q,09

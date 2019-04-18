@@ -1,0 +1,17 @@
+Counterparty,Reference Instrument,Notional Amount(B),Pay/Receive(A),Fixed Rate,Expiration Date,Paid (Received),Appreciation/(Depreciation),Credit Event,Rating(C),CIK,Reporting Type,Report Year
+Goldman Sachs,"RadioShack Corp.
+7.38%, 5/15/11",9000000,Pay,2.27,9/20/2013,62015,Restructuring/Bankruptcy/FTP,BB,,0001016073,N-CSRS,10
+Goldman Sachs,"Standard Pacific Corp.
+7.00%, 8/15/15",4000000,Receive,6.7,9/20/2013,0,232534,Bankruptcy/FTP,B-,0001016073,N-CSRS,10
+Goldman Sachs,"The Chubb Corp.
+6.60%, 8/15/18",10000000,Pay,1.0,12/20/2014,"(242,813",150374,Bankruptcy/FTP,A+,0001016073,N-CSRS,10
+Goldman Sachs,"The Chubb Corp.
+6.60%, 8/15/18",10000000,Pay,1.0,3/20/2015,"(257,326",170194,Bankruptcy/FTP,A+,0001016073,N-CSRS,10
+Goldman Sachs,"TRW Automotive, Inc.
+7.25%, 3/15/17",5000000,Pay,5.0,3/20/2015,92579,"(91,546",Bankruptcy/FTP,B+,0001016073,N-CSRS,10
+Goldman Sachs,"TRW Automotive, Inc.
+7.25%, 3/15/17",3000000,Pay,5.0,6/20/2015,"(133,100",151217,Bankruptcy/FTP,B+,0001016073,N-CSRS,10
+Goldman Sachs,"Tyson Foods, Inc.
+7.85%, 4/1/16",6000000,Pay,3.05,9/20/2013,0,"(295,637",Restructuring/Bankruptcy/FTP,BB,0001016073,N-CSRS,10
+Goldman Sachs,"Vornado Realty L.P.
+4.75%, 12/1/10",5500000,Pay,1.5,6/20/2013,0,"(63,111",Restructuring/Bankruptcy/FTP,BBB,0001016073,N-CSRS,10

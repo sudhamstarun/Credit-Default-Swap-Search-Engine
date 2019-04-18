@@ -1,0 +1,20 @@
+Reference Entity,Counterparty,Buy/Sell Credit Protection,Notional Amount(000 s),Receive Fixed Rate,Payment Termination Date,CIK,Reporting Type,Report Year
+"Amgen, Inc.",Barclays Bank plc,Buy,17940000,1.0,3/20/16,0000850134,N-CSRS,11
+Bristol-Myers Squibb Co.,"Citibank NA, New York",Buy,18070000,1.0,3/20/16,0000850134,N-CSRS,11
+Campbell Soup Co.,Credit Suisse International,Buy,17950000,1.0,3/20/16,0000850134,N-CSRS,11
+CBS Corp.,Barclays Bank plc,Sell,18070000,1.0,3/20/16,0000850134,N-CSRS,11
+"CDX Emerging Markets Index, Series 15:",Barclays Bank plc,Buy,39475000,5.0,6/20/16,0000850134,N-CSRS,11
+"CDX Emerging Markets Index, Series 15:",Merrill Lynch International,Buy,40265000,5.0,6/20/16,0000850134,N-CSRS,11
+"CDX North America High Yield Index, Series 15:",Credit Suisse International,Sell,19750000,5.0,12/20/15,0000850134,N-CSRS,11
+"CDX North America High Yield Index, Series 15:","JPMorgan Chase Bank NA,
+NY Branch",Sell,19750000,5.0,12/20/15,0000850134,N-CSRS,11
+"CDX North America High Yield Index, Series 15:","JPMorgan Chase Bank NA,
+NY Branch",Sell,23700000,5.0,12/20/15,0000850134,N-CSRS,11
+"CDX North America High Yield Index, Series 15:",UBS AG,Sell,23700000,5.0,12/20/15,0000850134,N-CSRS,11
+"Cisco Systems, Inc.",Barclays Bank plc,Buy,17950000,1.0,3/20/16,0000850134,N-CSRS,11
+Federative Republic of Brazil:,Barclays Bank plc,Sell,7360000,1.0,3/20/16,0000850134,N-CSRS,11
+Federative Republic of Brazil:,Credit Suisse International,Sell,6485000,1.0,6/20/16,0000850134,N-CSRS,11
+Istanbul Bond Co. SA for Finansbank AS,"Morgan Stanley Capital Services, Inc.",Sell,15590000,1.3,3/24/13,0000850134,N-CSRS,11
+Petroleos de Venezuela SA,Barclays Bank plc,Sell,15535000,5.0,7/20/11,0000850134,N-CSRS,11
+Republic of Hungary:,Barclays Bank plc,Sell,4670000,1.0,3/20/16,0000850134,N-CSRS,11
+Republic of Hungary:,Barclays Bank plc,Sell,8970000,1.0,6/20/16,0000850134,N-CSRS,11

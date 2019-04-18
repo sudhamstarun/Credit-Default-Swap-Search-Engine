@@ -1,0 +1,39 @@
+Credit Default SwapsCounterparty,Reference Entity,Buy/Sell,Pay/ReceiveFixed Rate,Expiration Date,NotionalAmount(000s),Appreciation/(Depreciation)(000s),CIK,Reporting Type,Report Year
+Royal Bank of Scotland,Indonesia SP6.75% due 3/10/2014,Buy,0.39,12/20/2008,"6,000000",(6000,0000793769,N-Q,08
+Royal Bank of Scotland,Indonesia SP6.75% due 3/10/2014,Buy,0.4,12/20/2008,"9,000000",(8000,0000793769,N-Q,08
+Royal Bank of Scotland,Deutsche Bank AG SP5.5% due 5/18/2011,Sell,0.55,12/20/2008,"20,100000",23000,0000793769,N-Q,08
+"Morgan Stanley Capital Services, Inc",Gazprom SP 01/30/08 MYC8.625% due 4/28/2034,Sell,1.25,12/20/2008,"5,400000",nan000,0000793769,N-Q,08
+"Morgan Stanley Capital Services, Inc",GECC SP6% due 6/15/2012,Sell,0.95,01/20/2009,"2,600000",nan000,0000793769,N-Q,08
+Citibank N.A.,GECC SP6% due 6/15/2012,Sell,0.75,03/20/2009,"3,200000",(3000,0000793769,N-Q,08
+Deutsche Bank AG,GECC SP6% due 6/15/2012,Sell,1.1,03/20/2009,600000,nan000,0000793769,N-Q,08
+Bank of America NA,SLM CORP SP BOA5.125% due 8/27/2012,Sell,4.55,03/20/2009,"3,900000",(23000,0000793769,N-Q,08
+"HSBC Bank USA, N.A.",Russian Federation7.650% due 06/11/2013,Sell,0.7,04/20/2009,"1,300000",(11000,0000793769,N-Q,08
+"HSBC Bank USA, N.A.",United Mexican States7.5% due 4/8/2033,Sell,0.18,05/20/2009,"3,000000",nan000,0000793769,N-Q,08
+Barclays Bank PLC,SLM CORP SP5.125% due 8/27/2012,Sell,5.1,06/20/2009,900000,(3000,0000793769,N-Q,08
+Royal Bank of Scotland,GECC SP6% due 6/15/2012,Sell,1.1,09/20/2009,800000,nan000,0000793769,N-Q,08
+Citibank N.A.,Lehman Bros SP6.625% due 1/18/2012,Sell,8.25,09/20/2009,"1,500000",25000,0000793769,N-Q,08
+"Merrill Lynch & Co., Inc.",GECC SP MEI6% due 6/15/2012,Sell,1.08,12/20/2009,"5,300000",10000,0000793769,N-Q,08
+Citibank N.A.,GECC SP CBK 6% due 6/15/2012,Sell,1.15,03/20/2010,100000,nan000,0000793769,N-Q,08
+Barclays Bank PLC,GECC SP BRC6% due 6/15/2012,Sell,0.77,06/20/2010,"2,000000",nan000,0000793769,N-Q,08
+Barclays Bank PLC,GECC SP BRC6% due 6/15/2012,Sell,0.935,12/20/2010,400000,(1000,0000793769,N-Q,08
+BNP Paribas Bank,GECC SP BPS6% due 6/15/2012,Sell,0.94,12/20/2010,"1,500000",(5000,0000793769,N-Q,08
+Deutsche Bank AG,GECC SP DUB6% due 6/15/2012,Sell,0.95,12/20/2010,700000,(2000,0000793769,N-Q,08
+Barclays Bank PLC,GECC SP BRC6% due 6/15/2012,Sell,0.62,03/20/2011,"5,700000",(70000,0000793769,N-Q,08
+Chase Securities Inc.,Panama SP8.875% due 9/30/2027,Sell,0.73,01/20/2012,"3,000000",(32000,0000793769,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Panama SP8.875% due 9/30/2027,Sell,0.75,01/20/2012,"1,000000",(10000,0000793769,N-Q,08
+Citibank N.A.,Dow Jones CDX N.A. HY-8 Index,Buy,0.355,06/20/2012,"9,937000",(313000,0000793769,N-Q,08
+Citibank N.A.,Dow Jones CDX N.A. HY-8 Index,Buy,0.36,06/20/2012,"4,968000",(156000,0000793769,N-Q,08
+Citibank N.A.,Dow Jones CDX N.A. HY-8 Index,Buy,0.401,06/20/2012,"2,484000",(75000,0000793769,N-Q,08
+"Merrill Lynch & Co., Inc.",Dow Jones CDX N.A. HY-8 Index,Buy,1.8330000000000002,06/20/2012,"1,400000",(100000,0000793769,N-Q,08
+Citibank N.A.,Dow Jones CDX N.A. HY-8 Index,Buy,1.8459999999999999,06/20/2012,"1,000000",(71000,0000793769,N-Q,08
+"Merrill Lynch & Co., Inc.",Dow Jones CDX N.A. HY-8 Index,Sell,2.07,06/20/2012,"1,400000",(89000,0000793769,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Dow Jones CDX N.A. HY-8 Index,Buy,2.08,06/20/2012,"1,000000",(63000,0000793769,N-Q,08
+"Merrill Lynch & Co., Inc.",Dow Jones CDX N.A. HY-8 Index,Buy,2.126,06/20/2012,600000,(37000,0000793769,N-Q,08
+Citibank N.A.,Dow Jones CDX N.A. HY-8 Index,Sell,2.144,06/20/2012,500000,(30000,0000793769,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Dow Jones CDX N.A. HY-8 Index,Sell,2.17,06/20/2012,500000,(30000,0000793769,N-Q,08
+Citibank N.A.,Dow Jones CDX N.A. HY-8 Index,Sell,2.1790000000000003,06/20/2012,700000,(42000,0000793769,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Russian Federation7.5% due 3/31/2030,Sell,0.795,08/20/2012,"5,600000",(22000,0000793769,N-Q,08
+"Barclays Capital, London",GMAC LLC6.875% due 8/28/2012,Sell,3.65,09/20/2012,"2,500000",(820000,0000793769,N-Q,08
+Citibank N.A.,GMAC LLC6.875% due 8/28/2012,Sell,3.72,09/20/2012,"2,500000",(816000,0000793769,N-Q,08
+Deutsche Bank AG,GMAC LLC6.875% due 8/28/2012,Sell,4.0,09/20/2012,"1,600000",(513000,0000793769,N-Q,08
+"Barclays Capital, London",Ford Motor Credit Company7% due 10/1/2013,Sell,4.15,09/20/2012,"2,500000",(615000,0000793769,N-Q,08

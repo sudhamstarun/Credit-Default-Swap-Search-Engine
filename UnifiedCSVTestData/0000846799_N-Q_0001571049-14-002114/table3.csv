@@ -1,0 +1,11 @@
+Counterparty,"Reference
+    Entity/Obligation","Buy/Sell
+    Protection","(Pay)/
+    Receive Fixed Rate (%)","Termination
+    Date","Notional
+    Amount(2)","Fair
+Value(3)","Upfront
+    Payments Paid/ (Received)","Unrealized
+    Appreciation/ (Depreciation)",CIK,Reporting Type,Report Year
+Deutsche Bank AG,Bolivarian Republic of Venezuela,Buy,(5.000,12/20/18," 211,000 ","53,249","31,405","21,844",0000846799,N-Q,14
+Deutsche Bank AG,Republic of Turkey,Buy,(1.000,06/20/18,"215,000 ","7,586","3,521","4,065",0000846799,N-Q,14

@@ -1,0 +1,5 @@
+Counterparty,Referenced entity,Buy/SellProtection (15),CurrentCredit Spread (16),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+"Citibank, National Association","Darden Restaurants, Inc.",Buy,0.79,"2,000,000",1.0,12/20/20,"(22,074","(15,637",0001093428,N-CSR,16
+"Citibank, National Association",Newmont Mining Corporation,Buy,2.14,"2,000,000",1.0,12/20/20,"98,787","(35,640",0001093428,N-CSR,16
+Credit Suisse International,Barrick Gold Corporation,Buy,3.29,"2,000,000",1.0,12/20/20,"191,551","(18,046",0001093428,N-CSR,16
+"JPMorgan Chase Bank, N.A.",Avon Products,Buy,10.33,"2,000,000",5.0,12/20/20,"335,611","31,626",0001093428,N-CSR,16

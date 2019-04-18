@@ -1,0 +1,62 @@
+"
+Swap Counterparty and    Reference Obligation","
+Buy/SellProtection","
+NotionalAmount(000)","
+Pay/ReceiveFixed Rate","
+TerminationDate","
+UpfrontPaymentPaid(Received)(000)","
+UnrealizedDepreciation(000)","
+Value(000)","
+CreditRating ofReferenceObligation (Unaudited)",CIK,Reporting Type,Report Year
+"
+Barclays Bank PLCRussian Federation",Sell,5904000,1,3/20/20,(815000,(145000,(960000,BBB-,0000836487,N-CSR,15
+"
+Barclays Bank PLCRussian Federation",Sell,3270000,1,3/20/20,(452000,(80000,(532000,BBB-,0000836487,N-CSR,15
+"
+Goldman Sachs InternationalAustralian Government",Buy,1195000,1,3/20/20,(35000,(4000,(39000,AAA,0000836487,N-CSR,15
+"
+Goldman Sachs InternationalAustralian Government",Buy,225000,1,3/20/20,(7000,(1000,(8000,AAA,0000836487,N-CSR,15
+"
+Goldman Sachs InternationalAustralian Government",Buy,3117000,1,3/20/20,(91000,(17000,(108000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,7212000,1,3/20/20,12000,(63000,(51000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAAustralian Government",Buy,4315000,1,3/20/20,(126000,(16000,(142000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAAustralian Government",Buy,3661000,1,3/20/20,(107000,(14000,(121000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAAustralian Government",Buy,264000,1,3/20/20,(8000,(1000,(9000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,2132000,1,3/20/20,(19000,(15000,nan000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,1178000,1,3/20/20,(5000,(3000,(8000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,302000,1,3/20/20,(1000,(1000,(2000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,3210000,1,3/20/20,(14000,(9000,(23000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,2527000,1,3/20/20,(11000,(7000,(18000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,1528000,1,3/20/20,(7000,(4000,(11000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,2879000,1,3/20/20,(12000,(8000,(20000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,5188000,1,3/20/20,(22000,(14000,(36000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAAustralian Government",Buy,2820000,1,3/20/20,(88000,(4000,(92000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAAustralian Government",Buy,4901000,1,3/20/20,(154000,(8000,(162000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NAAustralian Government",Buy,2320000,1,3/20/20,(73000,(4000,(77000,AAA,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NARussian Federation",Sell,1115000,1,3/20/20,(152000,(30000,(182000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NARussian Federation",Sell,1362000,1,3/20/20,(185000,(36000,(221000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NARussian Federation",Sell,31000,1,3/20/20,(4000,(1000,(5000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NARussian Federation",Sell,1331000,1,3/20/20,(181000,(35000,(216000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NARussian Federation",Sell,600000,1,3/20/20,(82000,(16000,(98000,BBB-,0000836487,N-CSR,15
+"
+JPMorgan Chase Bank NARussian Federation",Sell,417000,1,3/20/20,(57000,(11000,(68000,BBB-,0000836487,N-CSR,15

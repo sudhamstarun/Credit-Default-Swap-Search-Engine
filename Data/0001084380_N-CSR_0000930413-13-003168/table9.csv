@@ -1,0 +1,76 @@
+"
+Fund
+","
+Reference entity
+","
+Counterparty
+","
+Maturity
+ date
+","
+Fixed
+ payments
+ received by
+ fund per annum
+","
+Implied
+ credit
+ spread at
+ 3/31/2013
+","
+Notional
+ amount
+","
+Upfront
+ premium
+ paid (received
+","
+Unrealized
+ appreciation
+ (depreciation
+",CIK,Reporting Type,Report Year
+"
+Bond
+","
+Federative Republic of Brazil
+","
+UBS AG
+","
+9/20/22
+",1.0,1.75,"
+$3,500,000
+","
+$ (207,925
+","
+$(7,631
+",0001084380,N-CSR,13
+"
+Bond Plus
+","
+Federative Republic of Brazil
+","
+UBS AG
+","
+9/20/22
+",1.0,1.75,"
+1,000,000
+","
+(59,408
+","
+(2,180
+",0001084380,N-CSR,13
+"
+Short-Term Bond
+","
+Federative Republic of Brazil
+","
+Bank of America
+","
+9/20/17
+",1.0,1.24,"
+3,000,000
+","
+(37,626
+","
+7,070
+",0001084380,N-CSR,13

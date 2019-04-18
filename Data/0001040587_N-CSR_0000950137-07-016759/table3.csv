@@ -1,0 +1,94 @@
+"
+
+Counterparty
+
+","
+Reference
+    Entity
+","
+Protection
+","
+Fixed
+    Rate
+","
+Amount
+","
+Date
+","
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+
+    Bank of America
+
+","
+    Dow Jones CDX 100 Series
+","
+    Sell
+",2.75,"
+    21,500,000
+","
+    06/20/2012
+","
+    86,482
+",0001040587,N-CSR,07
+"
+
+    Barclays
+
+","
+    Dow Jones CDX 100 Series
+","
+    Sell
+",2.75,"
+    11,000,000
+","
+    06/20/2012
+","
+    39,930
+",0001040587,N-CSR,07
+"
+
+    Goldman Sachs & Co
+
+","
+    Dow Jones CDX 100 Series
+","
+    Sell
+",2.75,"
+    7,000,000
+","
+    06/20/2012
+","
+    (22,715
+",0001040587,N-CSR,07
+"
+
+    Morgan Stanley
+
+","
+    Dow Jones CDX 100 Series
+","
+    Sell
+",2.75,"
+    14,000,000
+","
+    06/20/2012
+","
+    340,820
+",0001040587,N-CSR,07
+"
+
+    Barclays
+
+","
+    General Motors Corp.
+","
+    Sell
+",2.39,"
+    1,000,000
+","
+    03/20/2010
+","
+    (85,656
+",0001040587,N-CSR,07

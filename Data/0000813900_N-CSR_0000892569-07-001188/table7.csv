@@ -1,0 +1,56 @@
+Counterparty,Referenced Obligation,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Deutsche Bank,Bombardier Inc 6.750% due 05/01/12,Sell,0.9,09/20/07,"$255,000",($209,0000813900,N-CSR,07
+Morgan Stanley,Bombardier Inc 6.750% due 05/01/12,Sell,1,09/20/07,280000,(294,0000813900,N-CSR,07
+Morgan Stanley,Arvinmeritor Inc 8.750% due 03/01/12,Sell,1.05,09/20/07,280000,69,0000813900,N-CSR,07
+Morgan Stanley,Bombardier Inc 6.750% due 05/01/12,Sell,1.05,09/20/07,280000,(326,0000813900,N-CSR,07
+Morgan Stanley,Arvinmeritor Inc 8.750% due 03/01/12,Sell,1.1,09/20/07,230000,30,0000813900,N-CSR,07
+Morgan Stanley,Arvinmeritor Inc 8.750% due 03/01/12,Sell,1.2,09/20/07,20000,(2,0000813900,N-CSR,07
+Deutsche Bank,Abitibi-Consolidated Inc 8.375% due 04/01/15,Sell,1.52,09/20/07,820000,1547,0000813900,N-CSR,07
+Credit Suisse,Freescale Semiconductor Inc 6.875% due 07/15/11,Sell,0.6,03/20/08,485000,2952,0000813900,N-CSR,07
+Credit Suisse,Freescale Semiconductor Inc 6.875% due 07/15/11,Sell,0.75,03/20/08,510000,2558,0000813900,N-CSR,07
+Credit Suisse,Univision Communications Inc 7.850% due 07/15/11,Sell,0.75,03/20/08,235000,1761,0000813900,N-CSR,07
+Credit Suisse,Rite Aid Corp 7.700% due 02/15/27,Sell,0.875,06/20/08,805000,"(4,491",0000813900,N-CSR,07
+Barclays,Lear Corp 5.750% due 08/01/14,Sell,1,06/20/08,815000,"(1,697",0000813900,N-CSR,07
+Morgan Stanley,Tribune Co 5.250% due 08/15/15,Sell,1,06/20/08,480000,7130,0000813900,N-CSR,07
+Morgan Stanley,K. Hovnanian Enterprises 6.500% due 01/15/14,Sell,1.85,06/20/08,510000,"(4,641",0000813900,N-CSR,07
+Barclays,Beazer Homes 6.500% due 11/15/13,Sell,2.1,06/20/08,295000,"(6,194",0000813900,N-CSR,07
+Morgan Stanley,Beazer Homes 6.500% due 11/15/13,Sell,2.15,06/20/08,520000,"(10,675",0000813900,N-CSR,07
+Deutsche Bank,Dillards Inc 7.130% due 08/01/18,Sell,0.75,09/20/08,200000,483,0000813900,N-CSR,07
+Deutsche Bank,Levi Strauss & Co Inc 12.250% due 12/15/12,Sell,0.9,09/20/08,345000,,0000813900,N-CSR,07
+Deutsche Bank,Levi Strauss & Co Inc 12.250% due 12/15/12,Sell,1,09/20/08,465000,,0000813900,N-CSR,07
+Goldman Sachs,First Data Corp 4.700% due 08/01/13,Sell,1.15,09/20/08,505000,,0000813900,N-CSR,07
+Barclays,Toys R Us 7.375% due 10/15/18,Sell,1.45,09/20/08,510000,"(2,704",0000813900,N-CSR,07
+Deutsche Bank,Eastman Kodak Co 7.250% due 11/15/13,Sell,1,12/20/08,700000,(659,0000813900,N-CSR,07
+Morgan Stanley,General Motors Inc 7.125% due 07/15/13,Buy,(3.950,12/20/08,505000,12728,0000813900,N-CSR,07
+Morgan Stanley,General Motors Inc 7.125% due 07/15/13,Buy,(4.000,12/20/08,520000,13471,0000813900,N-CSR,07
+Morgan Stanley,Ford Motor Co 7.450% due 07/16/31,Buy,(5.300,12/20/08,500000,178,0000813900,N-CSR,07
+Morgan Stanley,Ford Motor Co 7.450% due 07/16/31,Buy,(5.400,12/20/08,1050000,46350,0000813900,N-CSR,07
+Deutsche Bank,Tenet Healthcare Corp 7.375% due 02/01/13,Sell,1.6,03/20/09,810000,,0000813900,N-CSR,07
+Morgan Stanley,Countrywide Home Loans 4.000% due 03/22/11,Sell,0.42,06/20/09,1530000,"(1,980",0000813900,N-CSR,07
+Deutsche Bank,Allied Waste North America Inc 7.375% due 04/15/14,Sell,2,09/20/09,330000,5528,0000813900,N-CSR,07
+Deutsche Bank,Allied Waste North America Inc 7.375% due 04/15/14,Sell,2,09/20/09,510000,"(8,543",0000813900,N-CSR,07
+Morgan Stanley,El Paso Corp 7.875% due 06/15/12,Sell,0.52,03/20/10,1005000,10592,0000813900,N-CSR,07
+Deutsche Bank,Weyerhaeuser Co 6.750% due 03/15/12,Buy,(0.580,09/20/11,1040000,8676,0000813900,N-CSR,07
+Deutsche Bank,Dow Jones CDX NA IG7 Index,Buy,(0.400,12/20/11,2700000,416,0000813900,N-CSR,07
+Morgan Stanley,The Kroger Co 5.500% due 02/01/13,Buy,(0.478,06/20/12,1090000,"(3,860",0000813900,N-CSR,07
+Goldman Sachs,Capmark Financial Group Inc 6.300% due 05/10/17,Sell,0.95,06/20/12,485000,,0000813900,N-CSR,07
+Barclays,Capmark Financial Group Inc 5.875% due 05/10/12,Sell,1,06/20/12,485000,(991,0000813900,N-CSR,07
+Credit Suisse,Dow Jones CDX NA HY-8 Index,Buy,(2.750,06/20/12,505000,"(13,041",0000813900,N-CSR,07
+Credit Suisse,Dow Jones CDX NA HY-8 Index,Sell,2.75,06/20/12,3205000,"(88,640",0000813900,N-CSR,07
+Deutsche Bank,Dow Jones CDX NA HY-8 Index,Buy,(2.750,06/20/12,970000,30490,0000813900,N-CSR,07
+Deutsche Bank,Dow Jones CDX NA HY-8 Index,Sell,2.75,06/20/12,2400000,45588,0000813900,N-CSR,07
+Deutsche Bank,Dow Jones CDX NA HY-8 Index,Sell,2.75,06/20/12,6190000,"(177,476",0000813900,N-CSR,07
+Morgan Stanley,Dow Jones CDX NA HY-8 Index,Sell,2.75,06/20/12,4610000,"(137,240",0000813900,N-CSR,07
+Morgan Stanley,J.C. Penney Co Inc 8.000% due 03/01/10,Sell,0.61,06/20/13,1040000,4246,0000813900,N-CSR,07
+Credit Suisse,Belo Corp 8.000% due 11/01/08,Buy,(0.900,06/20/13,1545000,18176,0000813900,N-CSR,07
+Credit Suisse,Dow Jones CDX NA HY-8 Index,Buy,(2.750,06/20/14,3205000,104722,0000813900,N-CSR,07
+Deutsche Bank,Dow Jones CDX NA HY-8 Index,Buy,(2.750,06/20/14,8590000,218754,0000813900,N-CSR,07
+Morgan Stanley,Dow Jones CDX NA HY-8 Index,Buy,(2.750,06/20/14,4610000,164708,0000813900,N-CSR,07
+Morgan Stanley,General Motors Inc 7.125% due 07/15/13,Sell,5.75,12/20/16,505000,"(28,346",0000813900,N-CSR,07
+Morgan Stanley,General Motors Inc 7.125% due 07/15/14,Sell,5.8,12/20/16,520000,"(30,576",0000813900,N-CSR,07
+Morgan Stanley,Ford Motor Co 7.450% due 07/16/31,Sell,7.05,12/20/16,500000,"(28,026",0000813900,N-CSR,07
+Morgan Stanley,Ford Motor Co 7.450% due 07/16/31,Sell,7.15,12/20/16,1050000,"(64,314",0000813900,N-CSR,07
+Morgan Stanley,Inco Ltd 7.750% due 05/15/12,Buy,(0.630,03/20/17,520000,4721,0000813900,N-CSR,07
+Morgan Stanley,Inco Ltd 7.750% due 05/15/12,Buy,(0.700,03/20/17,515000,7351,0000813900,N-CSR,07
+Morgan Stanley,Vale Overseas Ltd 8.250% due 01/17/34,Sell,1.1,03/20/17,520000,"(8,829",0000813900,N-CSR,07
+Morgan Stanley,Vale Overseas Ltd 8.250% due 01/17/34,Sell,1.17,03/20/17,515000,"(11,379",0000813900,N-CSR,07

@@ -1,0 +1,12 @@
+Counterparty,Reference Entity,Buy/SellProtection,Pay/ReceiveFixed rate,ExpirationDate,NotionalAmount,UnrealizedAppreciation,CIK,Reporting Type,Report Year
+Credit Suisse First Boston,"Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.55,09/07/2005,100,$            0,0001047304,N-CSR,05
+Goldman Sachs & Co.,"Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.7,03/20/2007,75,0,0001047304,N-CSR,05
+J.P. Morgan Chase & Co.,United Mexican States 11.500% due 05/15/2026,Sell,2.84,01/04/2013,"1,600",179,0001047304,N-CSR,05
+"Lehman Brothers, Inc.","Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.48,08/20/2005,20,0,0001047304,N-CSR,05
+"Lehman Brothers, Inc.","Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,2.55,03/20/2014,350,31,0001047304,N-CSR,05
+"Merrill Lynch & Co., Inc.","Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,1.35,07/10/2005,250,,0001047304,N-CSR,05
+"Merrill Lynch & Co., Inc.","Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,3.16,10/02/2013,450,58,0001047304,N-CSR,05
+"Merrill Lynch & Co., Inc.","Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,2.31,01/21/2014,525,40,0001047304,N-CSR,05
+Morgan Stanley Dean Witter & Co.,"Russian Federation, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.58,06/20/2006,250,0,0001047304,N-CSR,05
+Morgan Stanley Dean Witter & Co.,Dow Jones CDX N.A. EM2 Index,Sell,2.6,12/20/2009,"1,150",62,0001047304,N-CSR,05
+Morgan Stanley Dean Witter & Co.,Dow Jones CDX N.A. EM3 Index,Sell,2.1,06/20/2010,800,26,0001047304,N-CSR,05

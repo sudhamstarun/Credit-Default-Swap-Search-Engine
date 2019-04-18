@@ -1,0 +1,7 @@
+Counterparty,TerminationDate,NotionalAmount(000),FixedRate,Underlying,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+JPMorgan Chase Bank(1),6/20/2012,"1,000000",0.3,"7.05%, 08/15/09","23,274",0000834126,N-Q,08
+"Citibank, N.A.(1)",9/20/2012,"1,000000",0.32,"6.125%, 02/01/11","20,387",0000834126,N-Q,08
+"J.P. Morgan Chase Bank, N.A.(1)",9/20/2012,"1,000000",0.55,"6.375%, 04/01/12","75,484",0000834126,N-Q,08
+"Citibank, N.A.(1)",9/20/2012,"1,000000",0.31,"7.00%, 11/04/13","16,017",0000834126,N-Q,08
+Barclays Bank PLC(1),9/20/2012,"1,000000",0.6,"6.25%, 04/01/08","57,442",0000834126,N-Q,08
+Deutsche Bank AG(1),6/20/2013,"1,000000",2.0,"4.15%, 01/20/15","(7,511",0000834126,N-Q,08

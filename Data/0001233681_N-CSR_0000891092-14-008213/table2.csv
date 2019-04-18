@@ -1,0 +1,4 @@
+Issuer,Pay Fixed Rate,Counterparty,Expiration Date,"Notional Amount
+(000)",Market Value,Premiums Paid,CIK,Reporting Type,Report Year
+Australia & New Zealand Banking Group Ltd.,1.00%,Deutsche Bank AG,9/20/17,$(12)000,9,(21,0001233681,N-CSR,14
+Westpac Banking Corp.,1.00%,Deutsche Bank AG,9/20/17,(12)000,10,(22,0001233681,N-CSR,14

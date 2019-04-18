@@ -1,0 +1,8 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"  1,000,000",9/20/15,UBS AG,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"24,143","(14,146","9,997",0000916053,N-Q,13
+"3,800,000",6/20/16,UBS AG,Sell ,0.250%,Federal Republic of Germany (PIMCO Rating: AAA)**,"129,600","(128,634",966,0000916053,N-Q,13
+"12,700,000",6/20/16,UBS AG,Sell ,0.250%,Federal Republic of Germany (PIMCO Rating: AAA)**,"128,389","(125,160","3,229",0000916053,N-Q,13
+"5,400,000",9/20/16,UBS AG,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"70,782","(23,694","47,088",0000916053,N-Q,13
+"300,000",12/20/20,UBS AG,Sell ,1.000%,American International Group (PIMCO Rating: A-)**,"58,464","(66,195","(7,731",0000916053,N-Q,13
+"3,072,000",12/20/16,Buy,(5.000%),CDX.HY.17 ,"(280,178","101,618","(178,560",,0000916053,N-Q,13
+"1,980,000",6/20/17,Buy,(5.000%),CDX.NA.HY.18 ,"(201,882","99,250","(102,632",,0000916053,N-Q,13

@@ -1,0 +1,61 @@
+"Credit
+Default Swap
+Counterparty
+","Reference
+Entity
+","Buy/
+Sell
+","Pay/
+Receive
+Fixed
+Rate
+","Expiration
+Date
+","Implied
+Credit
+Spread at
+06/30/20168
+","Notional
+Amount
+","Market
+Value
+","Upfront
+Premiums
+Paid
+(Received)
+","Unrealized
+Appreciation
+",CIK,Reporting Type,Report Year
+"Goldman Sachs & Co.
+","Government of Mexico Bond
+","Sell
+","1.00%
+","12/20/2020
+","1.43%
+","$600,000
+","$(10,812)
+","$(26,870)
+","$16,058
+",0000912577,N-CSRS,16
+"Goldman Sachs & Co.
+","Government of Russia Bond
+","Sell
+","1.00%
+","12/20/2020
+","2.16%
+","$2,400,000
+","$(113,516)
+","$(244,033)
+","$130,517
+",0000912577,N-CSRS,16
+"Goldman Sachs & Co.
+","Russian Federation Bond
+","Sell
+","1.00%
+","6/20/2021
+","2.37%
+","$800,000
+","$(48,543)
+","$(54,538)
+","$5,995
+",0000912577,N-CSRS,16

@@ -1,0 +1,5 @@
+Counterparty,Referenced Entity,Buy/SellProtection (15),Current CreditSpread (16),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+"Citibank, National Association","Darden Restaurants, Inc.",Buy,0.95,"2,000,000",1.0,6/20/21,"(20,901","(15,952",0001093428,N-CSR,16
+Goldman Sachs Bank USA,Barrick GoldCorporation,Buy,1.91,"2,000,000",1.0,6/20/21,"16,778","(64,316",0001093428,N-CSR,16
+"JPMorgan Chase Bank, N.A.",Avon Products,Buy,9.3,"500,000",5.0,6/20/21,"41,557","(31,186",0001093428,N-CSR,16
+"JPMorgan Chase Bank, N.A.",Newmont MiningCorporation,Buy,1.47,"2,000,000",1.0,6/20/21,"(4,450","(47,171",0001093428,N-CSR,16

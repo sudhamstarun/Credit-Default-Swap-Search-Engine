@@ -1,0 +1,16 @@
+"Notional
+  Amount","Expiration
+  Date",Description,"Appreciation
+  Depreciation",CIK,Reporting Type,Report Year
+"300,000",05/20/05,"Agreement with Barclays Bank PLC dated 5/25/04 to pay the notional
+  amount multiplied by 0.65%. The Fund receives 1,000,000 USD upon a default of
+  United Mexican States, 7.50%, due 4/8/33.",209,0001039001,N-Q,04
+"300,000",07/20/05,"Agreement with Morgan Stanley dated 9/2/04 to pay the notional amount
+  multiplied by 1.00%. The Fund receives 1,000,000 USD upon a default of
+  Russian Federation, 5.00%, due 3/31/30.",32,0001039001,N-Q,04
+"300,000",07/28/05,"Agreement with Lehman Brothers dated 8/20/04 to pay the notional
+  amount multiplied by 1.00%. The Fund receives 1,000,000 USD upon a default of
+  Russian Federation, 5.00%, due 3/31/30.",(96,0001039001,N-Q,04
+"300,000",08/04/05,"Agreement with JPMorgan dated 8/3/04 to pay the notional amount
+  multiplied by 0.98%. The Fund receives 1,000,000 USD upon a default of
+  Russian Federation, 5.00%, due 3/31/03.",(82,0001039001,N-Q,04

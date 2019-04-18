@@ -1,0 +1,2 @@
+ReferenceEntity/Obligation,TerminationDate,FixedRate,NotionalAmount(000)#(3),FairValue(2),UpfrontPremiumsPaid(Received),UnrealizedAppreciation,Counterparty,CIK,Reporting Type,Report Year
+CDX.NA.HY.20.V1,06/20/18,5.000%,"5,000000","499,141","315,972","183,169",Barclays Bank PLC,0000278187,N-CSR,14

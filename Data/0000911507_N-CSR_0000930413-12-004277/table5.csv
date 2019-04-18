@@ -1,0 +1,30 @@
+"Swap
+ Counterparty","Fund
+ Receives","Referenced
+Index","Termination
+ Date","Notional
+ Amount","Market
+ Value","Upfront
+ Payments
+ Received**","Unrealized
+ Appreciation/
+ (Depreciation)","Credit
+ Default
+ Swap
+ Agreements
+ Payable at
+ Fair Value***",CIK,Reporting Type,Report Year
+Morgan Stanley,.08%,"Markit CMBX.
+ NA.AAA.3",12/13/2049,"24,500,000","22,141,875","2,111,024","(247,101","2,358,125",0000911507,N-CSR,12
+Morgan Stanley,.08%,"Markit CMBX.
+ NA.AAA.3",12/13/2049,"24,800,000 ","22,413,000","2,416,293","29,293","2,387,000",0000911507,N-CSR,12
+UBS AG,.50%,"Markit CMBX.
+ NA.AM.4",2/17/2051,"9,900,000","7,647,750","1,886,192","(366,058","2,252,250",0000911507,N-CSR,12
+UBS AG,.08%,"Markit CMBX.
+ NA.AAA.3",12/31/2049,"14,800,000","13,375,500","1,275,139","(149,361","1,424,500",0000911507,N-CSR,12
+UBS AG,.07%,"Markit CMBX.
+ NA.AAA.2",3/15/2049,"24,700,000","23,125,375","1,386,946","(187,679","1,574,625",0000911507,N-CSR,12
+UBS AG,.07%,"Markit CMBX
+ NA.AAA.2",3/15/2049,"23,400,000","21,908,250","1,313,949","(177,802","1,491,751",0000911507,N-CSR,12
+UBS AG,.07%,"Markit CMBX.
+ NA.AAA.2",3/15/2049,"49,500,000","46,344,375","2,779,506","(376,119","3,155,625",0000911507,N-CSR,12

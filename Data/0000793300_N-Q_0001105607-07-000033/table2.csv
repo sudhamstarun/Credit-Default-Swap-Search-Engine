@@ -1,0 +1,178 @@
+" 
+Counterparty
+
+"," 
+ReferenceEntity
+
+","
+
+Fixed
+							Rate
+","
+
+
+Expiration
+							Date
+"," 
+
+Notional
+								Amount
+
+","
+
+
+Unrealized
+							Appreciation/
+							Depreciation
+",CIK,Reporting Type,Report Year
+" 
+Morgan Stanley
+
+"," Dow Jones CDX 
+						   High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," $(5,800,000
+"," 
+							(137,742) 
+",0000793300,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX 
+						   High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+(2,800,000
+
+"," 
+							(69,910)
+",0000793300,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX 
+						   High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 12-20-11
+"," 
+(3,000,000
+
+"," 
+							(71,245)
+",0000793300,N-Q,07
+" 
+Lehman Brothers
+
+"," 
+						Republic of Columbia 
+"," 
+1.69%
+
+"," 
+10-20-11
+
+"," 
+(3,000,000
+
+"," 
+							(82,824)
+",0000793300,N-Q,07
+" 
+Lehman Brothers
+
+"," 
+						Republic of Indonesia 
+"," 
+1.67%
+
+"," 
+12-20-11
+
+"," 
+(3,000,000
+
+"," 
+							(69,779)
+",0000793300,N-Q,07
+" 
+Lehman Brothers
+
+"," Republic of Turkey 
+
+"," 
+2.27%
+
+"," 
+10-20-11
+
+"," 
+(3,000,000
+
+"," 
+							(92,255)
+",0000793300,N-Q,07
+" 
+Morgan Stanley
+
+"," 
+						Federative Republic 
+						   of Brazil
+"," 
+1.46%
+
+"," 
+6-20-11
+
+"," 
+(200,000
+
+"," 
+							(4,704)
+",0000793300,N-Q,07
+" 
+Morgan Stanley
+
+"," 
+						Federative Republic 
+						   of Brazil
+"," 
+1.15%
+
+"," 
+6-20-11
+
+"," (3,000,000
+"," 
+							(34,094)
+",0000793300,N-Q,07
+" 
+Morgan Stanley
+
+"," 
+						Federative Republic 
+						   of Brazil
+"," 
+1.89%
+
+"," 
+6-20-11
+
+"," 
+(2,800,000
+
+"," 
+							(113,080)
+",0000793300,N-Q,07

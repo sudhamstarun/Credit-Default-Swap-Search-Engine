@@ -1,0 +1,5 @@
+NotionalAmount,ExpirationDate,Counterparty,Receive(Pay) ^,AnnualPremium,ImpliedCreditSpread (1),ReferenceEntity,Maximum PotentialAmount of FuturePayments by theFund Under theContract (2),Net UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+"100,000,000",12/20/2012,Morgan Stanley Capital Services LLC,(Pay),1.20%,0.0002,Reference security within CDX IG Index,,"(609,540",0000772129,N-CSR,12
+"50,000,000",12/20/2012,Morgan Stanley Capital Services LLC,(Pay),1.93%,0.0002,Reference security within CDX IG Index,,"(490,184",0000772129,N-CSR,12
+"96,449,886",12/20/2012,Morgan Stanley Capital Services LLC,Receive,0.71%,0.0001,Reference security within CDX IG Index,"96,449,886","347,848",0000772129,N-CSR,12
+"250,769,703",12/20/2012,Morgan Stanley Capital Services LLC,Receive,0.71%,0.0001,Reference security within CDX IG Index,"250,769,703","904,406",0000772129,N-CSR,12

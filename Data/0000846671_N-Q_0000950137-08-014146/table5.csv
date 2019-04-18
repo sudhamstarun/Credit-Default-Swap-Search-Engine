@@ -1,0 +1,27 @@
+Counterparty,Reference Entity,Protection,Fixed Rate,Date,Amount(000),Payments,Value,CIK,Reporting Type,Report Year
+"JPMorgan
+Chase Bank,
+N.A.
+","SLM Corp.
+","Sell
+",4.950%,"03/20/13
+",385,0,"(100,024",0000846671,N-Q,08
+"Merrill Lynch
+International
+","CDX.NA.IG.
+..HVOL.9
+","Sell
+",1.4,"12/20/12
+",815,"(86,084","(88,440",0000846671,N-Q,08
+"Merrill Lynch
+International
+","SLM Corp.
+","Sell
+",5,"03/20/13
+",385,0,"(99,552",0000846671,N-Q,08
+"UBS Securities,
+AG
+","CDX.NA.HY.10
+","Sell
+",5,"06/20/13
+",2060,"(66,950","(201,137",0000846671,N-Q,08

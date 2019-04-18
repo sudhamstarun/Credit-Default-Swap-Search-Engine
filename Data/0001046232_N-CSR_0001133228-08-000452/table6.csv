@@ -1,0 +1,8 @@
+Expiration,Counterparty,Obligation/Index,Amount,by the Fund,Received,Gain (Loss),CIK,Reporting Type,Report Year
+09/20/2008,CitiBank,Lehman Brothers,8000000,1.00%,Quarterly,"(27,493)",0001046232,N-CSR,08
+09/20/2008,JPMorgan,Lehman Brothers,8000000,1.25%,Quarterly,"(17,197)",0001046232,N-CSR,08
+09/20/2008,JPMorgan,Merrill Lynch &,8000000,0.80%,Quarterly,"(30,532)",0001046232,N-CSR,08
+12/20/2008,JPMorgan,Lehman Brothers,10000000,0.80%,Quarterly,"(77,892)",0001046232,N-CSR,08
+12/20/2008,Goldman Sachs,Lehman Brothers,8000000,0.85%,Quarterly,"(33,670)",0001046232,N-CSR,08
+12/20/2008,Lehman Brothers,"Morgan Stanley,",10000000,1.15%,Quarterly,"(10,642)",0001046232,N-CSR,08
+03/20/2009,CitiBank,"AIG, 6.25%,",12000000,1.55%,Quarterly,64299,0001046232,N-CSR,08

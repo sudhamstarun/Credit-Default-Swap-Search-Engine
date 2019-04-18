@@ -1,0 +1,10 @@
+Counterparty,"
+ReferenceEntity/Obligation","
+Buy/SellProtection","
+(Pay)/ReceiveFixedRate (%)","
+TerminationDate","
+NotionalAmount(2) ","
+FairValue(3) ","
+UpfrontPaymentsPaid/(Received)","
+UnrealizedAppreciation/(Depreciation)",CIK,Reporting Type,Report Year
+Deutsche Bank AG,CDX.EM.19 Index,Buy,(5.000,06/20/18,"2,306,000","(183,866","(251,846","67,980",0000002646,N-CSR,13

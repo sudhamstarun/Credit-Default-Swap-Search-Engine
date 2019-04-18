@@ -1,0 +1,73 @@
+"
+Counterparty
+","
+Reference Entity
+","
+Protection
+","
+Rate
+","
+Date
+","
+Amount(000)
+",CIK,Reporting Type,Report Year
+"
+
+    Goldman Sachs International
+
+","
+    Calpine Corp.
+","
+    Sell
+",5.0,"
+    03/20/10
+","
+    1,500
+000",0000853180,N-CSR,10
+"
+
+    Goldman Sachs International
+
+","
+    Calpine Corp.
+","
+    Sell
+",5.0,"
+    03/20/11
+","
+    2,000
+000",0000853180,N-CSR,10
+"
+
+    Goldman Sachs International
+
+","
+    Texas
+    Competitive
+    Electric
+    Holdings
+    Co., LLC
+","
+    Sell
+",2.85,"
+    06/20/10
+","
+    5,000
+000",0000853180,N-CSR,10
+"
+
+    Goldman Sachs International
+
+","
+    Texas
+    Competitive
+    Electric
+    Holdings
+    Co., LLC
+","
+    Sell
+",5.0,"
+    06/20/10
+","
+    3,000
+000",0000853180,N-CSR,10

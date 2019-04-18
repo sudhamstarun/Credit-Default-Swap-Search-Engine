@@ -1,0 +1,6 @@
+Counterparty,Protection,Amount(000 s),Rate,Date,(Paid),Value,(Depreciation),CIK,Reporting Type,Report Year
+Goldman Sachs International,Buy,16760000,1,3/20/17,"(1,970,453",1333812,"(636,641",0000850134,N-CSR,12
+Barclays Bank plc,Buy,17320000,1,3/20/17,"(112,150",172164,60014,0000850134,N-CSR,12
+Deutsche Bank AG,Sell,14190000,1,6/20/17,126426,"(168,321","(41,895",0000850134,N-CSR,12
+Credit Suisse International,Buy,17320000,1,3/20/17,"(560,434",378915,"(181,519",0000850134,N-CSR,12
+Deutsche Bank AG,Buy,21650000,5,6/20/17,2820514,"(2,655,875",164639,0000850134,N-CSR,12

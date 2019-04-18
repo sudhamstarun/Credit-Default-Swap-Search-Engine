@@ -1,0 +1,43 @@
+"
+SWAP COUNTERPARTY & REFERENCE OBLIGATION
+","
+PROTECTION
+","
+AMOUNT(000 S)
+","
+RATE
+","
+DATE
+","
+(DEPRECIATION)
+",CIK,Reporting Type,Report Year
+"
+    Goldman Sachs International
+    Avalonbay Communities Inc. 
+","
+    Buy
+",355000,3.05,"
+    March 20, 2013
+","
+    17,162
+",0000882381,N-CSR,09
+"
+    Bank of America, N.A.
+    Carnival Corp. 
+","
+    Buy
+",430000,1.57,"
+    March 20, 2018
+","
+    24,934
+",0000882381,N-CSR,09
+"
+    Goldman Sachs International
+    Dow Jones Index
+","
+    Sell
+",905000,1.55,"
+    June 20, 2013
+","
+    (28,779
+",0000882381,N-CSR,09

@@ -1,0 +1,13 @@
+Counterparty,"
+ReferenceEntity","
+ExpirationDate","
+Receive FixedRate (%)","
+ImpliedCreditSpread (%)**","
+NotionalCurrency","
+NotionalAmount",CIK,Reporting Type,Report Year
+"
+Morgan Stanley  ","
+Cme: (cdx.na.hy.27.v1)",12/20/2021,5,3.88,"(142,000,000",1848635,0000773757,N-CSR,17
+"
+Morgan Stanley        ","
+Markit CDX North America Investment Grade Index, Series 27",12/20/2021,1,0.73,"(150,000,000",301638,0000773757,N-CSR,17

@@ -1,0 +1,49 @@
+"
+Swap
+  Counterparty and
+  Reference Obligation
+","
+Buy/Sell
+  Protection
+","
+Notional
+  Amount
+  (000)
+","
+Pay/Receive
+  Fixed Rate
+","
+Termination
+  Date
+","
+Upfront
+  Payments
+  (000)
+","
+Unrealized
+  Appreciation
+  (Depreciation)
+  (000)
+","
+Credit
+  Rating
+  of Issuer*
+",CIK,Reporting Type,Report Year
+"
+JPMorgan Chase Dow
+  Jones CDX North America Investment Grade Index, Series 11
+","
+Sell
+","
+$9,000
+000","
+1.50%
+","
+12/20/13
+","
+$195
+000","
+$(134
+000","
+Baa2/BBB
+",0000741375,N-CSR,09

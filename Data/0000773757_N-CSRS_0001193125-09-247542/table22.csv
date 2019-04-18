@@ -1,0 +1,11 @@
+Swap Counterparty,Referenced Obligation,ReceiveBuy/SellProtection,Fixed Rate,Expiration Date,NotionalAmount,UpfrontPremiumPaid (Received),Value of,CIK,Reporting Type,Report Year
+Barclays Capital,"Toll Brothers, Inc.5.150% 05/15/15",Buy,1.0,09/20/14,"3,715,000","12,914","12,698",0000773757,N-CSRS,09
+Barclays Capital,"Macy s, Inc.7.450% 07/15/17",Buy,5.0,06/20/14,"2,345,000","(95,379","(128,618",0000773757,N-CSRS,09
+Barclays Capital,HSBC Finance Corp.7.000% 05/15/12,Buy,5.0,06/20/14,"1,880,000","(77,071","(228,541",0000773757,N-CSRS,09
+Barclays Capital,"D.R. Horton, Inc.5.375% 06/15/12",Buy,1.0,09/20/14,"3,715,000","157,897","(37,925",0000773757,N-CSRS,09
+Barclays Capital,"Toll Brothers, Inc.5.150% 05/15/15",Buy,1.0,09/20/14,"3,715,000","29,184","(3,359",0000773757,N-CSRS,09
+Barclays Capital,"The Home Depot, Inc.5.875% 12/16/36",Buy,2.93,12/20/13,"8,020,000","(774,073",,0000773757,N-CSRS,09
+JPMorgan,"Macy s, Inc.7.450% 07/15/17",Buy,1.0,06/20/14,"4,775,000","399,714","(28,207",0000773757,N-CSRS,09
+JPMorgan,"D.R. Horton, Inc.5.375% 06/15/12",Buy,1.0,09/20/14,"3,715,000","146,677","(26,923",0000773757,N-CSRS,09
+Morgan Stanley,"Limited Brands, Inc.7.450% 07/15/17",Buy,5.0,09/20/14,"3,840,000","(294,917","(129,211",0000773757,N-CSRS,09
+Morgan Stanley,"The Home Depot, Inc.5.875% 12/16/36",Buy,3.35,12/20/13,"3,000,000","(340,730",,0000773757,N-CSRS,09

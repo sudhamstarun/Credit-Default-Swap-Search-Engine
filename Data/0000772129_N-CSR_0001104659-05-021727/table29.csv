@@ -1,0 +1,463 @@
+"
+Amount
+","
+Date
+","
+Counterparty
+","
+Receive (Pay)
+","
+Premium
+","
+On Default
+","
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+5,000,000
+","
+4/2/2007
+","
+Lehman Brothers
+","
+Receive
+","
+0.52%
+","
+General
+  Electric Capital Corporation
+","
+36,289
+",0000772129,N-CSR,05
+"
+3,000,000
+","
+4/17/2007
+","
+UBS AG
+","
+Receive
+","
+0.80%
+","
+EOP
+  Operating LP
+","
+37,589
+",0000772129,N-CSR,05
+"
+3,000,000
+","
+4/17/2007
+","
+UBS AG
+","
+Receive
+","
+0.47%
+","
+Goldman
+  Sachs Group, Inc.
+","
+22,944
+",0000772129,N-CSR,05
+"
+3,000,000
+","
+4/17/2007
+","
+Bear Stearns
+","
+Receive
+","
+1.28%
+","
+National
+  Rural Utilities Cooperative Finance Corp.
+","
+68,597
+",0000772129,N-CSR,05
+"
+10,000,000
+","
+12/16/2007
+","
+Citibank N.A.
+","
+Receive
+","
+2.41%
+","
+AOL
+  Time Warner Inc.
+","
+621,041
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2008
+","
+Lehman Brothers
+","
+Receive
+","
+0.50%
+","
+Dominion
+  Resources, Inc.
+","
+54,892
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2008
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.48%
+","
+Household
+  Finance Corporation
+","
+63,149
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2008
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.65%
+","
+Kraft
+  Foods Inc.
+","
+89,008
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2008
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.40%
+","
+Norfolk
+  Southern Corporation
+","
+38,952
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2008
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.40%
+","
+Washington
+  Mutual Inc.
+","
+32,652
+",0000772129,N-CSR,05
+"
+10,000,000
+","
+9/20/2008
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.32%
+","
+American
+  International Group Inc.
+","
+73,038
+",0000772129,N-CSR,05
+"
+10,000,000
+","
+12/20/2008
+","
+Lehman Brothers
+","
+Receive
+","
+0.27%
+","
+Federal
+  Home Loan Bank System
+","
+60,347
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+5/20/2009
+","
+JP Morgan
+","
+Receive
+","
+1.13%
+","
+United
+  Mexican States
+","
+110,570
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2009
+","
+Citibank N.A.
+","
+Receive
+","
+0.25%
+","
+ConocoPhillips
+  Company
+","
+26,260
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2009
+","
+Lehman Brothers
+","
+Receive
+","
+1.81%
+","
+Ford
+  Motor Credit Co.
+","
+45,825
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2009
+","
+Lehman Brothers
+","
+Receive
+","
+1.73%
+","
+General
+  Motors Corp.
+","
+(149,821
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2009
+","
+Barclays Bank PLC
+","
+Receive
+","
+0.91%
+","
+Sprint
+  Capital Corp.
+","
+144,426
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+6/20/2009
+","
+Lehman Brothers
+","
+Receive
+","
+0.67%
+","
+Wyeth
+  Energy
+","
+110,715
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+UBS AG
+","
+Receive
+","
+0.59%
+","
+Capital
+  One Bank
+","
+52,318
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+Citibank N.A.
+","
+Receive
+","
+0.30%
+","
+Coca-Cola
+  Enterprises Inc.
+","
+38,420
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+Citibank N.A.
+","
+Receive
+","
+0.69%
+","
+Comcast
+  Cable Communications Inc.
+","
+92,914
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+UBS AG
+","
+Receive
+","
+0.62%
+","
+Devon
+  Energy Corp.
+","
+89,288
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+Barclays Bank PLC
+","
+Receive
+","
+0.54%
+","
+Duke
+  Energy Corp.
+","
+81,352
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+Citibank N.A.
+","
+Receive
+","
+0.25%
+","
+International
+  Business Machines
+","
+32,741
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+9/20/2009
+","
+UBS AG
+","
+Receive
+","
+0.53%
+","
+Kinder
+  Morgan Energy Partners L.P.
+","
+58,122
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+12/20/2009
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.25%
+","
+AT&T
+  Wireless Services Inc.
+","
+(860
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+12/20/2009
+","
+Deutsche Bank AG
+","
+Receive
+","
+0.21%
+","
+Bank
+  of America Corp.
+","
+30,565
+",0000772129,N-CSR,05
+"
+5,000,000
+","
+12/20/2009
+","
+Barclays Bank PLC
+","
+Receive
+","
+0.30%
+","
+Boeing
+  Capital Corp.
+","
+31,339
+",0000772129,N-CSR,05

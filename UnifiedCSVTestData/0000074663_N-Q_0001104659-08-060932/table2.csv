@@ -1,0 +1,36 @@
+Counterparty,"Reference
+  Entity",Buy/Sell,"Notional
+  Amount
+  (000s
+  omitted)","Pay/Receive
+  Annual Fixed
+  Rate","Termination
+  Date","Net Unrealized
+  Appreciation
+  (Depreciation)",CIK,Reporting Type,Report Year
+"Bank of
+  America","First Data Corp., Series C",Sell,3475000,3.2,12/20/09,"(19,231",0000074663,N-Q,08
+"Citigroup, Inc.","First Data Corp., Series B",Sell,6950000,3.2,12/20/09,"(38,461",0000074663,N-Q,08
+"Citigroup, Inc.","First Data Corp., Series D",Sell,6950000,3.55,12/20/09,"(6,457",0000074663,N-Q,08
+"Citigroup, Inc.",General Motors Corp.,Sell,6000000,5.0,9/20/09,"(426,148",0000074663,N-Q,08
+Goldman Sachs Capital Markets L.P.,General Motors Corp.,Sell,3400000,7.25,9/20/10,"(897,283",0000074663,N-Q,08
+"JPMorgan
+  Chase Bank","AMD, Inc., Series B",Sell,3500000,6.5,12/20/12,"(816,186",0000074663,N-Q,08
+JPMorgan   Chase Bank,"AMD, Inc., Series C",Sell,3500000,6.4,12/20/12,"(824,706",0000074663,N-Q,08
+JPMorgan   Chase Bank,Ford Motor Corp.,Sell,6800000,8.5,3/20/10,"(552,478",0000074663,N-Q,08
+"Lehman
+  Brothers, Inc.",Ford Motor Corp.,Sell,7040000,7.2,12/20/09,"(847,786",0000074663,N-Q,08
+"Lehman   Brothers, Inc.",Ford Motor Corp.,Sell,7110000,8.0,3/20/10,"(945,576",0000074663,N-Q,08
+"Lehman   Brothers, Inc.","Ford Motor Corp., Series C",Sell,14100000,6.1,12/20/08,"(281,698",0000074663,N-Q,08
+"Lehman   Brothers, Inc.",General Motors Corp.,Sell,10200000,6.5,9/20/08,"(209,813",0000074663,N-Q,08
+"Lehman   Brothers, Inc.",General Motors Corp.,Sell,7050000,5.9,12/20/09,"(1,370,892",0000074663,N-Q,08
+"Lehman   Brothers, Inc.",General Motors Corp.,Sell,7040000,7.0,12/20/09,"(1,287,883",0000074663,N-Q,08
+"Lehman   Brothers, Inc.","Rite Aid Corp., Series A",Sell,3530000,3.9,12/20/08,"(45,665",0000074663,N-Q,08
+"Lehman   Brothers, Inc.","Rite Aid Corp., Series B",Sell,7070000,5.6,3/20/09,"(71,277",0000074663,N-Q,08
+"Lehman   Brothers, Inc.","Rite Aid Corp., Series C",Sell,3400000,5.6,3/20/09,"(32,691",0000074663,N-Q,08
+"Lehman   Brothers, Inc.",Toys  R  Us,Sell,7000000,4.35,12/20/08,8471,0000074663,N-Q,08
+"Lehman   Brothers, Inc.",Toys  R  Us,Sell,3535000,8.9,3/20/13,30966,0000074663,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Darden Restaurants,Buy,14245000,1.7,9/20/13,"(98,794",0000074663,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Intelsat Ltd.,Sell,7060000,3.75,12/20/08,62905,0000074663,N-Q,08
+RBS Greenwich Capital,"First Data Corp., Series E",Sell,6960000,3.95,12/20/10,"(154,093",0000074663,N-Q,08
+RBS Greenwich Capital,"First Data Corp., Series F",Sell,3480000,3.9,12/20/10,"(174,197",0000074663,N-Q,08

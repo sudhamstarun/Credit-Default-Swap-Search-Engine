@@ -1,0 +1,3 @@
+Underlying,Counterparty,NotionalAmount,FixedRate,ExpirationDate,ImpliedCreditSpread*,Value,UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+CDX.NA.HY.20,JPMorgan,"62,500,000",5.0,06/20/18,2.682,"5,950,286","2,684,194",0000883939,N-Q,14
+CDX.NA.HY.20,JPMorgan,"62,500,000",5.0,06/20/18,2.682,"(5,950,286","(2,652,055",0000883939,N-Q,14

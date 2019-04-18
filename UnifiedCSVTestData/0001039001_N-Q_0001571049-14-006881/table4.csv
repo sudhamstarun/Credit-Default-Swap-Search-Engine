@@ -1,0 +1,32 @@
+Counterparty,"Reference
+    Entity/Obligation","Buy/Sell
+    Protection","(Pay)/
+    Receive Fixed Rate (%)","Termination
+    Date","Implied
+Credit
+Spread at 
+09/30/14 (%) 
+(5)","Notional
+Amount(2)","Fair
+Value(3)","Upfront
+    Payments Paid/ (Received)","Unrealized
+    Appreciation/ (Depreciation)",CIK,Reporting Type,Report Year
+Deutsche Bank AG,Berkshire Hathaway Inc.,Sell,1.0,09/20/15,0.118,"6,000,000","51,983","54,196","(2,213",0001039001,N-Q,14
+Deutsche Bank AG,Berkshire Hathaway Inc.,Sell,1.0,06/20/16,0.18600000000000005,"2,400,000","33,843","33,201",642,0001039001,N-Q,14
+Deutsche Bank AG,Berkshire Hathaway Inc.,Sell,1.0,09/20/16,0.204,"400,000","6,310","4,064","2,246",0001039001,N-Q,14
+Deutsche Bank AG,Berkshire Hathaway Inc.,Sell,1.0,06/20/17,0.281,"2,300,000","44,874","44,828",46,0001039001,N-Q,14
+Barclays Bank PLC,Federative Republic of Brazil,Sell,1.0,06/20/15,0.574,"500,000","1,550",(988,"2,538",0001039001,N-Q,14
+Barclays Bank PLC,Federative Republic of Brazil,Sell,1.0,06/20/16,0.845,"2,500,000","6,686","(1,213","7,899",0001039001,N-Q,14
+"Citigroup, Inc.",Federative Republic of Brazil,Sell,1.0,06/20/15,0.574,"500,000","1,550","(1,975","3,525",0001039001,N-Q,14
+"Citigroup, Inc.",Federative Republic of Brazil,Sell,1.0,09/20/15,0.628,"1,000,000","3,640","(3,011","6,651",0001039001,N-Q,14
+"Citigroup, Inc.",Federative Republic of Brazil,Sell,1.0,06/20/16,0.845,"4,800,000","12,837","(3,896","16,733",0001039001,N-Q,14
+Deutsche Bank AG,Federative Republic of Brazil,Sell,1.0,06/20/16,0.845,"1,100,000","2,942",(890,"3,832",0001039001,N-Q,14
+Goldman Sachs & Co.,Federative Republic of Brazil,Sell,1.0,06/20/15,0.574,"500,000","1,550",(923,"2,473",0001039001,N-Q,14
+Goldman Sachs & Co.,Federative Republic of Brazil,Sell,1.0,09/20/16,0.902,"500,000",965,"(1,169","2,134",0001039001,N-Q,14
+HSBC,Federative Republic of Brazil,Sell,1.0,06/20/15,0.574,"1,600,000","4,960","(2,430","7,390",0001039001,N-Q,14
+HSBC,Federative Republic of Brazil,Sell,1.0,06/20/15,0.574,"800,000","2,480","(3,056","5,536",0001039001,N-Q,14
+HSBC,Federative Republic of Brazil,Sell,1.0,09/20/15,0.628,"900,000","3,276","(1,730","5,006",0001039001,N-Q,14
+HSBC,Federative Republic of Brazil,Sell,1.0,03/20/16,0.768,"500,000","1,712",(516,"2,228",0001039001,N-Q,14
+HSBC,Federative Republic of Brazil,Sell,1.0,06/20/16,0.845,"3,500,000","9,360","(1,698","11,058",0001039001,N-Q,14
+HSBC,Federative Republic of Brazil,Sell,1.0,12/20/19,1.75,"1,200,000","43,705","43,705",,0001039001,N-Q,14
+UBS AG,Federative Republic of Brazil,Sell,1.0,09/20/15,0.628,"500,000","1,820",(914,"2,734",0001039001,N-Q,14

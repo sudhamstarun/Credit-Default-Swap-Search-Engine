@@ -1,0 +1,8 @@
+Counterparty,Reference Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Implied   Credit   Spread at   03/31/12 (%)   (5),Notional   Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
+Deutsche Bank AG,Federative   Republic of Brazil,Sell,1.0,03/20/17,1.173,"1,783,902","(14,778)","(31,058)","16,280",0000846799,N-Q,12
+Morgan Stanley,Ireland,Sell,1.0,03/20/17,5.718999999999999,"1,070,000","(197,351)","(191,156)","(6,195)",0000846799,N-Q,12
+"Citigroup, Inc.","MBIA   Global Funding, LLC",Sell,5.0,09/20/13,17.0,"284,000","(40,940)","(34,280)","(6,660)",0000846799,N-Q,12
+"Citigroup, Inc.","MBIA   Global Funding, LLC",Sell,5.0,09/20/13,17.0,"139,000","(20,038)","(15,380)","(4,658)",0000846799,N-Q,12
+Goldman Sachs &   Co.,"MBIA   Global Funding, LLC",Sell,5.0,09/20/13,17.0,"241,000","(34,742)","(26,329)","(8,413)",0000846799,N-Q,12
+JPMorgan   Chase & Co.,"MBIA   Global Funding, LLC",Sell,5.0,09/20/13,17.0,"480,000","(69,195)","(26,316)","(42,879)",0000846799,N-Q,12
+"Citigroup, Inc.",Romania,Sell,1.0,03/20/17,3.1039999999999996,"212,959","(20,196)","(20,764)",568,0000846799,N-Q,12

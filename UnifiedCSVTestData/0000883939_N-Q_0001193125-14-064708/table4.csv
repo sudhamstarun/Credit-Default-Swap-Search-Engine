@@ -1,0 +1,3 @@
+Underlying Instrument,Broker (Exchange),NotionalAmount,FixedRate,ExpirationDate,ImpliedCreditSpread*,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+JPMorgan ,(CME) ,"129,500,000",5.0,06/20/18,2.682,"12,328,992","5,965,422",0000883939,N-Q,14
+JPMorgan ,(CME) ,"113,500,000",5.0,06/20/18,2.682,"(10,805,719","(4,416,838",0000883939,N-Q,14

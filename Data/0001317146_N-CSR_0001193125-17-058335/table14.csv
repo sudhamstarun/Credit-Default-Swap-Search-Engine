@@ -1,0 +1,12 @@
+Counterparty,NotionalAmount,ExpirationDate,Receive (Pay)Fixed Rate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+Goldman Sachs International,1600000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),"(91,967",985,"(90,982",0001317146,N-CSR,17
+Goldman Sachs International,330000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),7675,"(26,439","(18,764",0001317146,N-CSR,17
+Goldman Sachs International,890000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),26465,"(77,074","(50,609",0001317146,N-CSR,17
+JP Morgan Chase Bank N.A.,690000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),"(40,086",850,"(39,236",0001317146,N-CSR,17
+Goldman Sachs International,8500000,10/13/17,1.125%,USA-CPI-U,82519,-,82519,0001317146,N-CSR,17
+Bank of America N.A.,11000000,11/06/17,1.275%,USA-CPI-U,104309,-,104309,0001317146,N-CSR,17
+Goldman Sachs International,8300000,1/13/18,1.295%,USA-CPI-U,111574,-,111574,0001317146,N-CSR,17
+JP Morgan Chase Bank N.A.,8500000,2/17/18,1.033%,USA-CPI-U,175949,-,175949,0001317146,N-CSR,17
+Goldman Sachs International,410000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),"(23,567",253,"(23,314",0001317146,N-CSR,17
+Goldman Sachs International,150000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),3488,"(12,018","(8,530",0001317146,N-CSR,17
+Goldman Sachs International,410000,5/11/63,3.000%,CMBX.NA.BBB-.6  (Rating: BBB-),12192,"(35,506","(23,314",0001317146,N-CSR,17

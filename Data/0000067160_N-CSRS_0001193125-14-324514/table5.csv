@@ -1,0 +1,8 @@
+Counterparty,Currency,NotionalAmount,ExpirationDate,Payments Made by Fund,Payments Received by Fund,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Barclays Bank PLC,MXN,9000000,9/13/17,MXN TIIE Mexican Banxico,Fixed 5.500%,33037,0000067160,N-CSRS,14
+Barclays Bank PLC,MXN,14000000,9/02/22,MXN TIIE Mexican Banxico,Fixed 6.000%,21389,0000067160,N-CSRS,14
+Goldman Sachs Bank USA,BRL,200000,1/02/17,CETIP Interbank,Fixed 9.095%,"(4,044",0000067160,N-CSRS,14
+Goldman Sachs Bank USA,MXN,2000000,1/18/19,MXN TIIE Mexican Banxico,Fixed 5.700%,6568,0000067160,N-CSRS,14
+JP Morgan Chase Bank,MXN,9000000,1/18/19,MXN TIIE Mexican Banxico,Fixed 5.700%,30009,0000067160,N-CSRS,14
+JP Morgan Chase Bank,MXN,2000000,6/05/23,MXN TIIE Mexican Banxixo,Fixed 6.000%,5831,0000067160,N-CSRS,14
+UBS AG,BRL,400000,1/02/17,CETIP Interbank,Fixed 8.900%,"(8,006",0000067160,N-CSRS,14

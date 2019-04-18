@@ -1,0 +1,27 @@
+"
+Swap Counterparty andReference Obligation","
+Buy/SellProtection","
+NotionalAmount(000)","
+Pay/ReceiveFixed Rate","
+TerminationDate","
+UpfrontPaymentPaid(Received)(000)","
+UnrealizedAppreciation(Depreciation)(000)","
+Value(000)","
+CreditRating ofReferenceObligation ",CIK,Reporting Type,Report Year
+"
+Goldman Sachs InternationalPeople's Republic of China",Buy,382000,1,6/20/20,@)000,(2000,(2000,AA-,0000836487,N-CSRS,15
+"
+Goldman Sachs InternationalPeople's Republic of China",Buy,1178000,1,6/20/20,(2000,(6000,(8000,AA-,0000836487,N-CSRS,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,1797000,1,6/20/20,@000,(11000,(11000,AA-,0000836487,N-CSRS,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,3545000,1,6/20/20,(3000,(19000,(22000,AA-,0000836487,N-CSRS,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,2132000,1,6/20/20,(2000,(11000,(13000,AA-,0000836487,N-CSRS,15
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,731000,1,6/20/20,(1000,(4000,(5000,AA-,0000836487,N-CSRS,15
+"
+Morgan Stanley & Co., LLC*CDX.NA.IG.24",Buy,160740000,1,6/20/20,"(2,533000",200000,"(2,333000",NR,0000836487,N-CSRS,15
+"
+Morgan Stanley & Co., LLC*CDX.NA.HY.24",Buy,63390000,5,6/20/20,"(4,058000",12000,"(4,046000",NR,0000836487,N-CSRS,15
+233895,"(6,599",159000,"(6,440",,nan000,nan000,nan000,,0000836487,N-CSRS,15

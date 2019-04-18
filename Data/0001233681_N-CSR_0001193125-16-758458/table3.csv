@@ -1,0 +1,5 @@
+Issuer,PayFixed Rate,Counterparty,ExpirationDate,NotionalAmount(000),Value,PremiumsPaid ,UnrealizedDepreciation,CIK,Reporting Type,Report Year
+Australia & New Zealand Banking Group Ltd.,1.0,Deutsche Bank AG,9/20/17,(6000,(9,,,0001233681,N-CSR,16
+Westpac Banking Corp.,1.0,Deutsche Bank AG,9/20/17,(6000,(9,,,0001233681,N-CSR,16
+Federation of Russia,1.0,Bank of America N.A.,6/20/21,574000,"29,268","35,147","(5,879",0001233681,N-CSR,16
+Federation of Russia,1.0,HSBC Bank PLC,6/20/21,576000,"29,369","33,487","(4,118",0001233681,N-CSR,16

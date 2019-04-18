@@ -1,0 +1,29 @@
+Counterparty (Issuer),Reference Entity,(Pay)/ReceiveFixed Rate,ExpirationDate,NotionalAmount ,UpfrontPremiumsPaid/(Received),UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+Citigroup Inc,Russian Agricultural Bank OJSC,(1.00,03/20/2019,5000,312,829,0000898745,N-CSR,15
+Citigroup Inc,Turkey Government International,(1.00,03/20/2020,10000,393,83,0000898745,N-CSR,15
+Goldman Sachs & Co,Penerbangan Malaysia Bhd,(1.00,03/20/2020,10000,118,(46,0000898745,N-CSR,15
+HSBC Securities Inc,Colombia Government International,(1.00,03/20/2020,10000,212,(58,0000898745,N-CSR,15
+HSBC Securities Inc,ITRAXX.ASIA,(1.00,06/20/2019,5000,11,(59,0000898745,N-CSR,15
+HSBC Securities Inc,Mexico Government International,(1.00,03/20/2020,5000,41,(38,0000898745,N-CSR,15
+HSBC Securities Inc,Penerbangan Malaysia Bhd,(1.00,03/20/2020,10000,168,(96,0000898745,N-CSR,15
+HSBC Securities Inc,Petrobras Global Finance BV,(1.00,03/20/2020,5000,1057,(39,0000898745,N-CSR,15
+HSBC Securities Inc,Petroleos Mexicanos,(1.00,03/20/2020,10000,533,(159,0000898745,N-CSR,15
+HSBC Securities Inc,Turkey Government International,(1.00,03/20/2020,10000,389,87,0000898745,N-CSR,15
+JP Morgan Chase,Abu Dhabi Government,(1.00,03/20/2020,15000,(186,(46,0000898745,N-CSR,15
+JP Morgan Chase,Brazilian Government International,(1.00,03/20/2020,5000,311,13,0000898745,N-CSR,15
+JP Morgan Chase,Indonesia Government International,(1.00,03/20/2020,10000,284,(128,0000898745,N-CSR,15
+JP Morgan Chase,Mexico Government International,(1.00,03/20/2020,10000,33,(27,0000898745,N-CSR,15
+JP Morgan Chase,South Africa Government,(1.00,03/20/2020,10000,479,(48,0000898745,N-CSR,15
+Merrill Lynch,Brazilian Government International,(1.00,12/20/2019,520,14,17,0000898745,N-CSR,15
+Merrill Lynch,Brazilian Government International,(1.00,12/20/2019,395,13,11,0000898745,N-CSR,15
+Merrill Lynch,Brazilian Government International,(1.00,12/20/2019,1185,37,34,0000898745,N-CSR,15
+Citigroup Inc,Transocean Inc,6.8,1,12/20/2019,1125,(135,0000898745,N-CSR,15
+Citigroup Inc,Transocean Inc,6.8,1,12/20/2019,1525,(251,0000898745,N-CSR,15
+Deutsche Bank AG,Transocean Inc,6.8,1,12/20/2019,600,(79,0000898745,N-CSR,15
+Goldman Sachs & Co,Republic of,2.74,1,12/20/2019,5000,(145,0000898745,N-CSR,15
+Morgan Stanley & Co,Transocean Inc,6.8,1,12/20/2019,460,(79,0000898745,N-CSR,15
+CDX.23.HY,,5,12/20/2019,4158,277,39,0000898745,N-CSR,15
+CDX.NA.HY.23,,5,12/20/2019,7524,427,145,0000898745,N-CSR,15
+CDX.NA.HY.23,,5,12/20/2019,2426,145,39,0000898745,N-CSR,15
+CDX.NA.HY.23,,5,12/20/2019,8291,486,144,0000898745,N-CSR,15
+CDX.NA.HY.23,,5,12/20/2019,2426,147,37,0000898745,N-CSR,15

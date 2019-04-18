@@ -1,0 +1,27 @@
+"
+SWAP COUNTERPARTY &REFERENCE OBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000's)","
+PAY/RECEIVEFIXED RATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)",CIK,Reporting Type,Report Year
+"
+Goldman Sachs InternationalSouthwest Airlines Co.","
+Buy",350000,0.22,"
+December 20, 2011","
+2,172",0000913534,N-CSR,07
+"
+Goldman Sachs InternationalDell Inc.","
+Buy",300000,0.22,"
+March 20, 2012","
+(116",0000913534,N-CSR,07
+"
+Citibank, N.A., New YorkTyco International Ltd.","
+Buy",150000,0.43,"
+March 20, 2012","
+897",0000913534,N-CSR,07
+"
+Citibank, N.A., New YorkTyco International Ltd.","
+Buy",340000,0.43,"
+March 20, 2012","
+2,034",0000913534,N-CSR,07

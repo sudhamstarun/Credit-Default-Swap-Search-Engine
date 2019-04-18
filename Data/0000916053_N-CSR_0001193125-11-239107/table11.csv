@@ -1,0 +1,12 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"80,000",10/12/52,Credit Suisse Securities LLC,Sell,0.500%,CMBX.NA.AM.1 (Moody s Rating: Aa1; S&P Rating: A+),"(1,722","(3,550","(5,272",0000916053,N-CSR,11
+"18,000",10/12/52,Credit Suisse Securities LLC,Sell,0.100%,CMBX 1 2006-1 AAA (Moody s Rating: Aaa; S&P Rating: AA+),155,(810,(655,0000916053,N-CSR,11
+"50,000",10/12/52,Credit Suisse Securities LLC,Sell,0.500%,CMBX.NA.AM.1 (Moody s Rating: Aa1; S&P Rating: A+),"2,236","(5,531","(3,295",0000916053,N-CSR,11
+"50,000",3/15/49,Credit Suisse Securities LLC,Buy,(0.070)%,CMBX 2 2006-2 AAA,185,"2,125","2,310",0000916053,N-CSR,11
+"51,000",3/15/49,Credit Suisse Securities LLC,Buy,(0.070)%,CMBX 2 2006-2 AAA,14,"2,343","2,357",0000916053,N-CSR,11
+"30,000",12/13/49,Credit Suisse Securities LLC,Buy,(0.080)%,CMBX 3 2007-1 AAA,167,"1,593","1,760",0000916053,N-CSR,11
+"40,000",6/20/18,Deutsche Bank,Sell,1.000%,"MetLife, Inc. (Moody s Rating: A3; S&P Rating: A-)",(290,"(1,695","(1,985",0000916053,N-CSR,11
+"30,000",2/17/51,Deutsche Bank,Buy,(0.500)%,CMBX.NA.AM.4,"(1,659","6,225","4,566",0000916053,N-CSR,11
+"45,000",3/15/49,Goldman Sachs & Co.,Buy,(0.070)%,CMBX 2 2006-2 AAA,54,"2,025","2,079",0000916053,N-CSR,11
+"20,000",2/17/51,Morgan Stanley & Co.,Buy,(0.500)%,CMBX.NA.AM.4,994,"2,050","3,044",0000916053,N-CSR,11
+"30,000",10/12/52,Morgan Stanley & Co.,Sell,0.100%,CMBX 1 2006-1 AAA (Moody s Rating: Aa1; S&P Rating: AA+),296,"(1,387","(1,091",0000916053,N-CSR,11

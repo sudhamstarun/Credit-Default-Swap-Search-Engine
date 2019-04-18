@@ -1,0 +1,23 @@
+Counterparty,TerminationDate,NotionalAmount(000),FixedRate,UnderlyingBond,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley & Co. Inc.(a),12/20/2008,500,0.26,"Allstate Corp.6.125%, 2/15/12",(271,0001090155,N-CSRS,04
+Merrill Lynch & Co.(a),12/20/2008,200,0.32,"Ingersoll-Rand Co.,6.48%, 6/1/25",91,0001090155,N-CSRS,04
+Morgan Stanley & Co. Inc.(a),12/20/2008,300,0.21,"Emerson Electric Co.4.625%, 10/15/12",549,0001090155,N-CSRS,04
+Barclay s Bank PLC(a),12/20/2008,400,0.16,"Eli Lilly & Co. Inc.,6.00%, 3/15/12",552,0001090155,N-CSRS,04
+Bank of America Securities LLC(a),12/20/2008,300,0.13,"E.I. Dupont,6.875%, 10/15/09",551,0001090155,N-CSRS,04
+Bear Stearns & Co.(a),12/20/2008,400,0.32,"Hewlett Packard Co.,6.50%, 7/1/12","(1,852",0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,400,0.11,"Johnson & Johnson,3.80%, 5/15/13",(185,0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,400,0.12,"Home Depot, Inc.,5.375%, 4/1/06",551,0001090155,N-CSRS,04
+Citigroup Global Partners Inc.(a),12/20/2008,300,0.29,"FedEx Corp.,7.25%, 2/15/11",75,0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,200,0.29,"Whirlpool Corp.,8.60%, 5/1/10",365,0001090155,N-CSRS,04
+Citigroup Global Partners Inc.(a),12/20/2008,400,0.28,"Eaton Corp.,5.75%, 7/15/12",(366,0001090155,N-CSRS,04
+Citigroup Global Partners Inc.(a),12/20/2008,600,0.14,"Wal-Mart Stores, Inc.,6.875%, 8/10/09",275,0001090155,N-CSRS,04
+UBS Warburg LLC(a),12/20/2008,500,0.35,"Autozone, Inc.5.875%, 10/15/12","2,173",0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,100,0.24,"Costco Wholesale Corp.,5.50%, 3/15/07",25,0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,200,0.35,"Masco Corp.,5.875%, 7/15/12",(276,0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,200,0.35,"Radioshack Corp.,7.375%, 5/15/11",414,0001090155,N-CSRS,04
+Barclay s Bank PLC(a),12/20/2008,100,0.67,"The Walt Disney Co.,6.375%, 3/1/12",(885,0001090155,N-CSRS,04
+Bear Stearns & Co.(a),12/20/2008,100,1.09,"Capital One Bank,4.875%, 5/15/08",(443,0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,100,0.48,"Northrop Grumman Corp.,7.1425%, 2/15/11",(294,0001090155,N-CSRS,04
+Lehman Brothers Inc.(a),12/20/2008,100,0.53,"Lockheed Martin Corp.,8.20%, 12/1/09",(385,0001090155,N-CSRS,04
+UBS Warburg LLC(a),12/20/2008,100,0.97,"Goodrich Corp.,7.625%, 12/15/12","(1,855",0001090155,N-CSRS,04
+UBS Warburg LLC(a),12/20/2008,100,0.98,"Sun Microsystems, Inc.,7.65%, 8/15/09","(1,275",0001090155,N-CSRS,04

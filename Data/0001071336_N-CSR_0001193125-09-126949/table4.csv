@@ -1,0 +1,6 @@
+Counterparty,Referenced Entity,Buy/SellProtection,CurrentCreditSpread (12),NotionalAmount,FixedRate,TerminationDate,"Value atMarch 31,2009(U.S. Dollars)",UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+JPMorgan,DJ High Yield CDX,Sell ,17.56,"2,764,500",5.0,12/20/13,"(834,255","(240,745",0001071336,N-CSR,09
+JPMorgan,DJ Investment Grade CDX,Sell ,2.61,"1,952,000",1.55,6/20/13,"(79,098","(97,846",0001071336,N-CSR,09
+JPMorgan,DJ Investment Grade CDX,Sell ,2.37,"850,000",1.5,12/20/13,"(29,947","(3,710",0001071336,N-CSR,09
+JPMorgan,Mohawk Industries Inc.,Buy ,4.12,"1,300,000",3.7,3/20/14,"20,473","20,473",0001071336,N-CSR,09
+JPMorgan,Newell Rubbermaid Inc.,Buy ,2.72,"1,000,000",2.82,6/20/14,"(4,365","(4,365",0001071336,N-CSR,09

@@ -1,0 +1,46 @@
+"Credit Default Swap
+Counterparty
+","Reference
+Entity
+","Buy/
+Sell
+","Pay/ Receive
+Fixed Rate
+","Expiration
+Date
+","Implied Credit
+Spread at
+12/31/201610
+","Notional
+Amount
+","Market
+Value
+","Upfront
+Premiums
+Paid/
+(Received)
+","Unrealized
+Appreciation
+",CIK,Reporting Type,Report Year
+"Barclays Capital, Inc.
+","CDX Index EM Series 26
+","Buy
+","1.00%
+","12/20/2021
+","2.38%
+","$4,500,000
+","$281,250
+","$280,206
+","$1,044
+",0000912577,N-CSR,17
+"Barclays Capital, Inc.
+","Russian Federation Bond
+","Sell
+","1.00%
+","12/20/2021
+","1.82%
+","$200,000
+","$(7,302)
+","$(10,900)
+","$3,598
+",0000912577,N-CSR,17

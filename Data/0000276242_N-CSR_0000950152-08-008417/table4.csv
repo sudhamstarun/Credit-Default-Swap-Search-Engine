@@ -1,0 +1,186 @@
+"
+Counterparty
+","
+Entity
+","
+Protection
+","
+Rate
+","
+Date
+","
+Amount(000)
+",CIK,Reporting Type,Report Year
+"
+
+    UBS AG
+
+","
+    Textron Financial Corp.
+","
+    Buy
+",1.01,"
+    03/20/13
+","
+    700
+000",0000276242,N-CSR,08
+"
+
+    UBS AG
+
+","
+    Toll Brothers, Inc.
+","
+    Buy
+",2.9,"
+    03/20/13
+","
+    3,790
+000",0000276242,N-CSR,08
+"
+
+    UBS AG
+
+","
+    Trane, Inc.
+","
+    Buy
+",0.5,"
+    03/20/13
+","
+    2,695
+000",0000276242,N-CSR,08
+"
+
+    UBS AG
+
+","
+    Trane, Inc.
+","
+    Buy
+",0.6,"
+    03/20/18
+","
+    2,830
+000",0000276242,N-CSR,08
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.HY.10
+","
+    Sell
+",5.0,"
+    06/20/13
+","
+    13,020
+000",0000276242,N-CSR,08
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.IG.HVOL .9
+","
+    Sell
+",1.4,"
+    12/20/12
+","
+    2,860
+000",0000276242,N-CSR,08
+"
+
+    Goldman Sachs International
+
+","
+    Qwest Capital Funding, Inc.
+","
+    Sell
+",3.25,"
+    12/20/12
+","
+    840
+000",0000276242,N-CSR,08
+"
+
+    JP Morgan Chase Bank, N.A.
+
+","
+    SLM Corp.
+","
+    Sell
+",4.95,"
+    03/20/13
+","
+    1,380
+000",0000276242,N-CSR,08
+"
+
+    Lehman Brothers Special Financing,
+    Inc.*
+    
+
+","
+    CDX.NA.HY.10
+","
+    Sell
+",5.0,"
+    06/20/13
+","
+    9,190
+000",0000276242,N-CSR,08
+"
+
+    Lehman Brothers Special Financing,
+    Inc.*
+    
+
+","
+    CDX.NA.HY.9
+","
+    Sell
+",3.75,"
+    12/20/12
+","
+    16,731
+000",0000276242,N-CSR,08
+"
+
+    Merrill Lynch International
+
+","
+    CDX.NA.IG.HVOL .9
+","
+    Sell
+",1.4,"
+    12/20/12
+","
+    2,845
+000",0000276242,N-CSR,08
+"
+
+    Merrill Lynch International
+
+","
+    SLM Corp.
+","
+    Sell
+",5.0,"
+    03/20/13
+","
+    1,380
+000",0000276242,N-CSR,08
+"
+
+    UBS AG
+
+","
+    CDX.NA.HY.10
+","
+    Sell
+",5.0,"
+    06/20/13
+","
+    8,000
+000",0000276242,N-CSR,08

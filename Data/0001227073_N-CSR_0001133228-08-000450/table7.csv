@@ -1,0 +1,11 @@
+Expiration,Counterparty,"Reference Debt 
+     Obligation/Index","Notional 
+     Amount","Fixed 
+     Payment 
+     Made","Frequency
+     of Payments 
+     Made","Unrealized 
+     Loss",CIK,Reporting Type,Report Year
+06/20/2013,Bank of,"Dow Jones CDX,","645,000",5.00%,Quarterly,"3,046",0001227073,N-CSR,08
+06/20/2013,Lehman,"Pulte Corp.,","820,000",4.17%,Quarterly,"53,835",0001227073,N-CSR,08
+06/20/2013,UBS,"Dow Jones CDX,","1,505,000",5.00%,Quarterly,"7,107",0001227073,N-CSR,08

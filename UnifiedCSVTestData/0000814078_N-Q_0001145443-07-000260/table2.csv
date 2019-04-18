@@ -1,0 +1,33 @@
+"Referenced
+  Obligation","Swap
+  Counterparty","  Buy/Sell
+  Protection","Fund
+  Pays/Receives
+  Fixed Rate (r)","Termination
+  Date","Notional
+  Amount
+  (USD)","Value
+  (USD)",CIK,Reporting Type,Report Year
+"Bear Stearns & Co., 7.63%, 12/07/09","Deutsche Bank AG, New York",  Sell,8 BPS quarterly,06/20/07,"4,900
+  ", 2 ,0000814078,N-Q,07
+"Berkshire Hathaway, Inc., 9.75%, 01/15/18","Deutsche Bank AG, New York",  Sell,20 BPS quarterly,03/20/10," 8,800 ", 46 ,0000814078,N-Q,07
+"Corning Inc., 6.30%, 03/01/09",Goldman Sachs Capital Management,  Sell,43 BPS quarterly,06/20/11," 3,000 ", 18 ,0000814078,N-Q,07
+"General Electric Capital Corp., 3.50%, 05/01/08","Citibank, N.A. ",  Sell,14 BPS quarterly,12/20/07," 23,000 ", 32 ,0000814078,N-Q,07
+"Goldman Sachs Group., 6.60%, 01/15/12 ","Deutsche Bank AG, New York",  Sell,7.5 BPS quarterly,06/20/07," 4,900 ", 2 ,0000814078,N-Q,07
+"Lehman Brothers, 6.63%, 01/18/12",Bear Stearns Credit Products,  Sell,8 BPS quarterly,06/20/07," 7,400 ", 3 ,0000814078,N-Q,07
+"Merrill Lynch & Co., 6.00%, 02/17/09","Deutsche Bank AG, New York",  Sell,7.5 BPS quarterly,06/20/07," 4,900 ", 2 ,0000814078,N-Q,07
+"Merrill Lynch & Co., 6.00%, 02/17/09","Deutsche Bank AG, New York",  Sell,9.5 BPS quarterly,12/20/07," 6,000 ", 4 ,0000814078,N-Q,07
+"Morgan Stanley Dean Witter, 6.60%, 04/01/12 ","Deutsche Bank AG, New York",  Sell,8 BPS quarterly,06/20/07," 4,900 ", 2 ,0000814078,N-Q,07
+"Russian Federation, 5.00%, 03/31/30","Deutsche Bank AG, New York",  Sell,104 BPS semi-annually,06/20/10," 4,000 ", 95 ,0000814078,N-Q,07
+"Russian Federation, 5.00%, 03/31/30","Deutsche Bank AG, New York",  Sell,101 BPS semi-annually,07/20/10," 15,000 ", 329 ,0000814078,N-Q,07
+"Russian Federation, 5.00%, 03/31/30",Morgan Stanley Capital Services,  Sell,140 BPS semi-annually,04/20/10," 10,000 ", 318 ,0000814078,N-Q,07
+"Sara Lee Corp., 6.13%, 11/01/32",Bear Stearns Credit Products,  Buy,43 BPS quarterly,12/20/11," 1,100 ", 3 ,0000814078,N-Q,07
+"SunTrust Capital III, 2.48%, 03/15/28","Deutsche Bank AG, New York",  Sell,48 BPS quarterly,06/30/07," 12,400 ", 23 ,0000814078,N-Q,07
+"United Mexican States, 7.50%, 04/08/33","Deutsche Bank AG, New York",  Buy,29 BPS semi-annually,05/20/08," 26,260 ", (40,0000814078,N-Q,07
+"United Mexican States, 7.50%, 04/08/33","Deutsche Bank AG, New York",  Buy,105 BPS semi-annually,06/20/10," 4,000 ", (108,0000814078,N-Q,07
+"United Mexican States, 7.50%, 04/08/33","Deutsche Bank AG, New York",  Buy,96 BPS semi-annually,07/20/10," 15,000 ", (345,0000814078,N-Q,07
+"United Mexican States, 7.50%, 04/08/33","Deutsche Bank AG, New York",  Sell,66.75 BPS semi-annually,05/20/11," 11,670 ", 107 ,0000814078,N-Q,07
+"United Mexican States, 7.50%, 04/08/33",Morgan Stanley Capital Services,  Buy,112 BPS semi-annually,04/20/10,"10,000
+  ", (254,0000814078,N-Q,07
+"Viacom, 5.75%, 04/30/11",Bear Stearns Credit Products,  Buy,46 BPS quarterly,06/20/11,"2,200
+  ",(18,0000814078,N-Q,07

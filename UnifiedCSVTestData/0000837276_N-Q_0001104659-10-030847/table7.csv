@@ -1,0 +1,19 @@
+Counterparty,"Reference
+  Entity/Obligation","Buy/Sell
+  Protection","Fixed
+  Rate (%)","Termination
+  Date","Notional
+  Amount (4)","Market
+  Value (5)","Paid/
+  (Received)","Appreciation/
+  (Depreciation)",CIK,Reporting Type,Report Year
+Barclays Bank PLC,CDX.NA.HY.12 Index,Buy,(5.000),06/20/14,"611,000","(8,207)","63,818","(72,025)",0000837276,N-Q,10
+"Credit Suisse
+  International",CDX.NA.HY.12 Index,Buy,(5.000),06/20/14,"2,068,000","(27,778)","220,421","(248,199)",0000837276,N-Q,10
+Deutsche Bank AG,CDX.NA.HY.12 Index,Buy,(5.000),06/20/14,"1,974,000","(26,515)","203,546","(230,061)",0000837276,N-Q,10
+"Goldman Sachs
+  International",CDX.NA.HY.12 Index,Buy,(5.000),06/20/14,"1,880,000","(25,252)","203,481","(228,733)",0000837276,N-Q,10
+"The Royal Bank of
+  Scotland PLC",CDX.NA.HY.12 Index,Buy,(5.000),06/20/14,"3,290,000","(44,191)","251,088","(295,279)",0000837276,N-Q,10
+"The Royal Bank of
+  Scotland PLC",CDX.NA.HY.13 Index,Buy,(5.000),12/20/14,"1,782,000",(281),"123,713","(123,994)",0000837276,N-Q,10

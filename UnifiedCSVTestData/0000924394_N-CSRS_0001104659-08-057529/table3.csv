@@ -1,0 +1,67 @@
+"
+SWAP COUNTERPARTY &REFERENCE OBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000'S)","
+INTERESTRATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)",CIK,Reporting Type,Report Year
+"
+Credit Suisse InternationalArrow Electronics, Inc.","
+Buy",60000,1.0,"
+March 20, 2015","
+(444",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalAvalonbay Communities Inc.","
+Buy",40000,3.05,"
+March 20, 2013","
+(2,317",0000924394,N-CSRS,08
+"
+Merrill Lynch InternationalCarnival Corp.","
+Buy",25000,1.5,"
+March 20, 2018","
+(87",0000924394,N-CSRS,08
+"
+Merrill Lynch InternationalCarnival Corp.","
+Buy",25000,1.57,"
+March 20, 2018","
+(71",0000924394,N-CSRS,08
+"
+Bank of America, N.A.Carnival Corp.","
+Buy",25000,1.57,"
+March 20, 2018","
+(71",0000924394,N-CSRS,08
+"
+Merrill Lynch InternationalCarnival Corp.","
+Buy",20000,1.6,"
+March 20, 2018","
+(153",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalCoca-Cola Enterprises Inc.","
+Buy",80000,0.588,"
+March 20, 2013","
+(556",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalChubb Corp.","
+Buy",120000,0.1,"
+March 20, 2012","
+2,042",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDell Inc.","
+Buy",60000,0.22,"
+March 20, 2012","
+662",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDow Jones Index","
+Sell",50000,0.6,"
+December 20, 2012","
+(271",0000924394,N-CSRS,08
+"
+JPMorgan Chase Bank N.A. New York Dow Jones Index","
+Sell",150000,0.6,"
+December 20, 2012","
+80",0000924394,N-CSRS,08
+"
+Lehman Brothers Special Financing Inc. Dow Jones Index","
+Sell",45000,0.6,"
+December 20, 2012","
+(539",0000924394,N-CSRS,08

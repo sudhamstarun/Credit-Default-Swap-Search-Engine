@@ -1,0 +1,4 @@
+NotionalAmount,ExpirationDate,Counterparty,Receive(Pay)^,AnnualPremium,ImpliedCreditSpread (1),ReferenceEntity,"MaximumPotentialAmount ofFuturePaymentsby the FundUnder
+theContract (2)",Net UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+"21,000,000",3/20/2014,Deutsche Bank AG,(Pay),1.70%,3.01,Italy Government International Bond,,"343,979",0000772129,N-CSR,12
+"15,000,000",3/20/2019,Deutsche Bank AG,Receive,1.66%,4.54,Italy Government International Bond,"15,000,000","(2,157,246",0000772129,N-CSR,12

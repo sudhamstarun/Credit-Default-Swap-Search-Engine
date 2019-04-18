@@ -1,0 +1,22 @@
+Counterparty,Referenced Obligation,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Deutsche Bank,iStar Financial Inc 6.000% due 12/15/10,Sell,4.32,12/20/12,"$70,000","$1,085",0000813900,N-CSR,08
+Barclays,iStar Financial Inc 6.000% due 12/15/10,Sell,4.4,12/20/12,430000,8005,0000813900,N-CSR,08
+Credit Suisse,Energy Future Holdings Corp 5.550% due 11/15/14,Sell,5.91,12/20/12,155000,6521,0000813900,N-CSR,08
+Credit Suisse,Energy Future Holdings Corp 5.550% due 11/15/14,Sell,6,12/20/12,155000,7072,0000813900,N-CSR,08
+Credit Suisse,Energy Future Holdings Corp 5.550% due 11/15/14,Sell,6.05,12/20/12,150000,7140,0000813900,N-CSR,08
+Morgan Stanley,General Motors Corp 7.125% due 07/15/13,Sell,5.75,12/20/16,505000,34572,0000813900,N-CSR,08
+Morgan Stanley,General Motors Corp 7.125% due 07/15/13,Sell,5.8,12/20/16,520000,34439,0000813900,N-CSR,08
+Morgan Stanley,Ford Motor Co 7.450% due 07/16/31,Sell,7.05,12/20/16,500000,20549,0000813900,N-CSR,08
+Morgan Stanley,Ford Motor Co 7.450% due 07/16/31,Sell,7.15,12/20/16,1050000,38276,0000813900,N-CSR,08
+Morgan Stanley,Inco Ltd 7.750% due 05/15/12,Buy,(0.630,03/20/17,520000,5300,0000813900,N-CSR,08
+Morgan Stanley,Inco Ltd 7.750% due 05/15/12,Buy,(0.700,03/20/17,515000,7954,0000813900,N-CSR,08
+Morgan Stanley,Vale Overseas Ltd 8.250% due 01/17/34,Sell,1.1,03/20/17,520000,6288,0000813900,N-CSR,08
+Morgan Stanley,Vale Overseas Ltd 8.250% due 01/17/34,Sell,1.17,03/20/17,515000,3617,0000813900,N-CSR,08
+Morgan Stanley,Kohl s Corp 6.300% 03/01/11,Buy,(0.660,12/20/17,715000,21662,0000813900,N-CSR,08
+Morgan Stanley,Kohl s Corp 6.300% 03/01/11,Buy,(0.870,12/20/17,720000,10217,0000813900,N-CSR,08
+Morgan Stanley,JC Penney Corp Inc 9.000% due 08/01/12,Sell,1.07,12/20/17,475000,"(29,754",0000813900,N-CSR,08
+Morgan Stanley,JC Penney Corp Inc 9.000% due 08/01/12,Sell,1.3,12/20/17,485000,"(63,778",0000813900,N-CSR,08
+Deutsche Bank,ABX.HE.AA. 06-2,Sell,0.17,05/25/46,220000,"(57,456",0000813900,N-CSR,08
+Goldman Sachs,ABX.HE.AA. 06-2,Sell,0.17,05/25/46,290000,4350,0000813900,N-CSR,08
+Goldman Sachs,ABX.HE.AA. 06-2,Sell,0.17,05/25/46,75000,"(22,319",0000813900,N-CSR,08
+Morgan Stanley,ABX.HE.AA. 06-2,Sell,0.17,05/25/46,225000,"(64,384",0000813900,N-CSR,08

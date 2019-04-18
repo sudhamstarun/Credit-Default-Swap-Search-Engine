@@ -1,0 +1,11 @@
+Counterparty,NotionalAmount,ExpirationDate,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+Barclays Bank PLC,"1,600,000",6/20/15,5.000%,CDX.EM.13  (PIMCO Rating: BA+)**,"(97,281","133,850","36,569",0000067160,N-CSR,14
+Barclays Bank PLC,"400,000",12/20/15,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"5,682","(2,308","3,374",0000067160,N-CSR,14
+Barclays Bank PLC,"400,000",3/20/16,1.000%,United Mexican States (PIMCO Rating: A-)**,"7,227","(1,930","5,297",0000067160,N-CSR,14
+Barclays Bank PLC,"1,500,000",3/20/16,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"19,131","(6,149","12,982",0000067160,N-CSR,14
+Barclays Bank PLC,"1,400,000",6/20/16,1.000%,General Electric Capital Corp. (PIMCO Rating: AA+)**,197,"20,794","20,991",0000067160,N-CSR,14
+Barclays Bank PLC,"900,000",6/20/16,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"9,284","(1,303","7,981",0000067160,N-CSR,14
+Barclays Bank PLC,"800,000",12/20/16,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"26,410","(20,149","6,261",0000067160,N-CSR,14
+Barclays Bank PLC,"1,000,000",6/20/17,1.000%,Italian Government (PIMCO Rating: BAA)**,"6,287","3,775","10,062",0000067160,N-CSR,14
+Barclays Bank PLC,"500,000",9/20/17,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,"19,792","(18,206","1,586",0000067160,N-CSR,14
+Barclays Bank PLC,"1,500,000",3/20/18,1.000%,United Mexican States (PIMCO Rating: A-)**,"26,839","4,377","31,216",0000067160,N-CSR,14

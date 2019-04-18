@@ -1,0 +1,37 @@
+Counterparty,Reference Entity,"Buy/Sell
+  Protection","(Pay) /
+  Receive
+  Fixed Rate","Termination
+  Date","Notional
+  Amount
+  (000)","Unrealized
+  Appreciation/
+  (Depreciation)",CIK,Reporting Type,Report Year
+Services,"8.375%
+  due 4/1/2015",Sell,5.10%,9/20/2011,"1,200","(111,675)",0000911507,N-Q,07
+Services,"8.375%
+  due 3/15/2013",Buy,(1.45%),9/20/2011,"1,000","9,256",0000911507,N-Q,07
+Services,"5.875%
+  due 2/27/2014",Buy,(1.40%),9/20/2010,"1,300","4,748",0000911507,N-Q,07
+"Capital
+  Markets, L.P.","8.875%
+  due 3/15/2011",Sell,4.50%,3/20/2012,"1,000","(70,029)",0000911507,N-Q,07
+"Capital
+  Markets, L.P.","9.50%
+  due 1/15/2013",Sell,4.50%,9/20/2012,"1,500","(14,834)",0000911507,N-Q,07
+"Capital
+  Markets, L.P.","7.50%
+  due 1/15/2009",Sell,4.55%,9/20/2009,"2,000","58,464",0000911507,N-Q,07
+International,"6.00%
+  due 10/1/2012",Buy,(.47%),6/20/2012,"1,000","(8,164)",0000911507,N-Q,07
+International,"9.50%
+  due 1/15/2013",Sell,4.25%,9/20/2012,"1,500","(29,040)",0000911507,N-Q,07
+"Capital
+  Services, Inc.","7.75%
+  due 11/15/2011",Sell,4.00%,9/20/2012,"1,500","25,987",0000911507,N-Q,07
+"Capital
+  Services, Inc.","8.625%
+  due 5/1/2009",Sell,4.85%,6/20/2012,"1,000","(68,886)",0000911507,N-Q,07
+"Capital
+  Services, Inc.","8.625%
+  due 5/1/2009",Sell,6.00%,9/20/2012,"1,000","(37,890)",0000911507,N-Q,07

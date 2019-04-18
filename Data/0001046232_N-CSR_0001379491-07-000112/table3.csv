@@ -1,0 +1,6 @@
+Expiration,Counterparty,Obligation,Amount,by the Fund,Made,Gain (Loss),CIK,Reporting Type,Report Year
+03/20/2012  ,Lehman  ,"Weyerhaeuser Co.,  ","$10,000,000  ",0.37%  ,Quarterly  ,"$52,962  ",0001046232,N-CSR,07
+03/20/2012  ,Morgan  ,"International Paper Co.,  ",10000000,0.35%  ,Quarterly  ,8100,0001046232,N-CSR,07
+06/20/2012  ,Goldman  ,Simon Property  ,10000000,0.21%  ,Quarterly  ,"(9,158)  ",0001046232,N-CSR,07
+06/20/2012  ,Lehman  ,"Sempra Energy,  ",10000000,0.16%  ,Quarterly  ,(43)  ,0001046232,N-CSR,07
+06/20/2012  ,Morgan  ,"Progress Energy, Inc.,  ",10000000,0.13%  ,Quarterly  ,"(11,448)  ",0001046232,N-CSR,07

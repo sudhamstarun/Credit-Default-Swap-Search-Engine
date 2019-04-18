@@ -1,0 +1,11 @@
+Counterparty,"Reference
+  Entity/Obligation",Protection,"Fixed
+  Rate (%)",Date,"Amount
+  (4)","Value
+  (5)",Paid/(Received),(Depreciation),CIK,Reporting Type,Report Year
+"Morgan Stanley Capital
+  Services Inc.","Domtar Inc. 7.875%, 10/15/11",Buy,(2.650),09/20/11,1287500,"(32,394)","(32,394)",,0001066602,N-Q,10
+"Citibank N.A., New York","MBIA Inc. 6.625%, 10/01/28",Buy,(5.000),09/20/13,640000,224921,160948,63973.0,0001066602,N-Q,10
+"Citibank N.A., New York","MBIA Inc. 6.625%, 10/01/28",Buy,(5.000),09/20/13,1311000,460737,316422,144315.0,0001066602,N-Q,10
+"JPMorgan Chase Bank,
+  N.A. New York","MBIA Inc. 6.625%, 10/01/28",Buy,(5.000),09/20/13,5079000,1784960,667120,1117840.0,0001066602,N-Q,10

@@ -1,0 +1,5 @@
+Counterparty,TerminationDate,NotionalAmount (000),FixedRate,Underlying Bond,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley & Co. Inc.(a),12/20/2008,200000,0.26%,"Allstate6.125%, 2/15/12",(808,0001067442,N-CSR,05
+Merrill Lynch & Co.(a),12/20/2008,100000,0.32%,"Ingersoll6.48%, 6/1/25",(529,0001067442,N-CSR,05
+Morgan Stanley & Co. Inc.(a),12/20/2008,100000,0.21%,"Emerson4.625%, 10/15/12",(219,0001067442,N-CSR,05
+Barclay's Bank PLC(a),12/20/2008,200000,0.16%,"Eli Lilly6.00%, 3/15/12",(274,0001067442,N-CSR,05

@@ -1,0 +1,12 @@
+Counterparty,Reference Obligation,Protection2,Fixed Rate,Date,Amount(000s),CIK,Reporting Type,Report Year
+Barclays Group PLC,"Lehman Brothers Holdings, Inc.",Sold,0.66%,09/20/2012,(200)000,0000933691,N-CSR,08
+Goldman Sachs & Co.,Nordstrom Inc. ,Purchased,0.36%,12/20/2012,300000,0000933691,N-CSR,08
+Citibank N.A.,RH Donnelley Corp.,Sold,3.40%,09/20/2012,(300)000,0000933691,N-CSR,08
+Morgan Stanley,"Staples, Inc.",Purchased,0.53%,12/20/2012,300000,0000933691,N-CSR,08
+Citibank N.A.,"The Bear Stearns Companies, Inc.",Sold,0.72%,09/20/2012,(200)000,0000933691,N-CSR,08
+JPMorgan Chase & Co.,"The Bear Stearns Companies, Inc.",Sold,0.72%,09/20/2012,(200)000,0000933691,N-CSR,08
+Morgan Stanley,The Black & Decker Corporation,Purchased,0.49%,12/20/2012,300000,0000933691,N-CSR,08
+Morgan Stanley,The Sherwin Williams Co.,Purchased,0.29%,12/20/2012,300000,0000933691,N-CSR,08
+Goldman Sachs & Co.,"The TJX Companies, Inc.",Purchased,0.38%,12/20/2012,300000,0000933691,N-CSR,08
+Morgan Stanley,VF Corporation,Purchased,0.25%,12/20/2012,300000,0000933691,N-CSR,08
+Morgan Stanley,Whirlpool Corp.,Purchased,0.49%,12/20/2012,300000,0000933691,N-CSR,08

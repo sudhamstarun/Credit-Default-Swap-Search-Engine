@@ -1,0 +1,7 @@
+Reference Entity/,Swap Counterparty,Buy/Sell Protection,Notional Amount(000 s),Fixed Rate,Termination Date,CIK,Reporting Type,Report Year
+Federative Republic of Brazil:,Barclays Bank plc,Sell,70000,1,3/20/16,0001488175,N-CSRS,12
+Federative Republic of Brazil:,Credit Suisse International,Sell,85000,1,6/20/16,0001488175,N-CSRS,12
+Republic of Hungary:,Barclays Bank plc,Sell,50000,1,3/20/16,0001488175,N-CSRS,12
+Republic of Hungary:,Barclays Bank plc,Sell,63000,1,6/20/16,0001488175,N-CSRS,12
+United Mexican States:,Goldman Sachs International,Sell,90000,1,6/20/16,0001488175,N-CSRS,12
+United Mexican States:,HSBC Bank USA NA,Sell,20000,1,3/20/16,0001488175,N-CSRS,12

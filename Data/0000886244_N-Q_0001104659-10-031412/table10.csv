@@ -1,0 +1,85 @@
+"
+Counterparty
+","
+Notional
+  amount
+","
+Termination
+  date
+","
+Payments
+  made by the
+  Fund
+",CIK,Reporting Type,Report Year
+"
+Deutsche
+  Bank AG
+","
+9,680,000
+","
+12/20/12
+",0.6,0000886244,N-Q,10
+"
+Deutsche
+  Bank AG
+","
+24,000,000
+","
+06/20/13
+",3.25,0000886244,N-Q,10
+"
+Deutsche
+  Bank AG
+","
+33,000,000
+","
+06/20/13
+",3.25,0000886244,N-Q,10
+"
+Deutsche
+  Bank AG
+","
+7,000,000
+","
+06/20/14
+",5.0,0000886244,N-Q,10
+"
+Goldman
+  Sachs International
+","
+4,960,000
+","
+12/20/13
+",1.5,0000886244,N-Q,10
+"
+Goldman
+  Sachs International
+","
+5,000,000
+","
+06/20/14
+",5.0,0000886244,N-Q,10
+"
+Goldman
+  Sachs International
+","
+8,460,000
+","
+06/20/14
+",5.0,0000886244,N-Q,10
+"
+Merrill
+  Lynch International
+","
+24,000,000
+","
+06/20/13
+",3.25,0000886244,N-Q,10
+"
+Merrill
+  Lynch International
+","
+26,200,000
+","
+06/20/13
+",3.25,0000886244,N-Q,10

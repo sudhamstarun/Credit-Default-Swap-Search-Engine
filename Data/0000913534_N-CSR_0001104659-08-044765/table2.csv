@@ -1,0 +1,27 @@
+"
+SWAP COUNTERPARTY &REFERENCE OBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000'S)","
+INTERESTRATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)",CIK,Reporting Type,Report Year
+"
+Goldman Sachs InternationalDow Jones Index","
+Sell",800000,0.35,"
+June 20, 2012","
+(12,331",0000913534,N-CSR,08
+"
+Barclays Bank PlcDow Jones Index","
+Sell",700000,0.6,"
+December 20, 2012","
+12,316",0000913534,N-CSR,08
+"
+Citibank, N.A., New YorkTyco Electronics Ltd.","
+Buy",113000,0.43,"
+March 20, 2012","
+1,583",0000913534,N-CSR,08
+"
+Citibank, N.A., New YorkTyco Electronics Ltd.","
+Buy",50000,0.43,"
+March 20, 2012","
+698",0000913534,N-CSR,08

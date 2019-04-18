@@ -1,0 +1,92 @@
+"
+Counterparty
+","
+entity
+","
+date
+","
+rate
+","
+amount
+",CIK,Reporting Type,Report Year
+"
+    Morgan Stanley
+","
+    Home Depot, Inc.
+","
+    6/20/16
+",1.0,"
+    $15,500,000
+",0001413032,N-CSR,11
+"
+    JPMorgan
+","
+    Limited Brands, Inc.
+","
+    6/20/16
+",1.0,"
+    4,430,000
+",0001413032,N-CSR,11
+"
+    Morgan Stanley
+","
+    Toll Brothers, Inc.
+","
+    6/20/16
+",1.0,"
+    13,925,000
+",0001413032,N-CSR,11
+"
+    Barclays Capital
+","
+    Textron, Inc.
+","
+    9/20/16
+",1.0,"
+    8,905,000
+",0001413032,N-CSR,11
+"
+    Morgan Stanley
+","
+    Limited Brands, Inc.
+","
+    9/20/16
+",1.0,"
+    4,430,000
+",0001413032,N-CSR,11
+"
+    Morgan Stanley
+","
+    Toll Brothers, Inc.
+","
+    9/20/16
+",1.0,"
+    9,370,000
+",0001413032,N-CSR,11
+"
+    JPMorgan
+","
+    D.R. Horton, Inc.
+","
+    9/20/16
+",1.0,"
+    7,970,000
+",0001413032,N-CSR,11
+"
+    Morgan Stanley
+","
+    Home Depot, Inc.
+","
+    9/20/16
+",1.0,"
+    12,215,000
+",0001413032,N-CSR,11
+"
+    JPMorgan
+","
+    Morgan Stanley
+","
+    9/20/16
+",1.0,"
+    15,500,000
+",0001413032,N-CSR,11

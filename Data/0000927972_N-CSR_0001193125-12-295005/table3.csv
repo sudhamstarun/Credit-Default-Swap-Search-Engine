@@ -1,0 +1,15 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"     800,000",3/20/17,Barclays Bank PLC,Buy,(0.250,Kingdom of Sweden,(464,"12,622","12,158",0000927972,N-CSR,12
+"1,065,000",3/20/17,Goldman Sachs & Co.,Buy,(1.000,UK Treasury Bond,(862,"(18,113","(18,975",0000927972,N-CSR,12
+"10,675,000",6/20/17,Goldman Sachs & Co.,Buy,(1.000,CDX.NA.IG.18,"(39,534","15,089","(24,445",0000927972,N-CSR,12
+"2,300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(31,286","120,756","89,470",0000927972,N-CSR,12
+"3,130,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(58,227","179,984","121,757",0000927972,N-CSR,12
+"6,600,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(222,145","478,885","256,740",0000927972,N-CSR,12
+"2,600,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(87,367","188,507","101,140",0000927972,N-CSR,12
+"1,075,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(28,057","69,875","41,818",0000927972,N-CSR,12
+"3,200,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(35,529","160,009","124,480",0000927972,N-CSR,12
+"3,250,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(52,334","178,759","126,425",0000927972,N-CSR,12
+"1,500,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(91,650","150,000","58,350",0000927972,N-CSR,12
+"5,100,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(294,735","493,125","198,390",0000927972,N-CSR,12
+"1,650,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(35,503","99,688","64,185",0000927972,N-CSR,12
+"2,000,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1,"(17,200","95,000","77,800",0000927972,N-CSR,12

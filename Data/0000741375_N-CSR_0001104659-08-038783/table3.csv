@@ -1,0 +1,23 @@
+Swap Counterparty and Reference Obligation,"Buy/Sell
+  Protection","Notional
+  Amount
+  (000)","Pay/Receive
+  Fixed Rate","Termination
+  Date",CIK,Reporting Type,Report Year
+Bank of America,Buy,50000,1.57,3/20/18,0000741375,N-CSR,08
+Bank of America,Buy,70000,0.7,3/20/13,0000741375,N-CSR,08
+Bank of America,Buy,45000,0.82,3/20/18,0000741375,N-CSR,08
+Bank of America,Buy,65000,1.03,3/20/18,0000741375,N-CSR,08
+Bank of America,Buy,25000,1.08,3/20/18,0000741375,N-CSR,08
+Bank of America,Buy,65000,1.12,3/20/18,0000741375,N-CSR,08
+Bank of America,Buy,55000,0.8,3/20/18,0000741375,N-CSR,08
+Bank of America,Buy,220000,1.19,3/20/12,0000741375,N-CSR,08
+Bank of America,Buy,75000,1.25,3/20/13,0000741375,N-CSR,08
+Citigroup,Buy,45000,0.82,3/20/18,0000741375,N-CSR,08
+Citigroup,Buy,85000,0.62,3/20/13,0000741375,N-CSR,08
+Citigroup,Buy,50000,0.72,3/20/13,0000741375,N-CSR,08
+Citigroup,Buy,225000,0.43,3/20/12,0000741375,N-CSR,08
+Citigroup,Buy,430000,0.43,3/20/12,0000741375,N-CSR,08
+Credit Suisse,Buy,110000,1.0,3/20/15,0000741375,N-CSR,08
+Goldman Sachs,Buy,40000,0.5,3/20/18,0000741375,N-CSR,08
+Goldman Sachs,Buy,85000,3.05,3/20/13,0000741375,N-CSR,08

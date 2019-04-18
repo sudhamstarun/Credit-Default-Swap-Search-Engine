@@ -1,0 +1,22 @@
+Notional Amount,Expiration Date,Counterparty,"Receive
+  (Pay)",Annual Premium,"DeliverableOn
+  Default",Appreciation(Depreciation),CIK,Reporting Type,Report Year
+"50,00,000",04/02/07,Lehman Brothers,Receive,0.52,General Electric Capital Corp.,"12,423",0000772129,N-Q,07
+"30,00,000",4/17/2007,UBS AG,Receive,0.8,EOP Operating LP,"11,283",0000772129,N-Q,07
+"30,00,000",4/17/2007,UBS AG,Receive,0.47,"Goldman Sachs Group, Inc.","6,486",0000772129,N-Q,07
+"30,00,000",4/17/2007,Bear Stearns,Receive,1.28,National Rural Utilities Cooperative Finance Corp.,"18,832",0000772129,N-Q,07
+"1,00,00,000",12/20/2007,Citigroup,Receive,2.41,"AOL Time Warner, Inc.","2,88,739",0000772129,N-Q,07
+"50,00,000",6/20/2008,Lehman Brothers,Receive,0.5,"Dominion Resources, Inc.","35,984",0000772129,N-Q,07
+"50,00,000",6/20/2008,Deutsche Bank AG,Receive,0.48,Household Finance Corp.,"37,590",0000772129,N-Q,07
+"50,00,000",6/20/2008,Deutsche Bank AG,Receive,0.65,"Kraft Foods, Inc.","51,894",0000772129,N-Q,07
+"50,00,000",6/20/2008,Deutsche Bank AG,Receive,0.4,Norfolk Southern Corp.,"29,737",0000772129,N-Q,07
+"50,00,000",6/20/2008,Deutsche Bank AG,Receive,0.4,"Washington Mutual, Inc.","28,550",0000772129,N-Q,07
+"1,00,00,000",9/20/2008,Deutsche Bank AG,Receive,0.32,"American International Group, Inc.","55,274",0000772129,N-Q,07
+"1,00,00,000",12/20/2008,Lehman Brothers,Receive,0.27,Federal Home Loan Bank System,"53,550",0000772129,N-Q,07
+"50,00,000",5/20/2009,JP Morgan Chase Bank,Receive,1.13,United Mexican States,"1,02,138",0000772129,N-Q,07
+"50,00,000",6/20/2009,Citigroup,Receive,0.25,ConocoPhillips Co.,"22,596",0000772129,N-Q,07
+"50,00,000",6/20/2009,Barclays Bank PLC,Receive,0.91,Sprint Capital Corp.,"93,457",0000772129,N-Q,07
+"50,00,000",6/20/2009,Lehman Brothers,Receive,0.67,Wyeth Energy,"81,771",0000772129,N-Q,07
+"50,00,000",9/20/2009,UBS AG,Receive,0.59,Capital One Bank,"73,105",0000772129,N-Q,07
+"50,00,000",9/20/2009,Citigroup,Receive,0.3,"Coca-Cola Enterprises, Inc.","34,056",0000772129,N-Q,07
+"50,00,000",9/20/2009,Citigroup,Receive,0.69,"Comcast Cable Communications, Inc.","82,975",0000772129,N-Q,07

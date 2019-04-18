@@ -1,0 +1,10 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"100,000",12/20/13,Barclays Bank PLC,Sell***,1.000%,Berkshire Hathaway Inc. (PIMCO Rating: AA)**,(239,566,327,0000067160,N-CSR,13
+"1,600,000",6/20/15,Barclays Bank PLC,Sell***,5.000%,"CDX.EM.13  (PIMCO Rating: BA+),**","(86,269","133,850","47,581",0000067160,N-CSR,13
+"400,000",12/20/15,Barclays Bank PLC,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(1,475","(2,308","(3,783",0000067160,N-CSR,13
+"1,500,000",3/20/16,Barclays Bank PLC,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(10,961","(6,149","(17,110",0000067160,N-CSR,13
+"400,000",3/20/16,Barclays Bank PLC,Sell***,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"3,006","(1,930","1,076",0000067160,N-CSR,13
+"900,000",6/20/16,Barclays Bank PLC,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(10,743","(1,303","(12,046",0000067160,N-CSR,13
+"800,000",12/20/16,Barclays Bank PLC,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"5,153","(20,149","(14,996",0000067160,N-CSR,13
+"500,000",9/20/17,Barclays Bank PLC,Sell***,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,"2,595","(18,206","(15,611",0000067160,N-CSR,13
+"1,500,000",3/20/18,Barclays Bank PLC,Sell***,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"(19,829","4,377","(15,452",0000067160,N-CSR,13

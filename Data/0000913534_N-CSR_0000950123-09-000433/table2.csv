@@ -1,0 +1,33 @@
+"
+SWAP COUNTERPARTY & REFERENCE OBLIGATION
+","
+PROTECTION
+","
+Amount(000 S)
+","
+RATE
+","
+DATE
+","
+DEPRECIATION
+",CIK,Reporting Type,Report Year
+"
+    Goldman Sachs International
+    Dow Jones Index
+","
+    Sell
+",800000,0.35,"
+    June 20, 2012
+","
+    (41,150
+",0000913534,N-CSR,09
+"
+    Barclays Bank Plc 
+    Dow Jones Index
+","
+    Sell
+",700000,0.6,"
+    December 20, 2012
+","
+    (19,366
+",0000913534,N-CSR,09

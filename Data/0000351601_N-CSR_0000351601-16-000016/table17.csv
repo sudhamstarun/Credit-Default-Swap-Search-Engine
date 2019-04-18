@@ -1,0 +1,7 @@
+Reference Entity,Counterparty,Notional Amount,Fixed Rate,Date,CIK,Reporting Type,Report Year
+CMBX NA Index,Bank of America,775,0.5,01/17/47,0000351601,N-CSR,16
+CMBX NA Index,Credit Suisse,170,0.5,01/17/47,0000351601,N-CSR,16
+CMBX NA Index,Credit Suisse,360,0.5,10/17/57,0000351601,N-CSR,16
+CMBX NA Index,Credit Suisse,465,0.5,01/17/47,0000351601,N-CSR,16
+CMBX NA Index,Credit Suisse,1365,0.5,10/17/57,0000351601,N-CSR,16
+CMBX NA Index,Goldman Sachs,325,2.0,05/11/63,0000351601,N-CSR,16

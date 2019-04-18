@@ -1,0 +1,4 @@
+Counterparty,Referenced Entity,Buy/SellProtection,NotionalAmount,FixedRate,TerminationDate,UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+Goldman Sachs,BorgWarner Inc.,Buy,"125,000",0.26,6/20/12,(133,0001071336,N-Q,07
+Goldman Sachs,Ingersoll-Rand Company,Buy,"125,000",0.26,6/20/12,968,0001071336,N-Q,07
+Goldman Sachs,Computer Sciences Corporation,Buy,"125,000",0.67,6/20/12,263,0001071336,N-Q,07

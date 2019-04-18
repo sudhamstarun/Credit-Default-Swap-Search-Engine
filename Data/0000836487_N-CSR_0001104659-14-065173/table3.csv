@@ -1,0 +1,18 @@
+"
+Swap Counterparty and Reference Obligation","
+Buy/SellProtection","
+NotionalAmount(000)","
+Pay/ReceiveFixed Rate","
+TerminationDate","
+Payment(Received)(000)","
+Appreciation(Depreciation)(000)","
+Value(000)","
+Rating ofReferenceObligation ",CIK,Reporting Type,Report Year
+"
+Goldman Sachs InternationalAustralian Government",Buy,569000,1,9/20/19,(18000,(2000,(20000,AAA,0000836487,N-CSR,14
+"
+Goldman Sachs InternationalPeople's Republic of China",Buy,1426000,1,9/20/19,(14000,(3000,(17000,AA-,0000836487,N-CSR,14
+"
+Goldman Sachs InternationalAustralian Government",Buy,2548000,1,9/20/19,(81000,(8000,(89000,AAA,0000836487,N-CSR,14
+"
+JPMorgan Chase Bank NAPeople's Republic of China",Buy,3660000,1,9/20/19,(37000,(7000,(44000,AA-,0000836487,N-CSR,14

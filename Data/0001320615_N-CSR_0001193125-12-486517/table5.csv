@@ -1,0 +1,7 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,"MaximumPotentialAmount ofFuture 
+Paymentsby the FundUnder theContract",Receive(Pay)FixedRate,Deliverableon Default,UnrealizedAppreciation(Depreciation),Value,CIK,Reporting Type,Report Year
+4400000,03/20/2021,Goldman Sachs International,Sell,4400000,1.6,State of Connecticut (Moody s Rating: Aa2; S&P Rating: AA),60708,60708,0001320615,N-CSR,12
+400000,12/20/2016,Citibank N.A.,Buy,400000,(1.00,"Bank of America Corp., 6.25%, 04/15/12","(54,423",8970,0001320615,N-CSR,12
+900000,03/20/2016,Deutsche Bank AG,Buy,900000,(1.00,"Kinder Morgan, Inc., 6.50%, 09/01/12","(27,171",15023,0001320615,N-CSR,12
+1400000,03/20/2016,"Morgan Stanley Capital Services, Inc.",Buy,1400000,(1.00,"Kinder Morgan, Inc., 6.50%, 09/01/12","(43,726",23368,0001320615,N-CSR,12
+400000,12/20/2015,Deutsche Bank AG,Buy,400000,(1.00,"Starwood Hotels and Resorts, 6.75%, 05/15/18","(32,865","(4,061",0001320615,N-CSR,12

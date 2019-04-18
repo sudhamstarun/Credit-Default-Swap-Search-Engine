@@ -1,0 +1,274 @@
+"
+Counterparty
+","
+Reference Entity/Obligation
+","
+Buy/ Sell 
+Protection
+","
+(Pay)/ Receive Fixed Rate (%)
+","
+Termination Date
+","
+Notional Amount(2)
+","
+Fair Value(3) (USD)
+","
+Upfront Payments (Received)/ Paid
+","
+Change in Unrealized Appreciation/ (Depreciation) Prior Period (USD)
+","
+Change in Unrealized Appreciation/ (Depreciation) Current Period (USD)
+",CIK,Reporting Type,Report Year
+"
+Morgan Stanley Capital Services Inc.
+","
+BorgWarner Inc.
+","
+Buy
+",(1.00),"
+3/20/2015
+",57000,437,(816,40,1213.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Caterpillar Financial Services Corporation
+","
+Buy
+",(2.73),"
+12/20/2013
+",29500,"(1,365","(1,835",(2,472.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Credit Suisse (USA), Inc.
+","
+Buy
+",(0.33),"
+12/20/2014
+",81000,1556,141,(228,1643.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Federal Republic of Germany
+","
+Buy
+",(0.12),"
+9/20/2018
+",114000,7779,4324,(975,4430.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Federative Republic of Brazil
+","
+Buy
+",(1.00),"
+12/20/2015
+",130000,4160,523,(241,3878.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Kingdom of Spain
+","
+Buy
+",(0.40),"
+3/20/2018
+",31500,5467,5417,"(2,346",2397.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Kingdom of Sweeden
+","
+Buy
+",(0.69),"
+12/20/2015
+",42000,(245,(606,(235,596.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Lowe's Companies, Inc.
+","
+Buy
+",(1.25),"
+12/20/2013
+",126000,"(2,509","(3,403",200,694.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Masco Corp.
+","
+Buy
+",(1.00),"
+3/20/2015
+",57000,5222,2235,(415,3402.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+MBIA, Inc.
+","
+Buy
+",(4.80),"
+12/20/2012
+",(463,463,,,,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+National Rural Utilities Cooperative Finance Corp.
+","
+Buy
+",(1.00),"
+6/20/2014
+",98000,1107,384,(776,1499.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+National Rural Utilities Cooperative Finance Corp.
+","
+Buy
+",(1.00),"
+9/20/2014
+",32500,465,213,(260,512.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Nordstrom, Inc.
+","
+Buy
+",(1.00),"
+6/20/2014
+",100000,(626,"(1,065",(426,865.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Portuguese Republic
+","
+Buy
+",(0.45),"
+3/20/2018
+",269,(269,,,,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+ProLogis
+","
+Buy
+",(1.00),"
+12/20/2014
+",31500,1700,527,(917,2090.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+ProLogis
+","
+Buy
+",(1.00),"
+12/20/2014
+",31500,1700,527,(917,2090.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Republic of Italy
+","
+Buy
+",(0.48),"
+3/20/2018
+",21000,4355,2384,"(1,538",3509.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Quantas Airways Ltd
+","
+Buy
+",(1.00),"
+6/20/2015
+",(111,111,,,,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Simon Property Group, LP
+","
+Buy
+",(1.00),"
+12/20/2014
+",63000,784,(474,(634,1892.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Simon Property Group, LP
+","
+Buy
+",(1.00),"
+12/20/2014
+",63000,784,(474,(634,1892.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+The Dow Chemical Company
+","
+Buy
+",(1.50),"
+12/20/2013
+",21000,(141,(594,29,424.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+The Dow Chemical Company
+","
+Buy
+",(1.00),"
+6/20/2014
+",50000,539,(667,(21,1227.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+The Dow Chemical Company
+","
+Buy
+",(1.00),"
+6/20/2014
+",50000,539,(667,(21,1227.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+The Goldman Sachs Group, Inc.
+","
+Buy
+",(0.47),"
+12/20/2017
+",80000,12050,3976,(132,8206.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Wells Fargo & Company
+","
+Buy
+",(0.73),"
+3/20/2014
+",20500,297,13,(203,487.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Yum! Brands, Inc.
+","
+Buy
+",(2.30),"
+12/20/2013
+",59000,"(2,505","(3,256",182,569.0,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+Capital One Bank (USA), National Association
+","
+Buy
+",(1.00),"
+6/20/2016
+",100000,630,"(1,465",2095,,0001508782,N-CSR,11
+"
+Morgan Stanley Capital Services Inc.
+","
+People's Republic Of China
+","
+Buy
+",(1.00),"
+6/20/2016
+",100000,3777,"(1,057",4834,,0001508782,N-CSR,11

@@ -1,0 +1,4 @@
+ReferenceEntity/Obligation,TerminationDate,FixedRate,NotionalAmount(000)#(3),"ImpliedCreditSpread atApril 30,2012(4)",FairValue,UpfrontPremiumsPaid/(Received),UnrealizedAppreciation,Counterparty,CIK,Reporting Type,Report Year
+French Republic,03/20/13,0.25,200000,0.922,"(1,138","(2,137",$ 999,Morgan Stanley CapitalServices,0001070287,N-CSR,12
+Kingdom of Netherlands,03/20/13,0.25,200000,0.561,(497,(840,343,Morgan Stanley CapitalServices,0001070287,N-CSR,12
+Republic ofAustria,03/20/13,1.0,200000,0.732,711,(902,"1,613",Morgan Stanley CapitalServices,0001070287,N-CSR,12

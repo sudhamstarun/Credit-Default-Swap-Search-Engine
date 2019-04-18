@@ -1,0 +1,4 @@
+Underlying Instrument,Counterparty,ExpirationDate,"ImpliedCreditSpread
+atDecember 31,2015",NotionalAmount($)(e),FixedRate(%),Value($),UpfrontPremiumsPaid/(Received)($),UnrealizedAppreciation/(Depreciation)($),CIK,Reporting Type,Report Year
+"CDX North America Investment Grade Index Swap Agreement with JPMorgan Chase Bank, N.A., Series 25",JPMorgan Chase,12/20/20,0.88,"4,802,000",1.0,"25,310","39,107","(13,797",0001301708,N-CSR,16
+"iTraxx Crossover Swap Agreement with JPMorgan Chase Bank, N.A., Series 24",JPMorgan Chase,12/20/20,1.36,"2,074,269",5.0,"187,897","126,469","61,428",0001301708,N-CSR,16

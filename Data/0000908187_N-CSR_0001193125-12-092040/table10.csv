@@ -1,0 +1,4 @@
+Swap Counterparty/ ReferencedDebt Issuer,NotionalAmount(000s)(1),CreditSpread,TerminationDate,PaymentsReceived,MarketValue(2),UpfrontPremiumsPaid(Received),UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+MetLife,"3,500000",3.01,9/20/15,1.0,"(239,360","(235,194","(4,166",0000908187,N-CSR,12
+SLM,"1,700000",4.96,12/20/13,5.0,"4,548","146,950","(142,402",0000908187,N-CSR,12
+SLM,500000,4.96,12/20/13,5.0,"1,337","(78,750","80,087",0000908187,N-CSR,12

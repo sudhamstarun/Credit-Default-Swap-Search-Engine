@@ -1,0 +1,9 @@
+Reference Entity,Counterparty,Buy/SellProtection,(Pay)/ReceiveFixed Rate,ExpirationDate,ImpliedCreditSpead,UpfrontPremium Paid/(Received)(000 s),NotionalAmount(000 s),UnrealizedAppreciation/(Depreciation)(000 s),CIK,Reporting Type,Report Year
+"Markit CDX Emerging Markets Index, Series 17",Morgan Stanley Capital Services LLC,Sell,5.00%,6/17,2.752%,69000,"1,235000",24000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 18",Barclays Bank PLC,Sell,5.00%,12/17,2.784%,49000,500000,(7000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 18",HSBC Bank USA,Sell,5.00%,12/17,2.762%,69000,635000,(15000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 19",HSBC Bank USA,Sell,5.00%,6/18,2.849%,125000,"1,600000",18000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 20",Barclays Bank PLC,Sell,5.00%,12/18,2.734%,600000,"5,600000",(23000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 20","JPMorgan Chase Bank, N.A.",Sell,5.00%,12/18,2.734%,100000,"1,000000",nan000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 20",Goldman Sachs International,Sell,5.00%,12/18,2.734%,50000,500000,nan000,0000742212,N-CSR,14
+"Markit CDX Emerging Markets Index, Series 20",HSBC Bank USA,Sell,5.00%,12/18,2.734%,129000,"1,300000",nan000,0000742212,N-CSR,14

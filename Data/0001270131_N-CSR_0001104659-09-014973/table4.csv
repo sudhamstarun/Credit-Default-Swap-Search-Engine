@@ -1,0 +1,25 @@
+"SWAP COUNTERPARTY
+(REFERENCE ENTITY)","NOTIONAL
+  AMOUNT(2)","TERMINATION
+  DATE","IMPLIED
+  CREDIT
+  SPREAD AT
+  DECEMBER 31,
+  2008(3)","PERIODIC
+  PAYMENTS
+  RECEIVED BY
+  THE FUND ","MARKET
+  VALUE","UPFRONT
+  PREMIUMS
+  PAID/
+  (RECEIVED)","UNREALIZED
+  APPRECIATION/
+  (DEPRECIATION)",CIK,Reporting Type,Report Year
+"Barclay s Capital Inc.
+(MBIA Insurance Corp.
+  5.376%  due 10/6/10) ","$40,000",12/20/12,22.82%,"3.050 %
+  quarterly","$(20,396","$(20,396",,0001270131,N-CSR,09
+"Barclay s Capital Inc.
+(MBIA Insurance Corp.
+  5.376 % due 10/6/10) ","60,000",12/20/12,22.82%,"3.100 %
+  quarterly","(30,545","(30,545",,0001270131,N-CSR,09

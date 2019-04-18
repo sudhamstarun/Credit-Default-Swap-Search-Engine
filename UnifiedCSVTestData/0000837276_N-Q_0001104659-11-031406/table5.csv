@@ -1,0 +1,3 @@
+Counterparty,Reference Entity/Obligation,Protection,Fixed Rate (%),Date,Amount (3),Value (4),Paid/(Received),(Depreciation),CIK,Reporting Type,Report Year
+Credit   Suisse First Boston,ABX.HE.AAA.07-1,Sell,0.09,08/25/37,1940935,"(1,104,716)","(1,358,655)",253939.0,0000837276,N-Q,11
+Deutsche   Bank AG,CDX.NA.IG.9   Index (30-100% Tranche),Sell,0.76,12/20/12,1543198,18842,18842,,0000837276,N-Q,11

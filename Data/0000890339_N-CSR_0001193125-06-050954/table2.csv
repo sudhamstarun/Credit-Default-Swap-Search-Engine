@@ -1,0 +1,4 @@
+Counterparty,TerminationDate,NotionalAmount (000),FixedRate,Underlying Bond,Unrealized(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley & Co.(1),9/20/06,500000,1.7,"General Motors Acceptance Corp.,6.875%, due 8/28/12","(13,214",0000890339,N-CSR,06
+Bear Stearns(1),9/20/06,"1,300000",1.75,"General Motors Acceptance Corp.,6.875%, due 8/28/12","(33,902",0000890339,N-CSR,06
+Morgan Stanley & Co.(1),9/20/06,300000,1.8,"General Motors Acceptance Corp.,6.875%, due 08/28/12","(7,719",0000890339,N-CSR,06

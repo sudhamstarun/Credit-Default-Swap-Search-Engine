@@ -1,0 +1,14 @@
+Expiration,Counterparty,Reference Debt Obligation/Index,"Notional
+                        Amount","Fixed 
+                        Payments Made 
+                        by the Fund","Frequency
+                        of Payments
+                        Made","Unrealized 
+                        Gain (Loss)",CIK,Reporting Type,Report Year
+12/20/2012,UBS,"Dow Jones CDX, ",48350,3.75%,Quarterly,7031,0001210123,N-CSR,08
+06/20/2013,Lehman Brothers,"Pulte, 5.25%,",1995000,4.17%,Quarterly,"(130,977)",0001210123,N-CSR,08
+06/20/2013,Bank of America,"Dow Jones CDX,",1490000,5.00%,Quarterly,"(16,434)",0001210123,N-CSR,08
+06/20/2013,UBS,"Dow Jones CDX,",3480000,5.00%,Quarterly,"(7,036)",0001210123,N-CSR,08
+06/20/2013,Lehman Brothers,"Centex, 5.25%, 06/15/2015",1995000,5.12%,Quarterly,115614,0001210123,N-CSR,08
+12/13/2049,UBS,CMBX North America AAA Index,1000000,0.08%,Quarterly,115679,0001210123,N-CSR,08
+12/13/2049,Goldman Sachs,CMBX North America AJ Index,1015000,1.47%,Quarterly,105929,0001210123,N-CSR,08

@@ -1,0 +1,2 @@
+Counterparty,ReferenceEntity,ExpirationDate,PayFixedRate (%),NotionalAmount ($),MarketValue ($),UnamortizedPremium(Paid)Received ($),PeriodicPaymentsReceivable(Payable) ($),UnrealizedAppreciation($),UnrealizedDepreciation($),CIK,Reporting Type,Report Year
+Citigroup Global Markets Limited,Republic of Turkey,"December 20, 2015",1.0,"2,700,000","(13,077","(96,948","(5,400","(115,425",,0001352280,N-CSR,13

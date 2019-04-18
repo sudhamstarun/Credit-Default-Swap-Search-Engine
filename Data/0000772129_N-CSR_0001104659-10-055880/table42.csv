@@ -1,0 +1,18 @@
+"
+Notional Amount","
+ExpirationDate","
+Counterparty","
+Receive(Pay)^","
+AnnualPremium","
+ImpliedCreditSpread (1)","
+Deliverableon Default","
+MaximumPotentialAmount ofFuturePaymentsby the FundUnder theContract (2)","
+MarketValue",CIK,Reporting Type,Report Year
+"
+11,500,000","
+USD3/20/2013","
+Barclays ","
+(Pay)",0.61,1.48,"
+Health Care","
+NA","
+234,681",0000772129,N-CSR,10

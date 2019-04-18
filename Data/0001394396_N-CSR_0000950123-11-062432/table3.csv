@@ -1,0 +1,414 @@
+"
+Reference Entity
+","
+Counterparty
+","
+Amount(000 s omitted)
+","
+Fixed Rate*
+","
+Date
+",CIK,Reporting Type,Report Year
+"
+
+    Austria
+
+","
+    Barclays Bank PLC
+",200000,0.44,"
+    12/20/13
+",0001394396,N-CSR,11
+"
+
+    Austria
+
+","
+    Barclays Bank PLC
+",100000,1.42,"
+    3/20/14
+",0001394396,N-CSR,11
+"
+
+    Egypt
+
+","
+    Bank of America
+",100000,1.0,,0001394396,N-CSR,11
+"
+
+    Egypt
+
+","
+    Citigroup Global Markets
+",50000,1.0,"
+    6/20/20
+",0001394396,N-CSR,11
+"
+
+    Egypt
+
+","
+    Citigroup Global Markets
+",50000,1.0,"
+    6/20/20
+",0001394396,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+",150000,1.0,"
+    6/20/15
+",0001394396,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+",50000,1.0,"
+    6/20/15
+",0001394396,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+",50000,1.0,"
+    6/20/20
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Barclays Bank PLC
+",100000,1.0,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+",150000,3.3,"
+    9/20/14
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+",200000,1.0,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+",100000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+",100000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+",100000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+",100000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Malaysia
+
+","
+    Bank of America
+",100000,0.83,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Malaysia
+
+","
+    Barclays Bank PLC
+",200000,2.4,"
+    3/20/14
+",0001394396,N-CSR,11
+"
+
+    Malaysia
+
+","
+    Barclays Bank PLC
+",200000,0.82,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Malaysia
+
+","
+    Citigroup Global Markets
+",200000,2.45,"
+    3/20/14
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    Barclays Bank PLC
+",300000,1.7,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    Barclays Bank PLC
+",200000,1.84,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    Barclays Bank PLC
+",100000,1.85,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    Barclays Bank PLC
+",72000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    Citigroup Global Markets
+",100000,1.84,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    Deutsche Bank
+",100000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    JPMorgan Chase Bank
+",300000,1.69,"
+    12/20/14
+",0001394396,N-CSR,11
+"
+
+    Philippines
+
+","
+    JPMorgan Chase Bank
+",71000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Russia
+
+","
+    Citigroup Global Markets
+",100000,1.0,"
+    6/20/15
+",0001394396,N-CSR,11
+"
+
+    Russia
+
+","
+    Credit Suisse
+",100000,1.0,"
+    3/20/15
+",0001394396,N-CSR,11
+"
+
+    Russia
+
+","
+    Credit Suisse
+",100000,1.0,"
+    6/20/15
+",0001394396,N-CSR,11
+"
+
+    Russia
+
+","
+    Deutsche Bank
+",100000,1.0,"
+    6/20/15
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    Bank of America
+",200000,1.0,"
+    12/20/19
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    Barclays Bank PLC
+",200000,1.0,"
+    12/20/19
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    Citigroup Global Markets
+",100000,1.0,"
+    12/20/19
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    Credit Suisse
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    JPMorgan Chase Bank
+",100000,1.0,"
+    12/20/19
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    JPMorgan Chase Bank
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    JPMorgan Chase Bank
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    South Africa
+
+","
+    JPMorgan Chase Bank
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    Spain
+
+","
+    Barclays Bank PLC
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    Spain
+
+","
+    Citigroup Global Markets
+",200000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    Spain
+
+","
+    Citigroup Global Markets
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    Spain
+
+","
+    Deutsche Bank
+",200000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    Spain
+
+","
+    Deutsche Bank
+",100000,1.0,"
+    3/20/20
+",0001394396,N-CSR,11
+"
+
+    Thailand
+
+","
+    Barclays Bank PLC
+",200000,0.97,"
+    9/20/19
+",0001394396,N-CSR,11

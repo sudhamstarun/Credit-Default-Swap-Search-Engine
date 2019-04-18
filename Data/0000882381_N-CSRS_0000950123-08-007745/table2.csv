@@ -1,0 +1,21 @@
+SWAP COUNTERPARTY &REFERENCE OBLIGATION,BUY/SELLPROTECTION,NOTIONALAMOUNT(000 S),PAY/RECEIVEFIXED RATE,TERMINATIONDATE,UNREALIZEDAPPRECIATION(DEPRECIATION),CIK,Reporting Type,Report Year
+UBS AGAmerican Standard Inc.,Buy,140,     0.50  %,"March  20,  2013",45,0000882381,N-CSRS,08
+Goldman Sachs InternationalAmerican Standard Inc.,Buy,410,0.50,"March  20,  2013",133,0000882381,N-CSRS,08
+UBS AGAmerican Standard Inc.,Buy,430,0.60,"March  20,  2018",(36,0000882381,N-CSRS,08
+Credit Suisse InternationalArrow Electronics Inc.,Buy,300,1.00,"March  20,  2015","(4,326",0000882381,N-CSRS,08
+"Lehman Brothers Special Financing Inc.Arrow Electronics, Inc.",Buy,485,1.04,"March  20,  2013","(14,758",0000882381,N-CSRS,08
+"Credit Suisse InternationalArrow Electronics, Inc.",Buy,350,1.11,"March  20,  2013","(6,142",0000882381,N-CSRS,08
+Goldman Sachs InternationalAvalonbay Communities Inc.,Buy,710,3.05,"March  20,  2013","(50,977",0000882381,N-CSRS,08
+Merrill Lynch InternationalCarnival Corp.,Buy,225,1.50,"March  20,  2018","(7,311",0000882381,N-CSRS,08
+Merrill Lynch InternationalCarnival Corp.,Buy,360,1.57,"March  20,  2018","(20,570",0000882381,N-CSRS,08
+"Bank of America, N.A.Carnival Corp.",Buy,430,1.57,"March  20,  2018","(24,570",0000882381,N-CSRS,08
+Goldman Sachs InternationalCarnival Corp.,Buy,335,1.60,"March  20,  2018","(12,371",0000882381,N-CSRS,08
+Merrill Lynch InternationalCarnival Corp.,Buy,365,1.60,"March  20,  2018","(13,479",0000882381,N-CSRS,08
+Goldman Sachs InternationalCoca-Cola Enterprises Inc.,Buy,745,0.588,"March  20,  2013","(8,307",0000882381,N-CSRS,08
+Lehman Brothers Special Financing Inc.Coca-Cola Enterprises Inc.,Buy,655,0.64,"March  20,  2013","(8,850",0000882381,N-CSRS,08
+Goldman Sachs InternationalChubb Corp.,Buy,"1,150",0.10,"March  20,  2012","7,994",0000882381,N-CSRS,08
+Goldman Sachs InternationalDell Inc.,Buy,575,0.22,"March  20,  2012","4,703",0000882381,N-CSRS,08
+Goldman Sachs InternationalDow Jones Index,Sell,800,1.40,"December  20,  2012","40,741",0000882381,N-CSRS,08
+Merrill Lynch InternationalDow Jones Index,Sell,"1,200",1.40,"December  20,  2012","84,046",0000882381,N-CSRS,08
+Lehman Brothers Special Financing Inc.Dow Jones Index,Sell,"3,812",3.75,"December  20,  2012","(21,146",0000882381,N-CSRS,08
+"JPMorgan Chase Bank, N.A. New YorkEaton Corp.",Buy,125,0.60,"March  20,  2013",(283,0000882381,N-CSRS,08

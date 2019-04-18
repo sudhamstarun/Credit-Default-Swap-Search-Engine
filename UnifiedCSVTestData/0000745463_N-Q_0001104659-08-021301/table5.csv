@@ -1,0 +1,21 @@
+Counterparty,"Reference
+  Entity",Buy/Sell,"Notional
+  Amount
+  (000 s)
+  Omitted","Pay/Receive
+  Annual
+  Fixed Rate","Termination
+  Date","Net
+  Unrealized
+  Appreciation
+  (Depreciation)",CIK,Reporting Type,Report Year
+"Lehman
+  Brothers, Inc.","Turkey
+(Republic of)",Buy,$843000,1.45%,7/20/12,"15,200",0000745463,N-Q,08
+"Lehman
+  Brothers, Inc.","CDX.EM.8
+  *",Buy,"1,100000",1.75,12/20/12,"21,587",0000745463,N-Q,08
+"JP
+  Morgan",Greece,Buy,"4,000000",0.13,9/20/17,"132,234",0000745463,N-Q,08
+Barclays,"Turkey
+  (Republic of)",Buy,540000,2.12,1/20/13,"(1,926",0000745463,N-Q,08

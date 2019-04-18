@@ -1,0 +1,7 @@
+Swap Counterparty,Referenced Obligation,ReceiveBuy/SellProtection,FixedRate,ExpirationDate,NotionalAmount,UpfrontPremiumPaid(Received),Value ofContract,CIK,Reporting Type,Report Year
+Barclays Capital,"D.R. Horton, Inc.",Buy,1.0,06/20/16,"12,400,000","684,681",(344,0000773757,N-CSR,11
+Barclays Capital,"The Home Depot, Inc.",Buy,1.0,06/20/16,"13,815,000","(258,360","(1,844",0000773757,N-CSR,11
+Barclays Capital,"Toll Brothers, Inc.",Buy,1.0,06/20/16,"15,500,000","649,596","34,548",0000773757,N-CSR,11
+JPMorgan Chase,"D.R. Horton, Inc.",Buy,1.0,03/20/15,"5,500,000","240,020","(27,487",0000773757,N-CSR,11
+JPMorgan Chase,"Macy s, Inc.",Buy,1.0,06/20/16,"7,800,000","166,656",(217,0000773757,N-CSR,11
+Morgan Stanley,"Limited Brands, Inc.",Buy,1.0,06/20/16,"7,600,000","292,672","13,116",0000773757,N-CSR,11

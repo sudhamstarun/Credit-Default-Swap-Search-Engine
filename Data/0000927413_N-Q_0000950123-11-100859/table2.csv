@@ -1,0 +1,15 @@
+Counterparty,Date,Amount,Rate,Obligation,(Depreciation),CIK,Reporting Type,Report Year
+Barclays Bank PLC**,6/20/2016,4700000,5,Dow Jones CDX EM15 Index,"(294,363",0000927413,N-Q,11
+JPMorgan Chase Bank**,12/20/2015,100000,5,Dow Jones CDX EM14 Index,"(5,652",0000927413,N-Q,11
+"Morgan Stanley
+Capital Services,
+Inc.**",12/20/2015,200000,5,Dow Jones CDX EM14 Index,"(11,502",0000927413,N-Q,11
+Termination,Notional,Fixed,Reference Entity/,Unrealized Appreciation,,0000927413,N-Q,11
+Counterparty,Date,Amount,Rate,Obligation,(Depreciation),0000927413,N-Q,11
+Deutsche Bank AG**,6/20/2015,1000000,1,United Kingdom of Great Britain,247,0000927413,N-Q,11
+Royal Bank of Scotland PLC**,6/20/2015,500000,1,Federal Republic of Brazil,"(9,710",0000927413,N-Q,11
+Citibank NA**,6/20/2015,100000,0.25,Government of France,"(3,440",0000927413,N-Q,11
+Deutsche Bank AG**,6/20/2016,200000,1,Government of France,"(5,320",0000927413,N-Q,11
+Barclays Bank PLC**,12/20/2015,700000,0.25,"France (Govt of), 4.25%, due 04/25/19","(29,530",0000927413,N-Q,11
+Goldman Sachs International**,12/20/2015,500000,1,"Japan Govt-55, 2.00%, due 03/21/22","(15,390",0000927413,N-Q,11
+Credit Suisse International**,12/20/2015,600000,1,"United Kingdom Treasury, 4.25%, due 06/07/32","(6,950",0000927413,N-Q,11

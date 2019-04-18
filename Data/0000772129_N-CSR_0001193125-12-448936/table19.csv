@@ -1,0 +1,4 @@
+NotionalAmount,ExpirationDate,Counterparty,Receive(Pay) ^,AnnualPremium,ImpliedCreditSpread (1),ReferenceEntity,"MaximumPotentialAmount ofFuturePayments bythe FundUnder 
+theContract (2)",Net UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+"9,000,000",3/20/2014,Deutsche Bank AG,(Pay),1.70%,3.01,Republic of Italy,,"147,420",0000772129,N-CSR,12
+"6,000,000",3/20/2019,Deutsche Bank AG,Receive,1.66%,4.54,Republic of Italy,"6,000,000","(862,898",0000772129,N-CSR,12

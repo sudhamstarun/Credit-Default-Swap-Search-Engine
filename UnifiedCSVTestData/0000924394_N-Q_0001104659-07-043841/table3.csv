@@ -1,0 +1,26 @@
+"REFERENCE
+  OBLIGATION",PROTECTION,NOTIONAL AMOUNT(000 S),RATE,DATE,APPRECIATION(DEPRECIATION),CIK,Reporting Type,Report Year
+"Citibank, NA, New York
+  Tyco International",Buy,150000,0.43,"March 20, 2012",145,0000924394,N-Q,07
+"Citibank, NA, New York
+  Tyco International",Buy,75000,0.43,"March 20, 2012",73,0000924394,N-Q,07
+"Goldman Sachs International
+  Residential Capital",Buy,100000,2.0,"March 20, 2012","(1,604",0000924394,N-Q,07
+"Goldman Sachs International
+  Schubb Corp",Buy,120000,0.1,"March 20, 2012",124,0000924394,N-Q,07
+"Goldman Sachs International
+  Hartford Life Inc.",Buy,130000,0.12,"December 20, 2011",,0000924394,N-Q,07
+"Goldman Sachs International
+  Motorola, Inc.",Buy,50000,0.15,"December 20, 2011",563,0000924394,N-Q,07
+"Goldman Sachs International
+  Motorola, Inc.",Buy,90000,0.157,"December 20, 2011",987,0000924394,N-Q,07
+"Goldman Sachs International
+  Southwest Airlines",Buy,130000,0.22,"December 20, 2011",457,0000924394,N-Q,07
+"Goldman Sachs International
+  Union Pacific Corp.",Buy,60000,0.2,"December 20, 2011",745,0000924394,N-Q,07
+"Goldman Sachs International
+  Countrywide Home LN",Sell,60000,0.6,"March 20, 2012",(244,0000924394,N-Q,07
+"Goldman Sachs International
+  Countrywide Home LN",Sell,35000,0.66,"March 20, 2012",(51,0000924394,N-Q,07
+"Goldman Sachs International
+  Dell Inc.",Sell,60000,0.22,"March 20, 2012",15,0000924394,N-Q,07

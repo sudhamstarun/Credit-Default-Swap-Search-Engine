@@ -1,0 +1,394 @@
+"
+Counterparty
+","
+Reference
+    Entity
+","
+Protection
+","
+Rate
+","
+Date
+","
+Amount(000)
+","
+Payments
+","
+Value
+",CIK,Reporting Type,Report Year
+"
+
+    JP Morgan Chase Bank, N.A.
+
+","
+    The Pepsi Bottling Group, Inc.
+","
+    Buy
+",0.63,"
+    03/20/13
+","
+    220
+000","
+    (1,370
+",,0000791069,N-CSR,08
+"
+
+    Lehman Brothers Special Financing Inc.*
+
+","
+    Goodrich Corporation
+","
+    Buy
+",0.46,"
+    03/20/18
+","
+    125
+000","
+    1,920
+",,0000791069,N-CSR,08
+"
+
+    Merrill Lynch International
+
+","
+    Carnival Corporation
+","
+    Buy
+",1.6,"
+    03/20/18
+","
+    105
+000","
+    (1,548
+",,0000791069,N-CSR,08
+"
+
+    Merrill Lynch International
+
+","
+    Eaton Corporation
+","
+    Buy
+",0.92,"
+    03/20/18
+","
+    285
+000","
+    (600
+",,0000791069,N-CSR,08
+"
+
+    UBS AG Company
+
+","
+    Eli Lilly and
+","
+    Buy
+",0.3,"
+    03/20/13
+","
+    470
+000","
+    (1,874
+",,0000791069,N-CSR,08
+"
+
+    UBS AG 
+    Materials, Inc.
+
+","
+    Martin Marietta
+","
+    Buy
+",1.73,"
+    03/20/18
+","
+    195
+000","
+    6,738
+",,0000791069,N-CSR,08
+"
+
+    UBS AG 
+    Materials, Inc.
+
+","
+    Martin Marietta
+","
+    Buy
+",1.78,"
+    03/20/13
+","
+    290
+000","
+    4,148
+",,0000791069,N-CSR,08
+"
+
+    UBS AG Corporation
+
+","
+    Textron Financial
+","
+    Buy
+",1.01,"
+    03/20/13
+","
+    100
+000","
+    1,974
+",,0000791069,N-CSR,08
+"
+
+    UBS AG Corporation
+
+","
+    Textron Financial
+","
+    Buy
+",1.06,"
+    03/20/13
+","
+    310
+000","
+    5,249
+",,0000791069,N-CSR,08
+"
+
+    UBS AG
+
+","
+    Trane Inc.
+","
+    Buy
+",0.5,"
+    03/20/13
+","
+    335
+000","
+    (831
+",,0000791069,N-CSR,08
+"
+
+    UBS AG
+
+","
+    Trane Inc.
+","
+    Buy
+",0.6,"
+    03/20/18
+","
+    350
+000","
+    (735
+",,0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG 9
+","
+    Sell
+",0.6,"
+    12/20/12
+","
+    275
+000","
+    (7,837
+","
+    (9,287
+",0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG 9
+","
+    Sell
+",0.8,"
+    12/20/17
+","
+    595
+000","
+    (19,933
+","
+    (24,657
+",0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG 10
+","
+    Sell
+",1.55,"
+    06/20/13
+","
+    1,420
+000","
+    8,103
+","
+    8,333
+",0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG HVOL 9
+","
+    Sell
+",1.4,"
+    12/20/12
+","
+    570
+000","
+    (32,287
+","
+    (49,395
+",0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG HVOL 9
+","
+    Sell
+",1.4,"
+    12/20/12
+","
+    595
+000","
+    (32,989
+","
+    (51,561
+",0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG HVOL 9
+","
+    Sell
+",1.4,"
+    12/20/12
+","
+    595
+000","
+    (34,765
+","
+    (51,589
+",0000791069,N-CSR,08
+"
+
+    Goldman Sachs Capital Markets, L.P.
+
+","
+    Dow Jones 
+    CDX NA IG HVOL 9
+","
+    Sell
+",1.4,"
+    12/20/12
+","
+    1,285
+000","
+    (75,878
+","
+    (111,355
+",0000791069,N-CSR,08
+"
+
+    JP Morgan Chase Bank, N.A.
+
+","
+    Dow Jones CDX NA IG 9
+","
+    Sell
+",0.6,"
+    12/20/12
+","
+    1,445
+000","
+    (49,782
+","
+    (48,750
+",0000791069,N-CSR,08
+"
+
+    JP Morgan Chase Bank, N.A.
+
+","
+    SLM Corporation
+","
+    Sell
+",4.95,"
+    03/20/13
+","
+    175
+000","
+    (1,349
+",,0000791069,N-CSR,08
+"
+
+    Lehman Brothers Special Financing Inc.*
+
+","
+    Dow Jones 
+    CDX NA IG 9
+","
+    Sell
+",0.6,"
+    12/20/12
+","
+    505
+000","
+    (9,680
+","
+    (17,054
+",0000791069,N-CSR,08
+"
+
+    Lehman Brothers Special Financing Inc.*
+
+","
+    Dow Jones 
+    CDX NA IG 9
+","
+    Sell
+",0.6,"
+    12/20/12
+","
+    265
+000","
+    (5,817
+","
+    (8,949
+",0000791069,N-CSR,08
+"
+
+    Merrill Lynch International
+
+","
+    SLM Corporation
+","
+    Sell
+",5.0,"
+    03/20/13
+","
+    175
+000","
+    (1,032
+",,0000791069,N-CSR,08

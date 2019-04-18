@@ -1,0 +1,21 @@
+Counterparty,Reference Entity,Buy/Sell Protection,Fixed Rate,Expiration Date,Notional Amount(000),Upfront Payments,Fair Value,CIK,Reporting Type,Report Year
+"Bank of
+America, N.A.",Carnival Corp.,Buy,1.57,03/20/18,4145000,0,"(76,133",0000080832,N-Q,08
+"Bank of
+America, N.A.",Sealed Air Corp.,Buy,1.12,03/20/18,1540000,0,73625,0000080832,N-Q,08
+"Citibank, N.A.,
+New York",Eaton Corp.,Buy,0.82,03/20/18,2025000,0,51804,0000080832,N-Q,08
+"Goldman Sachs
+International",Eaton Corp.,Buy,0.97,03/20/18,4200000,0,61142,0000080832,N-Q,08
+"JPMorgan
+Chase Bank,
+N.A.","Nordstrom, Inc.",Buy,1.07,03/20/18,4875000,0,170810,0000080832,N-Q,08
+"Merrill Lynch
+International",Carnival Corp.,Buy,1.6,03/20/18,3590000,0,"(62,067",0000080832,N-Q,08
+"Goldman Sachs
+International",CDX.NA.IG.9,Sell,0.6,12/20/12,8390000,"(239,090","(358,387",0000080832,N-Q,08
+"Goldman Sachs
+International",CDX.NA.IG.9,Sell,0.8,12/20/17,15190000,"(508,884","(888,332",0000080832,N-Q,08
+"JPMorgan
+Chase Bank,
+N.A.",CDX.NA.IG.9,Sell,0.6,12/20/12,30575000,"(1,053,350","(1,306,042",0000080832,N-Q,08

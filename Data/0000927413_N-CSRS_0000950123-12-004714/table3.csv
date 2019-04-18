@@ -1,0 +1,13 @@
+Counterparty,Termination Date,Notional Amount(1),Fixed Rate,Reference Entity/Obligation,Fair value(2),CIK,Reporting Type,Report Year
+"Deutsche
+Bank
+AG**",6/20/15,1000000,1,United Kingdom of Great Britain,0.005,0000927413,N-CSRS,12
+"Royal Bank
+of Scotland
+PLC**",6/20/15,500000,1,Federal Republic of Brazil,0.012,0000927413,N-CSRS,12
+"Goldman
+Sachs
+International **",12/20/15,500000,1,"Japan Govt-55, 2.00%, due 03/21/22",0.012,0000927413,N-CSRS,12
+"Credit
+Suisse
+International **",12/20/15,600000,1,"United Kingdom Treasury, 4.25%, due 06/07/32",0.006,0000927413,N-CSRS,12

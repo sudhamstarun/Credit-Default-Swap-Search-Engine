@@ -1,0 +1,14 @@
+Counterparty,"
+ReferenceEntity/Obligation","
+Buy/SellProtection","
+(Pay)/ReceiveFixedRate (%)","
+TerminationDate","
+Notional Amount(2)","
+FairValue(3)","
+UpfrontPaymentsPaid/(Received)","
+UnrealizedAppreciation/(Depreciation)",CIK,Reporting Type,Report Year
+"
+Deutsche Bank AG",CDX.EM.19,Buy,(5.000,06/20/18,"1,036,000","(90,749","(79,471","(11,278",0000002646,N-CSR,14
+"
+Deutsche Bank AG",CDX.EM.19,Buy,(5.000,06/20/18,"300,000","(26,279","(22,473","(3,806",0000002646,N-CSR,14
+HSBC,CDX.EM.19,Buy,(5.000,06/20/18,"466,000","(40,819","(35,036","(5,783",0000002646,N-CSR,14

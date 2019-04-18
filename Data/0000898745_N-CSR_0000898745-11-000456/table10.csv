@@ -1,0 +1,35 @@
+(Issuer) ,Reference Entity ,Fixed Rate ,Date ,Amount(1) ,CIK,Reporting Type,Report Year
+Bank of America NA ,Japanese Government Bond ,1.00% ,03/20/2016 ,$300 ,0000898745,N-CSR,11
+Bank of America NA ,Berkshire Hathaway Finance ,1.00% ,03/20/2015 ,2200,0000898745,N-CSR,11
+Bank of America NA ,United Mexican States; 7.50%; ,1.00% ,03/20/2021 ,200,0000898745,N-CSR,11
+Bank of America NA ,MetLife Inc; 5.00%; ,1.00% ,12/20/2015 ,3900,0000898745,N-CSR,11
+Bank of America NA ,France (Govt of) OAT BD; ,0.25% ,03/20/2016 ,1400,0000898745,N-CSR,11
+Bank of America NA ,United Mexican States; 7.50%; ,1.00% ,09/20/2015 ,300,0000898745,N-CSR,11
+Bank of America NA ,UK GILT; 4.25%; 06/07/2032 ,1.00% ,06/20/2016 ,3200,0000898745,N-CSR,11
+Bank of America NA ,MetLife Inc; 5.00%; ,1.00% ,09/20/2015 ,9500,0000898745,N-CSR,11
+Bank of America NA ,Spanish Government Bond; ,1.00% ,03/20/2016 ,400,0000898745,N-CSR,11
+Bank of America NA ,Japanese Government Bond ,1.00% ,03/20/2016 ,200,0000898745,N-CSR,11
+Bank of America NA ,General Electric Capital Corp; ,1.00% ,12/20/2015 ,2000,0000898745,N-CSR,11
+Bank of America NA ,General Electric Capital Corp; ,1.00% ,12/20/2015 ,2100,0000898745,N-CSR,11
+Bank of America NA ,Credit Agricole (London); ,1.00% ,06/20/2016 ,2500,0000898745,N-CSR,11
+Barclays Bank PLC ,Republic of Brazil Global ,1.00% ,12/20/2015 ,11600,0000898745,N-CSR,11
+Barclays Bank PLC ,United Mexican States; 7.50%; ,1.00% ,03/20/2015 ,1500,0000898745,N-CSR,11
+Barclays Bank PLC ,Republic of Italy Global Bond; ,1.00% ,03/20/2016 ,1200,0000898745,N-CSR,11
+Barclays Bank PLC ,France (Govt of) OAT BD; ,0.25% ,03/20/2016 ,1000,0000898745,N-CSR,11
+Barclays Bank PLC ,Republic of Brazil Global Bond; ,1.00% ,06/20/2015 ,500,0000898745,N-CSR,11
+Barclays Bank PLC ,Merrill Lynch & Co; 5.00%; ,1.00% ,12/20/2011 ,6200,0000898745,N-CSR,11
+BNP Paribas S.A. ,U S Treasury Note; 4.88%; ,0.25% ,03/20/2016 ,6200,0000898745,N-CSR,11
+Citibank NA ,Spanish Government Bond; ,1.00% ,06/20/2016 ,4900,0000898745,N-CSR,11
+Citibank NA ,Russian Federation Bond; ,1.00% ,03/20/2016 ,11200,0000898745,N-CSR,11
+Citibank NA ,Republic of Brazil Global Bond; ,1.00% ,06/20/2016 ,5400,0000898745,N-CSR,11
+Citibank NA ,Republic of Brazil Global Bond; ,1.00% ,03/20/2021 ,9900,0000898745,N-CSR,11
+Citibank NA ,Republic of Brazil Global Bond; ,1.00% ,09/20/2015 ,1000,0000898745,N-CSR,11
+Citibank NA ,Republic of Brazil Global Bond; ,1.00% ,06/20/2015 ,1000,0000898745,N-CSR,11
+Citibank NA ,Berkshire Hathaway Finance ,1.00% ,03/20/2016 ,300,0000898745,N-CSR,11
+Citibank NA ,United Mexican States; 7.50%; ,1.00% ,03/20/2015 ,1500,0000898745,N-CSR,11
+Citibank NA ,United Mexican States; 7.50%; ,1.00% ,09/20/2015 ,700,0000898745,N-CSR,11
+Deutsche Bank AG ,UK GILT; 4.25%; 06/07/2032 ,1.00% ,12/20/2014 ,200,0000898745,N-CSR,11
+Deutsche Bank AG ,United Mexican States; 7.50%; ,1.00% ,03/20/2015 ,800,0000898745,N-CSR,11
+Deutsche Bank AG ,Republic of Italy Global Bond; ,1.00% ,06/20/2016 ,2300,0000898745,N-CSR,11
+Deutsche Bank AG ,Arab Republic of Egypt; 5.75%; ,1.00% ,03/20/2016 ,5500,0000898745,N-CSR,11
+Deutsche Bank AG ,United Mexican States; 7.50%; ,1.00% ,03/20/2016 ,5900,0000898745,N-CSR,11

@@ -1,0 +1,3 @@
+Reference Entity,Counterparty,TerminationDate,Buy/SellProtection1,NotionalAmount(000)2,(Pay)/ReceiveFixedRate3,UpfrontPremiumsReceived/(Paid),Value,UnrealizedAppreciation/Depreciation4,CIK,Reporting Type,Report Year
+"Federal Republic of Brazil12.25%, due 3/6/30",Citigroup,3/20/2019,Buy,"945,424000",1.0,"(42,299,679","42,030,051","(269,628",0001469192,N-CSR,14
+"Republic of South Africa5.50%, due 3/9/20",Citigroup,3/20/2019,Buy,"236,356000",1.0,"(12,070,782","11,729,036","(341,746",0001469192,N-CSR,14

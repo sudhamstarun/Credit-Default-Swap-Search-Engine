@@ -1,0 +1,24 @@
+Counterparty,ReferenceEntity,ExpirationDate,PayFixedRate (%),NotionalAmount ($),MarketValue ($),UnamortizedPremium(Paid)Received ($),PeriodicPaymentsReceivable(Payable) ($),UnrealizedAppreciation($),UnrealizedDepreciation($),CIK,Reporting Type,Report Year
+Morgan Stanley,"Barclays Bank, PLC",6/20/2018,1.0,"7,230,000","(57,302","(176,370","(14,259","(247,931",,0000773757,N-CSRS,14
+JPMorgan,"Citigroup, Inc.",6/20/2018,1.0,"6,265,000","(76,350","(20,555","(12,356","(109,261",,0000773757,N-CSRS,14
+Citibank,"MarriottInternational, Inc.",6/20/2018,1.0,"5,260,000","(142,977","104,748","(10,374","(48,603",,0000773757,N-CSRS,14
+Citibank,H.J. HeinzCompany,9/20/2018,1.0,"2,970,000","21,152","(85,984","(5,857","(70,689",,0000773757,N-CSRS,14
+Goldman Sachs International,"Home Depot, Inc.",9/20/2018,1.0,"6,055,000","(207,006","162,534","(11,942","(56,414",,0000773757,N-CSRS,14
+Barclays,Morgan Stanley,9/20/2018,1.0,"2,745,000","(22,095","(94,674","(5,414","(122,183",,0000773757,N-CSRS,14
+Citibank,Morgan Stanley,9/20/2018,1.0,"4,120,000","(33,162","(148,693","(8,124","(189,979",,0000773757,N-CSRS,14
+Citibank,Nucor Corp.,9/20/2018,1.0,"2,645,000","(61,806","17,225","(5,217","(49,798",,0000773757,N-CSRS,14
+Goldman Sachs International,Nucor Corp.,9/20/2018,1.0,"1,060,000","(24,769","8,286","(2,090","(18,573",,0000773757,N-CSRS,14
+Barclays,Telecom Italia SPA,9/20/2018,1.0,"1,080,000","45,725","(96,611","(2,130","(53,016",,0000773757,N-CSRS,14
+Goldman Sachs International,Bank ofAmerica Corp.,12/20/2018,1.0,"11,600,000","(173,709","74,560","(22,878","(122,027",,0000773757,N-CSRS,14
+Citibank,CDX EmergingMarkets Index 20-V1,12/20/2018,5.0,"3,665,000","(314,075","236,553","(36,141","(113,663",,0000773757,N-CSRS,14
+Goldman Sachs International,CDX EmergingMarkets Index 20-V1,12/20/2018,5.0,"6,735,000","(577,161","502,198","(66,415","(141,378",,0000773757,N-CSRS,14
+Morgan Stanley*,CDX NorthAmericaInvestment Grade 21-V1,12/20/2018,1.0,"7,900,000","(36,529","(15,581","(52,110",,,0000773757,N-CSRS,14
+Morgan Stanley*,CDX NorthAmericaInvestment Grade 21-V1,12/20/2018,5.0,"63,875,000","(945,587","(629,878","(1,575,465",,,0000773757,N-CSRS,14
+Goldman Sachs International,"Citigroup, Inc.",12/20/2018,1.0,"6,065,000","(60,261","47,395","(11,961","(24,827",,0000773757,N-CSRS,14
+Barclays,"D.R. Horton, Inc.",12/20/2018,1.0,"1,155,000","22,396","(50,578","(2,278","(30,460",,0000773757,N-CSRS,14
+JPMorgan,"D.R. Horton, Inc.",12/20/2018,1.0,"10,420,000","202,048","(447,714","(20,551","(266,217",,0000773757,N-CSRS,14
+Morgan Stanley,"Goldman Sachs Group, Inc.",12/20/2018,1.0,"7,065,000","(37,146","(13,934","(51,080",,,0000773757,N-CSRS,14
+Goldman Sachs International,H.J. Heinz Company,12/20/2018,1.0,"5,360,000","63,721","(138,541","(10,571","(85,391",,0000773757,N-CSRS,14
+Barclays,"Limited Brands, Inc.",12/20/2018,1.0,"6,050,000","190,621","(202,991","(11,932","(24,302",,0000773757,N-CSRS,14
+Goldman Sachs International,"Toll Brothers, Inc.",12/20/2018,1.0,"13,510,000","249,905","(578,721","(26,645","(355,461",,0000773757,N-CSRS,14
+Goldman Sachs International,"Home Depot, Inc.",3/20/2019,1.0,"10,475,000","(378,259","360,920","(20,659","(37,998",,0000773757,N-CSRS,14

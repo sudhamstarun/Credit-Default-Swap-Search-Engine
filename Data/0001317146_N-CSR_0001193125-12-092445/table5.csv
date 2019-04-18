@@ -1,0 +1,23 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"775,000",6/20/16,Credit Suisse Securities LLC,Buy,(0.580%,"Marriott International, Inc.","22,073",-,"22,073",0001317146,N-CSR,12
+"199,716",7/25/45,Credit Suisse Securities LLC,Sell ,0.180%,ABX.HE.AAA.06-1 (Babson Rating: A-) ,(678,"(26,962","(27,640",0001317146,N-CSR,12
+"4,850,000",6/20/16,Goldman Sachs & Co.,Buy,(1.000%,CDX.NA.IG.16,"(2,533","40,104","37,571",0001317146,N-CSR,12
+"275,000",9/20/16,Goldman Sachs & Co.,Buy,(0.250%,Kingdom of Sweden,"1,709","4,337","6,046",0001317146,N-CSR,12
+"400,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"1,120","19,000","20,120",0001317146,N-CSR,12
+"850,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,253,"42,502","42,755",0001317146,N-CSR,12
+"1,100,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(7,923","63,253","55,330",0001317146,N-CSR,12
+"3,100,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(68,829","224,759","155,930",0001317146,N-CSR,12
+"950,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(9,611","57,396","47,785",0001317146,N-CSR,12
+"365,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(5,365","23,725","18,360",0001317146,N-CSR,12
+"3,145,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(145,900","304,094","158,194",0001317146,N-CSR,12
+"925,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(45,973","92,500","46,527",0001317146,N-CSR,12
+"2,300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(10,816","126,506","115,690",0001317146,N-CSR,12
+"300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,(661,"15,751","15,090",0001317146,N-CSR,12
+"1,350,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(29,974","97,879","67,905",0001317146,N-CSR,12
+"1,660,000",12/20/16,Bank of America N.A.,Buy,(0.250%,Kingdom of Denmark,"14,575","68,149","82,724",0001317146,N-CSR,12
+"2,400,000",9/20/16,Barclays Bank PLC,Buy,(0.250%,Kingdom of Sweden,"13,716","39,050","52,766",0001317146,N-CSR,12
+"1,125,000",6/20/16,Credit Suisse Securities LLC,Buy,(0.580%,"Marriott International, Inc","32,041",-,"32,041",0001317146,N-CSR,12
+"765,579",7/25/45,Credit Suisse Securities LLC,Sell ,0.180%,ABX.HE.AAA.06-1(Babson Rating: A-) ,"(2,599","(103,357","(105,956",0001317146,N-CSR,12
+"19,250,000",6/20/16,Goldman Sachs & Co.,Buy,(1.000%,CDX.NA.IG.16,"(10,053","159,177","149,124",0001317146,N-CSR,12
+"1,100,000",9/20/16,Goldman Sachs & Co.,Buy,(0.250%,Kingdom of Sweden,"6,837","17,347","24,184",0001317146,N-CSR,12
+"4,800,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(22,573","264,013","241,440",0001317146,N-CSR,12

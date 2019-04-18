@@ -1,0 +1,5 @@
+Swap Counterparty and   Reference Obligation,Buy/Sell   Protection,Notional   Amount   (000),Pay/Receive   Fixed Rate,Termination   Date,Upfront   Payment   Paid   (Received)   (000),Unrealized   Appreciation   (Depreciation)   (000),Value   (000),Credit   Rating of   Reference   Obligation ,CIK,Reporting Type,Report Year
+"Quest   Diagnostics, Inc.",Buy,995000,1.00,3/20/19,19000,(37000,(18000,BBB+,0000741375,N-Q,17
+CMBX.NA.BB.60,Sell,230000,5.00,5/11/63,(32000,(31000,NR000,,0000741375,N-Q,17
+CMBX.NA.BB.60,Sell,286000,5.00,5/11/63,(41000,(37000,NR000,,0000741375,N-Q,17
+"1,511",(21,(65000,(86,,nan000,nan000,nan000,,0000741375,N-Q,17

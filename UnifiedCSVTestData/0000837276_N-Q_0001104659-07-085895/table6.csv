@@ -1,0 +1,59 @@
+Counterparty,Reference Entity/Obligation,Protection,Fixed Rate (%),Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Credit Suisse International,"Abitibi-Consolidated 8.375%, 04/01/15",Sell,0.65,03/20/08,2000000,"(82,531)",0000837276,N-Q,07
+Barclays Bank PLC,"Allied Waste N.A. 7.375%, 04/15/14",Sell,2.03,06/20/12,500000,"(12,950)",0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Allied Waste N.A. 7.375%, 04/15/14",Buy,(1.120),06/20/10,1500000,25935,0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Allied Waste N.A. 7.375%, 04/15/14",Sell,2.02,06/20/12,1000000,"(26,300)",0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Aramark Corp. 8.500%, 02/01/15",Sell,2.68,09/20/12,150000,"(5,222)",0000837276,N-Q,07
+Barclays Bank PLC,CDX.NA.HY.8 Index (25-35% Tranche),Sell,3.223,06/20/12,4650000,285190,0000837276,N-Q,07
+"Citibank N.A., New York",CDX.NA.HY.8 Index (25-35% Tranche),Sell,2.105,06/20/12,900000,12981,0000837276,N-Q,07
+"Citibank N.A., New York",CDX.NA.HY.8 Index (25-35% Tranche),Sell,2.088,06/20/12,200000,2742,0000837276,N-Q,07
+Deutsche Bank AG,CDX.NA.HY.8 Index (25-35% Tranche),Sell,3.3,06/20/12,2000000,129213,0000837276,N-Q,07
+Merrill Lynch International,CDX.NA.HY.8 Index (25-35% Tranche),Sell,2.127,06/20/12,400000,6139,0000837276,N-Q,07
+Merrill Lynch International,CDX.NA.HY.8 Index (25-35% Tranche),Sell,1.847,06/20/12,750000,2692,0000837276,N-Q,07
+Merrill Lynch International,CDX.NA.HY.8 Index (25-35% Tranche),Sell,1.833,06/20/12,750000,2251,0000837276,N-Q,07
+Merrill Lynch International,CDX.NA.HY.8 Index (25-35% Tranche),Sell,3.553,06/20/12,5000000,376156,0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,CDX.NA.HY.8 Index (25-35% Tranche),Sell,2.11,06/20/12,1400000,20487,0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"Celestica Inc. 7.625%, 07/01/13",Sell,4.25,09/20/12,500000,"(4,741)",0000837276,N-Q,07
+"Citibank N.A., New York","Chesapeake Energy Corp. 6.875%, 01/15/16",Sell,1.03,06/20/12,500000,"(1,322)",0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"Chesapeake Energy Corp. 6.875%, 01/15/16",Sell,1.09,06/20/12,1000000,(153),0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"Chesapeake Energy Corp. 6.875%, 01/15/16",Sell,1.11,06/20/12,1000000,677,0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Chesapeake Energy Corp. 6.875%, 01/15/16",Sell,1.11,06/20/12,1500000,1016,0000837276,N-Q,07
+Barclays Bank PLC,"Community Health Systems Inc. 8.875%, 07/15/15",Sell,2.85,09/20/12,1300000,"(36,497)",0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"CSC Holdings Inc. 7.625%, 07/15/18",Sell,2.52,09/20/12,2000000,"(75,544)",0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,Dow Jones CDX NA.HY.7 Index,Buy,(3.250),12/20/11,4625000,20430,0000837276,N-Q,07
+"Citibank N.A., New York","Dynergy Holdings Inc. 6.875%, 04/01/11",Sell,2.57,09/20/12,150000,"(4,554)",0000837276,N-Q,07
+Barclays Bank PLC,"Federative Republic of Brazil 12.250%, 03/06/30",Sell,0.9,02/20/12,4000000,23209,0000837276,N-Q,07
+Credit Suisse International,"Ford Motor Credit Co. 7.000%, 10/01/13",Sell,1.45,12/20/08,4000000,"(64,162)",0000837276,N-Q,07
+"Citibank N.A., New York","Forest Oil Corp. 7.750%, 05/01/14",Sell,1.93,09/20/12,500000,2601,0000837276,N-Q,07
+Credit Suisse International,"Forest Oil Corp. 7.750%, 05/01/14",Sell,1.61,06/20/12,1000000,"(6,087)",0000837276,N-Q,07
+Goldman Sachs International,"Forest Oil Corp. 7.750%, 05/01/14",Sell,1.65,06/20/12,500000,"(2,232)",0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"Forest Oil Corp. 7.750%, 05/01/14",Sell,1.75,06/20/12,300000,(122),0000837276,N-Q,07
+"Citibank N.A., New York","Freescale Semiconductor, Inc. 8.875%, 12/15/14",Sell,3.5,06/20/12,500000,"(25,739)",0000837276,N-Q,07
+Goldman Sachs International,"Freescale Semiconductor, Inc. 8.875%, 12/15/14",Buy,(2.080),06/20/10,3000000,82580,0000837276,N-Q,07
+Goldman Sachs International,"Freescale Semiconductor, Inc. 8.875%, 12/15/14",Sell,3.38,06/20/12,3000000,"(168,065)",0000837276,N-Q,07
+"JPMorgan Chase Bank, N.A.",Gazprom Multiple Obligations,Sell,0.77,02/20/12,3000000,"(25,030)",0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,Gazprom Multiple Obligations,Sell,1.05,04/20/11,3000000,12600,0000837276,N-Q,07
+"Citibank N.A., New York","General Motors 7.125%, 7/15/13",Sell,7.1,09/20/12,4000000,333578,0000837276,N-Q,07
+"Citibank N.A., New York","Georgia-Pacific Corp. 8.125%, 05/15/11",Buy,(1.070),06/20/10,1500000,18988,0000837276,N-Q,07
+"Citibank N.A., New York","Georgia-Pacific Corp. 8.125%, 05/15/11",Sell,1.82,06/20/12,1000000,"(40,727)",0000837276,N-Q,07
+Merrill Lynch International,"Georgia-Pacific Corp. 8.125%, 05/15/11",Sell,1.8,06/20/12,500000,"(22,104)",0000837276,N-Q,07
+"Citibank N.A., New York","GMAC LLC 6.875%, 08/28/12",Sell,2,06/20/12,3000000,"(121,492)",0000837276,N-Q,07
+Deutsche Bank AG,"GMAC LLC 6.875%, 08/28/12",Sell,1.025,03/20/12,5000000,"(375,438)",0000837276,N-Q,07
+Deutsche Bank AG,"GMAC LLC 6.875%, 08/28/12",Sell,6.15,09/20/12,500000,49556,0000837276,N-Q,07
+Goldman Sachs International,"GMAC LLC 6.875%, 08/28/12",Sell,6.7,09/20/12,2800000,331778,0000837276,N-Q,07
+"HSBC Bank USA, N.A.","Naftogaz of Ukraine 8.125%, 09/30/09",Sell,3,04/20/08,2000000,26446,0000837276,N-Q,07
+"Citibank N.A., New York","Nortel Networks 4.250%, 09/01/08",Sell,2.05,06/20/11,1500000,"(63,230)",0000837276,N-Q,07
+"Citibank N.A., New York","Nortel Networks 4.250%, 09/01/08",Sell,2.4,06/20/12,1000000,"(61,328)",0000837276,N-Q,07
+"Citibank N.A., New York","Nortel Networks 4.250%, 09/01/08",Sell,2.6,09/20/12,1100000,"(68,372)",0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"Nortel Networks 4.250%, 09/01/08",Buy,(1.520),06/20/10,1500000,48516,0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Nortel Networks 4.250%, 09/01/08",Sell,2.63,09/20/12,1100000,"(67,051)",0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"NRG Energy Inc. 7.250%, 02/01/14",Sell,0.75,03/20/08,2600000,4218,0000837276,N-Q,07
+"Barclays Bank PLC, London",OJSC Russian Agricultural Bank Multiple Obligations,Sell,0.76,02/20/09,2000000,"(18,219)",0000837276,N-Q,07
+"Barclays Bank PLC, London",OJSC Russian Agricultural Bank Multiple Obligations,Sell,0.74,03/20/09,1500000,"(16,031)",0000837276,N-Q,07
+Credit Suisse International,"Pride International Inc. 7.375%, 07/15/14",Sell,1.95,09/20/12,500000,6286,0000837276,N-Q,07
+Lehman Brothers Special Financing Inc.,"Pride International Inc. 7.375%, 07/15/14",Sell,1.75,06/20/12,500000,2881,0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Pride International Inc. 7.375%, 07/15/14",Sell,1.96,09/20/12,900000,11701,0000837276,N-Q,07
+Morgan Stanley Capital Services Inc.,"Russian Federation 5.000% Step, 03/31/30",Sell,0.245,06/20/08,200000,(361),0000837276,N-Q,07
+Credit Suisse International,"Sanmina-Sci Corp. 8.125%, 03/01/16",Sell,4.22,09/20/12,350000,"(17,231)",0000837276,N-Q,07
+"Citibank N.A., New York","Sungard Data Systems Inc. 9.125%, 08/15/13",Sell,2.92,09/20/12,1500000,"(10,819)",0000837276,N-Q,07
+The Royal Bank of Scotland PLC,"The Republic of Indonesia 6.750%, 03/10/14",Sell,1.1,03/20/12,2000000,"(12,387)",0000837276,N-Q,07

@@ -1,0 +1,6 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"5,000,000",6/20/16,BarclaysBank PLC,Buy,(1.000%,CDX.NA.IG.16,"4,237","34,496","38,733",0001317146,N-CSR,12
+"1,000,000",9/20/16,BarclaysBank PLC,Buy,(0.250%,Kingdom of Sweden,"5,715","16,271","21,986",0001317146,N-CSR,12
+"6,000,000",10/12/52,BarclaysBank PLC,Buy,(0.100%,CMBX.NA.AAA.1,"136,800","165,000","301,800",0001317146,N-CSR,12
+"5,000,000",10/12/52,BarclaysBank PLC,Buy,(0.100%,CMBX.NA.AAA.1,"(36,014","287,514","251,500",0001317146,N-CSR,12
+"2,500,000",10/12/52,BarclaysBank PLC,Buy,(0.100%,CMBX.NA.AAA.1,"(49,257","175,007","125,750",0001317146,N-CSR,12

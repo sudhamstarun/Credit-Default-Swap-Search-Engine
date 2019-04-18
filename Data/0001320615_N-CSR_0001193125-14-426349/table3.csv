@@ -1,0 +1,2 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,MaximumPotential Amountof FuturePayments Underthe Contract,Receive(Pay)FixedRate,Deliverableon Default,UnrealizedAppreciation(Depreciation),Value,CIK,Reporting Type,Report Year
+"2,970,000",6/20/19,JPMorgan Chase N.A.,Buy,"2,970,000",(5.00,CDX.NA.HY.22.,"24,826","(179,709",0001320615,N-CSR,14

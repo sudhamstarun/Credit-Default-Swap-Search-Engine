@@ -1,0 +1,3 @@
+Counterparty,ReferenceObligation,(Pay)/ReceiveFixed Rate,ExpirationDate,ImpliedCreditSpread^,NotionalValue( ),UnamortizedUp FrontPremiumPaid/(Received),MarketValue,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Barclays Bank PLC,"CDX.EM* Series 25, 5-Year",1.00%,6/20/2021,3.03,"1,000,000","(89,525","(91,341","(1,816",0000052136,N-CSR,16
+"Citibank, N.A.",5-Year,1.00%,6/20/2021,3.03,"3,700,000","(295,732","(337,963","(42,231",0000052136,N-CSR,16

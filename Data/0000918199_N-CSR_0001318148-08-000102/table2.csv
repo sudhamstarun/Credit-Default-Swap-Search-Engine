@@ -1,0 +1,67 @@
+"
+Credit Default SwapCounterparty
+
+","
+Reference Entity
+
+","
+Buy/Sell
+
+","
+Pay/ReceiveFixed Rate
+
+","
+ExpirationDate
+
+","
+NotionalAmount
+
+","
+UnrealizedAppreciation/(Depreciation)
+
+",CIK,Reporting Type,Report Year
+"
+JP Morgan Chase
+","
+Republic of Hungary
+","
+Buy
+","
+0.300%
+","
+11/20/2011
+","
+$1,500,000
+","
+$  8,786
+",0000918199,N-CSR,08
+"
+Lehman Brothers 
+","
+Government of Brazil
+","
+Buy
+","
+0.980%
+","
+10/20/2012
+","
+$5,700,000
+","
+$(9,501
+",0000918199,N-CSR,08
+"
+Barclays 
+","
+Government of Brazil
+","
+Buy
+","
+0.990%
+","
+10/20/2012
+","
+$2,850,000
+","
+$(6,000
+",0000918199,N-CSR,08

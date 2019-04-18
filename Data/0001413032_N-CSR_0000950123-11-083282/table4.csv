@@ -1,0 +1,38 @@
+"
+Counterparty
+","
+entity
+","
+date
+","
+rate
+","
+amount
+",CIK,Reporting Type,Report Year
+"
+    Barclays Capital
+","
+    Marriott International, Inc.
+","
+    9/20/16
+",1.0,"
+    $8,235,000
+",0001413032,N-CSR,11
+"
+    Barclays Capital
+","
+    Toll Brothers, Inc.
+","
+    6/20/16
+",1.0,"
+    15,510,000
+",0001413032,N-CSR,11
+"
+    JPMorgan
+","
+    D.R. Horton, Inc.
+","
+    6/20/16
+",1.0,"
+    15,510,000
+",0001413032,N-CSR,11

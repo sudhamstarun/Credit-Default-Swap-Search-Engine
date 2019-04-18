@@ -1,0 +1,3 @@
+NotionalAmount,ExpirationDate,Counterparty,Receive(Pay) ^,AnnualPremium,ImpliedCreditSpread (1),Reference Entity,Maximum Potential,NetUnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+"40,000,000",12/20/2015,BCLY,(Pay),1.00%,0.14%,CDX.NA.IG.19,,"(530,246",0000772129,N-CSR,14
+"25,000,000",12/20/2022,BCLY,Receive,1.00%,0.90%,CDX.NA.IG.19,"25,000,000","241,267",0000772129,N-CSR,14

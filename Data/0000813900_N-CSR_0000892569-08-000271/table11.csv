@@ -1,0 +1,15 @@
+Counterparty,Referenced Obligation,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Goldman Sachs,American International Group Inc 5.600% due 10/18/16 6,Sell,0.055%,03/20/08,"$25,000,000","($32,617",0000813900,N-CSR,08
+UBS,The Goldman Sachs Group Inc 6.600% due 01/15/12 6,Sell,0.170%,09/20/08,16400000,"(68,358",0000813900,N-CSR,08
+UBS,Morgan Stanley 6.600% due 04/01/12 6,Sell,0.190%,09/20/08,16300000,"(107,003",0000813900,N-CSR,08
+Lehman Brothers,Johnson & Johnson 3.800% due 05/15/13 6,Buy,(0.110%),12/20/08,7900000,"(4,098",0000813900,N-CSR,08
+Lehman Brothers,The Home Depot Inc 5.375% due 04/01/06 6,Buy,(0.120%),12/20/08,7900000,34527,0000813900,N-CSR,08
+Bank of America,E.I. du Pont de Nemours Co 6.875% due 10/15/09 6,Buy,(0.130%),12/20/08,7200000,"(3,282",0000813900,N-CSR,08
+Barclays,Wal-Mart Stores Inc 6.875% due 08/10/09 6,Buy,(0.140%),12/20/08,800000,(442,0000813900,N-CSR,08
+Citigroup,Wal-Mart Stores Inc 3.375% due 10/01/08 6,Buy,(0.140%),12/20/08,12600000,"(6,964",0000813900,N-CSR,08
+Lehman Brothers,Wal-Mart Stores Inc 6.875% due 08/10/09 6,Buy,(0.140%),12/20/08,400000,(221,0000813900,N-CSR,08
+Credit Suisse,Wal-Mart Stores Inc 4.550% due 05/01/13 6,Buy,(0.150%),12/20/08,1300000,(844,0000813900,N-CSR,08
+Barclays,Eli Lilly & Co 6.000% due 03/15/12 6,Buy,(0.160%),12/20/08,8700000,"(10,262",0000813900,N-CSR,08
+Morgan Stanley,Emerson Electric Co 4.625% due 10/15/12 6,Buy,(0.210%),12/20/08,6000000,"(7,181",0000813900,N-CSR,08
+Merrill Lynch,Gannett Co Inc 6.375% due 04/01/12 6,Buy,(0.220%),12/20/08,2200000,4256,0000813900,N-CSR,08
+Lehman Brothers,Costco Wholesale Corp 5.500% due 03/15/07 6,Buy,(0.240%),12/20/08,1700000,"(3,271",0000813900,N-CSR,08

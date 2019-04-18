@@ -1,0 +1,6 @@
+Issuer/Index,ReceiveFixed Rate,Counterparty,Expiration,CreditRating1,NotionalAmount,MarketValue,PremiumsPaid(Received),UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+"Time Warner Cable, Inc.",1.0,Credit Suisse International,3/20/19,BBB,"2,565","(96,043","(132,013","35,970",0000844779,N-CSR,14
+"Time Warner Cable, Inc.",1.0,JPMorgan Chase Bank N.A.,3/20/19,BBB,"5,130","(248,887","(225,244","(23,643",0000844779,N-CSR,14
+Republic of France,0.25,Barclays Bank PLC,6/20/23,AA,"4,035","(233,725","(292,948","59,223",0000844779,N-CSR,14
+Republic of France,0.25,Citibank N.A.,6/20/23,AA,"4,350","(251,971","(333,523","81,552",0000844779,N-CSR,14
+Republic of France,0.25,JPMorgan Chase Bank N.A.,6/20/23,AA,"4,350","(251,970","(309,905","57,935",0000844779,N-CSR,14

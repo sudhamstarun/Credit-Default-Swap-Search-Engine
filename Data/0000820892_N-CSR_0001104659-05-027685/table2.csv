@@ -1,0 +1,22 @@
+"
+Counterparty","
+ReferenceEntity","
+Buy/SellProtection","
+Pay/ReceiveFixed Rate","
+ExpirationDate","
+NotionalAmount","
+UnrealizedDepreciation(000)",CIK,Reporting Type,Report Year
+"
+Citigroup","
+Dow JonesCDX Em2","
+Sell",2.6,"
+12/20/09","
+2,000,000","
+(38000",0000820892,N-CSR,05
+"
+Citigroup","
+Dow JonesCDX IG Hvol3","
+Sell",1.05,"
+3/20/10","
+3,000,000","
+(13000",0000820892,N-CSR,05

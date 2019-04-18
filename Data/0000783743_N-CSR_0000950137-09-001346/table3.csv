@@ -1,0 +1,40 @@
+"
+Counterparty
+","
+Entity
+","
+Protection
+","
+Rate
+","
+Date
+","
+Amount(000)
+",CIK,Reporting Type,Report Year
+"
+
+    Barclays Bank PLC
+
+","
+    CDX.NA.IG.9
+","
+    Sell
+",0.6,"
+12/20/12
+","
+    1,171
+000",0000783743,N-CSR,09
+"
+
+    Goldman Sachs
+    International
+
+","
+    CDX.NA.IG.8
+","
+    Sell
+",0.35,"
+06/20/12
+","
+    1,366
+000",0000783743,N-CSR,09

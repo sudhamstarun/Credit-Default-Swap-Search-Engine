@@ -1,0 +1,19 @@
+Counterparty,"
+ReferenceEntity","
+ExpirationDate","
+ReceiveFixedRate (%)","
+ImpliedCreditSpread (%)*","
+NotionalCurrency","
+NotionalAmount","
+MarketValue ($)","
+Premium Paid ($)","
+Premium Received ($)",CIK,Reporting Type,Report Year
+"
+Barclays  ","
+Cds: (cdx.em.26.v1)",12/20/2021,1,2.66,"(48,500,000","(3,656,699","(2,829,638",97000,"(730,061",0000773757,N-CSR,17
+"
+Barclays        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(16,000,000","(1,206,334","(1,185,601","(20,733",,0000773757,N-CSR,17
+"
+Credit Suisse        ","
+Markit CDX Emerging Markets Index, Series 26",12/20/2021,1,2.66,"(1,500,000","(113,094","(92,152",3000,"(17,942",0000773757,N-CSR,17

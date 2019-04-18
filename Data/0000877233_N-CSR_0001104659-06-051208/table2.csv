@@ -1,0 +1,10 @@
+Description,Termination Date,Notional Amount,CIK,Reporting Type,Report Year
+"Dow Jones CDX.NA.IG.6
+  Receive $2,446,000 upon event of default and pay 0.40%
+  Counterparty: UBS AG",06/20/11,"$2,446,000",0000877233,N-CSR,06
+"Dow Jones CDX.NA.HY.6 
+  Receive $322,000 upon event of default and pay 3.450%
+  Counterparty: UBS AG",06/20/11,"$  322,000",0000877233,N-CSR,06
+"Georgia Pacific 
+  Pay $42,000 upon event of default and receive 3.550%
+  Counterparty: Citigroup",12/20/10,"$    42,000",0000877233,N-CSR,06

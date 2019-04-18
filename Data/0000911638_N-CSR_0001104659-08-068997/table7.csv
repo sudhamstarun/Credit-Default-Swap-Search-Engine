@@ -1,0 +1,49 @@
+"
+SWAP
+  COUNTERPARTY
+(REFERENCE ENTITY)
+","
+NOTIONAL
+  AMOUNT
+","
+TERMINATION
+  DATE
+","
+PERIODIC
+  PAYMENTS
+  MADE BY
+  THE FUND*
+",CIK,Reporting Type,Report Year
+"
+Barclay s
+  Capital Inc. (CDX North America Investment
+  Grade High Volatility Index #8)
+","
+$12,600,000
+","
+6/20/12
+","
+0.750% quarterly
+",0000911638,N-CSR,08
+"
+Barclay s
+  Capital Inc. (CDX North America Investment
+  Grade High Volatility Index #10)
+","
+300,000
+","
+6/20/13
+","
+3.500% quarterly
+",0000911638,N-CSR,08
+"
+Barclay s
+  Capital Inc. (CDX North America Investment
+  Grade High Volatility Index #10)
+","
+100,000
+","
+6/20/13
+","
+3.500% quarterly
+",0000911638,N-CSR,08

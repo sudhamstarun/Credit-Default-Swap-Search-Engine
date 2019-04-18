@@ -1,0 +1,4 @@
+Counterparty,Reference   Entity/Obligation,Buy/Sell   Protection,(Pay)/   Receive   Fixed   Rate (%),Termination   Date,Notional Amount(2),Fair   Value(3),Upfront   Payments   Paid/   (Received),Unrealized   Appreciation/   (Depreciation),CIK,Reporting Type,Report Year
+Deutsche   Bank AG,CDX.EM.19 Index,Buy,(5.000,06/20/18,2306000,"(183,866","(251,846",67980,0000846799,N-CSR,13
+"Citigroup, Inc.","Citigroup, Inc.",Buy,(5.000,06/20/18,2631000,"(209,780","(288,630",78850,0000846799,N-CSR,13
+Deutsche   Bank AG,Republic of Turkey,Buy,(1.000,06/20/18,215000,8606,4148,4458,0000846799,N-CSR,13

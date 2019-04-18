@@ -1,0 +1,9 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"2,300,000",6/20/17,BarclaysBank PLC,Buy,(1.000%,CDX.NA.IG.18 ,"(53,304","21,727","(31,577",0001317146,N-CSRS,13
+"775,000",6/20/16,Credit Suisse International,Buy,(0.580%,"Marriott International, Inc.","(3,744","(3,744",,0001317146,N-CSRS,13
+"4,850,000",6/20/17,Goldman Sachs International,Buy,(1.000%,CDX.NA.IG.18 ,"(73,443","6,855","(66,588",0001317146,N-CSRS,13
+"2,200,000",12/20/17,JP Morgan Chase Bank,Buy,(1.000%,CDX.NA.IG.19 ,"(32,376","9,495","(22,881",0001317146,N-CSRS,13
+"24,500,000",6/20/17,Barclays Bank PLC,Buy,(1.000%,CDX.NA.IG.18 ,"(567,811","231,443","(336,368",0001317146,N-CSRS,13
+"1,125,000",6/20/16,Credit Suisse International,Buy,(0.580%,"Marriott International, Inc.","(5,434","(5,434",,0001317146,N-CSRS,13
+"19,250,000",6/20/17,Goldman Sachs International,Buy,(1.000%,CDX.NA.IG.18 ,"(291,497","27,209","(264,288",0001317146,N-CSRS,13
+"11,700,000",12/20/17,JP Morgan Chase Bank,Buy,(1.000%,CDX.NA.IG.19 ,"(172,180","50,492","(121,688",0001317146,N-CSRS,13

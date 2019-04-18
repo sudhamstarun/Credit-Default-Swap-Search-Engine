@@ -1,0 +1,4 @@
+Reference Entity,Counterparty,Interest Rate,BorrowingDate,Maturity Date,AmountBorrowed,Payable for ReverseRepurchaseAgreements,CIK,Reporting Type,Report Year
+"Iceland Foods, Ltd.","Credit Suisse Securities, Ltd.",1.50%,12/19/14,Open,"400,000 GBP"," 506,501",0000742212,N-CSR,15
+"Vale Overseas, Ltd.","Barclays Capital, Inc.",2.00%,4/22/15,Open,"400,000 USD","401,556",0000742212,N-CSR,15
+"Vale Overseas, Ltd.","Credit Suisse Securities, Ltd.",1.50%,4/15/15,Open,"700,000 USD","702,246",0000742212,N-CSR,15

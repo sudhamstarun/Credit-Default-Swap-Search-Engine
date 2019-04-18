@@ -1,0 +1,12 @@
+Reference Entity,Counterparty,Buy/Sell Credit Protection,Notional Amount(000 s),Receive Fixed Rate,Payment Termination Date,CIK,Reporting Type,Report Year
+"Expedia, Inc.",Citibank NA,Sell,17320000,1.0,3/20/17,0000850134,N-CSRS,12
+GATX Corp.,UBS AG,Sell,16760000,1.0,3/20/17,0000850134,N-CSRS,12
+Halliburton Co.,Credit Suisse International,Buy,16760000,1.0,3/20/17,0000850134,N-CSRS,12
+Istanbul Bond Co. SA for Finansbank AS,"Morgan Stanley Capital Services, Inc.",Sell,15590000,1.3,3/24/13,0000850134,N-CSRS,12
+"Macy’s, Inc.",Credit Suisse International,Sell,17090000,1.0,3/20/17,0000850134,N-CSRS,12
+"Nabors Industries, Inc.",Credit Suisse International,Buy,17090000,1.0,3/20/17,0000850134,N-CSRS,12
+Russian Federation,Goldman Sachs Bank USA,Buy,54140000,1.0,6/20/17,0000850134,N-CSRS,12
+SLM Corp.,Bank of America NA,Sell,16760000,5.0,3/20/17,0000850134,N-CSRS,12
+"The Gap, Inc.",Bank of America NA,Sell,17320000,1.0,3/20/17,0000850134,N-CSRS,12
+Turkey (Republic of),Goldman Sachs Bank USA,Sell,54140000,1.0,6/20/17,0000850134,N-CSRS,12
+United Mexican States,HSBC Bank USA NA,Sell,3010000,1.0,6/20/17,0000850134,N-CSRS,12

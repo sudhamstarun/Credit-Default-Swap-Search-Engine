@@ -1,0 +1,8 @@
+Clearing House,Referenced Entity,"
+Buy/SellProtection (7)","
+CurrentCreditSpread (8)","
+NotionalAmount","
+Fixed Rate(Annualized)","
+TerminationDate",Value,"
+UnrealizedAppreciation(Depreciation)",CIK,Reporting Type,Report Year
+Citigroup,Markit CDX NA HY21 Index,Sell,3.05,"2,000,000",5.0,12/20/18,"173,833","31,957",0001359816,N-CSR,14

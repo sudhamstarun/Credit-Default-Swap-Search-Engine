@@ -1,0 +1,4 @@
+Counterparty,Date,Amount(1),Rate,Obligation,value(2),(Received),(Depreciation),CIK,Reporting Type,Report Year
+Barclays Bank PLC**,6/20/16,4700000,5,Dow Jones CDX EM15 Index,393476,539739,"(146,263",0000927413,N-CSR,12
+JPMorgan Chase Bank**,12/20/15,100000,5,Dow Jones CDX EM14 Index,7804,10897,"(3,093",0000927413,N-CSR,12
+"Morgan Stanley Capital Services, Inc.**",12/20/15,200000,5,Dow Jones CDX EM14 Index,15609,21981,"(6,372",0000927413,N-CSR,12

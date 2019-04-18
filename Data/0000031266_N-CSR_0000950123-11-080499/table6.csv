@@ -1,0 +1,168 @@
+"
+Reference Entity
+","
+Counterparty
+","
+Amount(000 s omitted)
+","
+Fixed Rate**
+","
+Date
+",CIK,Reporting Type,Report Year
+"
+
+    France
+
+","
+    Credit Suisse
+","
+    13,000
+000",0.25,"
+    6/20/16
+",0000031266,N-CSR,11
+"
+
+    Germany
+
+","
+    Citibank NA
+","
+    1,200
+000",0.25,"
+    9/20/15
+",0000031266,N-CSR,11
+"
+
+    Germany
+
+","
+    Citibank NA
+","
+    1,200
+000",0.25,"
+    12/20/15
+",0000031266,N-CSR,11
+"
+
+    Germany
+
+","
+    Citibank NA
+","
+    2,500
+000",0.25,"
+    12/20/15
+",0000031266,N-CSR,11
+"
+
+    Germany
+
+","
+    Citibank NA
+","
+    4,100
+000",0.25,"
+    3/20/16
+",0000031266,N-CSR,11
+"
+
+    Germany
+
+","
+    Credit Suisse
+","
+    11,000
+000",0.25,"
+    6/20/16
+",0000031266,N-CSR,11
+"
+
+    Spain
+
+","
+    Citibank NA
+","
+    2,500
+000",1.0,"
+    9/20/16
+",0000031266,N-CSR,11
+"
+
+    Spain
+
+","
+    Credit Suisse
+","
+    4,000
+000",1.0,"
+    6/20/16
+",0000031266,N-CSR,11
+"
+
+    Spain
+
+","
+    Credit Suisse
+","
+    12,000
+000",1.0,"
+    9/20/16
+",0000031266,N-CSR,11
+"
+
+    Venezuela
+
+","
+    Citibank NA
+","
+    1,000
+000",5.0,"
+    6/20/16
+",0000031266,N-CSR,11
+"
+
+    Venezuela
+
+","
+    Merrill Lynch International
+","
+    1,500
+000",5.0,"
+    6/20/13
+",0000031266,N-CSR,11
+"
+
+    Markit CDX Emerging
+    Markets Index
+
+","
+    Citibank NA
+","
+    3,000
+000",5.0,"
+    6/20/16
+",0000031266,N-CSR,11
+"
+
+    Markit CDX Emerging
+    Markets Index
+
+","
+    Citibank NA
+","
+    5,000
+000",5.0,"
+    6/20/16
+",0000031266,N-CSR,11
+"
+
+    Markit CDX Emerging
+    Markets Index
+
+","
+    Citibank NA
+","
+    7,500
+000",5.0,"
+    6/20/16
+",0000031266,N-CSR,11

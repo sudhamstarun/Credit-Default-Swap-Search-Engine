@@ -1,0 +1,9 @@
+Counterparty,      ,Swap Referenced Obligation,"              
+    ",Notional Value,"              
+    .1",Payments,"              
+    .2",Date,"              
+    .3",(Depreciation),CIK,Reporting Type,Report Year
+BCLY,CDX.NA.HY.18,"2,000,000",5.00%,6/20/17,"87,945",,,,,,0000809821,N-CSR,12
+GSC,CDX.NA.HY.18,"5,500,000",5.00%,6/20/17,"245,288",,,,,,0000809821,N-CSR,12
+JPMC,CDX.NA.HY.18,"3,000,000",5.00%,6/20/17,"137,543",,,,,,0000809821,N-CSR,12
+MSC,CDX.NA.HY.18,"6,000,000",5.00%,6/20/17,"65,087",,,,,,0000809821,N-CSR,12

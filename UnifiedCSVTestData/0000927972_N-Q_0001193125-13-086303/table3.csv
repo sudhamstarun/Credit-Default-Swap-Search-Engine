@@ -1,0 +1,17 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"9,200,000",6/20/17,Barclays Bank PLC,Buy,(1.000,CDX.NA.IG.18 ,"(135,252","86,909","(48,343",0000927972,N-Q,13
+"10,675,000",6/20/17,Goldman Sachs & Co.,Buy,(1.000,CDX.NA.IG.18 ,"(71,182","15,089","(56,093",0000927972,N-Q,13
+"1,065,601",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1 ,"(47,952","69,264","21,312",0000927972,N-Q,13
+"1,189,508",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1 ,"(35,689","59,479","23,790",0000927972,N-Q,13
+"158,601",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1 ,"(8,327","11,499","3,172",0000927972,N-Q,13
+"2,081,640",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1 ,"(159,643","201,276","41,633",0000927972,N-Q,13
+"1,982,514",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1 ,"(54,519","94,169","39,650",0000927972,N-Q,13
+"4,900,000",12/20/17,JP Morgan Chase Bank,Buy,(1.000,CDX.NA.IG.19 ,"(28,278","21,146","(7,132",0000927972,N-Q,13
+"35,620,000",6/20/17,Barclays Bank PLC,Buy,(1.000,CDX.NA.IG.18 ,"(523,659","336,489","(187,170",0000927972,N-Q,13
+"4,020,000",6/20/16,Credit Suisse Securities LLC,Buy,(0.580,"Marriott International, Inc.","4,545",-,"4,545",0000927972,N-Q,13
+"30,500,000",6/20/17,Goldman Sachs & Co,Buy,(1.000,CDX.NA.IG.18 ,"(203,378","43,111","(160,267",0000927972,N-Q,13
+"9,218,690",10/12/52,Goldman Sachs & Co,Buy,(0.100,CMBX.NA.AAA.1 ,"(322,680","507,054","184,374",0000927972,N-Q,13
+"3,572,986",10/12/52,Goldman Sachs & Co,Buy,(0.100,CMBX.NA.AAA.1 ,"(133,997","205,457","71,460",0000927972,N-Q,13
+"4,440,831",10/12/52,Goldman Sachs & Co,Buy,(0.100,CMBX.NA.AAA.1 ,"(340,572","429,389","88,817",0000927972,N-Q,13
+"2,478,142",10/12/52,Goldman Sachs & Co.,Buy,(0.100,CMBX.NA.AAA.1 ,"(111,516","161,079","49,563",0000927972,N-Q,13
+"4,138,498",10/12/52,Goldman Sachs & Co,Buy,(0.100,CMBX.NA.AAA.1 ,"(113,809","196,579","82,770",0000927972,N-Q,13

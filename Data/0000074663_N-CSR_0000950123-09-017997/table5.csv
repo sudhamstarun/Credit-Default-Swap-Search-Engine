@@ -1,0 +1,87 @@
+"
+Counterparty
+","
+Reference Entity
+","
+Rating*
+","
+Notional Amount
+","
+Rate
+","
+Date
+","
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+    Bank of America
+","
+    First Data Corp.
+","
+    Caa1/B-
+","
+    3,475
+",3.2,"
+    12/20/09
+","
+    (121,623
+",0000074663,N-CSR,09
+"
+
+    Citigroup, Inc. 
+
+","
+    First Data Corp.
+","
+    Caa1/B-
+","
+    6,950
+",3.2,"
+    12/20/09
+","
+    (243,246
+",0000074663,N-CSR,09
+"
+
+    Citigroup, Inc.
+
+","
+    First Data Corp.
+","
+    Caa1/B-
+","
+    6,950
+",3.55,"
+    12/20/09
+","
+    (225,307
+",0000074663,N-CSR,09
+"
+
+    Citigroup, Inc.
+
+","
+    First Data Corp.
+","
+    Caa1/B-
+","
+    10,440
+",5.0,"
+    12/20/10
+","
+    529,930
+",0000074663,N-CSR,09
+"
+    JPMorgan
+    Chase Bank
+","
+    Ford Motor Corp.
+","
+    Caa1/CCC+
+","
+    6,800
+",5.0,"
+    3/20/10
+","
+    368,408
+",0000074663,N-CSR,09

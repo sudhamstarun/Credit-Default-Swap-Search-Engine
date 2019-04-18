@@ -1,0 +1,193 @@
+"
+SWAP COUNTERPARTY & REFERENCE OBLIGATION
+","
+PROTECTION
+","
+AMOUNT(000 S)
+","
+RATE
+","
+DATE
+","
+(DEPRECIATION)
+",CIK,Reporting Type,Report Year
+"
+    Credit Suisse International
+    Arrow Electronics, Inc.
+","
+    Buy
+",280000,1.0,"
+    March 20, 2015
+","
+    (4,678
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Avalonbay Communities Inc.
+","
+    Buy
+",95000,3.05,"
+    March 20, 2013
+","
+    (4,458
+",0000932843,N-CSR,08
+"
+    Merrill Lynch International 
+    Carnival Corp.
+","
+    Buy
+",115000,1.57,"
+    March 20, 2018
+","
+    (1,742
+",0000932843,N-CSR,08
+"
+    Merrill Lynch International
+    Carnival Corp.
+","
+    Buy
+",100000,1.6,"
+    March 20, 2018
+","
+    (1,535
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Coca-Cola Enterprises Inc.
+","
+    Buy
+",390000,0.588,"
+    March 20, 2013
+","
+    (2,673
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Chubb Corp.
+","
+    Buy
+",300000,0.1,"
+    March 20, 2012
+","
+    4,271
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Dell Inc.
+","
+    Buy
+",330000,0.22,"
+    March 20, 2012
+","
+    4,246
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Dow Jones Index
+","
+    Sell
+",235000,0.6,"
+    December 20, 2012
+","
+    (313
+",0000932843,N-CSR,08
+"
+    JPMorgan Chase Bank N.A. New York
+    Dow Jones Index
+","
+    Sell
+",760000,0.6,"
+    December 20, 2012
+","
+    3,511
+",0000932843,N-CSR,08
+"
+    Lehman Brothers Special Financing Inc.
+    Dow Jones Index
+","
+    Sell
+",230000,0.6,"
+    December 20, 2012
+","
+    (1,813
+",0000932843,N-CSR,08
+"
+    Lehman Brothers Special Financing Inc.
+    Dow Jones Index
+","
+    Sell
+",465000,0.6,"
+    December 20, 2012
+","
+    (4,958
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Dow Jones Index
+","
+    Sell
+",400000,0.8,"
+    December 20, 2012
+","
+    1,468
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Dow Jones Index
+","
+    Sell
+",505000,1.55,"
+    June 20, 2013
+","
+    1,979
+",0000932843,N-CSR,08
+"
+    Citibank, N.A., New York
+    Eaton Corp.
+","
+    Buy
+",110000,0.82,"
+    March 20, 2018
+","
+    302
+",0000932843,N-CSR,08
+"
+    Merrill Lynch International
+    Eaton Corp.
+","
+    Buy
+",145000,0.92,"
+    March 20, 2018
+","
+    (696
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Eaton Corp.
+","
+    Buy
+",120000,0.97,"
+    March 20, 2018
+","
+    (1,029
+",0000932843,N-CSR,08
+"
+    UBS AG
+    Eli Lilly & Co.
+","
+    Buy
+",315000,0.3,"
+    March 20, 2013
+","
+    (1,372
+",0000932843,N-CSR,08
+"
+    Goldman Sachs International
+    Eli Lilly & Co.
+","
+    Buy
+",80000,0.33,"
+    March 20, 2013
+","
+    (451
+",0000932843,N-CSR,08

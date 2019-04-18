@@ -1,0 +1,13 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"800,000",6/20/16,Credit Suisse Securities LLC,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(9,544","(1,164","(10,708",0000067160,N-CSR,13
+"200,000",9/20/17,Credit Suisse Securities LLC,Sell***,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,946,"(7,190","(6,244",0000067160,N-CSR,13
+"1,300,000",12/20/14,Goldman Sachs & Co.,Sell***,1.000%,"MetLife, Inc. (PIMCO Rating: A-)**","42,558","(32,175","10,383",0000067160,N-CSR,13
+"200,000",6/20/15,Goldman Sachs & Co.,Sell***,1.000%,United Kingdom Gilt (PIMCO Rating: AAA)**,906,"2,014","2,920",0000067160,N-CSR,13
+"100,000",3/20/16,GoldmanSachs & Co.,Sell***,1.000%,General Electric Capital Corp. (PIMCO Rating: AA+)**,"2,392","(1,685",707,0000067160,N-CSR,13
+"300,000",9/20/16,GoldmanSachs & Co.,Sell***,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"1,648","(1,414",234,0000067160,N-CSR,13
+"200,000",6/20/16,JP MorganChase Bank,Sell***,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,"1,968","(3,707","(1,739",0000067160,N-CSR,13
+"100,000",9/20/16,JP MorganChase Bank,Sell***,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,(995,(609,"(1,604",0000067160,N-CSR,13
+"300,000",6/20/17,JP MorganChase Bank,Sell***,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,"1,310","(8,967","(7,657",0000067160,N-CSR,13
+"100,000",9/20/16,UBS AG,Sell***,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,708,"(1,578",(870,0000067160,N-CSR,13
+"1,000,000",9/20/16,UBS AG,Sell***,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"5,169","(4,388",781,0000067160,N-CSR,13
+"300,000",6/20/17,UBS AG,Sell***,1.000%,Republic of Indonesia (PIMCO Rating: BAA-)**,"1,592","(9,247","(7,655",0000067160,N-CSR,13

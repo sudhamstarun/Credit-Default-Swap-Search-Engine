@@ -1,0 +1,7 @@
+Issuer,PayFixedRate,Counterparty,ExpirationDate,NotionalAmount(000),MarketValue,PremiumsPaid(Received),UnrealizedDepreciation,CIK,Reporting Type,Report Year
+CIGNA Corp.,1.0,Goldman Sachs Bank USA,9/20/17,"1,200000","(29,334","(1,634","(27,700",0001221845,N-CSR,14
+General Dynamics Corp.,1.0,Credit Suisse International,9/20/17,"1,380000","(36,084","(20,330","(15,754",0001221845,N-CSR,14
+"Humana, Inc.",1.0,Goldman Sachs Bank USA,9/20/17,"1,200000","(25,454","11,854","(37,308",0001221845,N-CSR,14
+Lockheed Martin Corp.,1.0,Credit Suisse International,9/20/17,"1,380000","(35,443","(7,016","(28,427",0001221845,N-CSR,14
+Northrop Grumman Corp.,1.0,Credit Suisse International,9/20/17,"1,165000","(30,348","(15,783","(14,565",0001221845,N-CSR,14
+Raytheon Co.,1.0,Credit Suisse International,9/20/17,"1,165000","(30,289","(16,817","(13,472",0001221845,N-CSR,14

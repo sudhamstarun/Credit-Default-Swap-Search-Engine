@@ -1,0 +1,14 @@
+ReferenceEntity,CounterParty,NotionalAmount,Fund (Pays)/ReceivesFixed Rate,TerminationDate,MarketValue$,CIK,Reporting Type,Report Year
+ABX - HE Index for Sub-Prime Home Equity Sector,Barclays Bank PLC,"1,300",0.760%,01/25/38,(945,0000824036,N-CSR,09
+ABX - HE Index for Sub-Prime Home Equity Sector,Citibank,650,0.170%,05/25/46,(601,0000824036,N-CSR,09
+ABX - HE Index for Sub-Prime Home Equity Sector,Credit Suisse First Boston,"2,050",0.840%,10/12/52,951,0000824036,N-CSR,09
+ABX - HE Index for Sub-Prime Home Equity Sector,JP Morgan,"1,300",0.090%,08/25/37,(965,0000824036,N-CSR,09
+CMBX AJ Index,Bank of America,100,0.840%,10/12/52,46,0000824036,N-CSR,09
+CMBX AJ Index,Barclays Bank PLC,340,(0.840%),10/12/52,157,0000824036,N-CSR,09
+CMBX AJ Index,Barclays Bank PLC,360,(0.840%),10/12/52,167,0000824036,N-CSR,09
+CMBX AJ Index,Deutsche Bank,"2,000",(1.500%),12/20/13,21,0000824036,N-CSR,09
+CMBX AJ Index,Deutsche Bank,"3,000",(1.500%),12/20/13,16,0000824036,N-CSR,09
+CMBX AJ Index,Deutsche Bank,"3,000",(1.500%),12/20/13,21,0000824036,N-CSR,09
+Dow Jones CDX Index,Deutsche Bank,778,0.708%,12/20/12,9,0000824036,N-CSR,09
+Dow Jones CDX Index,JP Morgan,389,0.553%,12/20/17,(21,0000824036,N-CSR,09
+Dow Jones CDX Index,Pershing LLC 1st Republic P.B. CNS,194,0.548%,12/20/17,(11,0000824036,N-CSR,09

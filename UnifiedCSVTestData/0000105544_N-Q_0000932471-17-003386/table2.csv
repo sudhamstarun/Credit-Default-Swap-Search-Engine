@@ -1,0 +1,14 @@
+Counterparty,Date,Receive,Deliver,Notional Amount($000),CIK,Reporting Type,Report Year
+"J.P. Morgan Securities, Inc.",1/3/17,78037,GBP,60000000,0000105544,N-Q,17
+Goldman Sachs International,1/9/17,76001,GBP,60300000,0000105544,N-Q,17
+"Citbank, N.A",3/21/17,75598,JPY,8520000000,0000105544,N-Q,17
+"Bank of America, N.A",2/13/17,75326,JPY,8100000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",3/6/17,50983,JPY,5690000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",2/1/17,26659,CAD,35000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",2/27/17,24544,JPY,2740000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",1/20/17,21109,CAD,28000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",1/17/17,19567,CAD,26000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",1/24/17,18850,CAD,25000000,0000105544,N-Q,17
+Goldman Sachs International,1/18/17,10406,CAD,13800000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",1/11/17,7526,CAD,10000000,0000105544,N-Q,17
+"J.P. Morgan Securities, Inc.",1/18/17,4243,CAD,5628000,0000105544,N-Q,17

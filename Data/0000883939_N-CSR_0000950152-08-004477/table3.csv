@@ -1,0 +1,80 @@
+"
+
+Underlying Instrument
+
+","
+Counterparty
+","
+Amount($)
+","
+Rate(%)
+","
+Expiration Date
+","
+Value($)
+",CIK,Reporting Type,Report Year
+"
+
+    Abitibi Consolidated, Inc. 
+
+","
+    JPMorgan
+","
+    500
+",4.5,"
+    06/20/09
+","
+    (100
+",0000883939,N-CSR,08
+"
+
+    Brunswick
+
+","
+    Bank of America
+","
+    (575
+",2.08,"
+    03/20/13
+","
+    24
+",0000883939,N-CSR,08
+"
+
+    JC Penney
+
+","
+    Deutsche Bank
+","
+    (575
+",2.3,"
+    03/20/13
+","
+    9
+",0000883939,N-CSR,08
+"
+
+    Cigna Corp. 
+
+","
+    JPMorgan
+","
+    (1,000
+",1.44,"
+    03/20/13
+","
+    (23
+",0000883939,N-CSR,08
+"
+
+    Humana Inc. 
+
+","
+    JPMorgan
+","
+    (1,000
+",2.25,"
+    03/20/13
+","
+    (14
+",0000883939,N-CSR,08

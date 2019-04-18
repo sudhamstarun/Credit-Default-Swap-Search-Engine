@@ -1,0 +1,4 @@
+Counterparty,Reference Entity/Obligation,Buy/SellProtection,(Pays)/Receives Rate,TerminationDate,NotionalAmount(Thousands),NetUnrealizedAppreciation(Depreciation)($Thousands),CIK,Reporting Type,Report Year
+Credit Suisse,"Naftogaz Ukrainy, 8.125% 09/30/09",SELL,5.2,12/20/11,(750,(147,0000835597,N-CSR,09
+Credit Suisse,"Naftogaz Ukrainy, 8.125% 09/30/09",SELL,5.75,12/20/09,"(3,600",(439,0000835597,N-CSR,09
+Credit Suisse,Republic of Kazakhstan,SELL,14.25,02/20/10,(550,37,0000835597,N-CSR,09

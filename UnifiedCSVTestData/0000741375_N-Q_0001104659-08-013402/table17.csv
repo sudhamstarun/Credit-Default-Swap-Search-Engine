@@ -1,0 +1,14 @@
+Swap Counterparty and Reference Obligation,"Buy/Sell 
+  Protection","Notional 
+  Amount 
+  (000)","Pay/Receive 
+  Fixed Rate","Termination 
+  Date","Unrealized 
+  Appreciation 
+  (Depreciation) 
+  (000)",CIK,Reporting Type,Report Year
+"Tyco International Ltd., Zero coupon, 11/17/20",Buy,"2,770000",0.43,3/20/12,(9000,0000741375,N-Q,08
+"Tyco International Ltd., Zero coupon, 11/17/20",Buy,"1,400000",0.43,3/20/12,(5000,0000741375,N-Q,08
+"Dell, Inc., 7.10%, 4/15/28",Buy,"2,665000",0.22,3/20/12,nan000,0000741375,N-Q,08
+"Dow Jones CDX North America Investment Grade Index,
+  Series B",Sell,"8,000000",0.35,6/20/12,(54000,0000741375,N-Q,08

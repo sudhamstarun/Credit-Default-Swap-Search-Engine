@@ -1,0 +1,4 @@
+Counterparty,ExpirationDate,NotionalAmount,Swap Details,UnrealizedAppreciation/(Depreciation),ImpliedCreditSpread*,CIK,Reporting Type,Report Year
+Barclays Bank PLC,09/20/2018,"5,035,000","Receive: Bombardier, Inc.Pay: Fixed rate equal to 5.00%","205,926",8.49%,0000887210,N-CSR,16
+JPMorgan Chase Bank N.A.,09/20/2020,"4,180,000","Receive: Bombardier, Inc.Pay: Fixed rate equal to 5.00%","406,293",9.63%,0000887210,N-CSR,16
+Goldman Sachs,03/20/2020,"10,565,000","Receive: Transocean, Inc.Pay: Fixed rate equal to 5.00%","312,813",8.85%,0000887210,N-CSR,16

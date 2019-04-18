@@ -1,0 +1,4 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"5,000,000",6/20/17,Barclays Bank PLC,Buy,(1.000,CDX.NA.IG.18 ,"(75,406","6,761","(68,645",0001317146,N-CSRS,13
+"2,350,000",6/20/17,Barclays Bank PLC,Buy,(1.000,CDX.NA.IG.18 ,"(54,464","22,199","(32,265",0001317146,N-CSRS,13
+"1,800,000",12/20/17,Barclays Bank PLC,Buy,(1.000,CDX.NA.IG.19 ,"(26,380","7,659","(18,721",0001317146,N-CSRS,13

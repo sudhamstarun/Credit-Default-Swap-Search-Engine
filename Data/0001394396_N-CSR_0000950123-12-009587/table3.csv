@@ -1,0 +1,47 @@
+"
+Reference Entity
+","
+Counterparty
+","
+Amount(000 s omitted)
+","
+Fixed Rate*
+","
+Date
+","
+Value
+","
+Paid
+","
+Appreciation
+",CIK,Reporting Type,Report Year
+"
+
+    Citigroup, Inc. 
+
+","
+    Bank of America
+",420000,1.0,"
+    9/20/20
+","
+    41,388
+","
+    (22,296
+","
+    19,092
+",0001394396,N-CSR,12
+"
+
+    Citigroup, Inc. 
+
+","
+    JPMorgan Chase Bank
+",420000,1.0,"
+    9/20/20
+","
+    41,387
+","
+    (23,598
+","
+    17,789
+",0001394396,N-CSR,12

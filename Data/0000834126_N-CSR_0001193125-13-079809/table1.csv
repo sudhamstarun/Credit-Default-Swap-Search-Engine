@@ -1,0 +1,6 @@
+ReferenceEntity/Obligation,TerminationDate,FixedRate,NotionalAmount(000)#(4),"ImpliedCreditSpread atDecember 31,2012(3)",FairValue,UpfrontPremiumsPaid/(Received),UnrealizedAppreciation/(Depreciation),Counterparty,CIK,Reporting Type,Report Year
+Astrazeneca PLC,03/20/14,1.600%,"2,000000",0.126%,"37,195","37,195",Morgan Stanley Capital Services,,0000834126,N-CSR,13
+"Berkshire Hathaway, Inc.",03/20/15,1.000   ,"10,000000",0.671   ,"76,134","(188,735","264,869",Deutsche Bank AG,0000834126,N-CSR,13
+"Berkshire Hathaway, Inc.",03/20/15,1.000   ,"10,000000",0.671   ,"76,134","(177,792","253,926",Goldman Sachs International,0000834126,N-CSR,13
+"Berkshire Hathaway, Inc.",03/20/17,1.000   ,"15,000000",1.034   ,"(15,998","(359,547","343,549",Credit Suisse International,0000834126,N-CSR,13
+"Wal-Mart Stores, Inc.",12/20/14,1.000   ,"10,000000",0.172   ,"167,308","270,152","(102,844",JPMorgan Chase Bank,0000834126,N-CSR,13

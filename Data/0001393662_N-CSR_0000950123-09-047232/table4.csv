@@ -1,0 +1,135 @@
+"
+Counterparty
+","
+Reference
+    Entity
+","
+Protection
+","
+Rate
+","
+Date
+","
+Amount(000)
+",CIK,Reporting Type,Report Year
+"
+
+    Goldman Sachs International
+
+","
+    LCDX.NA.10
+","
+    Sell
+",3.25,"
+    06/20/13
+","
+    49,800
+000",0001393662,N-CSR,09
+"
+
+    Goldman Sachs International
+
+","
+    LCDX9
+","
+    Sell
+",2.25,"
+    12/20/12
+","
+    42,000
+000",0001393662,N-CSR,09
+"
+
+    Goldman Sachs International
+
+","
+    Peermont Global
+","
+    Sell
+",3.5,"
+    09/20/12
+","
+    7,126
+000",0001393662,N-CSR,09
+"
+
+    Goldman Sachs International
+
+","
+    Texas
+    Competitive
+    Electric
+","
+    Sell
+",2.85,"
+    06/20/10
+","
+    5,000
+000",0001393662,N-CSR,09
+"
+
+    Goldman Sachs International
+
+","
+    Texas
+    Competitive
+    Electric
+","
+    Sell
+",5.0,"
+    06/20/10
+","
+    3,000
+000",0001393662,N-CSR,09
+"
+
+    Goldman Sachs International
+
+","
+    UPC Holding
+","
+    Sell
+",3.45,"
+    09/20/12
+","
+    7,126
+000",0001393662,N-CSR,09
+"
+
+    Goldman Sachs International
+
+","
+    Xstrata PLC
+","
+    Sell
+",5.8,"
+    06/20/10
+","
+    7,126
+000",0001393662,N-CSR,09
+"
+
+    UBS AG
+
+","
+    CDX.NA.HY.10
+","
+    Sell
+",5.0,"
+    06/20/13
+","
+    17,400
+000",0001393662,N-CSR,09
+"
+
+    UBS AG
+
+","
+    CDX.NA.HY.9
+","
+    Sell
+",3.75,"
+    12/20/12
+","
+    17,200
+000",0001393662,N-CSR,09

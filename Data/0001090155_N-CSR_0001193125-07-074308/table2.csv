@@ -1,0 +1,4 @@
+Counterparty,TerminationDate,NotionalAmount(000),FixedRate,UnderlyingBond,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Bear Stearns International Ltd.(2),06/20/10,300000,0.4,Dow Jones CDX IG4 Index,"3,685",0001090155,N-CSR,07
+Goldman Sachs(1),12/20/16,"2,000000",0.65,Dow Jones CDX IG7 Index,"(5,179",0001090155,N-CSR,07
+Morgan Stanley & Co.(2),01/20/17,"1,000000",1.52,"Federal Republic of Brazil,","(1,307",0001090155,N-CSR,07

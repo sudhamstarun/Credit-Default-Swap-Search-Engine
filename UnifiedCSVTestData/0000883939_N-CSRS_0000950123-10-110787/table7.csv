@@ -1,0 +1,137 @@
+"
+
+Underlying Instrument
+
+","
+Counterparty
+","
+Notional Amount($)
+","
+Fixed Rate(%)
+","
+Expiration Date
+","
+Payments Made/(Received)($)
+","
+Appreciation/(Depreciation)($)
+",CIK,Reporting Type,Report Year
+"
+
+    Allstate Corp. 
+
+","
+    JPMorgan
+","
+    2,265
+",1.0,"
+    06/20/15
+","
+    (29
+","
+    24
+",0000883939,N-CSRS,10
+"
+
+    Bristol-Myers Squibb Co. 
+
+","
+    JPMorgan
+","
+    2,265
+",1.0,"
+    06/20/15
+","
+    (61
+","
+    (8
+",0000883939,N-CSRS,10
+"
+
+    Citibank N.A
+
+","
+    Credit Suisse First Boston
+","
+    2,330
+",1.0,"
+    06/20/15
+","
+    65
+","
+    4
+",0000883939,N-CSRS,10
+"
+
+    Emerging Markets CDX Indices, Series 14
+
+","
+    Barclays
+","
+    8,201
+",5.0,"
+    12/20/15
+","
+    (1,027
+","
+    (49
+",0000883939,N-CSRS,10
+"
+
+    Emerging Markets CDX Indices, Series 14
+
+","
+    JPMorgan
+","
+    6,599
+",5.0,"
+    12/20/15
+","
+    (821
+","
+    (45
+",0000883939,N-CSRS,10
+"
+
+    Emerging Markets CDX Indices, Series 14
+
+","
+    Morgan Stanley
+","
+    6,554
+",5.0,"
+    12/20/15
+","
+    (814
+","
+    (46
+",0000883939,N-CSRS,10
+"
+
+    Federative Republic of Brazil
+
+","
+    Morgan Stanley
+","
+    4,999
+",1.0,"
+    12/20/15
+","
+    48
+","
+    (10
+",0000883939,N-CSRS,10
+"
+
+    Monsanto Co. 
+
+","
+    JPMorgan
+","
+    2,265
+",1.0,"
+    06/20/15
+","
+    (49
+","
+    6
+",0000883939,N-CSRS,10

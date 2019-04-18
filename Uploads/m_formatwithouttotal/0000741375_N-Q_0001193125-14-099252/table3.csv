@@ -1,0 +1,9 @@
+Swap Counterparty andReference Obligation,Buy/SellProtection,NotionalAmount(000),Pay/ReceiveFixed Rate,TerminationDate,UpfrontPaymentPaid/Received(000),UnrealizedAppreciation(Depreciation)(000),Value(000),CreditRating ofReferenceObligation 
+"Barclays BankAlcoa, Inc.",Buy,530,1.00,9/20/18,55,(42,13,BBB-
+Barclays BankQuest Diagnostics Inc.,Buy,995,1.00,12/20/18,12,12,BBB+
+"Barclays BankYum! Brands, Inc.",Buy,950,1.00,12/20/18,(16,(9,(25,BBB
+JPMorgan ChaseCDX.NA.IG.20,Sell,"2,050",1.00,6/20/18,11,30,41,NR
+JPMorgan ChaseCDX.NA.IG.20,Sell,450,1.00,6/20/18,9,NR
+JPMorgan ChaseKohl s Corporation,Buy,"1,100",1.00,6/20/18,63,(64,(1,BBB+
+"Morgan Stanley & Co., LLC*CDX.NA.IG.21",Sell,950,1.00,12/20/18,14,17,NR
+"7,025",132,(66,66

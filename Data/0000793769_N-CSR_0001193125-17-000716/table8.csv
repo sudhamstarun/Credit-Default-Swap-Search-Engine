@@ -1,0 +1,37 @@
+"Counterparty
+ ","Reference
+ Entity ","Buy/
+ Sellb,c ","Pay/Receive
+ Fixed Rate ","Expiration
+ Date ","Implied
+ Credit Spreadd ","Value
+ (000s) ","Upfront
+ Premium Paid/ (Received) (000s) ","Notional
+ Amount (000s) ","Unrealized
+ Appreciation/ (Depreciation) (000s) ",CIK,Reporting Type,Report Year
+"
+ICE
+Group
+","Markit
+ CDX North America High Yield Index Series 27 ","Buy
+ ","5.000%
+ ","12/20/2021
+ ","4.209%
+ ","$(71)
+ 000","$(67)
+ 000","$ 1,800
+ 000","$(4)
+ 000",0000793769,N-CSR,17
+"
+ICE
+Group
+","Markit
+ CDX North America Investment Grade Index Series 26 ","Buy
+ ","1.000
+ ","06/20/2021
+ ","0.712
+ ","(14)
+ 000","(13)
+ 000","1,000
+ 000","(1)
+ 000",0000793769,N-CSR,17

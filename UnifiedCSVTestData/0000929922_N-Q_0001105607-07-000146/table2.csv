@@ -1,0 +1,428 @@
+"
+Counterparty
+","
+Reference
+					Entity
+","
+Fixed
+					Rate","
+Expiration
+					Date","
+Notional
+					Amount","
+Unrealized
+					Depreciation",CIK,Reporting Type,Report Year
+" 
+Lehman Brothers
+
+"," 
+						Dow Jones CDX Emerging
+						   Markets Series 5
+"," 
+1.35%
+
+"," 
+6-20-11
+
+"," 
+12,000,000
+
+"," 
+(594,091)
+
+",0000929922,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX Emerging
+						   Markets Series 5
+"," 
+1.35%
+
+"," 
+6-20-11
+
+"," 
+12,000,000
+
+"," 
+(616,154)
+
+",0000929922,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones CDX Emerging
+						   Markets Series 5
+"," 
+1.35%
+
+"," 
+6-20-11
+
+"," 
+24,000,000
+
+"," 
+(1,223,484)
+
+",0000929922,N-Q,07
+" 
+Goldman Sachs
+
+"," Dow Jones CDX Emerging
+						   Markets Series 7
+"," 
+1.25%
+
+"," 
+6-20-12
+
+"," 
+20,400,000
+
+"," 
+(31,500)
+
+",0000929922,N-Q,07
+" 
+Lehman Brothers
+
+"," Dow Jones CDX Emerging
+						   Markets Series 7
+"," 
+1.25%
+
+"," 
+6-20-12
+
+"," 
+20,000,000
+
+"," 
+(30,887)
+
+",0000929922,N-Q,07
+" 
+Lehman Brothers
+
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+65,600,000
+
+"," 
+(1,963,944)
+
+",0000929922,N-Q,07
+" 
+						Merrill Lynch
+						   International
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 29,600,000
+"," 
+(886,170)
+
+",0000929922,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+22,600,000
+
+"," 
+(649,714)
+
+",0000929922,N-Q,07
+" Merrill Lynch
+						   International
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+12,000,000
+
+"," 
+664,301
+
+",0000929922,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+38,000,000
+
+"," 
+(1,137,650)
+
+",0000929922,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+14,200,000
+
+"," 
+(408,228)
+
+",0000929922,N-Q,07
+" 
+Morgan Stanley
+
+"," Dow Jones CDX North
+						   America High Yield 
+						   Series 7
+"," 
+3.25%
+
+"," 
+12-20-11
+
+"," 
+16,800,000
+
+"," 
+930,021
+
+",0000929922,N-Q,07
+" 
+Bear Stearns
+
+"," 
+Federative Republic of Brazil
+
+"," 
+1.04%
+
+"," 
+3-20-12
+
+"," 
+11,900,000
+
+"," 
+(107,535)
+
+",0000929922,N-Q,07
+" 
+Goldman Sachs
+
+"," 
+Federative Republic of Brazil
+
+"," 
+1.04%
+
+"," 
+3-20-12
+
+"," 
+12,400,000
+
+"," 
+(112,054)
+
+",0000929922,N-Q,07
+"
+
+						Morgan Stanley
+","
+
+						Federative Republic of Brazil
+","
+
+
+							1.89%
+
+","
+
+
+							6-20-11
+
+","
+
+
+							16,000,000
+
+","
+
+
+							(711,305)
+
+",0000929922,N-Q,07
+" 
+Morgan Stanley
+
+"," 
+Federative Republic of Brazil
+
+"," 
+0.94%
+
+"," 
+4-20-12
+
+"," 
+20,200,000
+
+"," 
+(85,258)
+
+",0000929922,N-Q,07
+" 
+Bear Stearns
+
+"," 
+Republic of Turkey Swap
+
+"," 
+1.91%
+
+"," 
+3-20-12
+
+"," 
+9,900,000
+
+"," 
+(78,257)
+
+",0000929922,N-Q,07
+" 
+Goldman Sachs
+
+"," 
+Republic of Turkey Swap
+
+"," 
+1.92%
+
+"," 
+3-20-12
+
+"," 
+20,200,000
+
+"," 
+(10,224)
+
+",0000929922,N-Q,07
+"
+
+						Goldman Sachs
+","
+
+						Republic of Turkey Swap
+","
+
+
+							1.93%
+
+","
+
+
+							3-20-12
+
+","
+
+
+							10,600,000
+
+","
+
+
+							(88,254)
+
+",0000929922,N-Q,07
+"
+
+						Goldman Sachs
+","
+
+						Republic of Turkey Swap
+","
+
+
+							1.76%
+
+","
+
+
+							4-20-12
+
+","
+
+
+							9,900,000
+
+","
+
+
+							(86,528)
+
+",0000929922,N-Q,07
+" 
+Lehman Brothers
+
+"," 
+Republic of Turkey Swap
+
+"," 
+1.90%
+
+"," 
+3-20-12
+
+"," 
+9,900,000
+
+"," 
+(74,088)
+
+",0000929922,N-Q,07

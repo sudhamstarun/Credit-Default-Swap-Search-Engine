@@ -1,0 +1,844 @@
+"
+Counterparty
+","
+Asset
+","
+Protection(2)
+","
+Rate
+","
+Date
+","
+Amount(3)
+","
+(Received)
+","
+(Depreciation)/Appreciation
+",CIK,Reporting Type,Report Year
+"
+
+    Barclays Capital, Inc.
+
+","
+    Bank of America
+    Corp.(4)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    18,867,000
+","
+    153,481
+","
+    (2,267)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,278,000
+","
+    223,150
+","
+    (9,538)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    4,473,000
+","
+    103,511
+","
+    (527)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    23,610,000
+","
+    554,663
+","
+    (18,769)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Federative Republic of
+    Brazil(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,534,000
+","
+    (388,563)
+","
+    (22,198)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Federative Republic of
+    Brazil(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,358,000
+","
+    (317,878)
+","
+    (85,300)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    General Electric Capital
+    Corp.(4)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    18,867,000
+","
+    157,658
+","
+    (21,289)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    General Electric Capital
+    Corp.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    4,473,000
+","
+    99,023
+","
+    (17,947)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Goldman Sachs Group,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    18,867,000
+","
+    149,305
+","
+    (14,927)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    JPMorgan Chase &
+    Co.(4)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    18,867,000
+","
+    155,569
+","
+    (130)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    MetLife,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    4,473,000
+","
+    71,140
+","
+    6,790
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Morgan
+    Stanley(4)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    18,867,000
+","
+    149,305
+","
+    (11,878)
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Prudential Financial,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    4,473,000
+","
+    94,542
+","
+    4,729
+",0000277751,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Russian
+    Federation(5)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    8,946,000
+","
+    (98,208)
+","
+    (248,010)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Federative Republic of
+    Brazil(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    20,000,000
+","
+    (580,692)
+","
+    (280,984)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Goldman Sachs Group,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    9/20/19
+","
+    17,958,000
+","
+    171,781
+","
+    (23,023)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Goldman Sachs Group,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,278,000
+","
+    87,710
+","
+    (10,854)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(6)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,946,000
+","
+    93,688
+","
+    (14,633)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(6)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    10,000,000
+","
+    76,086
+","
+    12,284
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(6)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    4,126,000
+","
+    12,117
+","
+    24,344
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(6)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,427,000
+","
+    59,803
+","
+    14,666
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(6)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    6,710,000
+","
+    12,672
+","
+    46,624
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Republic of
+    Indonesia(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,427,000
+","
+    (212,454)
+","
+    11,501
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Republic of
+    Indonesia(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,946,000
+","
+    (169,866)
+","
+    (43,463)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Russian
+    Federation(5)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    8,645,000
+","
+    (113,036)
+","
+    (221,533)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,946,000
+","
+    98,730
+","
+    (94,276)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,386,000
+","
+    77,709
+","
+    (73,036)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,600,000
+","
+    80,599
+","
+    (75,819)
+",0000277751,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    10,000,000
+","
+    66,555
+","
+    (61,576)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,386,000
+","
+    220,746
+","
+    (4,647)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,427,000
+","
+    175,255
+","
+    18,764
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    10,790,000
+","
+    253,487
+","
+    (8,578)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Federative Republic of
+    Brazil(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,386,000
+","
+    (306,467)
+","
+    (97,917)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    General Electric Capital
+    Corp.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,426,000
+","
+    177,357
+","
+    (24,630)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    General Electric Capital Corp.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,662,000
+","
+    184,427
+","
+    (27,423)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    JPMorgan Chase &
+    Co.(4)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    5,000,000
+","
+    48,889
+","
+    (7,696)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Markit
+    MCDX.NA.23(7)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    9,278,000
+","
+    103,465
+","
+    (31,075)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    People s Republic of
+    China(6)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    8,731,000
+","
+    74,666
+","
+    2,489
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Prudential Financial,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    5,000,000
+","
+    96,685
+","
+    14,282
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Republic of
+    Colombia(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    19,068,000
+","
+    (20,672)
+","
+    (293,642)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Republic of
+    Colombia(5)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    17,246,000
+","
+    (244,028)
+","
+    (40,253)
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Republic of
+    Indonesia(5)
+","
+    Sell
+",1.0,"
+    9/22/19
+","
+    6,723,000
+","
+    (209,899)
+","
+    49,581
+",0000277751,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Russian
+    Federation(5)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    6,577,000
+","
+    (88,163)
+","
+    (166,372)
+",0000277751,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Berkshire Hathaway,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    13,348,000
+","
+    294,129
+","
+    13,189
+",0000277751,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Markit
+    MCDX.NA.23(7)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    10,000,000
+","
+    81,754
+","
+    (3,730)
+",0000277751,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    MetLife,
+    Inc.(4)
+","
+    Sell
+",1.0,"
+    12/20/19
+","
+    20,000,000
+","
+    285,562
+","
+    62,883
+",0000277751,N-CSR,15

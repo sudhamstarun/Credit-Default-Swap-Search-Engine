@@ -1,0 +1,5 @@
+Swap   Counterparty    (Reference Entity),Notional   Amount2,Termination   Date,Periodic   Payments   Made   by the   Fund ,Market   Value3,Upfront   Premiums   Paid   (Received),Unrealized   Depreciation,CIK,Reporting Type,Report Year
+CDX.NA.HY.17   Index),"$2,619,000",12/20/16,quarterly,"$ 46,040","$  75,296","$ (29,256)",0000895523,N-CSR,12
+BNP   Paribas (MARKIT   CDX.NA.HY.17 Index),"3,977,000",12/20/16,0.050% quarterly,"69,913","121,795","(51,882)",0000895523,N-CSR,12
+BNP   Paribas (MARKIT   CDX.NA.HY.17 Index),"1,067,000",12/20/16,0.050% quarterly,"18,757","32,010","(13,253)",0000895523,N-CSR,12
+Morgan   Stanley & Co. Inc.   (MARKIT CDX.NA.HY.17 Index),"2,037,000",12/20/16,0.050% quarterly,"35,809","63,656","(27,847)",0000895523,N-CSR,12

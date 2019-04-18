@@ -1,0 +1,8 @@
+Reference Asset,Counterparty,Buy/Sell,Fixed,Maturity,Notional,Premiums,Value,CIK,Reporting Type,Report Year
+Kingdom of Spain,BOA,Buy,1.000%,6/20/20,25000,169615,"(158,213)",0000817982,N-CSR,15
+Malaysia,BAC,Buy,1,12/20/20,2900,"(136,197)",131810,0000817982,N-CSR,15
+Malaysia,BNP,Buy,1,12/20/20,10000,"(651,135)",455817,0000817982,N-CSR,15
+Malaysia,MOS-A,Buy,1,12/20/20,10000,"(502,319)",455817,0000817982,N-CSR,15
+Portuguese Republic,GSG,Buy,1,6/20/20,15000,"(304,084)",440084,0000817982,N-CSR,15
+Republic of Austria,GSG,Buy,1,6/20/20,8500,305878,"(300,556)",0000817982,N-CSR,15
+Republic of Italy,GSG,Buy,1,6/20/20,30000,"(133,466)","(3,913)",0000817982,N-CSR,15

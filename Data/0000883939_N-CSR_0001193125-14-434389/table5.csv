@@ -1,0 +1,2 @@
+Underlying Instrument,Counterparty,NotionalAmount,FixedRate,ExpirationDate,ImpliedCreditSpread*,UpfrontPaymentsMade,Value,UnrealizedAppreciation,CIK,Reporting Type,Report Year
+Target Corp.,Barclays Bank PLC,"$2,000,000",1.0,06/20/19,4.628,"$(55,362)","$(51,630)","$3,732",0000883939,N-CSR,14

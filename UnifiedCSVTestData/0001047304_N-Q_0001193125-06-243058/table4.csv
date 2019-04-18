@@ -1,0 +1,6 @@
+Counterparty,Reference Entity,Buy/SellProtection (1),(Pay)/ReceiveFixed Rate,ExpirationDate,NotionalAmount,UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+SOFTBANK Corp. 1.750% due 03/31/2014,Sell,2.300,09/20/2007,JPY," 13,000",0.0,0001047304,N-Q,06
+Brazilian Government International Bond 12.250% due 03/06/2030,Sell,1.280,08/20/2011,"2,200",,,0001047304,N-Q,06
+Brazilian Government International Bond 12.250% due 03/06/2030,Buy,(2.065,08/20/2016,"1,200",(3,,0001047304,N-Q,06
+"Russia Government International Bond, 5.000% until 03/31/2007 and 7.500% thereafter, due 03/31/2030",Sell,0.410,06/20/2007,100,0,,0001047304,N-Q,06
+Sabre Holdings Corp 7.350% due 08/01/2011,Buy,(1.110,09/20/2011,100,0,,0001047304,N-Q,06

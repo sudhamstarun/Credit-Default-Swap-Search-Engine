@@ -1,0 +1,3 @@
+NotionalAmount,ExpirationDate,Counterparty,Receive(Pay)^,AnnualPremium,ImpliedCreditSpread (1),ReferenceEntity,"MaximumPotentialAmount ofFuturePaymentsby the FundUnder 
+theContract (2)",Net UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+"2,000,000",12/20/2013,Barclays Bank PLC,Receive,0.25%,1.59,SLM Corp.,"2,000,000","(33,983",0000772129,N-CSR,12

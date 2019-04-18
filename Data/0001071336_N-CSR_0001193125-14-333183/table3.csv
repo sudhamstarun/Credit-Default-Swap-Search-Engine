@@ -1,0 +1,4 @@
+Counterparty,Referenced Entity,Buy/SellProtection (5),CurrentCredit Spread (6),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation) (4),CIK,Reporting Type,Report Year
+Morgan Stanley,Markit CDX NA HY22 Index,Buy,3.03,"990,000",5.0,6/20/19,"(87,571","(17,875",0001071336,N-CSR,14
+Goldman Sachs,"Advanced Micro Devices, Inc.",Buy,3.6,"100,000",5.0,9/20/19,"(6,479",773,0001071336,N-CSR,14
+Deutsche Bank,"Staples, Inc.",Buy,2.46,"200,000",2.75,9/20/19,"11,956","(1,606",0001071336,N-CSR,14

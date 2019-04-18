@@ -1,0 +1,90 @@
+"Counterparty
+","Reference
+Entity
+","Buy/
+Sell
+","Pay/ Receive
+Fixed Rate
+","Expiration
+Date
+","Implied Credit
+Spread at
+11/30/201511
+","Notional
+Amount
+","Market
+Value
+","Upfront
+Premiums
+Paid
+(Received)
+","Unrealized
+Appreciation
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"Bank of America
+","Government of Venezuela
+","Buy
+","5.00%
+","6/20/2020
+","449.50%
+","$4,475,000
+","$2,654,223
+","$2,601,094
+","$53,129
+",0001128590,N-CSR,16
+"Barclays Capital
+","Government of Qatar
+","Buy
+","1.00%
+","9/20/2020
+","0.78%
+","$9,300,000
+","$(91,155)
+","$(53,997)
+","$(37,158)
+",0001128590,N-CSR,16
+"Goldman Sachs
+","Government of Turkey
+","Sell
+","1.00%
+","9/20/2020
+","2.64%
+","$28,000,000
+","$(1,935,464)
+","$(2,242,594)
+","$307,130
+",0001128590,N-CSR,16
+"Barclays Capital
+","Government of Brazil
+","Buy
+","1.00%
+","12/20/2020
+","4.67%
+","$9,200,000
+","$1,376,970
+","$1,301,848
+","$75,122
+",0001128590,N-CSR,16
+"Bank of America
+","Government of South Africa
+","Sell
+","1.00%
+","12/20/2020
+","2.70%
+","$1,100,000
+","$(186,527)
+","$(171,819)
+","$(14,708)
+",0001128590,N-CSR,16
+"Bank of America
+","Government of South Africa
+","Sell
+","1.00%
+","12/20/2025
+","3.39%
+","$1,100,000
+","$(82,365)
+","$(79,618)
+","$(2,747)
+",0001128590,N-CSR,16

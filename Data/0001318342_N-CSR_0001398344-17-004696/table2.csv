@@ -1,0 +1,59 @@
+"
+Counterparty/Reference Entity
+","
+Rating(a)
+(S&P)
+","
+Pay/(b)
+Receive
+Fixed Rate
+","
+Fixed
+Rate
+","
+Expiration
+Date
+","
+Notional
+Amount
+","
+Premium
+Paid
+(Received)
+","
+Unrealized
+Appreciation/
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+    A CDSI Series 6 Index
+", A,"
+Receive
+","
+2.00%
+","
+5/11/63
+","
+3,000,000
+","
+(55,248
+","
+5,815
+",0001318342,N-CSR,17
+"
+    BBB- CDSI Series 6 Index
+","
+BBB-
+","
+Receive
+","
+3.00%
+","
+5/11/63
+","
+3,000,000
+","
+(158,461
+","
+(26,173
+",0001318342,N-CSR,17

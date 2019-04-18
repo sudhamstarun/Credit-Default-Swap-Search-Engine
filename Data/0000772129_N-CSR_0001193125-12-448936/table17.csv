@@ -1,0 +1,11 @@
+NotionalAmount,ExpirationDate,Counterparty,Receive(Pay)^,AnnualPremium,ImpliedCreditSpread (1),ReferenceEntity,"MaximumPotentialAmount ofFuturePaymentsby the FundUnder 
+theContract (2)",Net UnrealizedAppreciation/(Depreciation),CIK,Reporting Type,Report Year
+"15,000,000",9/20/2012,"JP Morgan Chase Bank, N.A.",(Pay),1.15%,0.73,Republic of Peru,,"(84,911",0000772129,N-CSR,12
+"10,000,000",9/20/2012,"JP Morgan Chase Bank, N.A.",(Pay),1.25%,1.1,Gazprom OAO,,"(62,098",0000772129,N-CSR,12
+"2,000,000",9/20/2012,Goldman Sachs International,(Pay),9.20%,8.03,Republic of Argentina,,"(87,846",0000772129,N-CSR,12
+"10,000,000",10/4/2012,"JP Morgan Chase Bank, N.A.",Receive,2.95%,0.51,Republic of Chile,"10,000,000","       146,662",0000772129,N-CSR,12
+"4,000,000",10/20/2012,UBS AG,(Pay),3.90%,5.02,Petroleos de Venezuela,,"(50,768",0000772129,N-CSR,12
+"4,000,000",10/20/2012,UBS AG,(Pay),4.13%,5.02,Petroleos de Venezuela,,"(55,434",0000772129,N-CSR,12
+"42,000,000",12/20/2012,Morgan Stanley Capital Services LLC,(Pay),1.20%,0.0,Reference security within CDX IG Index,,"(256,007",0000772129,N-CSR,12
+"       125,384,851",12/20/2012,Morgan Stanley Capital Services LLC,Receive,0.71%,0.0,Reference security within CDX IG Index,"       125,384,851","452,203",0000772129,N-CSR,12
+"20,000,000",12/20/2012,"JP Morgan Chase Bank, N.A.",(Pay),5.00%,10.23,Republic of Argentina,,"(147,491",0000772129,N-CSR,12

@@ -1,0 +1,34 @@
+Counterparty,"Referenced
+ Obligation","Buy/Sell
+Protection (1) ","(Pay/Receive)
+ Fixed Rate",Expiration Date,"
+ Notional Amount",Unrealized Appreciation (Depreciation),CIK,Reporting Type,Report Year
+Goldman Sachs,"American International Group
+ 5.600% due 10/18/16",Sell,0.055,03/20/08,"900,000","($1,174",0001137761,N-Q,08
+UBS,"The Goldman Sachs Group Inc
+ 6.600% due 01/15/12",Sell,0.170,09/20/08,"500,000","(2,084",0001137761,N-Q,08
+UBS,"Morgan Stanley 6.600% due
+ 04/01/12",Sell,0.190,09/20/08,"500,000","(3,282",0001137761,N-Q,08
+Lehman Brothers,"Johnson & Johnson 3.800%
+ due 05/15/13",Buy,(0.110,12/20/08,"100,000",(52,0001137761,N-Q,08
+Lehman Brothers,"The Home Depot Inc 5.375%
+ due 04/01/06",Buy,(0.120,12/20/08,"100,000",437,0001137761,N-Q,08
+Citigroup,"Wal-Mart Stores Inc 3.375%
+ due 10/01/08",Buy,(0.140,12/20/08,"100,000",(55,0001137761,N-Q,08
+Barclays,"Eli Lilly & Co 6.000%
+ due 03/15/12",Buy,(0.160,12/20/08,"100,000",(118,0001137761,N-Q,08
+Morgan Stanley,"Emerson Electric Co 4.625%
+ due 10/15/12",Buy,(0.210,12/20/08,"100,000",(120,0001137761,N-Q,08
+Merrill Lynch,"Gannett Co Inc 6.375% due
+ 04/01/12",Buy,(0.220,12/20/08,"100,000",193,0001137761,N-Q,08
+Morgan Stanley,"The Allstate Corp 6.125% due
+ 02/15/12",Buy,(0.260,12/20/08,"100,000",(78,0001137761,N-Q,08
+Citigroup,Eaton Corp 5.750% due 07/15/12,Buy,(0.280,12/20/08,"100,000",(110,0001137761,N-Q,08
+Barclays,"FedEx Corp 7.250% due
+ 02/15/11",Buy,(0.290,12/20/08,"100,000",(57,0001137761,N-Q,08
+Lehman Brothers,"Whirlpool Corp 8.600% due
+ 05/01/10",Buy,(0.290,12/20/08,"100,000",(136,0001137761,N-Q,08
+Merrill Lynch,"Ingersoll-Rand Co Ltd 6.480%
+ due 06/01/25",Buy,(0.320,12/20/08,"100,000",(167,0001137761,N-Q,08
+Royal Bank of Scotland,"Republic of Indonesia 6.750%
+ due 03/10/14",Sell,0.400,12/20/08,"200,000",(764,0001137761,N-Q,08

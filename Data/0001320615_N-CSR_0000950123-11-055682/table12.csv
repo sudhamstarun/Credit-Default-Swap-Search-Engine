@@ -1,0 +1,148 @@
+"
+
+    Amount
+
+","
+
+    Currency
+
+","
+
+    Date
+
+","
+    Counterparty
+","
+
+    Protection
+
+","
+
+    the Contract
+
+","
+
+    Rate
+
+","
+
+    on Default
+
+",CIK,Reporting Type,Report Year
+"
+    900,000
+","
+    USD
+","
+    3/20/2016
+","
+
+    Deutsche Bank AG
+
+","
+    Buy
+","
+    900,000
+","
+    (1.00
+","
+    Starwood Hotels and Resorts, 6.75%, 05/15/18
+",0001320615,N-CSR,11
+"
+    1,400,000
+","
+    USD
+","
+    3/20/2016
+","
+
+    Morgan Stanley Capital Services, Inc.
+
+","
+    Buy
+","
+    1,400,000
+","
+    (1.00
+","
+    Kinder Morgan, Inc., 6.50%, 09/01/12
+",0001320615,N-CSR,11
+"
+    1,600,000
+","
+    USD
+","
+    12/20/2019
+","
+
+    Bank of America N.A.
+
+","
+    Sell
+","
+    1,600,000
+","
+    1.00
+","
+    CDX.NA.IG.I3
+    (Rating: BAA+)*
+",0001320615,N-CSR,11
+"
+    1,300,000
+","
+    USD
+","
+    12/20/2019
+","
+
+    UBS AG
+
+","
+    Sell
+","
+    1,300,000
+","
+    1.00
+","
+    CDX.NA.IG.I3
+    (Rating: BAA+)*
+",0001320615,N-CSR,11
+"
+    8,500,000
+","
+    USD
+","
+    06/20/2015
+","
+
+    Morgan Stanley Capital Services, Inc.
+
+","
+    Buy
+","
+    8,500,000
+","
+    (1.00
+","
+    Kinder Morgan, Inc., 6.50%, 09/01/12
+",0001320615,N-CSR,11
+"
+    4,400,000
+","
+    USD
+","
+    03/20/2021
+","
+
+    Goldman Sachs International
+
+","
+    Sell
+","
+    4,400,000
+","
+    1.60
+","
+    State of Connecticut (Moody s Rating: Aa2; S&P Rating:
+    AA)
+    CDX.NA.IG.I4",0001320615,N-CSR,11

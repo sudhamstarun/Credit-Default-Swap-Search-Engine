@@ -1,0 +1,37 @@
+Counterparty,Reference Entity,Protection,Rate,Date,Amount(000),CIK,Reporting Type,Report Year
+"Goldman Sachs International
+","Boston
+Generating,
+LLC
+","Sell
+",2.0,"06/20/09
+",3000000,0001059386,N-Q,09
+"Goldman Sachs International
+","Calpine
+Corp.
+","Sell
+",5.0,"03/20/10
+",1500000,0001059386,N-Q,09
+"Goldman Sachs International
+","K. Hovnanian
+Enterprises,
+Inc.
+","Sell
+",2.15,"06/20/09
+",1500000,0001059386,N-Q,09
+"Goldman Sachs International
+","K. Hovnanian
+Enterprises,
+Inc.
+","Sell
+",3.75,"06/20/12
+",1500000,0001059386,N-Q,09
+"Goldman Sachs International
+","Texas
+Competitive
+Electric
+Holdings
+Company LLC
+","Sell
+",2.85,"06/20/10
+",5000000,0001059386,N-Q,09

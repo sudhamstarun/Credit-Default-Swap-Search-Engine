@@ -1,0 +1,8 @@
+Reference Asset,Counterparty,Buy/Sell,Fixed,MaturityDate,NotionalAmount(000 s),PremiumsReceived/(Paid),Value,CIK,Reporting Type,Report Year
+CDX.NA.HY.21,CITNA-B,Buy,5.0,12/20/18,"7,500000","         (230,208)","         (125,521)",0000045156,N-CSR,16
+CDX.NA.HY.21,CITNA-B,Sell,5.0,12/20/18,"1,920000","1,071,501","(960,058)",0000045156,N-CSR,16
+CDX.NA.HY.21,GSG,Sell,5.0,12/20/18,584000,"318,928","(291,858)",0000045156,N-CSR,16
+Kingdom of Spain,BOA,Buy,1.0,12/20/20,"16,400000","86,558","38,304",0000045156,N-CSR,16
+Malaysia,BAC,Buy,1.0,12/20/20,"1,500000","(70,447)","41,549",0000045156,N-CSR,16
+Malaysia,MOS-A,Buy,1.0,12/20/20,"7,500000","(376,739)","207,746",0000045156,N-CSR,16
+Malaysia Bhd,BNP,Buy,1.0,12/20/20,"7,500000","(488,351)","207,746",0000045156,N-CSR,16

@@ -1,0 +1,4 @@
+Counterparty,Protection,Amount(000 s),Rate,Date,(Paid),Value,(Depreciation),CIK,Reporting Type,Report Year
+"Services, Inc.",Sell,17940000,1,3/20/16,561315,"(560,618",697,0000850134,N-CSR,11
+"JPMorgan Chase
+Bank NA, NY Branch",Sell,17950000,1,3/20/16,702457,"(639,198",63259,0000850134,N-CSR,11

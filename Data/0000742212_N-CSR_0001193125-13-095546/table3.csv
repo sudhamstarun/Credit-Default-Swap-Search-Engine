@@ -1,0 +1,7 @@
+Reference Entity,Counterparty,Buy/SellProtection,(Pay)/ReceiveFixed Rate,Expiration,ImpliedCreditSpread,UpfrontPremium Paid/(Received)(000 s),NotionalAmount(000 s),UnrealizedAppreciation/(Depreciation)(000 s),CIK,Reporting Type,Report Year
+"Markit CDX Emerging Markets Index, Series 17",Morgan Stanley Capital Services LLC,Sell,5.00%,6/17,2.052%,"1,226000","17,200000",936.0000,0000742212,N-CSR,13
+"Markit CDX Emerging Markets Index, Series 18",Barclays Bank PLC,Sell,5.00%,12/17,2.088%,61000,500000,nan000,0000742212,N-CSR,13
+"Markit CDX Emerging Markets Index, Series 18",Barclays Bank PLC,Sell,5.00%,12/17,2.106%,369000,"2,770000",nan000,0000742212,N-CSR,13
+"Markit CDX Emerging Markets Index, Series 18",BNP Paribas SA,Sell,5.00%,12/17,2.088%,121000,900000,nan000,0000742212,N-CSR,13
+"Markit CDX Emerging Markets Index, Series 18",HSBC Bank USA,Sell,5.00%,12/17,2.088%,748000,"5,600000",16.0000,0000742212,N-CSR,13
+"Markit MCDX Index, Series 18",Citibank N.A.,Sell,1.00%,6/17,1.558%,(126000,"4,700000",25.0000,0000742212,N-CSR,13

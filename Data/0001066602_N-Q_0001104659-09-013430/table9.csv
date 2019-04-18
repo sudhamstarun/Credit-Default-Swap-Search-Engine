@@ -1,0 +1,34 @@
+COUNTERPARTY, REFERENCE ENTITY/OBLIGATION,PROTECTION,"FIXED
+  RATE (%)",DATE,"AT
+  12/31/08(3)",AMOUNT(4),VALUE(5),PAID/(RECEIVED),(DEPRECIATION),CIK,Reporting Type,Report Year
+UBS AG,"Domtar Corp.
+  7.875%, 10/15/11",Sell,2.6,09/20/11,8.15%,1288000,"(162,663)","(162,663)",,0001066602,N-Q,09
+"Citibank N.A.,
+  New York","MBIA Insurance
+  Corp. (no specified obligation)",Sell,5.0,09/20/13,30.06%,641000,"(298,927)","(227,572)","(71,355)",0001066602,N-Q,09
+"Citibank N.A.,
+  New York","MBIA Insurance
+  Corp. (no specified obligation)",Sell,5.0,09/20/13,30.06%,1311000,"(611,377)","(507,740)","(103,637)",0001066602,N-Q,09
+"Credit Suisse
+  International","MBIA Insurance
+  Corp. (no specified obligation)",Sell,5.0,09/20/13,30.06%,2479000,"(1,156,067)","(436,083)","(719,984)",0001066602,N-Q,09
+"Goldman Sachs
+  International","MBIA Insurance
+  Corp. (no specified obligation)",Sell,5.0,09/20/13,30.06%,2538000,"(1,183,582)","(889,650)","(293,932)",0001066602,N-Q,09
+"JPMorgan Chase
+  Bank, N.A. New York","MBIA Insurance
+  Corp. (no specified obligation)",Sell,5.0,09/20/13,30.06%,3236000,"(1,509,090)","(569,247)","(939,843)",0001066602,N-Q,09
+"The Royal Bank of
+  Scotland PLC","MBIA Insurance
+  Corp. (no specified obligation)",Sell,5.0,09/20/13,30.06%,3724000,"(1,736,666)","(655,092)","(1,081,574)",0001066602,N-Q,09
+"Citibank N.A.,
+  New York","Norbord Inc.
+  7.250%, 07/01/12",Sell,2.2,06/20/12,9.32%,606500,"(112,562)","(112,562)",,0001066602,N-Q,09
+"Morgan Stanley
+  Capital Services Inc.","Verizon Wireless
+  7.375%, 11/15/13",Sell,1.9,12/20/13,2.13%,2200000,"(22,268)","(22,268)",,0001066602,N-Q,09
+Barclays Bank PLC,"Weyerhaeuser Co.
+  7.125%, 07/15/23",Sell,0.78,09/20/12,2.10%,2478000,"(112,748)","(112,748)",,0001066602,N-Q,09
+"Citibank N.A.,
+  New York","Williams Partners
+  LP 7.500%, 06/15/11",Sell,1.03,03/20/12,4.14%,2820619,"(251,393)","(251,393)",,0001066602,N-Q,09

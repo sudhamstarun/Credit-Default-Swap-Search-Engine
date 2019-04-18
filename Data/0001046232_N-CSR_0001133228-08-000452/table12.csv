@@ -1,0 +1,16 @@
+Expiration,Counterparty,Obligation/Index,Amount,Received,Received.1,"Gain
+          (Loss)",CIK,Reporting Type,Report Year
+12/20/2012,"Goldman
+          Sachs","Dow
+          Jones CDX,",790000,3.75%,Quarterly,"(4,592)",0001046232,N-CSR,08
+12/20/2012,"Lehman
+          Brothers","Dow
+          Jones CDX,",275000,3.75%,Quarterly,"(1,613)",0001046232,N-CSR,08
+06/20/2013,"Lehman
+          Brothers","Centex
+          Corp.,",200000,5.12%,Quarterly,11590,0001046232,N-CSR,08
+12/13/2049,"Goldman
+          Sachs","Markit
+          CMBX",95000,1.47%,Quarterly,9996,0001046232,N-CSR,08
+12/13/2049,UBS,"Markit
+          CMBX",115000,0.08%,Quarterly,12864,0001046232,N-CSR,08

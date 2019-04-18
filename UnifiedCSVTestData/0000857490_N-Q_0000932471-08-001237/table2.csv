@@ -1,0 +1,14 @@
+Reference Entity ,Date  ,Dealer (1) ,Amount($000) ,Fixed Rate(Paid)  ,CIK,Reporting Type,Report Year
+ Lehman Brothers Holdings Inc.,6/20/2008 ,DBS ,800000,0.180%,0000857490,N-Q,08
+ Procter & Gamble,9/20/2008 ,DBS ,2500000,0.120%,0000857490,N-Q,08
+ Procter & Gamble,9/20/2008 ,DBS ,2500000,0.120%,0000857490,N-Q,08
+ Procter & Gamble,9/20/2008 ,DBS ,2500000,0.120%,0000857490,N-Q,08
+ Burlington Northern Santa Fe Corp.,6/20/2012 ,DBS ,400000,0.400%,0000857490,N-Q,08
+ Johnson & Johnson,9/20/2012 ,UBS ,160000,0.080%,0000857490,N-Q,08
+ Johnson & Johnson,9/20/2012 ,GSI ,410000,0.070%,0000857490,N-Q,08
+ Lehman Brothers Holdings Inc.,12/20/2012 ,BOA ,325000,1.190%,0000857490,N-Q,08
+ Lehman Brothers Holdings Inc.,12/20/2012 ,BOA ,325000,1.190%,0000857490,N-Q,08
+ Lehman Brothers Holdings Inc.,12/20/2012 ,BOA ,325000,1.190%,0000857490,N-Q,08
+ AT&T Inc.,6/20/2013 ,GSI ,300000,(1.040%),0000857490,N-Q,08
+ AT&T Inc.,6/20/2013 ,GSI ,300000,(1.040%),0000857490,N-Q,08
+ AT&T Inc.,6/20/2013 ,GSI ,300000,(1.040%),0000857490,N-Q,08

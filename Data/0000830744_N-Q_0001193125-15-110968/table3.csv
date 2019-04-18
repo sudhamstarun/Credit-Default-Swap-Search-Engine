@@ -1,0 +1,6 @@
+Counterparty,Date,Amount(a),Rate,Reference Equity/Obligation,CIK,Reporting Type,Report Year
+IntercontinentalExchange##,12/20/19,1000000,1,CDS ITRAXX 5Y ICE,0000830744,N-Q,15
+IntercontinentalExchange##,12/20/19,3600000,1,CDX HY23 5Y BP,0000830744,N-Q,15
+IntercontinentalExchange##,12/20/19,340000,5,CDX HY23 5Y BP ICE,0000830744,N-Q,15
+Services##,06/20/15,900000,1,BARC SNR SE SP MYC,0000830744,N-Q,15
+Bank of America NA##,03/20/19,300000,1,BRL LA SP BOA,0000830744,N-Q,15

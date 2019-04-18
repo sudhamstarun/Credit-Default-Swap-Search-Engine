@@ -1,0 +1,9 @@
+Counterparty,Referenced entity,"
+Buy/SellProtection (10)","
+CurrentCredit Spread (11)","
+NotionalAmount","
+Fixed Rate(Annualized)","
+TerminationDate",Value,"
+UnrealizedAppreciationDepreciation",CIK,Reporting Type,Report Year
+Citibank,"Darden Restaurant's, Inc.",Buy,1.36,"2,000,000",1.0,3/20/20,"32,024","(50,450",0001093428,N-CSR,15
+Morgan Stanley,"Avon Products, Inc.",Buy,11.64,"2,000,000",1.0,3/20/20,"423,746","62,531",0001093428,N-CSR,15

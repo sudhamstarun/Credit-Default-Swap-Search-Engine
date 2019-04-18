@@ -1,0 +1,46 @@
+Counterparty,Reference Entity/Obligation,Buy/SellProtection,(Pays)/ReceivesRate,TerminationDate,NotionalAmount(Thousands),Net UnrealizedAppreciation(Depreciation)($Thousands),CIK,Reporting Type,Report Year
+Bank of America,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"6,325",(858,0000804239,N-Q,09
+Bank of America,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"2,750",(398,0000804239,N-Q,09
+Bank of America,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"6,635",(900,0000804239,N-Q,09
+Bank of America,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"2,900",(420,0000804239,N-Q,09
+Barclays Bank PLC,ABX.HE.PENAAA 07-2,SELL,0.76,01/25/38,"(2,500",(169,0000804239,N-Q,09
+Barclays Bank PLC,ABX.HE.PENAAA 07-2,SELL,0.76,01/25/38,"(2,000",(116,0000804239,N-Q,09
+Barclays Bank PLC,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"2,590",(389,0000804239,N-Q,09
+Citigroup,ABX.HE.AAA 06-2 Index,SELL,0.11,05/25/46,"(1,350",(402,0000804239,N-Q,09
+Citigroup,ABX.HE.AAA 07-1 Index,SELL,0.09,08/25/37,"(5,795","(3,314",0000804239,N-Q,09
+Citigroup,ABX.HE.PENAAA 07-2,SELL,0.76,01/25/38,"(2,900",(79,0000804239,N-Q,09
+Citigroup,ABX.HE.PENAAA 07-2,SELL,0.76,01/25/38,"(8,250",(61,0000804239,N-Q,09
+Citigroup,"Arrow Electronics Inc., 6.875%, 06/01/18",BUY,(0.82,03/20/14,965,,0000804239,N-Q,09
+Citigroup,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"5,220",(735,0000804239,N-Q,09
+Citigroup,"Darden Restaurants Inc., 6.000%, 08/15/35",BUY,(2.73,03/20/14,440,(27,0000804239,N-Q,09
+Citigroup,"Darden Restaurants Inc., 7.125%, 02/01/16",BUY,(2.40,03/20/15,800,(45,0000804239,N-Q,09
+Citigroup,"Hewlett Packard Co.,5.400%, 03/01/17",BUY,(0.72,03/20/14,965,(10,0000804239,N-Q,09
+Citigroup,"Lowes Companies Inc.,8.250%, 06/01/10",BUY,(1.20,03/20/14,"3,025",(61,0000804239,N-Q,09
+Citigroup,"Lowes Companies Inc.,5.875%, 12/16/36",BUY,(2.67,03/20/14,"2,900",(219,0000804239,N-Q,09
+Citigroup,"Nordstrom Inc.,6.950%, 03/15/28",BUY,(3.15,03/20/14,240,(9,0000804239,N-Q,09
+Citigroup,"Pulte Homes Inc.,5.250%, 01/15/14",BUY,(3.88,12/20/12,"2,200",(98,0000804239,N-Q,09
+Citigroup,"Pulte Homes Inc.,5.250%, 01/15/14",BUY,(3.91,12/20/12,"1,150",(53,0000804239,N-Q,09
+Citigroup,"Toll Brothers6.875%, 11/15/12",BUY,(2.83,12/20/12,"1,000",(44,0000804239,N-Q,09
+Credit Suisse,ABX.HE.AAA 06-1 Index,SELL,0.09,08/25/37,"(2,000",(381,0000804239,N-Q,09
+Credit Suisse,ABX.HE.AAA 06-2 Index,SELL,0.17,05/25/46,"(2,550",(276,0000804239,N-Q,09
+Credit Suisse,ABX.HE.AAA 06-2 Index,SELL,0.17,05/25/46,"(3,500",(404,0000804239,N-Q,09
+Credit Suisse,CMBX-NA-AJ 1,BUY,(0.84,10/12/52,"7,885","(1,101",0000804239,N-Q,09
+Credit Suisse,"General Electric Corp.,5.625%, 09/15/17",SELL,6.55,12/20/10,"(1,480",55,0000804239,N-Q,09
+Deutsche Bank,"Centex,5.250%, 06/15/15",BUY,(4.40,12/20/13,125,(14,0000804239,N-Q,09
+Deutsche Bank,"Darden Restaurants Inc.,6.000%, 08/15/35",BUY,(2.25,03/20/14,"1,075",(44,0000804239,N-Q,09
+Deutsche Bank,"Darden Restaurants Inc.,7.125%, 02/01/16",BUY,(2.25,03/20/13,400,(14,0000804239,N-Q,09
+Deutsche Bank,"Nordstrom Inc.,6.950%, 03/15/28",BUY,(2.10,03/20/14,"2,875",24,0000804239,N-Q,09
+Deutsche Bank,"Pulte Homes Inc.,5.250%, 01/15/14",BUY,(4.00,03/20/15,"1,500",(119,0000804239,N-Q,09
+Deutsche Bank,"Pulte Homes Inc.,5.250%, 01/15/14",BUY,(4.62,03/20/13,"1,500",(110,0000804239,N-Q,09
+Goldman Sachs,ABX.HE.AAA 06-2 Index,SELL,0.17,05/25/46,"(2,500",(276,0000804239,N-Q,09
+Goldman Sachs,ABX.HE.AAA 07-1 Index,SELL,0.09,08/25/37,"(2,700",(650,0000804239,N-Q,09
+Greenwich Capital Markets,ABX.HE.AAA 06-2 Index,SELL,0.17,05/25/46,"(2,000",(216,0000804239,N-Q,09
+JPMorgan Chase Bank,CDX.IG HVOL.12,SELL,5.00,04/20/14,"(3,400",158,0000804239,N-Q,09
+Merrill Lynch,"Centex Corporation,5.250%, 06/15/15",BUY,(3.56,12/20/12,"1,350",(83,0000804239,N-Q,09
+Merrill Lynch,"Centex Corporation,5.250%, 06/15/15",BUY,(3.65,12/20/12,925,(60,0000804239,N-Q,09
+Merrill Lynch,"Toll Brothers6.875%, 11/15/12",BUY,(2.83,12/20/12,"1,435",(63,0000804239,N-Q,09
+Merrill Lynch,"Toll Brothers6.875%, 11/15/12",BUY,(2.83,12/20/12,"2,450",(103,0000804239,N-Q,09
+Morgan Stanley,ABX.HE.AAA 07-1 Index,SELL,0.09,08/25/37,"(1,700",(423,0000804239,N-Q,09
+Morgan Stanley,ABX.HE.AAA 07-1 Index,SELL,0.09,08/25/37,"(3,800",(914,0000804239,N-Q,09
+Morgan Stanley,"Darden Restaurants Inc., 7.125%, 02/01/16",BUY,(2.25,03/20/13,400,(14,0000804239,N-Q,09
+Morgan Stanley,"Midamerican Energy Corp., 4.625%, 10/15/13",SELL,4.00,03/20/11,"(2,800",69,0000804239,N-Q,09

@@ -1,0 +1,47 @@
+"
+SWAP
+  COUNTERPARTY &
+  REFERENCE 
+  OBLIGATION
+","
+BUY/SELL
+  PROTECTION
+","
+NOTIONAL
+  AMOUNT
+  (000 s)
+","
+INTEREST
+  RATE
+","
+TERMINATION
+  DATE
+","
+UNREALIZED
+  DEPRECIATION
+","
+UPFRONT
+  PAYMENTS
+","
+VALUE
+","
+CREDIT
+  RATING OF
+  REFERENCE
+  OBLIGATION+ (unaudited)
+",CIK,Reporting Type,Report Year
+"
+Bank of America, N.A. Tyco Electronics Ltd.
+","
+Buy
+",165000,5.0,"
+June 20, 2014
+","
+(22,115
+","
+(6,932
+","
+(29,047
+","
+BBB-
+",0000716716,N-Q,10

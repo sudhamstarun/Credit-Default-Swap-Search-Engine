@@ -1,0 +1,13 @@
+Counterparty,Reference Entity/Obligation,Protection,Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+"Bear
+  Stearns Credit Products Inc.","Idearc Inc. 8%, 11/15/2016",Buy,(1.660)%,12/20/11,1100000,"(6,987)",0000916403,N-Q,07
+"Merrill
+  Lynch International","Idearc Inc. 8%, 11/15/2016",Buy,(1.730)%,12/20/11,1100000,"(27,100)",0000916403,N-Q,07
+"JPMorgan
+  Chase Bank N.A., New York","Norbord Inc. 7.25%, 07/01/12",Buy,(1.380)%,06/20/14,1000000,26310,0000916403,N-Q,07
+"Citibank
+  N.A., New York","R.H. Donnelley Corporation 8.875%, 01/15/16",Sell,2.350%,12/20/11,1100000,11738,0000916403,N-Q,07
+"Goldman
+  Sachs International","R.H. Donnelley Corporation 8.875%, 01/15/16",Sell,2.450%,12/20/11,1100000,27415,0000916403,N-Q,07
+"Goldman
+  Sachs International","Temple-Inland 7.875%, 05/01/12",Buy,(1.040)%,03/20/14,600000,4078,0000916403,N-Q,07

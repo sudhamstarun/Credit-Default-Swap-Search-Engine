@@ -1,0 +1,67 @@
+Counterparty,Referenced Obligation,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+HSBC,Russian Federation 7.500% due 03/31/30,Sell,0.220%,07/20/07,"$1,000,000",$45,0000813900,N-CSR,07
+JPMorgan Chase,American International Group 0.000% due 11/09/31,Sell,0.050%,12/20/07,12600000,649,0000813900,N-CSR,07
+Deutsche Bank,Russian Federation 7.500% due 03/31/30,Sell,0.260%,12/20/07,3400000,429,0000813900,N-CSR,07
+Morgan Stanley,Russian Federation 7.500% due 03/31/30,Sell,0.260%,12/20/07,2000000,252,0000813900,N-CSR,07
+Goldman Sachs,American International Group 5.600% due 10/18/16,Sell,0.055%,03/20/08,25000000,877,0000813900,N-CSR,07
+Lehman Brothers,Johnson & Johnson 3.800% due 05/15/13,Buy,(0.110%),12/20/08,7900000,"(10,811",0000813900,N-CSR,07
+Lehman Brothers,The Home Depot Inc 5.375% due 04/01/06,Buy,(0.120%),12/20/08,7900000,"(3,980",0000813900,N-CSR,07
+Bank of America,E.I. du Pont de Nemours 6.875% due 10/15/09,Buy,(0.130%),12/20/08,7200000,"(7,520",0000813900,N-CSR,07
+Barclays,Wal-Mart Stores Inc 6.875% due 08/10/09,Buy,(0.140%),12/20/08,800000,(994,0000813900,N-CSR,07
+Citigroup,Wal-Mart Stores Inc 3.375% due 10/01/08,Buy,(0.140%),12/20/08,12600000,"(15,654",0000813900,N-CSR,07
+Lehman Brothers,Wal-Mart Stores Inc 6.875% due 08/10/09,Buy,(0.140%),12/20/08,400000,(497,0000813900,N-CSR,07
+Credit Suisse,Wal-Mart Stores Inc 4.550% due 05/01/13,Buy,(0.150%),12/20/08,1300000,"(1,802",0000813900,N-CSR,07
+Barclays,Eli Lilly & Co 6.000% due 03/15/12,Buy,(0.160%),12/20/08,8700000,"(15,820",0000813900,N-CSR,07
+Morgan Stanley,Emerson Electric Co 4.625% due 10/15/12,Buy,(0.210%),12/20/08,6000000,"(14,255",0000813900,N-CSR,07
+Merrill Lynch,Gannett Co Inc 6.375% due 04/01/12,Buy,(0.220%),12/20/08,2200000,"(1,074",0000813900,N-CSR,07
+Lehman Brothers,Costco Wholesale Corp 5.500% due 03/15/07,Buy,(0.240%),12/20/08,1700000,"(4,436",0000813900,N-CSR,07
+Morgan Stanley,The Allstate Corp 6.125% due 02/15/12,Buy,(0.260%),12/20/08,10000000,"(24,839",0000813900,N-CSR,07
+Bear Stearns,Eaton Corp 5.750% due 07/15/12,Buy,(0.280%),12/20/08,8000000,"(26,348",0000813900,N-CSR,07
+Barclays,FedEx Corp 7.250% due 02/15/11,Buy,(0.290%),12/20/08,2400000,"(7,083",0000813900,N-CSR,07
+Bear Stearns,TRW Inc 7.125% due 06/01/09,Buy,(0.290%),12/20/08,1000000,"(3,402",0000813900,N-CSR,07
+Citigroup,FedEx Corp 7.250% due 02/15/11,Buy,(0.290%),12/20/08,3500000,"(10,329",0000813900,N-CSR,07
+Lehman Brothers,Whirlpool Corp 8.600% due 05/01/10,Buy,(0.290%),12/20/08,3800000,"(13,746",0000813900,N-CSR,07
+UBS,TRW Inc 7.125% due 06/01/09,Buy,(0.290%),12/20/08,1100000,"(3,742",0000813900,N-CSR,07
+Lehman Brothers,Masco Tech Inc 5.875% due 07/15/12,Buy,(0.300%),12/20/08,3300000,"(3,984",0000813900,N-CSR,07
+Bear Stearns,Hewlett-Packard Co 6.500% due 07/01/12,Buy,(0.320%),12/20/08,9600000,"(36,805",0000813900,N-CSR,07
+Merrill Lynch,Ingersoll-Rand Co Ltd 6.480% due 06/01/25,Buy,(0.320%),12/20/08,4900000,"(11,988",0000813900,N-CSR,07
+Lehman Brothers,RadioShack Corp 7.375% due 05/15/11,Buy,(0.350%),12/20/08,3300000,241,0000813900,N-CSR,07
+Royal Bank of Scotland,Republic of Indonesia 6.750% due 03/10/14,Sell,0.400%,12/20/08,2200000,351,0000813900,N-CSR,07
+Credit Suisse,Federated Department Stores Inc 6.625% due 04/01/11,Buy,(0.410%),12/20/08,1300000,"(3,577",0000813900,N-CSR,07
+Credit Suisse,Lockheed Martin Corp 8.200% due 12/01/09,Buy,(0.440%),12/20/08,1300000,"(7,605",0000813900,N-CSR,07
+ABN AMRO,Carnival Corp 6.150% due 04/15/08,Buy,(0.480%),12/20/08,1100000,"(6,572",0000813900,N-CSR,07
+Lehman Brothers,Northrop Grumman Corp 7.125% due 02/15/11,Buy,(0.480%),12/20/08,3200000,"(19,639",0000813900,N-CSR,07
+Credit Suisse,The Walt Disney Co 6.375% due 03/01/12,Buy,(0.530%),12/20/08,1300000,"(9,032",0000813900,N-CSR,07
+Lehman Brothers,Lockheed Martin Corp 8.200% due 12/01/09,Buy,(0.530%),12/20/08,3200000,"(22,867",0000813900,N-CSR,07
+Barclays,The Walt Disney Co 6.375% due 03/01/12,Buy,(0.670%),12/20/08,3900000,"(34,956",0000813900,N-CSR,07
+Barclays,Ukraine Government Bond 7.650% due 06/11/13,Sell,0.710%,12/20/08,2800000,7632,0000813900,N-CSR,07
+Deutsche Bank,Ukraine Government Bond 7.650% due 06/11/13,Sell,0.720%,12/20/08,1400000,4016,0000813900,N-CSR,07
+Credit Suisse,Goodrich Corp 7.625% due 12/15/12,Buy,(0.900%),12/20/08,1300000,"(15,886",0000813900,N-CSR,07
+Lehman Brothers,Goodrich Corp 7.625% due 12/15/12,Buy,(0.970%),12/20/08,3200000,"(42,329",0000813900,N-CSR,07
+Bear Stearns,Capital One Financial Corp 4.875% due 05/15/08,Buy,(1.090%),12/20/08,2200000,"(30,464",0000813900,N-CSR,07
+JPMorgan Chase,Capital One Financial Corp 8.750% due 02/01/07,Buy,(1.350%),12/20/08,900000,"(15,829",0000813900,N-CSR,07
+Morgan Stanley,Dow Jones CDX NA EM3 Index,Sell,2.100%,06/20/10,18900000,1323745,0000813900,N-CSR,07
+Bear Stearns,Ford Motor Credit Co 7.000% due 10/01/13,Sell,4.300%,06/20/10,1400000,67333,0000813900,N-CSR,07
+Morgan Stanley,Republic of Turkey 11.875% due 01/15/30,Buy,(2.250%),09/20/10,550000,"(20,221",0000813900,N-CSR,07
+Lehman Brothers,Republic of Turkey 11.875% due 01/15/30,Buy,(2.110%),10/20/10,1600000,"(52,516",0000813900,N-CSR,07
+Morgan Stanley,Republic of Turkey 11.875% due 01/15/30,Buy,(2.200%),10/20/10,1100000,"(39,071",0000813900,N-CSR,07
+Barclays,DaimlerChrysler NA Holdings 5.750% due 09/08/11,Buy,(0.580%),09/20/11,8000000,"(97,337",0000813900,N-CSR,07
+Bank of America,Time Warner Inc 5.500% due 11/15/11,Buy,(0.310%),12/20/11,4000000,"(16,417",0000813900,N-CSR,07
+Deutsche Bank,Dow Jones CDX NA IG7 Index,Buy,(0.400%),12/20/11,80300000,194954,0000813900,N-CSR,07
+Lehman Brothers,Dow Jones CDX NA HY-7 Index,Buy,(3.250%),12/20/11,7550000,190037,0000813900,N-CSR,07
+Bank of America,BHP Billiton Finance Ltd 5.125% due 03/29/12,Buy,(0.135%),03/20/12,3000000,(117,0000813900,N-CSR,07
+Barclays,XL Capital PLC 6.500% due 01/15/12,Buy,(0.205%),03/20/12,5300000,24008,0000813900,N-CSR,07
+Credit Suisse,Nabors Industries Inc 5.375% due 08/15/12,Buy,(0.470%),06/20/12,1500000,"(6,390",0000813900,N-CSR,07
+Deutsche Bank,Nabors Industries Inc 0.000% due 02/05/21,Buy,(0.470%),06/20/12,10000000,"(42,597",0000813900,N-CSR,07
+Barclays,Weyerhaeuser Co 6.750% due 03/15/12,Buy,(0.490%),06/20/12,2000000,"(3,117",0000813900,N-CSR,07
+Credit Suisse,Noble Corp 5.880% due 06/01/13,Buy,(0.520%),06/20/12,5700000,"(20,770",0000813900,N-CSR,07
+Royal Bank of Scotland,Meadwestvaco Corp 6.850% due 04/01/12,Buy,(0.520%),06/20/12,6000000,10840,0000813900,N-CSR,07
+Credit Suisse,GlobalSantaFe Corp 5.000% due 02/15/13,Buy,(0.530%),06/20/12,10000000,"(78,682",0000813900,N-CSR,07
+Bank of America,Chesapeake Energy Corp 6.875% due 01/15/16,Sell,1.000%,06/20/12,1600000,"(19,582",0000813900,N-CSR,07
+Citigroup,Chesapeake Energy Corp 6.875% due 01/15/16,Sell,1.000%,06/20/12,5400000,"(60,533",0000813900,N-CSR,07
+Deutsche Bank,Chesapeake Energy Corp 6.875% due 01/15/16,Sell,1.000%,06/20/12,2800000,"(34,269",0000813900,N-CSR,07
+Morgan Stanley,Chesapeake Energy Corp 6.875% due 01/15/16,Sell,1.000%,06/20/12,1500000,"(18,359",0000813900,N-CSR,07
+Credit Suisse,Chesapeake Energy Corp 6.875% due 01/15/16,Sell,1.050%,06/20/12,10000000,90760,0000813900,N-CSR,07
+Lehman Brothers,Chesapeake Energy Corp 6.875% due 01/15/16,Sell,1.100%,06/20/12,5000000,"(39,787",0000813900,N-CSR,07
+Citigroup,Nortel Networks Ltd 10.125% due 07/15/13,Sell,2.300%,06/20/12,10000000,"(186,182",0000813900,N-CSR,07
+Citigroup,Dow Jones CDX NA HY-8 Index,Buy,(2.750%),06/20/12,4500000,124844,0000813900,N-CSR,07

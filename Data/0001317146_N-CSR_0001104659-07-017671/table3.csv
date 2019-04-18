@@ -1,0 +1,30 @@
+"
+NotionalAmount","
+ExpirationDate","
+Description","
+NetUnrealizedAppreciation(Depreciation)",CIK,Reporting Type,Report Year
+"
+1,000,000 USD            ","
+12/20/2009    ","
+Agreement with Barclays Bank, dated12/15/05 to pay 0.55% times the notionalamount. The Fund receives payment onlyupon a default event of Cox Communications, Inc. Bond.","
+$(10,809)    ",0001317146,N-CSR,07
+"
+5,000,000 USD         ","
+3/20/2011   ","
+Agreement with Bank of America, dated1/9/06 to pay 0.14% times the notionalamount. The Fund receives payment onlyupon a default event of Citigroup, Inc. Bond.","
+(13,373)   ",0001317146,N-CSR,07
+"
+5,000,000 USD            ","
+3/20/2011    ","
+Agreement with Goldman Sachs, dated 1/9/06 to pay 0.34% times the notional amount. The Fund receives payment only upon a default event of Washington Mutual, Inc. Senior Unsecured Note.","
+(27,645)    ",0001317146,N-CSR,07
+"
+5,000,000 USD            ","
+3/20/2011    ","
+Agreement with Bank of America, dated 1/10/06 to pay 0.12% times the notional amount. The Fund receives payment only upon a default event of Wells Fargo & Company Note.","
+(11,467)    ",0001317146,N-CSR,07
+"
+5,000,000 USD            ","
+3/20/2011    ","
+Agreement with Goldman Sachs, dated 1/10/06 to pay 0.14% times the notional amount. The Fund receives payment only upon a default event of Bank of America Corporation Senior Note.","
+(13,387)    ",0001317146,N-CSR,07

@@ -1,0 +1,10 @@
+Issuer,ReceiveFixed Rate,Counterparty,ExpirationDate,IssuerCreditRating1,NotionalAmount(000)2,MarketValue,PremiumsPaid(Received),Unrealized,CIK,Reporting Type,Report Year
+Anadarko Petroleum Corp.,1.0,Morgan Stanley CapitalServices LLC,6/20/17,BBB-,    200000,"3,170","(6,029","9,199",0001221845,N-CSR,14
+Comcast Corp.,1.0,Credit Suisse International,9/20/17,A-,"    1,400000","33,799","3,503","30,296",0001221845,N-CSR,14
+"UnitedHealth Group, Inc.",1.0,Goldman Sachs Bank USA,9/20/17,A,"    1,200000","28,883","(1,781","30,664",0001221845,N-CSR,14
+"WellPoint, Inc.",1.0,Goldman Sachs Bank USA,9/20/17,Not Rated,"    1,200000","27,773","(6,850","34,623",0001221845,N-CSR,14
+Host Hotels & Resorts LP,1.0,Credit Suisse International,3/20/19,BBB,    825000,"12,296","(4,538","16,834",0001221845,N-CSR,14
+Valero Energy Corp.,1.0,Barclays Bank PLC,9/20/19,BBB,"    1,063000","(4,935","4,378","(9,313",0001221845,N-CSR,14
+Valero Energy Corp.,1.0,Barclays Bank PLC,9/20/19,BBB,    390000,"(1,809","1,809","(3,618",0001221845,N-CSR,14
+Valero Energy Corp.,1.0,Barclays Bank PLC,9/20/19,BBB,    27000,(123,124,(247,0001221845,N-CSR,14
+Valero Energy Corp.,1.0,Citibank N.A.,9/20/19,BBB,    235000,"(1,091","1,985","(3,076",0001221845,N-CSR,14

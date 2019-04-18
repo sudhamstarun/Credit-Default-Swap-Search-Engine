@@ -1,0 +1,27 @@
+Counterparty (Issuer),Reference Entity,Fixed Rate ,Date,Amount (a),CIK,Reporting Type,Report Year
+Deutsche Bank AG,United Mexican States;,1.0,03/20/2015,800,0000898745,N-CSR,12
+Goldman Sachs & Co,Berkshire Hathaway,1.0,03/20/2015,1100,0000898745,N-CSR,12
+Goldman Sachs & Co,France (Govt of) OAT,0.25,03/20/2016,21400,0000898745,N-CSR,12
+Goldman Sachs & Co,France (Govt of) OAT,0.25,06/20/2016,7500,0000898745,N-CSR,12
+Goldman Sachs & Co,Japanese Government,1.0,06/20/2016,3300,0000898745,N-CSR,12
+Goldman Sachs & Co,Republic of Brazil,1.0,06/20/2015,500,0000898745,N-CSR,12
+Goldman Sachs & Co,UK GILT; 4.25%;,1.0,06/20/2015,12300,0000898745,N-CSR,12
+Goldman Sachs & Co,UK GILT; 4.25%;,1.0,12/20/2015,2100,0000898745,N-CSR,12
+Goldman Sachs & Co,UK GILT; 4.25%;,1.0,12/20/2015,1000,0000898745,N-CSR,12
+Goldman Sachs & Co,United Mexican States;,1.0,03/20/2016,1900,0000898745,N-CSR,12
+HSBC Securities Inc,France (Govt of) OAT,0.25,09/20/2016,400,0000898745,N-CSR,12
+HSBC Securities Inc,France (Govt of) OAT,0.25,09/20/2016,500,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,06/20/2015,4400,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,12/20/2015,5200,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,06/20/2015,2100,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,06/20/2016,6000,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,03/20/2016,38100,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,09/20/2015,1500,0000898745,N-CSR,12
+HSBC Securities Inc,Republic of Brazil,1.0,06/20/2015,24500,0000898745,N-CSR,12
+HSBC Securities Inc,United Mexican States;,1.0,03/20/2021,7500,0000898745,N-CSR,12
+JP Morgan Chase,General Electric Capital,1.0,03/20/2014,3400,0000898745,N-CSR,12
+JP Morgan Chase,Morgan Stanley Dean,1.0,09/20/2012,1100,0000898745,N-CSR,12
+JP Morgan Chase,Republic of Brazil,1.0,09/20/2016,1200,0000898745,N-CSR,12
+Morgan Stanley & Co,France (Govt of) OAT,0.25,03/20/2016,500,0000898745,N-CSR,12
+Morgan Stanley & Co,Republic of Brazil,1.0,06/20/2015,600,0000898745,N-CSR,12
+Morgan Stanley & Co,Republic of Indonesia,1.0,06/20/2021,7700,0000898745,N-CSR,12

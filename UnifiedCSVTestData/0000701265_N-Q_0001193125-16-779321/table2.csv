@@ -1,0 +1,4 @@
+Description,Protection,Asset,Fixed Rate,Expiration Date,Notional Amount(000 s),CIK,Reporting Type,Report Year
+Credit Default Swap maturing 06/20/21 Call,Buy,CDX. NA.HY.26,5.000%,12/21/16,26673000,0000701265,N-Q,16
+Credit Default Swap maturing 06/20/21 Call,Buy,CDX. NA.HY.26,5,12/21/16,26672000,0000701265,N-Q,16
+Credit Default Swap maturing 06/20/21 Call,Buy,CDX. NA.HY.26,5,12/21/16,22953000,0000701265,N-Q,16

@@ -1,0 +1,6 @@
+Counterparty,NotionalAmount,ExpirationDate,Payments Made by Fund,Payments Received by Fund,UnrealizedAppreciation(Depreciation),PremiumReceived(Paid),Value,CIK,Reporting Type,Report Year
+MXN,"14,000,000",9/02/22,MXN TIIE Mexican Banxico,Fixed 6.000%,"(1,930","(7,326","(9,256",0000067160,N-Q,14
+BRL,"6,100,000",1/04/21,BRL CETIP Brazilian Interbank Deposit,Fixed 12.055%,"(15,139","10,183","(4,956",0000067160,N-Q,14
+MXN,"2,000,000",1/18/19,MXN TIIE Mexican Banxico,Fixed 5.700%,"3,482",(572,"2,910",0000067160,N-Q,14
+MXN,"9,000,000",1/18/19,MXN TIIE Mexican Banxico,Fixed 5.700%,"16,122","(3,028","13,094",0000067160,N-Q,14
+MXN,"2,000,000",6/05/23,MXN TIIE Mexican Banxico,Fixed 6.000%,"2,408","(4,934","(2,526",0000067160,N-Q,14

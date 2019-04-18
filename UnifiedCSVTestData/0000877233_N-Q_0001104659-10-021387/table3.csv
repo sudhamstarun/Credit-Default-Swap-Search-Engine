@@ -1,0 +1,17 @@
+Counterparty,"Reference
+  Entity/Obligation",Protection,"Rate
+  (%)",Date,"Amount
+  (4)",(Depreciation),CIK,Reporting Type,Report Year
+"Morgan Stanley Capital
+  Services Inc.","Domtar Inc. 7.875%,
+  10/15/11",Buy,(2.650),09/20/11,84500,,0000877233,N-Q,10
+"Morgan Stanley Capital
+  Services Inc.","Kraft Foods Inc. 5.250%,
+  02/01/38",Buy,(1.000),10/01/13,154000,"(1,510)",0000877233,N-Q,10
+"Citibank N.A., New York","MBIA Inc. 6.625%,
+  10/01/28",Buy,(5.000),09/20/13,32000,4028,0000877233,N-Q,10
+"Citibank N.A., New York","MBIA Inc. 6.625%,
+  10/01/28",Buy,(5.000),09/20/13,67000,9082,0000877233,N-Q,10
+"JPMorgan Chase Bank,
+  N.A. New York","MBIA Inc. 6.625%,
+  10/01/28",Buy,(5.000),09/20/13,211000,50806,0000877233,N-Q,10

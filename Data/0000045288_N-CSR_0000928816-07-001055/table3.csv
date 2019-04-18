@@ -1,0 +1,5 @@
+ISSUER  ,AMOUNT  ,PROTECTION ,FIXED RATE  ,DATE  ,COUNTERPARTY  ,CIK,Reporting Type,Report Year
+Ford Motor Company  ,"$5,000,000  ",SELL  ,2.15%  ,Jun 08  ,Morgan Stanley  ,0000045288,N-CSR,07
+Rubber Company  ,5000000,SELL  ,1.51,Jun 12  ,Bank of America  ,0000045288,N-CSR,07
+"Cummins, Inc.  ",5000000,BUY  ,(0.55)  ,Jun 12  ,Barclays Capital  ,0000045288,N-CSR,07
+CBS Corporation  ,5000000,BUY  ,(0.78)  ,Jun 14  ,Bank of America  ,0000045288,N-CSR,07

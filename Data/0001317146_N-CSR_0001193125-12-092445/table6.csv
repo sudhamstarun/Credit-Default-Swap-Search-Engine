@@ -1,0 +1,10 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"5,525,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(12,170","290,078","277,908",0001317146,N-CSR,12
+"5,525,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(39,795","317,703","277,908",0001317146,N-CSR,12
+"13,300,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(295,297","964,287","668,990",0001317146,N-CSR,12
+"4,575,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"12,810","217,312","230,122",0001317146,N-CSR,12
+"4,200,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(42,490","253,750","211,260",0001317146,N-CSR,12
+"4,200,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(61,740","273,000","211,260",0001317146,N-CSR,12
+"10,030,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(465,304","969,813","504,509",0001317146,N-CSR,12
+"2,950,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(146,615","295,000","148,385",0001317146,N-CSR,12
+"4,600,000",10/12/52,Goldman Sachs & Co.,Buy,(0.100%,CMBX.NA.AAA.1,"(102,133","333,513","231,380",0001317146,N-CSR,12

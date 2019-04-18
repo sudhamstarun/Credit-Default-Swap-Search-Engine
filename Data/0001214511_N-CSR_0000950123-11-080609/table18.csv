@@ -1,0 +1,55 @@
+"
+Referenced Debt Issuer
+","
+Amount
+","
+Spread
+","
+Date
+","
+Made
+","
+Value
+","
+Paid
+","
+(Depreciation)
+",CIK,Reporting Type,Report Year
+"
+
+    Bank of America:
+    CDX North America
+    High Yield Index
+
+","
+    3,000,000
+",459.88,"
+    06/20/2016
+","
+    5.000%
+","
+    47,708
+","
+    43,125
+","
+    4,583
+",0001214511,N-CSR,11
+"
+
+    Bank of America:
+    CDX North America
+    Investment Grade Index
+
+","
+    14,000,000
+",91.75,"
+    06/20/2016
+","
+    1.000%
+","
+    57,329
+","
+    72,034
+","
+    (14,705
+",0001214511,N-CSR,11

@@ -1,0 +1,20 @@
+Expiration,Counterparty,"Reference
+ Debt
+ Obligation/
+ Index","Notional
+ Amount","Fixed
+ Payments
+ Made by
+the Fund","Frequency of
+ Payments 
+Made","Unrealized
+ Gain (Loss)",CIK,Reporting Type,Report Year
+12/20/2013,Deutsche Bank,"Expedia, Inc., 7.46%, 08/01/2018","1,135,000",3.50%,Quarterly,"54,165",0001227073,N-CSR,09
+12/20/2013,Goldman Sachs,"Humana, Inc., 6.30%, 12/22/2008","1,140,000",3.75%,Quarterly,"(45,129",0001227073,N-CSR,09
+12/20/2013,Goldman Sachs,"Sun Microsystems, Inc., 0.75%, 02/01/2014","1,225,000",1.55%,Quarterly,"(6,108",0001227073,N-CSR,09
+12/20/2013,JPMorgan,"Expedia, Inc., 7.46%, 08/01/2018","685,000",5.35%,Quarterly,"(18,956",0001227073,N-CSR,09
+12/20/2013,UBS,"Pulte Homes, Inc., 5.25%, 01/15/2014","1,250,000",2.45%,Quarterly,"63,072",0001227073,N-CSR,09
+12/20/2013,UBS,"Motorola, Inc., 6.50%, 09/01/2025","780,000",2.55%,Quarterly,"32,051",0001227073,N-CSR,09
+12/20/2013,UBS,"Motorola, Inc., 6.50%, 09/01/2025","610,000",2.58%,Quarterly,"24,280",0001227073,N-CSR,09
+12/20/2013,UBS,"Pulte Homes, Inc., 5.25%, 01/15/2014","740,000",2.43%,Quarterly,"37,988",0001227073,N-CSR,09
+12/20/2013,UBS,"Motorola, Inc., 6.50%, 09/01/2025","425,000",3.07%,Quarterly,"8,410",0001227073,N-CSR,09

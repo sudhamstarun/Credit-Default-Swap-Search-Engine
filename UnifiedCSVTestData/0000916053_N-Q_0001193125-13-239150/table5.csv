@@ -1,0 +1,22 @@
+NotionalAmount,ExpirationDate,Counterparty,Buy/SellProtection,Receive(Pay)FixedRate,Deliverable on Default,UnrealizedAppreciation(Depreciation),Premium(Received)Paid,Value,CIK,Reporting Type,Report Year
+"7,500,000",6/20/15,Barclays Bank PLC,Sell ,5.000%,CDX.EM.13  (PIMCO Rating: BA+)**,"(113,433","438,750","325,317",0000916053,N-Q,13
+"1,000,000",6/20/15,Barclays Bank PLC,Sell ,5.000%,CDX.EM.13  (PIMCO Rating: BA+)**,"(69,624","113,000","43,376",0000916053,N-Q,13
+"6,900,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,People s Republic of China (PIMCO Rating: AA-)**,"45,525","83,717","129,242",0000916053,N-Q,13
+"1,000,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,People s Republic of China (PIMCO Rating: AA-)**,"6,781","11,950","18,731",0000916053,N-Q,13
+"3,600,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"56,974","(17,371","39,603",0000916053,N-Q,13
+"17,100,000",3/20/16,Barclays Bank PLC,Sell ,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"61,122","(78,063","(16,941",0000916053,N-Q,13
+"9,100,000",6/20/16,Barclays Bank PLC,Sell ,1.000%,People s Republic of China (PIMCO Rating: AA-)**,"54,044","118,185","172,229",0000916053,N-Q,13
+"1,600,000",6/20/17,Barclays Bank PLC,Sell ,1.000%,Berkshire Hathaway Finance (PIMCO Rating: AA+)**,"63,827","(41,119","22,708",0000916053,N-Q,13
+"6,100,000",6/20/16,Credit Suisse Securities LLC,Sell ,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"(7,183","(8,878","(16,061",0000916053,N-Q,13
+"1,400,000",6/20/17,Credit Suisse Securities LLC,Sell ,1.000%,Berkshire Hathaway Finance (PIMCO Rating: AA+)**,"54,569","(34,699","19,870",0000916053,N-Q,13
+"7,700,000",12/20/15,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"288,211","(207,341","80,870",0000916053,N-Q,13
+"4,300,000",3/20/16,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"180,068","(132,765","47,303",0000916053,N-Q,13
+"1,600,000",6/20/16,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"10,462","16,292","26,754",0000916053,N-Q,13
+"1,300,000",9/20/16,Goldman Sachs & Co.,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"17,356","(6,020","11,336",0000916053,N-Q,13
+"2,100,000",3/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"53,154","(17,572","35,582",0000916053,N-Q,13
+"3,800,000",3/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"91,667","(27,281","64,386",0000916053,N-Q,13
+"1,400,000",3/20/17,Goldman Sachs & Co.,Sell ,1.000%,Japan Government (PIMCO Rating: AA-)**,"33,094","(9,373","23,721",0000916053,N-Q,13
+"7,900,000",12/20/20,Goldman Sachs & Co.,Sell ,1.000%,American International Group (PIMCO Rating: A-)**,"1,440,216","(1,643,800","(203,584",0000916053,N-Q,13
+"6,600,000",3/20/16,JP Morgan Chase Bank,Sell ,1.000%,"MetLife, Inc. (PIMCO Rating: A-)**","214,747","(159,291","55,456",0000916053,N-Q,13
+"2,400,000",6/20/17,JP Morgan Chase Bank,Sell ,1.000%,Federative Republic of Brazil (PIMCO Rating: BAA)**,"7,787","(32,871","(25,084",0000916053,N-Q,13
+"5,700,000",9/20/17,JP Morgan Chase Bank,Sell ,1.000%,United Mexican States (PIMCO Rating: BAA+)**,"99,009","(78,938","20,071",0000916053,N-Q,13

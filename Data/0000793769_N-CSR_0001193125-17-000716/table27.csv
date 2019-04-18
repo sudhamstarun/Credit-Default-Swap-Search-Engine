@@ -1,0 +1,37 @@
+"Counterparty
+ ","Reference
+ Entity ","Buy/
+ Sellb,c ","Pay/Receive
+ Fixed Rate ","Expiration
+ Date ","Implied
+ Credit Spreadd ","Value
+e (000s) ","Upfront
+ Premium Paid/ (Received) (000s) ","Notional
+ Amount (000s) ","Unrealized
+ Appreciation/ (Depreciation) (000s) ",CIK,Reporting Type,Report Year
+"
+HSBC Bank USA
+NA
+","Petroleo
+ Brasileiro SA Petrobras 8.380% due 12/10/2018 ","Sell
+ ","1.000%
+ ","03/20/2020
+ ","3.304%
+ ","$(14)
+ 000","$
+(36) 000","$
+ 200 000","$
+22 000",0000793769,N-CSR,17
+"
+JP Morgan Chase Bank
+NA
+","Petroleo
+ Brasileiro SA Petrobras 8.380% due 12/10/2018 ","Sell
+ ","1.000
+ ","12/20/2019
+ ","3.115
+ ","(130)
+ 000","(237)
+ 000","2,100
+ 000","107
+ 000",0000793769,N-CSR,17

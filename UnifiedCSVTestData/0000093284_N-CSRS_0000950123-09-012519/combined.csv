@@ -1,0 +1,252 @@
+"
+SWAP COUNTERPARTY & REFERENCE OBLIGATION
+
+","
+BUY/SELL PROTECTION
+
+","
+AMOUNT (000 S)
+
+","
+INTEREST
+
+","
+TERMINATION
+
+","
+APPRECIATION
+
+","
+INTEREST RATE
+
+","
+TERMINATION DATE
+
+","
+APPRECIATION (DEPRECIATION)
+
+",CIK,Reporting Type,Report Year
+"
+
+    Bank of America, N.A.
+    Carnival Corp. 
+
+","
+    Buy
+","
+    605
+000",1.57,"
+    March 20, 2018
+","
+    34,950
+",,,,0000093284,N-CSRS,09
+"
+
+    Bank of America, N.A.
+    Centurytel, Inc. 
+
+","
+    Buy
+","
+    395
+000",0.88,"
+    September 20, 2017
+","
+    3,760
+",,,,0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    1,474
+000",1.4,"
+    December 20, 2012
+","
+    (123,756
+",,,,0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    1,547
+000",1.4,"
+    December 20, 2012
+","
+    (131,699
+",,,,0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    3,316
+000",1.4,"
+    December 20, 2012
+","
+    (270,378
+",,,,0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    4,304
+000",1.55,"
+    June 20, 2013
+","
+    (197,801
+",,,,0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Sealed Air Corp. 
+
+","
+    Buy
+","
+    250
+000",1.08,"
+    March 20, 2018
+","
+    23,607
+",,,,0000093284,N-CSRS,09
+"
+
+    Bank of America, N.A.
+    Toll Brothers, Inc. 
+
+","
+    Buy
+","
+    770
+000",2.9,"
+    March 20, 2013
+","
+    (27,907
+",,,,0000093284,N-CSRS,09
+"
+
+    Bank of America, N.A.
+    Carnival Corp. 
+
+","
+    Buy
+","
+    605
+000",1.57,03/20/18,34950,,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Bank of America, N.A.
+    Centurytel, Inc. 
+
+","
+    Buy
+","
+    395
+000",0.88,09/20/17,3760,,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    1,474
+000",1.4,12/20/12,"    (123,756",,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    1,547
+000",1.4,12/20/12,"    (131,699",,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    3,316
+000",1.4,12/20/12,"    (270,378",,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Dow Jones Index
+
+","
+    Sell
+","
+    4,304
+000",1.55,06/20/13,"    (197,801",,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Goldman Sachs International
+    Sealed Air Corp. 
+
+","
+    Buy
+","
+    250
+000",1.08,03/20/18,23607,,"
+
+","
+
+",0000093284,N-CSRS,09
+"
+
+    Bank of America, N.A.
+    Toll Brothers, Inc. 
+
+","
+    Buy
+","
+    770
+000",2.9,03/20/13,"    (27,907",,"
+
+","
+
+",0000093284,N-CSRS,09

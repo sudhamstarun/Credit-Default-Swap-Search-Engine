@@ -1,0 +1,154 @@
+"Counterparty
+ ","Reference
+ Entity ","Buy/
+ Sellb,c ","Pay/Receive
+ Fixed Rate ","Expiration
+ Date ","Implied
+ Credit Spreadd ","Value
+e (000s) ","Upfront
+ Premium Paid/ (Received) (000s) ","Notional
+ Amount (000s) ","Unrealized
+ Appreciation/ (Depreciation) (000s) ",CIK,Reporting Type,Report Year
+"
+Barclays Bank
+plc
+","TESCO
+ plc 6.000% due 12/14/2029 ","Sell
+ ","1.000%
+ ","12/20/2020
+ ","1.653%
+ ","$(139)
+ 000","$(484)
+ 000"," 
+ 5,000 000","$345
+ 000",0000793769,N-CSR,17
+"
+BNP Paribas
+SA
+","Volkswagen
+ International Finance 5.380% due 05/22/2018 ","Sell
+ ","1.000
+ ","12/20/2017
+ ","0.287
+ ","22
+ 000","(41)
+ 000","2,100
+ 000","63
+ 000",0000793769,N-CSR,17
+"
+Citibank
+NA
+","Volkswagen
+ International Finance 5.380% due 05/22/2018 ","Sell
+ ","1.000
+ ","03/20/2017
+ ","0.247
+ ","35
+ 000","94
+ 000","7,700
+ 000","(59)
+ 000",0000793769,N-CSR,17
+"
+Citibank
+NA
+","Goldman
+ Sachs Group, Inc. 5.950% due 01/18/2018 ","Sell
+ ","1.000
+ ","09/20/2020
+ ","0.695
+ ","102
+ 000","31
+ 000","$
+ 8,000 000","71
+ 000",0000793769,N-CSR,17
+"
+JP Morgan Chase Bank
+NA
+","Goldman
+ Sachs Group, Inc. 5.950% due 01/18/2018 ","Sell
+ ","1.000
+ ","06/20/2017
+ ","0.237
+ ","6
+ 000","15
+ 000","1,000
+ 000","(9)
+ 000",0000793769,N-CSR,17
+"
+Morgan Stanley Capital Services
+LLC
+","Markit
+ CMBX North America AAA Indices ","Sell
+ ","0.080
+ ","12/13/2049
+ ","0.000
+ ","(4)
+ 000","(22)
+ 000","3,229
+ 000","18
+ 000",0000793769,N-CSR,17
+"
+Goldman Sachs
+International
+","Markit
+ CMBX North America AAA Indicies ","Sell
+ ","0.500
+ ","01/17/2047
+ ","0.000
+ ","(134)
+ 000","(539)
+ 000","10,700
+ 000","406
+ 000",0000793769,N-CSR,17
+"
+Goldman Sachs
+International
+","MetLife,
+ Inc. 4.750% due 02/08/2021 ","Sell
+ ","1.000
+ ","06/20/2021
+ ","0.919
+ ","10
+ 000","(36)
+ 000","2,100
+ 000","46
+ 000",0000793769,N-CSR,17
+"
+Deutsche Bank
+AG
+","Morgan
+ Stanley & Co. LLC Senior Unsecured ","Sell
+ ","1.000
+ ","09/20/2018
+ ","0.423
+ ","169
+ 000","186
+ 000","14,100
+ 000","(17)
+ 000",0000793769,N-CSR,17
+"
+BNP Paribas
+SA
+","Petroleo
+ Brasileiro SA Petrobras 8.380% due 12/10/2018 ","Sell
+ ","1.000
+ ","06/20/2018
+ ","1.828
+ ","(11)
+ 000","(130)
+ 000","900
+ 000","119
+ 000",0000793769,N-CSR,17
+"
+Goldman Sachs
+International
+","Petroleo
+ Brasileiro SA Petrobras 8.380% due 12/10/2018 ","Sell
+ ","1.000
+ ","12/20/2019
+ ","3.115
+ ","(25)
+ 000","(42)
+ 000","400
+ 000","17
+ 000",0000793769,N-CSR,17

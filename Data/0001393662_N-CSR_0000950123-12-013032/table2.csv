@@ -1,0 +1,106 @@
+"
+Counterparty
+","
+Reference
+    Entity
+","
+Protection
+","
+Fixed
+    Rate
+","
+Date
+","
+Amount(000 s)
+",CIK,Reporting Type,Report Year
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.HY.9
+","
+    Sell
+",3.75,"
+    12/20/12
+","
+    16,400
+000",0001393662,N-CSR,12
+"
+
+    UBS
+
+","
+    CDX.NA.HY.9
+","
+    Sell
+",3.75,"
+    12/20/12
+","
+    16,400
+000",0001393662,N-CSR,12
+"
+
+    Goldman Sachs International
+
+","
+    Peermont Global
+","
+    Sell
+",3.5,"
+    09/20/12
+","
+    5,000
+000",0001393662,N-CSR,12
+"
+
+    Goldman Sachs International
+
+","
+    LCDX.NA.10
+","
+    Sell
+",3.25,"
+    06/20/13
+","
+    40,800
+000",0001393662,N-CSR,12
+"
+
+    Goldman Sachs International
+
+","
+    Gala Group Finance
+","
+    Sell
+",4.15,"
+    03/20/13
+","
+    5,000
+000",0001393662,N-CSR,12
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NAHY.10
+","
+    Sell
+",5.0,"
+    06/20/13
+","
+    16,600
+000",0001393662,N-CSR,12
+"
+
+    Goldman Sachs International
+
+","
+    LCDX9
+","
+    Sell
+",2.25,"
+    12/20/12
+","
+    32,500
+000",0001393662,N-CSR,12

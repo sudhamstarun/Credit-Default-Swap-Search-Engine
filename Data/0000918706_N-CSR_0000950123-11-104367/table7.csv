@@ -1,0 +1,495 @@
+"
+Entity
+","
+Counterparty
+","
+Amount
+","
+Rate**
+","
+Date
+",CIK,Reporting Type,Report Year
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    8,200
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    4,175
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    2,855
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    5,100
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    4,600
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Deutsche Bank
+","
+    4,550
+",1.0,"
+    6/20/20
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    Goldman Sachs, Inc.
+","
+    9,700
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Egypt
+
+","
+    JPMorgan Chase Bank
+","
+    4,550
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Greece
+
+","
+    Citigroup Global Markets
+","
+    9,775
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Greece
+
+","
+    Deutsche Bank
+","
+    5,000
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Guatemala
+
+","
+    Citigroup Global Markets
+","
+    18,256
+",1.0,"
+    9/20/20
+",0000918706,N-CSR,11
+"
+
+    Italy
+
+","
+    Credit Suisse
+","
+    18,200
+",0.2,"
+    12/20/16
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Barclays Bank PLC
+","
+    4,200
+",1.0,"
+    12/20/14
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Barclays Bank PLC
+","
+    6,700
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Barclays Bank PLC
+","
+    4,900
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Barclays Bank PLC
+","
+    4,900
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Barclays Bank PLC
+","
+    5,000
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    4,600
+",3.3,"
+    9/20/14
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    5,500
+",1.0,"
+    12/20/14
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    4,500
+",1.0,"
+    12/20/14
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    4,300
+",1.0,"
+    12/20/14
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    2,800
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    15,000
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Citigroup Global Markets
+","
+    6,000
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    8,800
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    4,600
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    9,900
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    5,000
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    22,710
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    8,300
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    5,000
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Credit Suisse
+","
+    4,450
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    6,100
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    5,000
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    4,900
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    6,700
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    6,890
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    5,000
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Deutsche Bank
+","
+    3,085
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Lebanon
+
+","
+    Goldman Sachs, Inc.
+","
+    3,600
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Philippines
+
+","
+    Bank of America
+","
+    9,300
+",1.0,"
+    9/20/15
+",0000918706,N-CSR,11
+"
+
+    Philippines
+
+","
+    Bank of America
+","
+    3,500
+",1.0,"
+    12/20/15
+",0000918706,N-CSR,11
+"
+
+    Philippines
+
+","
+    Barclays Bank PLC
+","
+    9,131
+",1.0,"
+    3/20/15
+",0000918706,N-CSR,11
+"
+
+    Philippines
+
+","
+    Barclays Bank PLC
+","
+    10,000
+",1.0,"
+    6/20/15
+",0000918706,N-CSR,11

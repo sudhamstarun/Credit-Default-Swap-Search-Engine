@@ -1,0 +1,15 @@
+Counterparty,Reference Entity,Buy/Sell Protection,Fixed Rate,Expiration Date,Notional Amount(000),CIK,Reporting Type,Report Year
+"Bank of
+America, N.A.",Carnival Corp.,Buy,1.57,03/20/18,3185000,0000109488,N-Q,09
+"Bank of
+America, N.A.","CenturyTel, Inc.",Buy,0.88,09/20/17,2050000,0000109488,N-Q,09
+"Bank of
+America, N.A.","Toll Brothers, Inc.",Buy,2.9,03/20/13,4050000,0000109488,N-Q,09
+"Barclays Bank
+PLC",Whirlpool Corp.,Buy,1.0,06/20/14,1360000,0000109488,N-Q,09
+"Goldman Sachs
+International",Sealed Air Corp.,Buy,1.08,03/20/18,1375000,0000109488,N-Q,09
+"Goldman Sachs
+International",CDX. NA.IG.10,Sell,1.55,06/20/13,23644000,0000109488,N-Q,09
+"Merril Lynch
+International",CDX. NA.IG.HVOL.12,Sell,5.0,06/20/14,27400000,0000109488,N-Q,09

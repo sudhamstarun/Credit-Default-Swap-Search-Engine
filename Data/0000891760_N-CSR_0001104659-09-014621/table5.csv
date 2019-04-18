@@ -1,0 +1,20 @@
+"SWAP COUNTERPARTY (REFERENCE
+  ENTITY) ","NOTIONAL
+  AMOUNT(2)","TERMINATION
+  DATE","PERIODIC
+  PAYMENTS
+  RECEIVED
+  BY
+  THE FUND ","MARKET
+  VALUE(3)","UPFRONT
+  PREMIUMS
+  PAID/
+  (RECEIVED)","UNREALIZED
+  APPRECIATION/
+  (DEPRECIATION)",CIK,Reporting Type,Report Year
+"Credit Suisse First Boston Inc.
+(CDX North America   High Yield Index)","$200,000",6/20/13,"5.000% 
+  quarterly","$(31,666","$(19,194","(12,472",0000891760,N-CSR,09
+"Credit Suisse First Boston Inc.
+(CDX North America   High Yield Index) ","200,000",6/20/13,"5.000% 
+  quarterly","(31,666","(18,333","(13,333",0000891760,N-CSR,09

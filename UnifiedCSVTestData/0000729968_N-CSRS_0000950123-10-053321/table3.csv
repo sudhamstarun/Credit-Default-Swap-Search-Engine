@@ -1,0 +1,8 @@
+Swap Counterparty,Reference Entity,Buy/SellCredit Protection,Notional Amount(000's),Fixed Rate,Termination Date,CIK,Reporting Type,Report Year
+"Vale Inco Ltd.:
+","Morgan Stanley Capital Services, Inc.",Buy,1055000,0.7,3/20/17,0000729968,N-CSRS,10
+Vale Inco Ltd.:,"Morgan Stanley Capital Services, Inc.",Buy,1065000,0.63,3/20/17,0000729968,N-CSRS,10
+"Vale Overseas:
+
+","Morgan Stanley Capital Services, Inc.",Sell,1055000,1.17,3/20/17,0000729968,N-CSRS,10
+Vale Overseas:,"Morgan Stanley Capital Services, Inc.",Sell,1065000,1.1,3/20/17,0000729968,N-CSRS,10

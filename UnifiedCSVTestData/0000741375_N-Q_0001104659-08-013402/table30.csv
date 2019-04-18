@@ -1,0 +1,75 @@
+"
+Swap Counterparty and Reference Obligation
+","
+Buy/ Sell 
+  Protection
+","
+Notional 
+  Amount 
+  (000)
+","
+Pay/Receive 
+  Fixed Rate
+","
+Termination 
+  Date
+","
+Unrealized 
+  Appreciation 
+  (Depreciation) 
+  (000)
+",CIK,Reporting Type,Report Year
+"
+Goldman Sachs
+","
+Buy
+",65000,0.22,"
+3/20/12
+","
+@ 
+000",0000741375,N-Q,08
+"
+Goldman Sachs
+","
+Buy
+",125000,0.39,"
+3/20/12
+","
+1
+000",0000741375,N-Q,08
+"
+Goldman Sachs
+","
+Buy
+",125000,0.11,"
+3/20/12
+","
+1
+000",0000741375,N-Q,08
+"
+Goldman Sachs
+","
+Buy
+",125000,0.11,"
+3/20/12
+","
+1
+000",0000741375,N-Q,08
+"
+Goldman Sachs
+","
+Buy
+",230000,0.44,"
+3/20/12
+","
+(1
+000",0000741375,N-Q,08
+"
+Goldman Sachs
+","
+Buy
+",65000,0.26,"
+3/20/12
+","
+@ 
+000",0000741375,N-Q,08

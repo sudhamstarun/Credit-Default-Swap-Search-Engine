@@ -1,0 +1,37 @@
+Counterparty,Referenced Obligation,Protection (1),Fixed Rate,Date,Amount,(Depreciation),CIK,Reporting Type,Report Year
+Deutsche Bank,VTB Capital SA 6.250% due 06/30/35,Sell,0.400%,03/20/08,"$4,000,000","($3,083",0000813900,N-CSR,07
+Deutsche Bank,Gazprom Capital 8.625% due 04/28/34,Sell,0.390%,04/20/08,5880000,4144,0000813900,N-CSR,07
+Deutsche Bank,Banca Italease SPA 4.336% due 02/08/12,Sell,0.850%,06/20/08,18000000,"(53,661",0000813900,N-CSR,07
+Deutsche Bank,RSHB Capital SA 7.175% due 05/16/13,Sell,0.730%,03/20/09,8300000,59045,0000813900,N-CSR,07
+Barclays,Russian Federation 2.250% due 03/31/30,Sell,0.450%,12/20/11,17300000,26246,0000813900,N-CSR,07
+Barclays,Russian Federation 2.250% due 03/31/30,Sell,0.540%,12/20/11,17660000,89550,0000813900,N-CSR,07
+Barclays,Republic of Brazil 12.250% due 03/06/30,Buy,(1.015%),12/20/11,8650000,"(115,563",0000813900,N-CSR,07
+Barclays,Republic of Brazil 12.250% due 03/06/30,Buy,(1.205%),12/20/11,8830000,"(183,947",0000813900,N-CSR,07
+Deutsche Bank,Republic of Kazakhstan 11.125% due 05/11/07,Sell,0.535%,03/20/12,3860000,28918,0000813900,N-CSR,07
+Deutsche Bank,Republic of Kazakhstan 11.125% due 05/11/07,Sell,0.548%,03/20/12,4010000,32195,0000813900,N-CSR,07
+Deutsche Bank,Republic of Kazakhstan 11.125% due 05/11/07,Sell,0.610%,03/20/12,3540000,"(83,891",0000813900,N-CSR,07
+Barclays,Republic of Venezuela 9.250% due 09/15/27,Sell,1.721%,03/20/12,3860000,"(18,000",0000813900,N-CSR,07
+Deutsche Bank,Kazkommerts International BV 7.875% due 04/07/14,Sell,2.150%,03/20/12,10000000,"(19,686",0000813900,N-CSR,07
+Deutsche Bank,Kazkommerts International BV 7.875% due 04/07/14,Sell,2.350%,03/20/12,880000,5739,0000813900,N-CSR,07
+Deutsche Bank,Russian Federation 7.500% due 03/31/30,Buy,(0.440%),04/20/12,19500000,"(10,514",0000813900,N-CSR,07
+Deutsche Bank,Republic of Brazil 12.250% due 03/06/30,Buy,(0.810%),04/20/12,7800000,"(27,454",0000813900,N-CSR,07
+Deutsche Bank,Republic of Columbia 10.375% due 01/28/33,Buy,(0.914%),04/20/12,9750000,"(43,405",0000813900,N-CSR,07
+Deutsche Bank,Ukraine Government Bond 7.650% due 06/11/13,Sell,1.590%,04/20/12,19500000,231964,0000813900,N-CSR,07
+Deutsche Bank,Republic of Venezuela 9.250% due 09/15/27,Sell,1.604%,04/20/12,2020000,"(94,701",0000813900,N-CSR,07
+Deutsche Bank,Republic of Venezuela 9.250% due 09/15/27,Sell,1.620%,04/20/12,9750000,"(428,355",0000813900,N-CSR,07
+Deutsche Bank,Republic of Argentina 8.280% due 12/31/33,Sell,1.960%,04/20/12,7800000,"(140,724",0000813900,N-CSR,07
+Deutsche Bank,Petroleos de Venezuela SA 5.375% due 04/12/27,Sell,2.585%,05/20/12,5200000,"(166,004",0000813900,N-CSR,07
+Deutsche Bank,Petroleos de Venezuela SA 5.500% due 04/12/37,Sell,2.600%,05/20/12,10000000,"(320,158",0000813900,N-CSR,07
+Deutsche Bank,Republic of Brazil 12.250% due 03/06/30,Buy,(0.732%),06/20/12,17280000,12398,0000813900,N-CSR,07
+Barclays,Dow Jones CDX NA IG HVOL Index,Buy,(0.750%),06/20/12,66000000,332897,0000813900,N-CSR,07
+Deutsche Bank,Republic of Columbia 10.375% due 01/28/33,Buy,(0.830%),06/20/12,24550000,8509,0000813900,N-CSR,07
+Deutsche Bank,Republic of Indonesia 6.750% due 03/10/14,Sell,1.010%,06/20/12,20180000,"(39,440",0000813900,N-CSR,07
+Deutsche Bank,Republic of Philippines 10.625% due 03/16/25,Buy,(1.030%),06/20/12,20180000,21944,0000813900,N-CSR,07
+Deutsche Bank,Ukraine Government Bond 7.650% due 06/11/13,Sell,1.385%,06/20/12,6420000,13480,0000813900,N-CSR,07
+Deutsche Bank,Republic of Argentina 8.280% due 12/31/33,Sell,2.140%,06/20/12,17280000,"(220,591",0000813900,N-CSR,07
+Deutsche Bank,Republic of Venezuela 9.250% due 09/15/27,Sell,2.170%,06/20/12,24550000,"(1,910,837",0000813900,N-CSR,07
+Deutsche Bank,Republic of Brazil 12.250% due 03/06/30,Buy,(0.660%),07/20/12,17410000,"(75,175",0000813900,N-CSR,07
+Deutsche Bank,Republic of Brazil 12.250% due 03/06/30,Buy,(0.713%),07/20/12,5260000,,0000813900,N-CSR,07
+Deutsche Bank,Republic of Argentina 8.280% due 12/31/33,Sell,2.080%,07/20/12,17410000,281199,0000813900,N-CSR,07
+Deutsche Bank,Republic of Argentina 8.250% due 12/31/33,Sell,2.327%,07/20/12,5260000,,0000813900,N-CSR,07
+Deutsche Bank,Republic of Peru 8.750% due 11/21/33,Sell,1.020%,05/20/17,14000000,"(33,417",0000813900,N-CSR,07

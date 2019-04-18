@@ -1,0 +1,12 @@
+"
+Swap Counterparty andReference Obligation","
+Buy/SellProtection","
+NotionalAmount(000)","
+Pay/ReceiveFixed Rate","
+TerminationDate","
+UpfrontPaymentPaid(000)","
+UnrealizedAppreciation(000)","
+Value(000)","
+CreditRating ofReferenceObligation (Unaudited)",CIK,Reporting Type,Report Year
+"
+Morgan Stanley & Co., LLC*CDX.NA.HY.27",Sell,"4,680000",5.0,12/20/21,172000,126000,298000,NR,0000836487,N-CSR,17

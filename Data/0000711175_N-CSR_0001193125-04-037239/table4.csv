@@ -1,0 +1,22 @@
+Counterparty(a),Termination,Notional,FixedRate,Underlying,UnrealizedAppreciation,CIK,Reporting Type,Report Year
+Barclays,12/20/2008,200,0.16,"Eli Lilly & Co., Inc., 6.00%, due 3/15/12",280,0000711175,N-CSR,04
+Citigroup,12/20/2008,100,0.29,"FedEx Corp., 7.25%, due 2/15/11",(378,0000711175,N-CSR,04
+Morgan Stanley,12/20/2008,100,0.21,"Emerson Electric Co., 4.625%, due 10/15/12",186,0000711175,N-CSR,04
+Merrill Lynch,12/20/2008,100,0.32,"Ingersoll-Rand Co., 6.48%, due 6/1/25",46,0000711175,N-CSR,04
+Morgan Stanley,12/20/2008,200,0.26,"Allstate Corp., 6.125%, due 2/15/12",(98,0000711175,N-CSR,04
+Bear Stearns,12/20/2008,200,0.32,"Hewlett Packard Co., 6.50%, due 7/1/12",(654,0000711175,N-CSR,04
+Citigroup,12/20/2008,200,0.28,"Eaton Corp., 5.75%, due 7/15/12",(186,0000711175,N-CSR,04
+Citigroup,12/20/2008,300,0.14,"Wal-Mart Stores, Inc., 6.875%, due 8/10/09",140,0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,200,0.12,"The Home Depot, Inc., 5.375%, due 4/1/06",93,0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,100,0.29,"Whirlpool Corp., 8.60%, due 5/1/10",185,0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,200,0.11,"Johnson & Johnson, 3.80%, due 5/15/13",(94,0000711175,N-CSR,04
+UBS,12/20/2008,200,0.35,"AutoZone, Inc., 5.875%, due 10/15/12",913,0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,100,0.35,"RadioShack Corp., 7.375%, due 5/15/11",226,0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,100,0.3,"Masco Corp., 5.875%, due 7/15/12",(233,0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,100,0.53,"Lockheed Martin Corp., 8.20%, due 12/1/09",(375,0000711175,N-CSR,04
+Barclays,12/20/2008,100,0.67,"Clear Channel Communications Inc., 7.65%, due 9/15/10",(801,0000711175,N-CSR,04
+UBS,12/20/2008,100,0.98,"Sun Microsystems, Inc., 7.65% due 8/15/09","(1,285",0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,100,0.97,"Goodrich Corp., 7.625%, due 12/15/12","(2,163",0000711175,N-CSR,04
+Lehman Brothers,12/20/2008,100,0.48,"Northrop Grumman Corp., 7.125%, due 2/15/11",(283,0000711175,N-CSR,04
+Barclays,12/20/2008,100,0.67,"The Walt Disney Co., 6.375%, due 3/1/12","(1,347",0000711175,N-CSR,04
+"Bank of America, N.A.",12/20/2008,100,0.13,"E.I. DuPont de Nemours & Co., 6.875%, due 10/15/09",,0000711175,N-CSR,04

@@ -1,0 +1,5 @@
+Swap Counterparty and Reference Obligation,Protection,Amount(000),Fixed Rate,Date,CIK,Reporting Type,Report Year
+"Goldman Sachs 
+  General Motors Acceptance Corp., 6.88%, 8/28/12",Sell,65000,3.08,6/20/11,0000741375,N-CSR,08
+"Eli Lilly Co., 6.57%, 1/1/16",Buy,15000,0.33,3/20/13,0000741375,N-CSR,08
+"Eli Lilly Co., 6.57%, 1/1/16",Buy,50000,0.3,3/20/13,0000741375,N-CSR,08

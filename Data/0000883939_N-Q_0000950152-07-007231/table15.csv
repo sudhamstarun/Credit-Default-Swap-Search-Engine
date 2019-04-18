@@ -1,0 +1,18 @@
+Underlying Instrument,Counterparty,Amount ($),Rate (%),Date,Value ($),CIK,Reporting Type,Report Year
+Dow Jones CDS Indices; Series 7,Merrill Lynch,"5,040",0.58,12/20/16,,0000883939,N-Q,07
+Dow Jones CDS Indices; Series 7,Credit Suisse First Boston,"1,160",0.65,12/20/16,11,0000883939,N-Q,07
+Dow Jones CDS Indices; Series 7,Merrill Lynch,560,0.58,12/20/16,(1,0000883939,N-Q,07
+Dow Jones CDS Indices; Series 7,Merrill Lynch,560,0.64,12/20/16,,0000883939,N-Q,07
+"Bear Stearns Cos., Inc. (The)",JPMorgan,(560,0.53,06/20/17,,0000883939,N-Q,07
+Brunswick Corp.,Merrill Lynch,(560,1.15,03/20/17,(2,0000883939,N-Q,07
+Campbell Soup Co.,Citigroup,(560,0.33,03/20/17,,0000883939,N-Q,07
+Canadian Pacific Railway Co.,Merrill Lynch,(560,0.55,06/20/17,(4,0000883939,N-Q,07
+"Gannett Co., inc.",Citigroup,(560,0.81,06/20/17,(10,0000883939,N-Q,07
+"IStar Financial, Inc.",Citigroup,(560,0.7,03/20/17,(6,0000883939,N-Q,07
+Lennar Corp.,Credit Suisse First Boston,(580,1.56,09/20/17,(1,0000883939,N-Q,07
+"MBIA, Inc.",Credit Suisse First Boston,(580,0.88,09/20/17,,0000883939,N-Q,07
+Nucor Corp.,Citigroup,(560,0.42,03/20/17,,0000883939,N-Q,07
+"Quest Diagnostics, Inc.",Merrill Lynch,(560,0.78,03/20/17,(3,0000883939,N-Q,07
+Sprint Nextel Corp.,Citigroup,(560,1.18,03/20/17,,0000883939,N-Q,07
+Wells Fargo & Co.,JPMorgan,(560,0.22,06/20/17,(1,0000883939,N-Q,07
+Weyerhaeuser Co.,Citigroup,(560,1.05,03/20/17,(3,0000883939,N-Q,07

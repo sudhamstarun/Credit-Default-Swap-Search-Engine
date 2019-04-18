@@ -1,0 +1,3 @@
+Counterparty,TerminationDate,NotionalAmount(000),FixedRate,UnderlyingBond,UnrealizedDepreciation,CIK,Reporting Type,Report Year
+Morgan Stanley CapitalServices(1),12/20/2009,830000,0.6,"RPM International, Inc.","(7,980",0000834126,N-CSR,07
+JPMorgan Chase Bank(1),06/20/2012,"1,000000",0.3,"PPG Industries, Inc.","(2,870",0000834126,N-CSR,07

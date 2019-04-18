@@ -1,0 +1,7 @@
+ReferenceObligation,Rating,TheMasterFundFixedDeal(Pay)Rate,MaturityDate,Counterparty,NotionalAmount(2),MarketValue,UpfrontPremiumPaid(Received),UnrealizedAppreciation,CIK,Reporting Type,Report Year
+CMBX.NA.BB.6,BB,5.00%,05/26/63,Morgan StanleyCapitalServices LLC,"10,0000,000 USD","248,840","243,563","5,277",0001589029,N-CSR,14
+CMBX.NA.BB.6,BB,5.00%,01/26/47,Morgan StanleyCapitalServices LLC,"5,000,000 USD","36,264","(9,739","46,003",0001589029,N-CSR,14
+CMBX.NA.BBB.7,BBB,3.00%,01/26/47,"Citibank, N.A.","4,425,510 USD","6,300","(139,592","145,892",0001589029,N-CSR,14
+CMBX.NA.BB.6,BB,5.00%,05/26/63,"Citibank, N.A.","34,436,470 USD","884,780","551,403","333,377",0001589029,N-CSR,14
+CMBX.NA.BB.6,BB,5.00%,05/26/63,"Citibank, N.A.","26,765,740 USD","662,322","(360,964","1,023,286",0001589029,N-CSR,14
+CMBX.NA.BB.7,BB,5.00%,01/26/47,"Citibank, N.A.","7,399,410 USD","53,666","(234,934","288,600",0001589029,N-CSR,14

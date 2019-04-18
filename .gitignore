@@ -9,10 +9,10 @@ Testdata/
 dist/
 node_modules/
 test/
-UnifiedCSVTestData/
-Data/
-UnifiedCSV/
+
+
+
 __pycache__/
 Data-CSR/
-Notebooks/final_csv.csv
-Uploads/
+
+

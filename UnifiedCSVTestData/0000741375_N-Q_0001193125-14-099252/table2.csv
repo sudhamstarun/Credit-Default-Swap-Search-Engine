@@ -1,0 +1,8 @@
+Swap Counterparty andReference Obligation,Buy/SellProtection,NotionalAmount(000),Pay/ReceiveFixed Rate,TerminationDate,CIK,Reporting Type,Report Year
+"Alcoa, Inc.",Buy,130000,1,9/20/18,0000741375,N-Q,14
+Quest Diagnostics Inc.,Buy,250000,1,12/20/18,0000741375,N-Q,14
+"Yum! Brands, Inc.",Buy,250000,1,12/20/18,0000741375,N-Q,14
+CDX.NA.IG.20,Sell,500000,1,6/20/18,0000741375,N-Q,14
+CDX.NA.IG.20,Sell,110000,1,6/20/18,0000741375,N-Q,14
+Kohl s Corporation,Buy,275000,1,6/20/18,0000741375,N-Q,14
+CDX.NA.IG.21,Sell,250000,1,12/20/18,0000741375,N-Q,14

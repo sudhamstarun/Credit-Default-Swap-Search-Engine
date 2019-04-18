@@ -1,0 +1,3 @@
+Counterparty,Reference Entity/Obligation,Buy/SellProtection,(Pays)/Receives Rate,Termination Date,NotionalAmount(Thousands),Net UnrealizedAppreciation($Thousands),CIK,Reporting Type,Report Year
+Bank of America,"Radian Group Inc., 7.750%, 06/01/11",BUY,(0.39,12/20/13,"2,500",920,0000835597,N-CSR,09
+JPMorgan Chase Bank,"Radian Group Inc., 7.750%, 06/01/11",BUY,(0.39,12/20/13,"2,500",921,0000835597,N-CSR,09

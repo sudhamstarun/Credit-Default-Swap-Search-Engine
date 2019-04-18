@@ -1,0 +1,27 @@
+Counterparty,Reference Obligation,Implied   Credit   Spread(3),Fixed Rate(6) ,Expiration   Date,"Notional   Amount(1),(5)",Value(4),Unrealized   Appreciation /   (Depreciation),CIK,Reporting Type,Report Year
+CIT,"AT&T Inc., 1.60%,   02/15/2017",0.83,1.0,12/20/2017,(150,(1,,0001532747,N-CSR,13
+BBP,"Berkshire Hathaway Inc.,   2.45%, 12/15/2015",1.17,1.0,12/20/2017,(200,(2,,0001532747,N-CSR,13
+BOA,CDX.NA.IG-18,,1.0,06/20/2017,(275,,,0001532747,N-CSR,13
+CIT,CDX.NA.IG-18,,1.0,06/20/2022,"(1,875",(48,,0001532747,N-CSR,13
+MSC,CDX.NA.IG-18,,1.0,06/20/2022,"(7,475",(190,56.0,0001532747,N-CSR,13
+CIT,CDX.NA.IG-19,,1.0,12/20/2017,(500,,,0001532747,N-CSR,13
+BBP,"Citigroup Inc., 6.13%,   05/15/2018",1.26,1.0,12/20/2017,(100,(1,,0001532747,N-CSR,13
+MSC,"Federated Republic of   Brazil, 12.25%, 03/06/2030",0.95,1.0,06/20/2017,(100,,,0001532747,N-CSR,13
+CSI,"Federated Republic of   Brazil, 12.25%, 03/06/2030",1.0,1.0,09/20/2017,(100,,,0001532747,N-CSR,13
+BBP,"Ford Motor Co., 6.50%,   08/01/2018",1.39,5.0,12/20/2015,(100,11,,0001532747,N-CSR,13
+BBP,"Goldman Sachs Group   Inc., 5.95%, 01/18/2018",1.46,1.0,12/20/2017,(200,(4,,0001532747,N-CSR,13
+CSI,"JPMorgan   Chase & Co., 4.75%, 03/01/2015",0.86,1.0,12/20/2017,(100,,,0001532747,N-CSR,13
+CIT,MCDX.18-V1,,1.0,06/20/2017,(100,(2,,0001532747,N-CSR,13
+BBP,"Metlife, 4.75%,   02/08/2021",1.56,1.0,12/20/2017,(200,(5,,0001532747,N-CSR,13
+BOA,"Metlife, 4.75%,   02/08/2021",1.56,1.0,12/20/2017,(100,(3,,0001532747,N-CSR,13
+MSC,"People s Republic of   China, 4.75%, 10/29/2013",0.54,1.0,06/20/2017,(60,,,0001532747,N-CSR,13
+UBS,"People s Republic of   China, 4.75%, 10/29/2013",0.58,1.0,09/20/2017,(200,,,0001532747,N-CSR,13
+GSI,"Plains All American   Pipeline, 3.95%, 09/15/2015",0.96,1.0,12/20/2017,(100,,,0001532747,N-CSR,13
+BBP,"Prudential Financial   Inc., 4.50%, 07/15/2013",1.44,1.0,12/20/2017,(100,(2,,0001532747,N-CSR,13
+BOA,"Prudential Financial   Inc., 4.50%, 07/15/2013",1.44,1.0,12/20/2017,(100,(2,,0001532747,N-CSR,13
+DUB,"Russian Federation,   7.50%, 03/31/2030",1.16,1.0,06/20/2017,(60,,,0001532747,N-CSR,13
+CSI,"Telecom Italia S.p.A,   5.38%, 01/29/2019",1.55,1.0,12/20/2015,(132,(2,,0001532747,N-CSR,13
+CIT,"The Republic of Italy,   6.88%, 09/27/2023",2.77,1.0,09/20/2017,(100,(7,,0001532747,N-CSR,13
+CIT,"The Republic of Italy,   6.88%, 09/27/2023",2.71,1.0,12/20/2017,(100,(8,,0001532747,N-CSR,13
+GSI,"United Mexican States,   5.95%, 03/19/2019",0.84,1.0,06/20/2017,(100,,,0001532747,N-CSR,13
+CSI,"United Mexican States,   5.95%, 03/19/2019",0.89,1.0,09/20/2017,(100,,,0001532747,N-CSR,13

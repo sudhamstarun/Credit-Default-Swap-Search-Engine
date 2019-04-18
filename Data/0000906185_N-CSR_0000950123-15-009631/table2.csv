@@ -1,0 +1,306 @@
+"
+Counterparty
+","
+Asset
+","
+Description
+","
+Protection
+","
+Rate
+","
+Date
+","
+Amount
+","
+Received
+","
+(Depreciation)
+","
+at Value
+",CIK,Reporting Type,Report Year
+"
+
+    Bank of America
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    $1,047,000
+",838,"
+    322
+","
+    (516)
+",0000906185,N-CSR,15
+"
+
+    Bank of America
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    746,000
+",690,"
+    323
+","
+    (367)
+",0000906185,N-CSR,15
+"
+
+    Bank of America
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    746,000
+",578,"
+    211
+","
+    (367)
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    746,000
+",429,"
+    62
+","
+    (367)
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    748,000
+",426,"
+    58
+","
+    (368)
+",0000906185,N-CSR,15
+"
+
+    Morgan Stanley
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    746,000
+",500,"
+    133
+","
+    (367)
+",0000906185,N-CSR,15
+"
+
+    Morgan Stanley
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Buy
+",1.0,"
+    9/16/15
+","
+    748,000
+",400,"
+    32
+","
+    (368)
+",0000906185,N-CSR,15
+"
+
+    Bank of America
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    $746,000
+",373,"
+    (388)
+","
+    (761)
+",0000906185,N-CSR,15
+"
+
+    Bank of America
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    1,047,000
+",963,"
+    (103)
+","
+    (1,066)
+",0000906185,N-CSR,15
+"
+
+    Bank of America
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    746,000
+",727,"
+    (444)
+","
+    (1,171)
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    750,000
+",473,"
+    (21)
+","
+    (494)
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    750,000
+",525,"
+    31
+","
+    (494)
+",0000906185,N-CSR,15
+"
+
+    Morgan Stanley
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    746,000
+",507,"
+    (253)
+","
+    (760)
+",0000906185,N-CSR,15
+"
+
+    Morgan Stanley
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    748,000
+",733,"
+    (29)
+","
+    (762)
+",0000906185,N-CSR,15
+"
+
+    Morgan Stanley
+
+","
+    CDX.NA.IG.24
+","
+    Credit Default Swap maturing 6/20/20
+","
+    Sell
+",1.0,"
+    9/16/15
+","
+    748,000
+",471,"
+    (291)
+","
+    (762)
+",0000906185,N-CSR,15

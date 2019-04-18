@@ -1,0 +1,16 @@
+"
+Swap Counterparty and Reference Obligation","
+Buy/SellProtection","
+NotionalAmount(000)","
+Pay/ReceiveFixed Rate","
+TerminationDate",CIK,Reporting Type,Report Year
+"
+Barclays Bank Alcoa, Inc.",Buy,250000,1,6/20/18,0000741375,N-CSR,13
+"
+Barclays BankDevon Energy Company",Buy,275000,1,6/20/18,0000741375,N-CSR,13
+"
+Barclays Bank Transocean, Inc.",Buy,275000,1,6/20/18,0000741375,N-CSR,13
+"
+JPMorgan Chase CDX.NA.IG.20",Sell,1000000,1,6/20/18,0000741375,N-CSR,13
+"
+JPMorgan Chase Kohl's Corporation",Buy,275000,1,6/20/18,0000741375,N-CSR,13

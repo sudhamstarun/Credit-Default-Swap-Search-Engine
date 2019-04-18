@@ -1,0 +1,4 @@
+Counterparty,Reference,Buy/Sell,Pay/Receive,Expiration,Implied,Notional,UpfrontPayments,Unrealized  ,CIK,Reporting Type,Report Year
+JPMorgan Chase Securities Inc.,"Markit CDX North America, High Yield Index Series 5",Sell,5.00%,06/20/18,3.66%,"5,000,000","218,190","67,618  ",0000826644,N-Q,13
+JPMorgan Chase Securities Inc.,"Markit CDX North America, High Yield Index Series 17",Sell,5.00,12/20/16,2.65,"2,880,000","(89,488)","305,148  ",0000826644,N-Q,13
+JPMorgan Chase Securities Inc.,Markit CDX Emerging Markets Index Series 19,Sell,5.00,06/20/18,3.06,"10,000,000","1,033,909","(184,657)  ",0000826644,N-Q,13

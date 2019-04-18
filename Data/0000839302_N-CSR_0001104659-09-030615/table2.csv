@@ -1,0 +1,38 @@
+"
+SWAPCOUNTERPARTY &REFERENCEOBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000'S)","
+INTERESTRATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)","
+UPFRONTPAYMENT",CIK,Reporting Type,Report Year
+"
+Bank of America, N.A. Carnival Corp.","
+Buy",150000,1.57,"
+March 20, 2018","
+17,311","
+17,311",0000839302,N-CSR,09
+"
+Bank of America, N.A.Centurytel, Inc.","
+Buy",120000,0.88,"
+September 20, 2017","
+2,599","
+2,599",0000839302,N-CSR,09
+"
+Goldman SachsInternational Dow Jones Index","
+Sell",425000,1.4,"
+December 20, 2012","
+(40,010","
+(24,093",0000839302,N-CSR,09
+"
+Goldman SachsInternational Dow Jones Index","
+Sell",440000,1.4,"
+December 20, 2012","
+(41,902","
+(24,387",0000839302,N-CSR,09
+"
+Goldman SachsInternational Dow Jones Index","
+Sell",749000,1.4,"
+December 20, 2012","
+(68,671","
+(44,237",0000839302,N-CSR,09

@@ -1,0 +1,67 @@
+"
+SWAP COUNTERPARTY &REFERENCE OBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000's)","
+INTERESTRATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)",CIK,Reporting Type,Report Year
+"
+Goldman Sachs InternationalHartford Financial Services Group Inc.","
+Buy",350000,0.12,"
+December 20, 2011","
+2,585",0000716716,N-CSR,08
+"
+Goldman Sachs InternationalMotorola, Inc.","
+Buy",120000,0.15,"
+December 20, 2011","
+2,058",0000716716,N-CSR,08
+"
+Goldman Sachs InternationalMotorola, Inc.","
+Buy",240000,0.157,"
+December 20, 2011","
+4,053",0000716716,N-CSR,08
+"
+Goldman Sachs InternationalUnion Pacific Corp.","
+Buy",175000,0.2,"
+December 20, 2011","
+772",0000716716,N-CSR,08
+"
+Goldman Sachs InternationalChubb Corp.","
+Buy",350000,0.1,"
+March 20, 2012","
+2,349",0000716716,N-CSR,08
+"
+Goldman Sachs InternationalDell Inc.","
+Buy",180000,0.22,"
+March 20, 2012","
+553",0000716716,N-CSR,08
+"
+Citibank, NA, New YorkCovidien Ltd.","
+Buy",140000,0.43,"
+March 20, 2012","
+(1,014",0000716716,N-CSR,08
+"
+Citibank, NA, New YorkCovidien Ltd.","
+Buy",67000,0.43,"
+March 20, 2012","
+(483",0000716716,N-CSR,08
+"
+Citibank, NA, New YorkTyco Electronics Ltd.","
+Buy",140000,0.43,"
+March 20, 2012","
+(142",0000716716,N-CSR,08
+"
+Citibank, NA, New YorkTyco Electronics Ltd.","
+Buy",67000,0.43,"
+March 20, 2012","
+(67",0000716716,N-CSR,08
+"
+Citibank, NA, New YorkTyco International Ltd.","
+Buy",140000,0.43,"
+March 20, 2012","
+(142",0000716716,N-CSR,08
+"
+Citibank, NA, New YorkTyco International Ltd.","
+Buy",67000,0.43,"
+March 20, 2012","
+(67",0000716716,N-CSR,08

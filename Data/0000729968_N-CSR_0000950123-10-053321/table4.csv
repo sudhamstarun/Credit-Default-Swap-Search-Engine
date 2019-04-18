@@ -1,0 +1,5 @@
+Swap Counterparty,Credit Protection,(000's),Rate,Date,Value,Depreciation,CIK,Reporting Type,Report Year
+"Morgan Stanley Capital Services, Inc.",Buy,1055000,0.7,3/20/17,"(10,085",10085,0000729968,N-CSR,10
+"Morgan Stanley Capital Services, Inc.",Buy,1065000,0.63,3/20/17,"(5,492",5492,0000729968,N-CSR,10
+"Morgan Stanley Capital Services, Inc.",Sell,1055000,1.17,3/20/17,"(20,319",20319,0000729968,N-CSR,10
+"Morgan Stanley Capital Services, Inc.",Sell,1065000,1.1,3/20/17,"(24,943",24943,0000729968,N-CSR,10

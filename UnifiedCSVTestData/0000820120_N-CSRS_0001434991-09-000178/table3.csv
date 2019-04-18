@@ -1,0 +1,6 @@
+Reference Entity/,Swap Counterparty,Protection,Notional Amount(000 s),Fixed Rate,Termination Date,Payment Received/(Paid),CIK,Reporting Type,Report Year
+"Capmark Financial Group, Inc.: ","Citibank NA, New York",Sell,7275000,9.7,12/20/12,"(5,853,398",0000820120,N-CSRS,09
+"Capmark Financial Group, Inc.:","Citibank NA, New York",Sell,9715000,7.125,12/20/12,"(7,816,599",0000820120,N-CSRS,09
+CMBX.5.AJ Index:,Barclays Bank plc,Sell,9590000,0.98,2/15/51,2241542,0000820120,N-CSRS,09
+CMBX.5.AJ Index:,"Morgan Stanley &
+Co. International Ltd.",Sell,9670000,0.98,2/15/51,2235660,0000820120,N-CSRS,09

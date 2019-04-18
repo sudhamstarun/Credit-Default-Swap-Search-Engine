@@ -1,0 +1,4 @@
+Counterparty,Referenced Entity,Buy/SellProtection,CurrentCreditSpread (6),NotionalAmount(U.S. Dollars),FixedRate,TerminationDate,Value(U.S. Dollars),UnrealizedAppreciation(Depreciation)(U.S. Dollars),CIK,Reporting Type,Report Year
+JPMorgan,DJ High Yield CDX,Sell ,2.87,282000,5,6/20/14,20567,88952,0001390204,N-CSR,11
+JPMorgan,DJ Investment Grade CDX,Sell ,0.67,3000000,1,12/20/14,40569,9494,0001390204,N-CSR,11
+JPMorgan,DJ Investment Grade CDX,Sell ,0.85,250000,1,12/20/15,2042,641,0001390204,N-CSR,11

@@ -1,0 +1,40 @@
+"
+   SWAP
+  COUNTERPARTY
+     (REFERENCE ENTITY)
+","
+NOTIONAL
+  AMOUNT
+","
+TERMINATION
+  DATE
+","
+PERIODIC
+  PAYMENTS
+  MADE BY
+  THE FUND
+","
+PERIODIC
+  PAYMENTS
+  RECEIVED BY
+  THE FUND 
+","
+UNREALIZED
+  DEPRECIATION
+",CIK,Reporting Type,Report Year
+"
+   Morgan
+  Stanley & Co. Inc.    (TuranAlem Finance BV,
+     8.000% due 3/24/14)
+","
+$610,000
+","
+10/29/08
+","
+(a)
+","
+7.500%
+  quarterly
+","
+$(2,929)
+",0000890340,N-CSR,08

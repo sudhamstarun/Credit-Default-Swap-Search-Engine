@@ -1,0 +1,4 @@
+Counterparty,Reference Entity,Buy/SellProtection (27),CurrentCreditSpread (28),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation) (26),CIK,Reporting Type,Report Year
+Citigroup Inc.,Commonwealth of Puerto Rico,Buy,24.69,"5,000,000",5.0,9/20/19,"1,199,107","361,607",0001020660,N-CSR,15
+Citigroup Inc.,Commonwealth of Puerto Rico,Buy,25.5,"25,000,000",5.0,12/20/19,"6,124,203","736,703",0001020660,N-CSR,15
+Goldman Sachs,Commonwealth of Puerto Rico,Buy,23.25,"14,655,000",5.0,9/20/19,"3,514,766","615,316",0001020660,N-CSR,15

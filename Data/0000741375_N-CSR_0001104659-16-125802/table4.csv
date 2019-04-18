@@ -1,0 +1,14 @@
+"
+Swap Counterparty andReference Obligation","
+Buy/SellProtection","
+NotionalAmount(000)","
+Pay/ReceiveFixed Rate","
+TerminationDate","
+UpfrontPaymentPaid(Received)(000)","
+UnrealizedAppreciation(Depreciation)(000)",CIK,Reporting Type,Report Year
+"
+Barclays Bank PLCQuest Diagnostics, Inc.",Buy,995000,1,3/20/19,19000,(40000,0000741375,N-CSR,16
+"
+Deutsche Bank AGCMBX.NA.BB.60",Sell,515000,5,5/11/63,(61000,(58000,0000741375,N-CSR,16
+"
+Morgan Stanley & Co., LLC*CDX.NA.IG.24",Buy,2975000,1,6/20/20,(56000,40000,0000741375,N-CSR,16

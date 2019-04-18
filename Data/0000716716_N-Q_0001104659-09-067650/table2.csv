@@ -1,0 +1,38 @@
+"SWAP
+  COUNTERPARTY &
+  REFERENCE
+  OBLIGATION","BUY/SELL
+  PROTECTION","NOTIONAL
+  AMOUNT
+  (000 s)","INTEREST
+  RATE","TERMINATION
+  DATE","UNREALIZED
+  APPRECIATION
+  (DEPRECIATION)","UPFRONT
+  PAYMENTS",VALUE,"CREDIT
+  RATING OF
+  REFERENCE
+  OBLIGATION+ (unaudited)",CIK,Reporting Type,Report Year
+"Bank of America,
+  N.A.
+  Carnival Corp.",Buy,"1,185",1.57,"March 20,
+  2018","(30,628","(30,628",A-,,0000716716,N-Q,09
+"Bank of America,
+  N.A.
+  Centurytel, Inc.",Buy,905,0.88,"September 20,
+  2017","(2,754","(2,754",BBB,,0000716716,N-Q,09
+"Goldman Sachs
+  International
+  Sealed Air Corp.",Buy,505,1.08,"March 20,
+  2018","7,358","7,358",BBB-,,0000716716,N-Q,09
+"Bank of America,
+  N.A.
+  Tyco Electronics Ltd.",Buy,925,5.0,"June 20,
+  2014","(127,959","(38,859","(166,818",BBB-,0000716716,N-Q,09
+"Bank of America,
+  N.A.
+  Toll Brothers Inc.",Buy,"1,695",2.9,"March 20,
+  2013","(105,432","(105,432",BBB-,,0000716716,N-Q,09
+"Barclays Capital
+  Whirlpool Corp.",Buy,450,1.0,"June 20,
+  2014","(11,298","24,263","12,965",BBB-,0000716716,N-Q,09

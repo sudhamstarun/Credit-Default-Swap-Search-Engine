@@ -1,0 +1,11 @@
+Reference Entity ,Counterparty ,Spread ,Amount ,Fixed Rate ,Date ,CIK,Reporting Type,Report Year
+Brazil Government International Bond ,Barclays ,0.776% ,500,1.000% ,06/20/15 ,0000824036,N-CSR,14
+Brazil Government International Bond ,Deutsche Bank ,0.776% ,1000,1.000% ,06/20/15 ,0000824036,N-CSR,14
+Brazil Government International Bond ,Goldman Sachs ,0.776% ,500,1.000% ,06/20/15 ,0000824036,N-CSR,14
+Brazil Government International Bond ,HSBC ,0.895% ,100,1.000% ,09/20/15 ,0000824036,N-CSR,14
+Brazil Government International Bond ,JPMorgan Chase ,0.895% ,100,1.000% ,09/20/15 ,0000824036,N-CSR,14
+Brazil Government International Bond ,Barclays ,0.982% ,700,1.000% ,12/20/15 ,0000824036,N-CSR,14
+Brazil Government International Bond ,Bank of America ,1.051% ,500,1.000% ,03/20/16 ,0000824036,N-CSR,14
+Brazil Government International Bond ,Credit Suisse ,1.166% ,200,1.000% ,06/20/16 ,0000824036,N-CSR,14
+Mexico Government International Bond ,HSBC ,0.360% ,500,1.000% ,03/20/16 ,0000824036,N-CSR,14
+United Kingdom Gilt ,Societe Generale ,0.062% ,200,1.000% ,03/20/15 ,0000824036,N-CSR,14

@@ -1,0 +1,92 @@
+"
+SWAP COUNTERPARTY &REFERENCE OBLIGATION","
+BUY/SELLPROTECTION","
+NOTIONALAMOUNT(000'S)","
+INTERESTRATE","
+TERMINATIONDATE","
+UNREALIZEDAPPRECIATION(DEPRECIATION)",CIK,Reporting Type,Report Year
+"
+Golaman Sachs InternationalAmerican Standard Inc.","
+Buy",50000,0.5,"
+March 20, 2013","
+(13",0000924394,N-CSRS,08
+"
+UBS AGAmerican Standard Inc.","
+Buy",140000,0.5,"
+March 20, 2013","
+(37",0000924394,N-CSRS,08
+"
+UBS AGAmerican Standard Inc.","
+Buy",150000,0.6,"
+March 20, 2018","
+602",0000924394,N-CSRS,08
+"
+Credit Suisse InternationalArrow Electronics Inc.","
+Buy",95000,1.11,"
+March 20, 2013","
+(1,266",0000924394,N-CSRS,08
+"
+Lehman Brothers Special Financing Inc. Arrow Electronics, Inc.","
+Buy",260000,1.4,"
+March 20, 2013","
+(6,673",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalAvalonbay Communities Inc.","
+Buy",195000,3.05,"
+March 20, 2013","
+(11,298",0000924394,N-CSRS,08
+"
+Bank of America, N.A.Carnival Corp.","
+Buy",115000,1.57,"
+March 20, 2018","
+(327",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalCarnival Corp.","
+Buy",105000,1.6,"
+March 20, 2018","
+(803",0000924394,N-CSRS,08
+"
+Merrill Lynch InternationalCarnival Corp.","
+Buy",95000,1.57,"
+March 20, 2018","
+(270",0000924394,N-CSRS,08
+"
+Merrill Lynch InternationalCarnival Corp.","
+Buy",100000,1.6,"
+March 20, 2018","
+(765",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalChubb Corp.","
+Buy",270000,0.1,"
+March 20, 2012","
+4,595",0000924394,N-CSRS,08
+"
+Lehman Brothers Special Financing Inc. Coca-Cola Enterprises Inc.","
+Buy",135000,0.64,"
+March 20, 2013","
+(1,243",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDell Inc.","
+Buy",135000,0.22,"
+March 20, 2012","
+1,489",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDow Jones Index","
+Sell",55000,0.6,"
+December 20, 2012","
+1,438",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDow Jones Index","
+Sell",160000,1.4,"
+December 20, 2012","
+1,126",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDow Jones Index","
+Sell",225000,1.55,"
+June 20, 2013","
+(674",0000924394,N-CSRS,08
+"
+Goldman Sachs InternationalDow Jones Index","
+Sell",200000,0.8,"
+December 20, 2017","
+(84",0000924394,N-CSRS,08

@@ -1,0 +1,4 @@
+Reference,(Pay)/ReceiveFixed Rate,ExpirationDate,ImpliedCreditSpread^,NotionalValue( ),MarketValue,UnrealizedAppreciation(Depreciation),FeesReceivable/(Payable),CIK,Reporting Type,Report Year
+"CDX.NA.HY Series 21, 5-Year",5.00%,12/20/2018,3.04%,"1,010,000","85,913","5,113",140,0000052136,N-CSR,14
+"CDX.NA.HY Series 21, 5-Year",5.00%,12/20/2018,3.04%,"3,150,000","267,945","40,554",438,0000052136,N-CSR,14
+"CDX.NA.HY Series 21, 5-Year",5.00%,12/20/2018,3.04%,"2,115,000","179,907","5,419",294,0000052136,N-CSR,14

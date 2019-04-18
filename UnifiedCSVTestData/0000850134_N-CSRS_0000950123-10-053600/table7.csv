@@ -1,0 +1,6 @@
+Reference Entity,Counterparty,Buy/Sell Credit Protection,Notional Amount(000 s),Receive Fixed Rate,Payment Termination Date,CIK,Reporting Type,Report Year
+"Verizon Communications, Inc.","Morgan Stanley &
+Co. International Ltd.",Buy,13450000,1,3/20/15,0000850134,N-CSRS,10
+Whirlpool Corp.,Barclays Bank plc,Sell,13380000,1,3/20/15,0000850134,N-CSRS,10
+XL Capital Ltd.,Deutsche Bank AG,Sell,13530000,1,3/20/15,0000850134,N-CSRS,10
+Yum! Brands,Credit Suisse International,Buy,13380000,1,3/20/15,0000850134,N-CSRS,10

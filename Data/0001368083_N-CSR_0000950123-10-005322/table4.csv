@@ -1,0 +1,17 @@
+Swap Counterparty,Protection,Amount(000 s),Date,CIK,Reporting Type,Report Year
+"Morgan
+Stanley Capital Services, Inc.",Buy,350000,12/26/14,0001368083,N-CSR,10
+"Morgan
+Stanley Capital Services, Inc.",Sell,350000,12/30/14,0001368083,N-CSR,10
+Credit Suisse International,Sell,250000,12/23/14,0001368083,N-CSR,10
+Barclays Bank plc,Sell,250000,12/21/14,0001368083,N-CSR,10
+"Morgan
+Stanley Capital Services, Inc.",Buy,250000,12/25/14,0001368083,N-CSR,10
+"Morgan
+Stanley Capital Services, Inc.",Buy,350000,12/27/14,0001368083,N-CSR,10
+Barclays Bank plc,Sell,500000,12/20/14,0001368083,N-CSR,10
+Deutsche Bank AG,Sell,350000,12/29/14,0001368083,N-CSR,10
+UBS AG,Buy,350000,12/28/14,0001368083,N-CSR,10
+"Morgan
+Stanley Capital Services, Inc.",Buy,250000,12/22/14,0001368083,N-CSR,10
+Deutsche Bank AG,Sell,200000,12/24/14,0001368083,N-CSR,10

@@ -1,0 +1,270 @@
+"
+Counterparty
+","
+ Reference
+      Entity
+","
+Protection
+","
+Fixed
+      Rate
+","
+Date
+","
+ Value
+",CIK,Reporting Type,Report Year
+"
+Goldman
+      Sachs & Co.
+","
+Dow
+      Jones CDX Emerging Markets Index(1)
+","
+Buy
+","
+1.75%
+","
+12/20/2012
+","
+  (2,000,000)
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Dow
+      Jones CDX North American High Yield Index(1)
+","
+Buy
+","
+3.40%
+","
+6/20/2010
+","
+      (900,000)
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Nordstrom,
+      Inc.
+","
+Buy
+","
+0.58%
+","
+6/20/2010
+","
+   (1,000,000)
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Residential
+      Capital, LLC, 6.500%
+","
+Buy
+","
+1.05%
+","
+3/20/2012
+","
+  (2,000,000)
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Southwest
+      Airlines Co.
+","
+Buy
+","
+1.83%
+","
+9/20/2013
+","
+  (2,500,000)
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Pactiv
+      Corp.
+","
+Buy
+","
+1.75%
+","
+3/20/2014
+","
+  (2,000,000)
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Gannett
+      Co. 6.375%
+","
+Buy
+","
+5.00%
+","
+12/20/2014
+","
+   (1,000,000)
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Temple
+      Inland, Inc. 6.625%
+","
+Buy
+","
+1.00%
+","
+6/20/2014
+","
+   (1,000,000)
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Wendy's
+      International 6.200%
+","
+Buy
+","
+1.00%
+","
+9/20/2014
+","
+   (1,500,000)
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Dow
+      Jones CDX North American High Yield Index, 3.250%(1)
+","
+Sell
+","
+3.25%
+","
+12/20/2011
+","
+     2,610,000
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Ford
+      Motor Credit Co., 7.000%
+","
+Sell
+","
+3.75%
+","
+9/20/2010
+","
+     1,000,000
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Markit
+      ABX.HE.AAA.06-1 Index(1)
+","
+Sell
+","
+0.18%
+","
+7/25/2045
+","
+     1,742,840
+",0001360480,N-CSR,10
+"
+Goldman
+      Sachs & Co.
+","
+Markit
+      CDX.NA.IG.9(1)
+","
+Sell
+","
+0.60%
+","
+12/20/2012
+","
+     2,129,600
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Markit
+      CDX.NA.IG.11(1)
+","
+Sell
+","
+1.50%
+","
+12/20/2013
+","
+        992,000
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Markit
+      LCDX.NA.12(1)
+","
+Sell
+","
+5.00%
+","
+6/20/2014
+","
+     1,800,000
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Markit
+      ABX.HE.AAA.06-1 Index(1)
+","
+Sell
+","
+0.18%
+","
+7/25/2045
+","
+     1,742,840
+",0001360480,N-CSR,10
+"
+JP
+      Morgan
+","
+Residential
+      Capital Corp
+","
+Sell
+","
+1.08%
+","
+6/20/2011
+","
+     1,000,000
+",0001360480,N-CSR,10

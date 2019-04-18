@@ -1,0 +1,51 @@
+Counterparty,"Reference
+  Entity",Buy/Sell,"Notional
+  Amount
+  (000s
+  omitted)","Pay/Receive
+  Annual Fixed
+  Rate","Termination
+  Date","Net Unrealized
+  Appreciation
+  (Depreciation)",CIK,Reporting Type,Report Year
+Bank of America,"First Data
+  Corp.",Sell,1525000,3.2,12/20/2009,"(62,622",0000745463,N-Q,08
+Bank of America,Rite Aid,Sell,4395000,5.7,6/20/2008,"(59,105",0000745463,N-Q,08
+"Citigroup, Inc.","AMD
+  Series A",Sell,7000000,6.4,12/20/2012,"(632,032",0000745463,N-Q,08
+"Citigroup, Inc.",First Data Corp.,Sell,3050000,3.2,12/20/2009,"(146,119",0000745463,N-Q,08
+"Citigroup, Inc.",First Data Corp.,Sell,3050000,3.55,12/20/2009,"(130,539",0000745463,N-Q,08
+Goldman Sachs Capital Markets L.P.,"General
+  Motors Corp.",Sell,1600000,7.25,9/20/2010,"(9,683",0000745463,N-Q,08
+JPMorgan Chase Bank,"AMD
+  Series B",Sell,1500000,6.5,12/20/2012,"(130,568",0000745463,N-Q,08
+JPMorgan Chase Bank,AMD Series C,Sell,1500000,6.4,12/20/2012,"(135,436",0000745463,N-Q,08
+JPMorgan Chase Bank,"Ford Motor
+  Corp.",Sell,3200000,6.75,9/20/2008,24780,0000745463,N-Q,08
+"Lehman Brothers, Inc.","Ford Motor
+  Corp.",Sell,10000000,7.2,12/20/2009,"(70,923",0000745463,N-Q,08
+"Lehman Brothers, Inc.","Ford Motor
+  Corp.",Sell,2960000,7.2,12/20/2009,2334,0000745463,N-Q,08
+"Lehman Brothers, Inc.","Ford Motor
+  Corp.",Sell,2980000,8.0,3/20/2010,"(18,776",0000745463,N-Q,08
+"Lehman Brothers, Inc.","Ford Motor
+  Corp. Series C",Sell,5900000,6.1,12/20/2008,"(10,229",0000745463,N-Q,08
+"Lehman Brothers, Inc.","General
+  Motors Corp.",Sell,4800000,6.5,9/20/2008,66380,0000745463,N-Q,08
+"Lehman Brothers, Inc.","General
+  Motors Corp.",Sell,2950000,5.9,12/20/2009,"(56,885",0000745463,N-Q,08
+"Lehman Brothers, Inc.","General
+  Motors Corp.",Sell,2960000,7.0,12/20/2009,13098,0000745463,N-Q,08
+"Lehman Brothers, Inc.",Rite Aid,Sell,1470000,3.9,12/20/2008,"(78,486",0000745463,N-Q,08
+"Lehman Brothers, Inc.","Rite Aid
+  Series B",Sell,2930000,5.6,3/20/2009,"(158,396",0000745463,N-Q,08
+"Lehman Brothers, Inc.","Rite Aid
+  Series C",Sell,1600000,5.6,3/20/2009,"(86,996",0000745463,N-Q,08
+"Lehman Brothers, Inc.",Toys  R  Us,Sell,3000000,4.35,12/20/2008,"(84,859",0000745463,N-Q,08
+"Lehman Brothers, Inc.",Toys  R  Us,Sell,1465000,8.9,3/20/2013,"(113,036",0000745463,N-Q,08
+"Morgan Stanley Capital Services, Inc.",ARAMARK,Sell,3200000,4.82,9/20/2012,"(14,812",0000745463,N-Q,08
+"Morgan Stanley Capital Services, Inc.",Intelsat Ltd.,Sell,2940000,3.75,12/20/2008,"(76,015",0000745463,N-Q,08
+RBS Greenwich Capital,"First Data
+  Corp., Series E",Sell,3040000,3.95,12/20/2010,"(202,548",0000745463,N-Q,08
+RBS Greenwich Capital,"First Data
+  Corp., Series F",Sell,1520000,3.9,12/20/2010,"(103,091",0000745463,N-Q,08

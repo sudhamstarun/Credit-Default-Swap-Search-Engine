@@ -1,0 +1,3 @@
+Counterparty,Reference Entity,Buy/SellProtection (8),CurrentCreditSpread (9),NotionalAmount,Fixed Rate(Annualized),TerminationDate,Value,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Goldman Sachs,Commonwealthof Puerto Rico,Buy,16.64,"375,000",5.0,9/20/19,"88,654","8,771",0001020661,N-CSR,15
+Goldman Sachs,Commonwealthof Puerto Rico,Buy,16.64,"550,000",5.0,12/20/19,"133,579","11,886",0001020661,N-CSR,15

@@ -1,0 +1,10 @@
+Counterparty,"Reference
+  Entity/Obligation",Protection,Rate (%),Date,Amount (4),Value (5),(Received),(Depreciation),CIK,Reporting Type,Report Year
+Goldman Sachs International,"Amgen Inc. 4.850%, 11/18/14",Buy,(1.000),03/20/15,730000,"(15,098)","(21,565)",6467.0,0001039001,N-Q,10
+Deutsche Bank AG,"Baxter International Inc. 6.625%, 02/15/28",Buy,(1.000),03/20/15,730000,"(19,339)","(23,598)",4259.0,0001039001,N-Q,10
+"Citibank N.A., New York","CVS Caremark Corp. 4.875%, 09/15/14",Buy,(1.000),03/20/15,730000,"(15,579)","(16,555)",976.0,0001039001,N-Q,10
+Deutsche Bank AG,"Republic of Peru 8.750%, 11/21/33",Buy,(1.710),12/20/16,420000,"(8,182)","(8,182)",,0001039001,N-Q,10
+Barclays Bank PLC,"Republic of the Philippines, 10.625%, 03/16/25",Buy,(1.760),12/20/14,340000,"(3,323)","(3,323)",,0001039001,N-Q,10
+"JPMorgan Chase Bank, N.A. - London","Republic of the Philippines, 10.625%, 03/16/25",Buy,(1.740),12/20/14,510000,"(4,540)","(4,540)",,0001039001,N-Q,10
+Morgan Stanley Capital Services Inc.,"Verizon Communications Inc. 4.900%, 09/15/15",Buy,(1.000),03/20/15,730000,"(7,263)","(11,079)",3816.0,0001039001,N-Q,10
+Credit Suisse International,"Yum! Brands, Inc. 6.250%, 03/15/18",Buy,(1.000),03/20/15,730000,"(10,167)","(11,663)",1496.0,0001039001,N-Q,10

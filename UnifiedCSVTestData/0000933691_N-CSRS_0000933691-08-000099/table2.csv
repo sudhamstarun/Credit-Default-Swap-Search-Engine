@@ -1,0 +1,51 @@
+Counterparty,Reference Obligation,Purchase/Sell Protection2,Fixed Rate,Expiration Date,Notional Amount1,Appreciation/(Depreciation) ,CIK,Reporting Type,Report Year
+Deutsche Bank AG,ABX.HE.AAA.07-1,Sold,0.09%,08/25/2037,"$            (7,750)","$                       (2,135)",0000933691,N-CSRS,08
+Purchase/Sell,Expiration,Notional  ,Appreciation/ ,,,,0000933691,N-CSRS,08
+Counterparty,Reference Obligation,Protection2,Fixed Rate,Date,Amount1,(Depreciation) ,0000933691,N-CSRS,08
+Morgan Stanley,Amercan Electric Power,Purchased,0.47%,06/20/2015,$                 500 ,$                                5 ,0000933691,N-CSRS,08
+Deutsche Bank AG,"American International Group, Inc.",Sold,1.99%,03/20/2013,"(1,000)",(6),0000933691,N-CSRS,08
+Goldman Sachs & Co.,"Autozone, Inc.",Purchased,0.38%,12/20/2012,300,6,0000933691,N-CSRS,08
+Credit Suisse International,Bear Stearns Co.,Purchased,0.76%,12/20/2017,1000,21,0000933691,N-CSRS,08
+BNP Paribas Bank,Bear Stearns Co.,Purchased,2.18%,03/20/2018,1000,(85),0000933691,N-CSRS,08
+Citibank N.A.,Capital One Financial Corp.,Purchased,1.20%,09/20/2012,1600,172,0000933691,N-CSRS,08
+JPMorgan Chase & Co.,CDX.HY.9,Sold,6.45%,12/20/2012,(400),18,0000933691,N-CSRS,08
+Group PLC,CDX.IG.9,Purchased,0.60%,12/20/2012,5900,113,0000933691,N-CSRS,08
+Barclays Bank PLC,CDX.NA.HY.8,Purchased,2.75%,06/20/2012,1089,73,0000933691,N-CSRS,08
+JPMorgan Chase & Co.,CDX.NA.HY.8,Sold,2.50%,06/20/2012,(100),(5),0000933691,N-CSRS,08
+"Lehman Brothers, Inc.",CDX.NA.HY.8,Sold,2.30%,06/20/2012,(600),(36),0000933691,N-CSRS,08
+"Merrill Lynch & Co., Inc.",CDX.NA.HY.8,Purchased,2.75%,06/20/2012,572,41,0000933691,N-CSRS,08
+"Merrill Lynch & Co., Inc.",CDX.NA.HY.8,Purchased,2.75%,06/20/2012,2200,168,0000933691,N-CSRS,08
+"Merrill Lynch & Co., Inc.",CDX.NA.HY.8,Sold,2.46%,06/20/2012,(200),(11),0000933691,N-CSRS,08
+Morgan Stanley,CDX.NA.HY.8,Purchased,2.75%,06/20/2012,990,67,0000933691,N-CSRS,08
+"Merrill Lynch & Co., Inc.",CDX.NA.HY.9,Sold,6.69%,12/20/2012,(200),11,0000933691,N-CSRS,08
+Morgan Stanley,CDX.NA.HY.9,Sold,6.57%,12/20/2012,(400),20,0000933691,N-CSRS,08
+Deutsche Bank AG,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,11000,37,0000933691,N-CSRS,08
+Deutsche Bank AG,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,1400,5,0000933691,N-CSRS,08
+Deutsche Bank AG,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,6300,3,0000933691,N-CSRS,08
+Deutsche Bank AG,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,2400,2,0000933691,N-CSRS,08
+Deutsche Bank AG,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,1600,2,0000933691,N-CSRS,08
+Goldman Sachs & Co.,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,1800,8,0000933691,N-CSRS,08
+Goldman Sachs & Co.,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,9900,42,0000933691,N-CSRS,08
+Merrill Lynch International,CDX.NA.IG.10,Purchased,1.55%,06/20/2013,2200,(2),0000933691,N-CSRS,08
+Barclays Bank PLC,CDX.NA.IG.10,Purchased,1.50%,06/20/2018,3000,97,0000933691,N-CSRS,08
+Goldman Sachs & Co.,CDX.NA.IG.10,Purchased,1.50%,06/20/2018,2200,47,0000933691,N-CSRS,08
+Deutsche Bank AG,CDX.NA.IG.9,Sold,0.60%,12/20/2012,(400),3,0000933691,N-CSRS,08
+Goldman Sachs & Co.,CDX.NA.IG.9,Sold,0.60%,12/20/2012,"(8,000)",72,0000933691,N-CSRS,08
+"Lehman Brothers, Inc.",CDX.NA.IG.9,Purchased,0.60%,12/20/2012,1200,28,0000933691,N-CSRS,08
+"Lehman Brothers, Inc.",CDX.NA.IG.9,Purchased,0.60%,12/20/2012,4800,137,0000933691,N-CSRS,08
+"Merrill Lynch & Co., Inc.",CDX.NA.IG.9,Purchased,0.60%,12/20/2012,4000,155,0000933691,N-CSRS,08
+"Merrill Lynch & Co., Inc.",CDX.NA.IG.9,Purchased,0.60%,12/20/2012,3300,114,0000933691,N-CSRS,08
+Barclays Bank PLC,CDX.NA.IG.9,Purchased,0.80%,12/20/2017,5100,212,0000933691,N-CSRS,08
+Barclays Bank PLC,CDX.NA.IG.9,Purchased,0.80%,12/20/2017,1700,60,0000933691,N-CSRS,08
+Goldman Sachs & Co.,CDX.NA.IG.9,Purchased,0.80%,12/20/2017,6300,245,0000933691,N-CSRS,08
+"Lehman Brothers, Inc.",CDX.NA.IG.9,Purchased,0.80%,12/20/2017,2900,135,0000933691,N-CSRS,08
+Credit Suisse First Boston,Chesapeake Energy Corp.,Sold,1.04%,06/20/2012,(100),(3),0000933691,N-CSRS,08
+Credit Suisse First Boston,Chesapeake Energy Corp.,Sold,1.01%,06/20/2012,(100),(3),0000933691,N-CSRS,08
+Credit Suisse First Boston,Chesapeake Energy Corp.,Sold,0.97%,06/20/2012,(100),(3),0000933691,N-CSRS,08
+Credit Suisse First Boston,Chesapeake Energy Corp.,Sold,1.01%,06/20/2012,(300),(10),0000933691,N-CSRS,08
+"Lehman Brothers, Inc.",Chesapeake Energy Corp.,Sold,1.38%,09/20/2012,(200),(5),0000933691,N-CSRS,08
+BNP Paribas Bank,Citigroup Inc.,Purchased,0.90%,06/20/2018,400,16,0000933691,N-CSRS,08
+UBS Warburg LLC,Citigroup Inc.,Purchased,0.85%,06/20/2018,500,22,0000933691,N-CSRS,08
+JPMorgan Chase & Co.,Constellation Energy,Purchased,0.67%,06/20/2012,2600,49,0000933691,N-CSRS,08
+JPMorgan Chase & Co.,Constellation Energy,Purchased,0.96%,06/20/2015,100,233,0000933691,N-CSRS,08
+UBS Warburg LLC,Dominion Resources Inc.,Purchased,0.59%,03/20/2014,1000,1,0000933691,N-CSRS,08

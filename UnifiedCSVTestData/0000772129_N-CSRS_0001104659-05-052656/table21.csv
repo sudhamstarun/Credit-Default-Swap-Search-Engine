@@ -1,0 +1,29 @@
+Notional Amount,Expiration Date,Counterparty,Receive(Pay),Annual Premium,Annual Premium.1,Appreciation(Depreciation),CIK,Reporting Type,Report Year
+10000000,5/20/2014,"JP
+  Morgan Chase Bank",Receive,2.10%,United Mexican States,659694,0000772129,N-CSRS,05
+10000000,5/20/2014,"UBS
+  AG",Receive,2.10%,United Mexican States,659694,0000772129,N-CSRS,05
+5000000,5/20/2014,"Deutsche
+  Bank AG",Receive,2.03%,United Mexican States,"$  304,847",0000772129,N-CSRS,05
+10000000,5/20/2014,"JP
+  Morgan Chase Bank",Receive,2.10%,United Mexican States,659694,0000772129,N-CSRS,05
+15000000,6/7/2014,"Deutsche
+  Bank AG",Receive,3.10%,Gazprom Loan Facility,1374907,0000772129,N-CSRS,05
+10000000,6/16/2014,"Deutsche
+  Bank AG",Receive,6.22%,Republic of Turkey,1900841,0000772129,N-CSRS,05
+10000000,6/20/2014,"JP
+  Morgan Chase Bank",Receive,2.10%,United Mexican States,642023,0000772129,N-CSRS,05
+10000000,6/20/2014,"JP
+  Morgan Chase Bank",Receive,2.10%,United Mexican States,642023,0000772129,N-CSRS,05
+10000000,6/20/2014,"JP
+  Morgan Chase Bank",Receive,2.15%,United Mexican States,677545,0000772129,N-CSRS,05
+10000000,7/20/2014,"JP
+  Morgan Chase Bank",Receive,2.00%,United Mexican States,554303,0000772129,N-CSRS,05
+35000000,7/20/2014,"JP
+  Morgan Chase Bank",Receive,2.01%,United Mexican States,1964801,0000772129,N-CSRS,05
+2000000,8/24/2014,"Deutsche
+  Bank AG",(Pay),4.25%,Lebanese Republic,4356,0000772129,N-CSRS,05
+15000000,12/7/2014,"Deutsche
+  Bank AG",Receive,3.10%,Gazprom Loan Facility,1385359,0000772129,N-CSRS,05
+50000000,12/23/2014,"Deutsche
+  Bank AG",Receive,3.35%,Gazprom Loan Facility,5439432,0000772129,N-CSRS,05

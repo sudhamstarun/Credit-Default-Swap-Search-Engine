@@ -1,0 +1,4 @@
+Issuer/Index,ReceiveFixed Rate,Counterparty,ExpirationDate,"CreditRating1
+",NotionalAmount(000)2,MarketValue,PremiumsPaid(Received),UnrealizedAppreciation,CIK,Reporting Type,Report Year
+"MetLife, Inc.",5.0,Deutsche Bank AG,6/20/15,A-,USD        150000,"2,265",656,"1,609",0001051003,N-CSR,15
+"MetLife, Inc.",1.0,UBS AG,9/20/15,A-,USD        175000,889,"(1,405","2,294",0001051003,N-CSR,15

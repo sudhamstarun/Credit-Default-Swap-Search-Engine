@@ -1,0 +1,32 @@
+Counterparty,"Reference
+Entity/Obligation","Buy/Sell
+Protection","(Pay)/Receive
+Fixed Rate","Expiration
+Date","Notional
+Amount","Unrealized
+  Appreciation/
+(Depreciation)",CIK,Reporting Type,Report Year
+"Citibank
+  N.A.","Georgia
+  Pacific 8.125% due 5/15/2011",Buy,(3.55,12/20/10,1030000,"(42,489",0000002663,N-CSRS,06
+UBS AG,CDX.NA.IG.6,Buy,(0.40,6/20/11,55217800,"(74,344",0000002663,N-CSRS,06
+"Morgan
+  Stanley",CDX.NA.HY.6,Buy,(3.45,6/20/11,5501000,11923,0000002663,N-CSRS,06
+"Morgan
+  Stanley",CDX.NA.HY.6,Buy,(3.45,6/20/11,5501000,"(25,759",0000002663,N-CSRS,06
+UBS AG,CDX.NA.HY.6,Buy,(3.45,6/20/11,5501000,"(97,046",0000002663,N-CSRS,06
+"Morgan
+  Stanley",CDX.NA.HY.6,Buy,(3.45,6/20/11,5501000,"(21,794",0000002663,N-CSRS,06
+"Citibank
+  N.A.","Windstream
+  8.125% due 8/1/2013",Buy,(1.60,9/20/11,2885000,"(15,843",0000002663,N-CSRS,06
+UBS AG,"Windstream
+  8.125% due 8/1/2013",Buy,(1.63,9/20/11,2750500,"(16,547",0000002663,N-CSRS,06
+Citibank N.A.,Georgia Pacific 8.125% due 5/15/2011,Buy,3.55,12/20/10,263000,"(10,849",0000002663,N-CSRS,06
+UBS AG,CDX.NA.IG.6,Buy,0.4,6/20/11,10157000,"(13,675",0000002663,N-CSRS,06
+Morgan Stanley,CDX.NA.HY.6,Buy,3.45,6/20/11,1025000,2222,0000002663,N-CSRS,06
+Morgan Stanley,CDX.NA.HY.6,Buy,3.45,6/20/11,1025000,"(4,800",0000002663,N-CSRS,06
+UBS AG,CDX.NA.HY.6,Buy,3.45,6/20/11,1025000,"(18,083",0000002663,N-CSRS,06
+Morgan Stanley,CDX.NA.HY.6,Buy,3.45,6/20/11,1025000,"(4,061",0000002663,N-CSRS,06
+Citibank N.A.,Windstream 8.125% due 8/1/2013,Buy,1.6,9/20/11,446000,"(2,449",0000002663,N-CSRS,06
+UBS AG,Windstream 8.125% due 8/1/2013,Buy,1.63,9/20/11,512500,"(3,083",0000002663,N-CSRS,06

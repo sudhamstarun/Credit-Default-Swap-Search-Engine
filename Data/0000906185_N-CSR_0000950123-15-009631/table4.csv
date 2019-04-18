@@ -1,0 +1,678 @@
+"
+Counterparty
+","
+Asset
+","
+Protection(1)
+","
+Rate
+","
+Date
+","
+Amount(2)
+","
+(Received)
+","
+(Depreciation)
+","
+Asset/(Liability)
+",CIK,Reporting Type,Report Year
+"
+
+    Barclays Capital, Inc.
+
+","
+    Federative Republic of
+    Brazil(3)
+","
+    Sell
+",1.0,"
+    3/20/16
+","
+    500,000
+","
+    (939)
+","
+    1,642
+","
+    703
+",0000906185,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Israel Electric Corp.,
+    Ltd.(3)
+","
+    Sell
+",1.0,"
+    9/20/15
+","
+    75,000
+","
+    123
+","
+    (110)
+","
+    13
+",0000906185,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Republic of
+    Indonesia(3)
+","
+    Sell
+",1.0,"
+    6/20/17
+","
+    116,000
+","
+    734
+","
+    (107)
+","
+    627
+",0000906185,N-CSR,15
+"
+
+    Barclays Capital, Inc.
+
+","
+    Russian
+    Federation(3)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    114,000
+","
+    (552)
+","
+    (213)
+","
+    (765)
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Federative Republic of
+    Brazil(3)
+","
+    Sell
+",1.0,"
+    12/20/15
+","
+    230,000
+","
+    419
+","
+    (187)
+","
+    232
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Federative Republic of
+    Brazil(3)
+","
+    Sell
+",1.0,"
+    3/20/16
+","
+    120,000
+","
+    14
+","
+    155
+","
+    169
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    Federative Republic of
+    Brazil(3)
+","
+    Sell
+",1.0,"
+    6/20/16
+","
+    230,000
+","
+    417
+","
+    (305)
+","
+    112
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(4)
+","
+    Sell
+",1.0,"
+    6/20/18
+","
+    114,000
+","
+    1,894
+","
+    (248)
+","
+    1,646
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    People s Republic of
+    China(4)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    500,000
+","
+    1,824
+","
+    1,939
+","
+    3,763
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    6/20/16
+","
+    115,000
+","
+    650
+","
+    (88)
+","
+    562
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    6/20/17
+","
+    115,000
+","
+    791
+","
+    (188)
+","
+    603
+",0000906185,N-CSR,15
+"
+
+    BNP Paribas
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    60,000
+","
+    (930)
+","
+    341
+","
+    (589)
+",0000906185,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Bank of America
+    Corp.(5)
+","
+    Sell
+",1.0,"
+    3/20/16
+","
+    59,000
+","
+    511
+","
+    (155)
+","
+    356
+",0000906185,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    Goldman Sachs Group,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/16
+","
+    250,000
+","
+    1,974
+","
+    (637)
+","
+    1,337
+",0000906185,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    JPMorgan Chase &
+    Co.(5)
+","
+    Sell
+",1.0,"
+    3/20/16
+","
+    59,000
+","
+    494
+","
+    (144)
+","
+    350
+",0000906185,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    MCDX.NA.23(6)
+","
+    Sell
+",1.0,"
+    6/20/20
+","
+    59,000
+","
+    137
+","
+    (140)
+","
+    (3)
+",0000906185,N-CSR,15
+"
+
+    Citigroup Global Markets
+
+","
+    People s Republic of
+    China(4)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    250,000
+","
+    1,918
+","
+    (37)
+","
+    1,881
+",0000906185,N-CSR,15
+"
+
+    Credit Suisse International
+
+","
+    Berkshire Hathaway,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    6/20/20
+","
+    57,000
+","
+    1,253
+","
+    (368)
+","
+    885
+",0000906185,N-CSR,15
+"
+
+    Credit Suisse International
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    500,000
+","
+    (3,530)
+","
+    (1,380)
+","
+    (4,910)
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Berkshire Hathaway,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    59,000
+","
+    1,237
+","
+    (267)
+","
+    970
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Berkshire Hathaway,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    60,000
+","
+    1,222
+","
+    (236)
+","
+    986
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Berkshire Hathaway,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    250,000
+","
+    5,119
+","
+    (1,009)
+","
+    4,110
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Berkshire Hathaway,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    59,000
+","
+    1,266
+","
+    (296)
+","
+    970
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Kingdom of
+    Spain(7)
+","
+    Sell
+",1.0,"
+    3/20/17
+","
+    120,000
+","
+    1,289
+","
+    (549)
+","
+    740
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    MetLife,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/16
+","
+    250,000
+","
+    2,366
+","
+    (680)
+","
+    1,686
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    MetLife,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    60,000
+","
+    751
+","
+    192
+","
+    943
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Republic of
+    Indonesia(3)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    250,000
+","
+    (4,339)
+","
+    (1,931)
+","
+    (6,270)
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    Republic of
+    Italy(8)
+","
+    Sell
+",1.0,"
+    3/20/17
+","
+    120,000
+","
+    1,238
+","
+    (771)
+","
+    467
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    6/20/16
+","
+    116,000
+","
+    682
+","
+    (114)
+","
+    568
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    6/20/17
+","
+    114,000
+","
+    784
+","
+    (187)
+","
+    597
+",0000906185,N-CSR,15
+"
+
+    Goldman Sachs International
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    60,000
+","
+    (930)
+","
+    341
+","
+    (589)
+",0000906185,N-CSR,15
+"
+
+    JPMorgan Chase & Co.
+
+","
+    United Mexican
+    States(3)
+","
+    Sell
+",1.0,"
+    6/20/16
+","
+    118,000
+","
+    694
+","
+    (117)
+","
+    577
+",0000906185,N-CSR,15
+"
+
+    Morgan Stanley
+
+","
+    Berkshire Hathaway,
+    Inc.(5)
+","
+    Sell
+",1.0,"
+    3/20/20
+","
+    59,000
+","
+    1,207
+","
+    (237)
+","
+    970
+",0000906185,N-CSR,15

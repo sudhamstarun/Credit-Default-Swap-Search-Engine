@@ -1,0 +1,63 @@
+"Counterparty
+ ","Reference
+ Entity ","Buy/
+ Sellb,c ","Pay/Receive
+ Fixed Rate ","Expiration
+ Date ","Implied
+ Credit Spreadd ","Value
+e (000s) ","Upfront
+ Premium Paid/ (Received) (000s) ","Notional
+ Amount (000s) ","Unrealized
+ Appreciation/ (Depreciation) (000s) ",CIK,Reporting Type,Report Year
+"
+ICE
+Group
+","MetLife,
+ Inc. 4.750% due 02/08/2021 ","Buy
+ ","1.000%
+ ","12/20/2020
+ ","0.773%
+ ","$33
+ 000","$
+32 000","$ 3,300
+ 000","$
+1 000",0000793769,N-CSR,17
+"
+ICE
+Group
+","MetLife,
+ Inc. 4.750% due 02/08/2021 ","Buy
+ ","1.000
+ ","12/20/2021
+ ","1.037
+ ","(3)
+ 000","(50)
+ 000","3,600
+ 000","47
+ 000",0000793769,N-CSR,17
+"
+ICE
+Group
+","Sprint
+ Communications, Inc. 7.000% due 08/15/2020 ","Buy
+ ","5.000
+ ","12/20/2019
+ ","3.200
+ ","76
+ 000","74
+ 000","1,300
+ 000","2
+ 000",0000793769,N-CSR,17
+"
+ICE
+Group
+","Sprint
+ Communications, Inc. 8.380% due 08/15/2017 ","Buy
+ ","5.000
+ ","12/20/2019
+ ","3.200
+ ","99
+ 000","97
+ 000","1,700
+ 000","2
+ 000",0000793769,N-CSR,17

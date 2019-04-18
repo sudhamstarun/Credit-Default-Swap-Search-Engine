@@ -1,0 +1,9 @@
+Swap Counterparty andReference Obligation,Buy/SellProtection,NotionalAmount(000),Pay/ReceiveFixed Rate,TerminationDate,Upfront PaymentPaid/Received(000),UnrealizedAppreciation(Depreciation)(000),Value(000),CreditRating ofReferenceObligation 
+"Alcoa, Inc.",Buy,130,1.00,9/20/18,13,(10,BBB-
+Quest Diagnostics Inc.,Buy,250,1.00,12/20/18,BBB+
+"Yum! Brands, Inc.",Buy,250,1.00,12/20/18,(4,(2,(6,BBB
+CDX.NA.IG.20,Sell,500,1.00,6/20/18,10,NR
+CDX.NA.IG.20,Sell,110,1.00,6/20/18,NR
+Kohl s Corporation,Buy,275,1.00,6/20/18,16,(16, @,BBB+
+CDX.NA.IG.21,Sell,250,1.00,12/20/18,NR
+"1,765",32,(16,16

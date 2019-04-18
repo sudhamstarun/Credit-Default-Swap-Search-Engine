@@ -1,0 +1,7 @@
+Counterparty,TerminationDate,NotionalAmount(000),FixedRate,UnderlyingBond,UnrealizedAppreciation(Depreciation),CIK,Reporting Type,Report Year
+Morgan Stanley & Co. Inc.(a),12/20/2008,500000,0.26%,"Allstate Corp.,6.125%, 2/15/12","(2,405",0001090155,N-CSR,05
+Merrill Lynch & Co.(a),12/20/2008,200000,0.32%,"6.48%, 6/1/25",(867,0001090155,N-CSR,05
+Morgan Stanley & Co. Inc.(a),12/20/2008,300000,0.21%,"4.625%, 10/15/12",(309,0001090155,N-CSR,05
+Barclay s Bank PLC(a),12/20/2008,400000,0.16%,"6.00%, 3/15/12","(1,015",0001090155,N-CSR,05
+Bank of America Securities LLC(a),12/20/2008,300000,0.13%,"6.875%, 10/15/09",(340,0001090155,N-CSR,05
+Bear Stearns & Co.(a),12/20/2008,400000,0.32%,"6.50%, 7/1/12","(1,568",0001090155,N-CSR,05

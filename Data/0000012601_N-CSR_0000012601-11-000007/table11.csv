@@ -1,0 +1,5 @@
+Counterparty (Issuer) ,Reference Entity ,Protection ,Fixed Rate ,Date ,Amount ,CIK,Reporting Type,Report Year
+Barclays Bank PLC ,CDX.NA.HY.15 ,Buy ,(5.00)% ,12/20/2015 ,"$ 3,930 ",0000012601,N-CSR,11
+Barclays Bank PLC ,CMBX.NA.A.1 ,Sell ,0.35% ,10/12/2052 ,500,0000012601,N-CSR,11
+Morgan Stanley Capital Services Inc ,CDX.NA.HY.15 ,Buy ,(5.00)% ,12/20/2015 ,3570,0000012601,N-CSR,11
+Morgan Stanley Capital Services Inc ,CMBX.NA.A.1 ,Sell ,0.35% ,10/12/2052 ,500,0000012601,N-CSR,11
