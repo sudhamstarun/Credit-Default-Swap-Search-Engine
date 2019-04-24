@@ -25,7 +25,6 @@ app.secret_key = '1234'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 CORS(app)
 
-
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -158,7 +157,7 @@ def upload():
         return '', 204
 
 
-@app.route('/extractResults', methods=['GET'])
+@app.route('/edgar/extractResults', methods=['GET'])
 def extractReport():
     listOfFiles = []
     jsonObjects = [[]]
@@ -174,4 +173,4 @@ def extractReport():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port='80', debug=True)
+    app.run(host='0.0.0.0', port='80', debug=False)
