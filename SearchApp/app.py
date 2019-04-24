@@ -20,7 +20,7 @@ filelist = []
 UPLOAD_FOLDER = '../Uploads/files'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf'])
 
-app = Flask(__name__)
+app = Flask(__name__,static_url_path='/static', static_folder='static', template_folder='templates')
 app.secret_key = '1234'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 CORS(app)
@@ -48,7 +48,7 @@ def createJsonOjectArray(filelist):
     json_array = []
     for filename in filelist:
         json_data = []
-        with open(filename, 'r') as csvfile:
+        with open(filename, 'r+', encoding="utf-8") as csvfile:
             for row in csv.DictReader(csvfile):
                 json_data = json.dumps(row)
                 json_array.append(json_data)
@@ -75,7 +75,7 @@ def search_csv(search_string):
     num_columns = len(list(csv_file))
     results_rows = []
     csvreader_file = csv.reader(
-        open('../UnifiedCSV/final_csv.csv', "r"), delimiter=",")
+        open('../UnifiedCSV/final_csv.csv', "r+", encoding="utf-8"), delimiter=",")
     for row in csvreader_file:
         for iterator in range(num_columns):
             if search_string in row[iterator]:
@@ -174,4 +174,4 @@ def extractReport():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port='5000', debug=True)
+    app.run(host='0.0.0.0', port='80', debug=True)
