@@ -20,13 +20,11 @@ filelist = []
 UPLOAD_FOLDER = '../Uploads/files'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf'])
 
-app = Flask(__name__, static_url_path='',
-            static_folder='static',
-            template_folder='templates'))
-app.secret_key='1234'
-app.config['UPLOAD_FOLDER']=UPLOAD_FOLDER
-CORS(app)
 
+app = Flask(__name__,static_url_path='/static', static_folder='static', template_folder='templates')
+app.secret_key = '1234'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+CORS(app)
 
 def allowed_file(filename):
     return '.' in filename and
@@ -49,8 +47,8 @@ def createJsonOjectArray(filelist):
     makefilelist(parent_dir)
     json_array=[]
     for filename in filelist:
-        json_data=[]
-        with open(filename, 'r') as csvfile:
+        json_data = []
+        with open(filename, 'r+', encoding="utf-8") as csvfile:
             for row in csv.DictReader(csvfile):
                 json_data=json.dumps(row)
                 json_array.append(json_data)
@@ -72,12 +70,11 @@ def searchJsonArray(search_string):
 def search_csv(search_string):
     csv_file = pd.read_csv('../UnifiedCSV/final_csv.csv',
                            dtype = str)
-
-    list_columns=list(csv_file)
-    num_columns=len(list(csv_file))
-    results_rows=[]
-    csvreader_file=csv.reader(
-        open('../UnifiedCSV/final_csv.csv', "r"), delimiter=",")
+    list_columns = list(csv_file)
+    num_columns = len(list(csv_file))
+    results_rows = []
+    csvreader_file = csv.reader(
+        open('../UnifiedCSV/final_csv.csv', "r+", encoding="utf-8"), delimiter=",")
     for row in csvreader_file:
         for iterator in range(num_columns):
             if search_string in row[iterator]:
@@ -160,7 +157,7 @@ def upload():
         return '', 204
 
 
-@app.route('/extractResults', methods=['GET'])
+@app.route('/edgar/extractResults', methods=['GET'])
 def extractReport():
     listOfFiles = []
     jsonObjects = [[]]
@@ -176,4 +173,4 @@ def extractReport():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port='5000', debug=True)
+    app.run(host='0.0.0.0', port='80', debug=False)
