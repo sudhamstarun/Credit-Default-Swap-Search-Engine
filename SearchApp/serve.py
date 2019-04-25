@@ -88,7 +88,7 @@ def model_api(input):
     testing = sentence_features(tagged_text)
     crf_model = pickle.load(open('model/finalized_model.sav', 'rb'))
     y_pred = crf_model.predict_single(testing)
-
+    print(y_pred)
     output_data = align_data({"input": input, "output": y_pred})
 
     return output_data
