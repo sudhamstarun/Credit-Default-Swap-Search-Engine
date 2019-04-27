@@ -157,7 +157,7 @@ def upload():
         return '', 204
 
 
-@app.route('/edgar/extractResults', methods=['GET'])
+@app.route('/extractResults', methods=['GET'])
 def extractReport():
     listOfFiles = []
     jsonObjects = [[]]
