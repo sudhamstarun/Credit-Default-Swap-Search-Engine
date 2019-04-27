@@ -20,22 +20,23 @@ filelist = []
 UPLOAD_FOLDER = '../Uploads/files'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf'])
 
+
 app = Flask(__name__,static_url_path='/static', static_folder='static', template_folder='templates')
 app.secret_key = '1234'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 CORS(app)
 
 def allowed_file(filename):
-    return '.' in filename and \
+    return '.' in filename and
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 
 def makefilelist(parent_dir):
-    subject_dirs = [os.path.join(parent_dir, dir) for dir in os.listdir(
+    subject_dirs=[os.path.join(parent_dir, dir) for dir in os.listdir(
         parent_dir) if os.path.isdir(os.path.join(parent_dir, dir))]
-    filelist = []
+    filelist=[]
     for dir in subject_dirs:
-        csv_files = [os.path.join(dir, csv) for csv in os.listdir(
+        csv_files=[os.path.join(dir, csv) for csv in os.listdir(
             dir) if os.path.isfile(os.path.join(dir, csv)) and csv.endswith('.csv')]
         for file in csv_files:
             filelist.append(file)
@@ -44,32 +45,31 @@ def makefilelist(parent_dir):
 
 def createJsonOjectArray(filelist):
     makefilelist(parent_dir)
-    json_array = []
+    json_array=[]
     for filename in filelist:
         json_data = []
         with open(filename, 'r+', encoding="utf-8") as csvfile:
             for row in csv.DictReader(csvfile):
-                json_data = json.dumps(row)
+                json_data=json.dumps(row)
                 json_array.append(json_data)
 
     return json_array
 
 
 def searchJsonArray(search_string):
-    filelist = []
-    json_array = []
-    filelist = makefilelist(parent_dir)
-    json_array = createJsonOjectArray(filelist)
+    filelist=[]
+    json_array=[]
+    filelist=makefilelist(parent_dir)
+    json_array=createJsonOjectArray(filelist)
     # search
-    results = [elem for elem in json_array if search_string.lower()
+    results=[elem for elem in json_array if search_string.lower()
                in elem.lower()]
     return results
 
 
 def search_csv(search_string):
     csv_file = pd.read_csv('../UnifiedCSV/final_csv.csv',
-                           dtype=str)
-
+                           dtype = str)
     list_columns = list(csv_file)
     num_columns = len(list(csv_file))
     results_rows = []
