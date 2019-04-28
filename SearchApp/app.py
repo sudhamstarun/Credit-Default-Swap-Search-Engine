@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, send_from_directory, jsonify, redirect, url_for, flash
-
 from json2html import *
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
