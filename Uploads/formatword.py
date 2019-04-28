@@ -5,7 +5,7 @@ my_file_name =sys.argv[1]
 cleaned_file =sys.argv[2]
 remove_words = ['Total','TOTAL']
 
-with open(my_file_name, 'r', newline='') as infile, \
+with open(my_file_name, 'r+', encoding="utf-8", newline='') as infile, \
      open(cleaned_file, 'w',newline='') as outfile:
     writer = csv.writer(outfile)
     for line in csv.reader(infile, delimiter=','):

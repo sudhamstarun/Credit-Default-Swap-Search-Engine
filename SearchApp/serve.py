@@ -66,6 +66,10 @@ def align_data(data):
         data_aligned: (dict) data_align["x"] = "I love you"
                            data_align["y"] = "O O    O  "
     """
+    print(data)
+    print("________________________________")
+    for z in data.values():
+        print(z)
     spacings = [max([len(seq[i]) for seq in data.values()])
                 for i in range(len(data[list(data.keys())[1]]))]
 
@@ -78,7 +82,7 @@ def align_data(data):
             str_aligned += token + " " * (spacing - len(token) + 1)
 
         data_aligned[key] = str_aligned
-
+        
     return data_aligned
 
 
