@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, send_from_directory, jsonify, redirect, url_for, flash
-
 from json2html import *
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
@@ -148,28 +147,23 @@ def upload():
         if file.filename == '':
             flash('No selected file')
             return '', 204
+
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-            return redirect(url_for('extractReport'))
+            listOfFiles = []
+            jsonObjects = [[]]
+            finalResults = []
+            filepath = "../Uploads/m_formatwithouttotal/"
+            subprocess.call(['../Uploads/./duplicate.sh'])
+            listOfFiles = makefilelist(filepath)
+            jsonObjects = createJsonOjectArray(listOfFiles)
+            for json_object in jsonObjects:
+                finalResults.append(json2html.convert(json=json_object,))
+
+            return render_template('upload_results.html', results=finalResults)
 
         return '', 204
-
-
-@app.route('/edgar/extractResults', methods=['GET'])
-def extractReport():
-    listOfFiles = []
-    jsonObjects = [[]]
-    finalResults = []
-    filepath = "../Uploads/m_formatwithouttotal/"
-    subprocess.call(['../Uploads/./duplicate.sh'])
-    listOfFiles = makefilelist(filepath)
-    jsonObjects = createJsonOjectArray(listOfFiles)
-    for json_object in jsonObjects:
-        finalResults.append(json2html.convert(json=json_object,))
-
-    return render_template('upload_results.html', results=finalResults)
-
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port='80', debug=False)
