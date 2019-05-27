@@ -7,15 +7,15 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet'>
 	<link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
-	<link href="edgar/static/main.css" rel="stylesheet">
+	<link href="static/main.css" rel="stylesheet">
 </head>
 
 <body>
 	<div class="lol">
 		<div class="s010">
-			<form method="POST" enctype=multipart/form-data> <input type="image" name="button3" src="edgar/static/search.svg"
-				formaction="/edgar/raw_results"></input>
-				<input type="image" name="button4" src="edgar/static/face-scanner.svg" formaction="edgar/ner"></input>
+			<form method="POST" enctype=multipart/form-data> <input type="image" name="button3"
+				src="../static/search.svg" formaction="/raw_results"></input>
+				<input type="image" name="button4" src="../static/face-scanner.svg" formaction="/ner"></input>
 				<h1> Credit Default Swap Search </h1>
 				<div class=" inner-form">
 					<div class="basic-search">
@@ -35,13 +35,13 @@
 						</div>
 					</div>
 				</div>
-				<input type="submit" name="button1" value="Raw Tables" formaction="/edgar/raw_results"></input>
-				<input type="submit" name="button2" value="Unified Table" formaction="/edgar/raw_results"></input>
+				<input type="submit" name="button1" value="Raw Tables" formaction="/raw_results"></input>
+				<input type="submit" name="button2" value="Unified Table" formaction="/raw_results"></input>
 				<label for="file" class="custom-file-upload">
 					<i class="fa fa-cloud-upload"></i> Browse
 				</label>
 				<input id="file" name="file" type="file">
-				<input type="submit" name="button7" value="Upload" formaction="/edgar/redirect">
+				<input type="submit" name="button7" value="Upload" formaction="/redirect">
 			</form>
 		</div>
 	</div>
