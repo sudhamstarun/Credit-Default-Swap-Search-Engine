@@ -1,0 +1,74 @@
+/*===== Not The CSS :P =====*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+body {
+	background: rgb(35, 51, 64);
+}
+h1 {
+	font-family: 'Open Sans';
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin: 50px 0 -80px;
+}
+a {
+	font-family: 'Open Sans';
+	color: rgb(255, 255, 255);
+	margin: 50px 0 -80px;
+	text-align: center;
+	width: 100%;
+	font-size: 12px;
+	text-decoration: none;
+}
+#wrapper{
+	position: relative;
+	top: 80px;
+	width: 404px;
+}
+.center {
+	left: 50%;
+	-webkit-transform: translate( -50% );
+	-ms-transform: translate( -50% );
+	transform: translate( -50% );
+}
+
+/*===== The CSS =====*/
+.progress{
+	width: 200px;
+	height: 280px;
+}
+.progress .track, .progress .fill{
+	fill: rgba(0, 0, 0, 0);
+	stroke-width: 3;
+	transform: rotate(90deg)translate(0px, -80px);
+}
+.progress .track{
+	stroke: rgb(56, 71, 83);
+}
+.progress .fill {
+	stroke: rgb(255, 255, 255);
+	stroke-dasharray: 219.99078369140625;
+	stroke-dashoffset: -219.99078369140625;
+	transition: stroke-dashoffset 1s;
+}
+.progress.blue .fill {
+	stroke: rgb(104, 214, 198);
+}
+.progress.green .fill {
+	stroke: rgb(186, 223, 172);
+}
+.progress .value, .progress .text {
+	font-family: 'Open Sans';
+	fill: rgb(255, 255, 255);
+	text-anchor: middle;
+}
+.progress .text {
+	font-size: 12px;
+}
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+		cursor: default;
+}
