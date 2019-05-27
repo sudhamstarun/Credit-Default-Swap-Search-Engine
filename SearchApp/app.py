@@ -119,6 +119,11 @@ def printJsonResults():
     return '', 204
 
 
+@app.route('/default', methods=['POST'])
+def default():
+    return render_template('default_view.html')
+
+
 @app.route('/ner', methods=['POST'])
 def ner():
     return render_template('ner_front.html')
