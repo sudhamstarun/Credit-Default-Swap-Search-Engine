@@ -84,6 +84,26 @@ def search_csv(search_string):
     html_tags = search_results.to_html()
     return html_tags
 
+def default_aggregate(search_string):
+    csv_file = pd.read_csv('../UnifiedCSV/final_csv.csv',
+                           dtype = str)
+    list_columns = list(csv_file)
+    num_columns = len(list(csv_file))
+    results_rows = []
+    csvreader_file = csv.reader(
+        open('../UnifiedCSV/final_csv.csv', "r+", encoding="utf-8"), delimiter=",")
+    for row in csvreader_file:
+        for iterator in range(num_columns):
+            if search_string in row[iterator]:
+                results_rows.append(row)
+
+    search_results = pd.DataFrame(
+        results_rows, columns=list_columns, index=None)
+
+
+    twentyfive = search_results.groupby['25% Recovery Rate'].sum()
+
+
 # Functions with URL routing
 # Need to add consolidated view
 
