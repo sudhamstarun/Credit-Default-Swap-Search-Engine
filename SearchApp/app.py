@@ -85,13 +85,13 @@ def search_csv(search_string):
     return html_tags
 
 def default_aggregate(search_string):
-    csv_file = pd.read_csv('../UnifiedCSV/final_csv.csv',
+    csv_file = pd.read_csv('../UnifiedCSV/calculation.csv',
                            dtype = str)
     list_columns = list(csv_file)
     num_columns = len(list(csv_file))
     results_rows = []
     csvreader_file = csv.reader(
-        open('../UnifiedCSV/final_csv.csv', "r+", encoding="utf-8"), delimiter=",")
+        open('../UnifiedCSV/calculation.csv', "r+", encoding="utf-8"), delimiter=",")
     for row in csvreader_file:
         for iterator in range(num_columns):
             if search_string in row[iterator]:
@@ -100,8 +100,18 @@ def default_aggregate(search_string):
     search_results = pd.DataFrame(
         results_rows, columns=list_columns, index=None)
 
+    search_results['25% Recovery Rate'] = search_results['25% Recovery Rate'].replace(['#VALUE!'], '0')
+    search_results['50% Recovery Rate'] = search_results['50% Recovery Rate'].replace(['#VALUE!'], '0')
+    search_results['75% Recovery Rate'] = search_results['75% Recovery Rate'].replace(['#VALUE!'], '0')
+    search_results['25% Recovery Rate'] = pd.to_numeric(search_results['25% Recovery Rate'])
+    search_results['50% Recovery Rate'] = pd.to_numeric(search_results['50% Recovery Rate'])
+    search_results['75% Recovery Rate'] = pd.to_numeric(search_results['75% Recovery Rate'])
 
-    twentyfive = search_results.groupby['25% Recovery Rate'].sum()
+    firstprobability = (sum(search_results['25% Recovery Rate'])/(search_results.shape[0] - search_results[search_results.Spread=='NaN'].shape[0])) + 30
+    secondprobability = (sum(search_results['50% Recovery Rate'])/(search_results.shape[0] -  search_results[search_results.Spread=='NaN'].shape[0])) + 30
+    thirdprobability = (sum(search_results['75% Recovery Rate'])/(search_results.shape[0] - search_results[search_results.Spread=='NaN'].shape[0])) + 30
+
+    return firstprobability, secondprobability, thirdprobability
 
 
 # Functions with URL routing
@@ -147,10 +157,9 @@ def default():
 def default_processing():
     if request.method == 'POST':
         search_string = request.form['input']
-        result = search_csv(search_string)
+        first, second, third = default_aggregate(search_string)
 
-
-
+        return render_template('default_results.html', first=first, second=second, third=third, input=search_string)
 
 @app.route('/ner', methods=['POST'])
 def ner():

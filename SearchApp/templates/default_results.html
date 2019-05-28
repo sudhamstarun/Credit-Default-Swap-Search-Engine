@@ -2,36 +2,41 @@
     <link href="../static/default_view.css" rel=" stylesheet">
     <script type="text/javascript" src="./static/js/default_view.js"></script>
 </head>
-<h1>Probability of Default</h1>
-
-<div class="box">
-    <div class="container-3">
-        <input type="search" id="search" placeholder="Search..." />
-    </div>
-</div>
+<h1>Probability of Default of {{input}}</h1>
 
 <div id="wrapper" class="center">
 
-    <svg class="progress blue noselect" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
+    <svg class="progress blue noselect" id="one" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
         <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
         <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
         <text class="value" x="50%" y="55%">0%</text>
-        <text class="text" x="50%" y="115%">Blue</text>
+        <text class="text" x="50%" y="115%">25% Recovery</text>
     </svg>
-    <svg class="progress green noselect1" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
+    <svg class="progress green noselect" id="two" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
         <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
         <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
         <text class="value" x="50%" y="55%">0%</text>
-        <text class="text" x="50%" y="115%">Green</text>
+        <text class="text" x="50%" y="115%">50% Recovery</text>
     </svg>
 
-    <svg class="progress green noselect" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
+    <svg class="progress green noselect" id="three" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
         <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
         <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
         <text class="value" x="50%" y="55%">0%</text>
-        <text class="text" x="50%" y="115%">Green</text>
+        <text class="text" x="50%" y="115%">75% Recovery</text>
     </svg>
 </div>
+<script>
+    var a = {{ first }};
+    var b = {{ second }};
+    var c = {{ third }};
+    var first_graph = Math.round(a);
+    var second_graph = Math.round(b);
+    var third_graph = Math.round(c);
+    document.getElementById('one').setAttribute('data-progress', first_graph);
+    document.getElementById('two').setAttribute('data-progress', second_graph);
+    document.getElementById('three').setAttribute('data-progress', third_graph);
+</script>
 
 <script>
     $(document).ready(function () {
