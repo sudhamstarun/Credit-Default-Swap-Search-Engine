@@ -123,6 +123,10 @@ def printJsonResults():
 def default():
     return render_template('default_view.html')
 
+@app.route('default_results', methods=['GET', 'POST'])
+def default_processing():
+
+
 
 @app.route('/ner', methods=['POST'])
 def ner():

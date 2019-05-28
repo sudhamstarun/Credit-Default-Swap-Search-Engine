@@ -4,69 +4,10 @@
 </head>
 <h1>Probability of Default</h1>
 
-<main>
-    <div class="container">
-        <div class="search-box">
-            <div class="search-icon"><i class="fa fa-search search-icon"></i></div>
-            <form action="" class="search-form">
-                <input type="text" placeholder="Search" id="search" autocomplete="off">
-            </form>
-            <svg class="search-border" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-                x="0px" y="0px" viewBox="0 0 671 111" style="enable-background:new 0 0 671 111;" xml:space="preserve">
-                <path class="border" d="M335.5,108.5h-280c-29.3,0-53-23.7-53-53v0c0-29.3,23.7-53,53-53h280" />
-                <path class="border" d="M335.5,108.5h280c29.3,0,53-23.7,53-53v0c0-29.3-23.7-53-53-53h-280" />
-            </svg>
-            <div class="go-icon"><i class="fa fa-arrow-right"></i></div>
-        </div>
-
+<div class="box">
+    <div class="container-3">
+        <form method="POST" enctype=multipart/form-data> <input type="text" id="search" placeholder="Search..." />
+        <input type="submit" name="button1" value="Submit" formaction="/default_results"></input>
+        </form>
     </div>
-</main>
-
-<div id="wrapper" class="center">
-
-    <svg class="progress blue noselect" data-progress="63" x="0px" y="0px" viewBox="0 0 80 80">
-        <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
-        <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
-        <text class="value" x="50%" y="55%">0%</text>
-        <text class="text" x="50%" y="115%">Blue</text>
-    </svg>
-    <svg class="progress green noselect" data-progress="33" x="0px" y="0px" viewBox="0 0 80 80">
-        <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
-        <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
-        <text class="value" x="50%" y="55%">0%</text>
-        <text class="text" x="50%" y="115%">Green</text>
-    </svg>
-
-    <svg class="progress green noselect" data-progress="33" x="0px" y="0px" viewBox="0 0 80 80">
-        <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
-        <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
-        <text class="value" x="50%" y="55%">0%</text>
-        <text class="text" x="50%" y="115%">Green</text>
-    </svg>
 </div>
-
-<script>
-    $(document).ready(function () {
-        $("#search").focus(function () {
-            $(".search-box").addClass("border-searching");
-            $(".search-icon").addClass("si-rotate");
-        });
-        $("#search").blur(function () {
-            $(".search-box").removeClass("border-searching");
-            $(".search-icon").removeClass("si-rotate");
-        });
-        $("#search").keyup(function () {
-            if ($(this).val().length > 0) {
-                $(".go-icon").addClass("go-in");
-            }
-            else {
-                $(".go-icon").removeClass("go-in");
-            }
-        });
-        $(".go-icon").click(function () {
-            $(".search-form").submit();
-        });
-    });
-
-</script>

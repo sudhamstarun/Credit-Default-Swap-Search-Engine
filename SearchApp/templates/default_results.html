@@ -1,0 +1,59 @@
+<head>
+    <link href="../static/default_view.css" rel=" stylesheet">
+    <script type="text/javascript" src="./static/js/default_view.js"></script>
+</head>
+<h1>Probability of Default</h1>
+
+<div class="box">
+    <div class="container-3">
+        <input type="search" id="search" placeholder="Search..." />
+    </div>
+</div>
+
+<div id="wrapper" class="center">
+
+    <svg class="progress blue noselect" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
+        <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
+        <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
+        <text class="value" x="50%" y="55%">0%</text>
+        <text class="text" x="50%" y="115%">Blue</text>
+    </svg>
+    <svg class="progress green noselect1" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
+        <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
+        <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
+        <text class="value" x="50%" y="55%">0%</text>
+        <text class="text" x="50%" y="115%">Green</text>
+    </svg>
+
+    <svg class="progress green noselect" data-progress="0" x="0px" y="0px" viewBox="0 0 80 80">
+        <path class="track" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
+        <path class="fill" d="M5,40a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" />
+        <text class="value" x="50%" y="55%">0%</text>
+        <text class="text" x="50%" y="115%">Green</text>
+    </svg>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#search").focus(function () {
+            $(".search-box").addClass("border-searching");
+            $(".search-icon").addClass("si-rotate");
+        });
+        $("#search").blur(function () {
+            $(".search-box").removeClass("border-searching");
+            $(".search-icon").removeClass("si-rotate");
+        });
+        $("#search").keyup(function () {
+            if ($(this).val().length > 0) {
+                $(".go-icon").addClass("go-in");
+            }
+            else {
+                $(".go-icon").removeClass("go-in");
+            }
+        });
+        $(".go-icon").click(function () {
+            $(".search-form").submit();
+        });
+    });
+
+</script>
