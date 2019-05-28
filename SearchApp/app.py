@@ -123,8 +123,12 @@ def printJsonResults():
 def default():
     return render_template('default_view.html')
 
-@app.route('default_results', methods=['GET', 'POST'])
+@app.route('/default_results', methods=['GET', 'POST'])
 def default_processing():
+    if request.method == 'POST':
+        search_string = request.form['input']
+        result = search_csv(search_string)
+
 
 
 
