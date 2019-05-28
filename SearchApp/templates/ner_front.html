@@ -33,7 +33,7 @@
 <script>
     function api_call(input) {
         $.ajax({
-            url: "http://www.bio8.cs.hku.hk/edgar/api",
+            url: "http://0.0.0.0:80/api",
             method: 'POST',
             contentType: 'application/json',
             data: JSON.stringify(input),
