@@ -1,4 +1,4 @@
-# DataSorcerer
+# Credit Default Swap Search Engine
 
 ## Introduction
 
