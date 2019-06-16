@@ -33,8 +33,15 @@ To help serve as an example for future research and analysis, we have developed 
 <br>
 Applications like this show how useful a Credit Default Swap dataset would be to trade in the CDS market and also shows the power of computation by using existing quantitative ﬁnance formula.
 <br>
+<br>
 ![Probability of Default of Merrill Lynch in early 2008](Images/99.png)
+<br>
+<br>
 ![Probability of Default of Lehman Brothers in early 2008](Images/100.png)
+
+## Installation
+
+
 
 ## Requirements
 
