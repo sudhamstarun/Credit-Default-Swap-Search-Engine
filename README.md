@@ -54,11 +54,15 @@ Applications like this show how useful a Credit Default Swap dataset would be to
    2. Format.py --> Once we had the all the useful tables in different folders, we started working on formatting the tables. We found after going through the data that most of the tables had a different format for the data. This meant that we had to go through the csv files manually, try and identify a pattern which was followed by the majority of the tables and then try and write a python script to format those kinds of scripts.
     <br>
     <br>
-    ![Probability of Default of Lehman Brothers in early 2008](Images/101.png)
+
+    `![Probability of Default of Lehman Brothers in early 2008](Images/101.png)`
+
     Above figures show an example of the types of format that the tables initially have. The other files may have a completely different format. We identified in majority of the files, there were a lot of random characters and spaces present in the cells in the csv files between the cells which actually had the information. We wrote a python script to eliminate all of these random characters and shift the cells with the actual information.
     <br>
     <br>
-    ![Probability of Default of Lehman Brothers in early 2008](Images/Picture1.png)
+
+    `![Probability of Default of Lehman Brothers in early 2008](Images/Picture1.png)`
+
     <br>
     <br>
     The script works by taking in the unformatted file as the first argument and another filename which will contain the formatted table as the second argument. We loop over each row in the csv file and initialize an array which will contain values for the formatted row. We then go through each cell in the row and check if the character matches any of the random unwanted characters or spaces and if it does, we just ignore it. We initialize a counter i to 0 in the beginning of the loop and this gives us the index of the value and just increment it by 1, after checking if doing this won‘t exceed the length of the row, to ignore the unwanted characters. If the cell has useful information, we append it to the new empty array which we initialized and then incre- ment the value of i. The unwanted characters which we are checking have all been hardcoded after going manually through all the reports as it would have otherwise been impossible to identify all the different types of these characters.
@@ -67,6 +71,7 @@ Applications like this show how useful a Credit Default Swap dataset would be to
     After it goes through all the rows, we have another check in place to see if the length of the row after removing all the unwanted character exceeds 3 and only if this condition is true, we write it to the new file. This check is in place to help us eliminate those rows and csv files which dont actually have any useful CDS values that we require. An example of this is shown in the image below.
     <br>
     <br>
+    ![Probability of Default of Lehman Brothers in early 2008](Images/Picture2.png)
     We see that this table came to be part of the current data set as it has the word counterparty in it and hence, it passed the first shell script. It however, doesnt contain any useful information that we require, and as it would have only 3 columns after formatting, with the final if condition, none of the rows would get written to the output file and hence it would only give a blank csv file as the output.
 
 
