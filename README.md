@@ -69,12 +69,24 @@ Applications like this show how useful a Credit Default Swap dataset would be to
     After it goes through all the rows, we have another check in place to see if the length of the row after removing all the unwanted character exceeds 3 and only if this condition is true, we write it to the new file. This check is in place to help us eliminate those rows and csv files which dont actually have any useful CDS values that we require. An example of this is shown in the image below.
     <br>
     <br>
-     **Figure 3**![Probability of Default of Lehman Brothers in early 2008](Images/Picture2.png)
+    **Figure 3**![Probability of Default of Lehman Brothers in early 2008](Images/Picture2.png)
     <br>
     <br>
-    We see that this table came to be part of the current data set as it has the word counterparty in it and hence, it passed the first shell script. It however, doesnt contain any useful information that we require, and as it would have only 3 columns after formatting, with the final if condition, none of the rows would get written to the output file and hence it would only give a blank csv file as the output.
+    We see that this table came to be part of the current data set as it has the word counterparty in it and hence, it passed the first shell script. It however, doesnt contain any useful information that we require, and as it would have only 3 columns after formatting, with the final if condition, none of the rows would get written to the output file and hence it would only give a blank csv file as the output.5
+8. blank.sh --> We run this script on the formatted csv files after running the format.py script on all the folders. This script is to delete all the blank csv files that are present after formatting. It first runs a python script on all the files and it outputs the word empty if the csv files are blank. The script then uses the command grep to check the output file of the previous python script and deletes the csv file if it finds the word empty.
+9. Formatword.py --> This python script was written to remove those rows in the csv files which contained the word Total. This was done as after going through the data, it was found that most of the CDS tables had at the end of the table a row containing the Total Credit Default Swaps and Total Unrealized Apprecia- tion(Depreciation) etc with corresponding values. This row was not needed, and it was necessary to remove this row in all the tables in order to make  a neatly formatted unified csv file at the end. There were also tables which didn‘t have Total or a description written in the last row but just had the values of the total credit default swaps. These rows were however already removed using the last if condition in the format.py script and hence, we dont have to do anything additional to them
+10. Libor.sh --> After running all the scripts above, we get a formatted table, but we also realized that along with Credit Default Swap tables, there were also a few tables containing Interest Rate Swaps and some other tables containing the overall figures for CDS being extracted and formatted. This was because the reporting style for those tables were similar and they had the same column headings as a CDS table. It was hence necessary to remove these csv files containing this other information.This script searches for keywords such as LIBOR which is used to report Interest rate swaps in the Floating Rate Index column, in the csv files and also other words such as Convertible Bonds and Forward which signifies Forward swaps. It then deletes the files which contains any of these words. This helps us to get a data set containing only Credit Default Swap tables and information.
+11. EmptyDir.sh --> This is a simple script which is run on all the folders after all the above scripts have been executed. It uses the find command to check if any of the folders are empty and then removes those folders. This was done as the blank.sh and libor.sh script would be removing the useless csv files and there were many instances in which the folder after that would be empty as all the csv files in it were useless. Hence it was necessary to remove these empty folders.
+12. duplicate.sh --> This is a master script which runs all the above scripts together one after the other. It runs the following scripts in order
+    1.  parserExtractor.py script on all the files
+    2.  checkTable.sh
+    3.  format.sh
+    4.  blank.sh
+    5.  formatword.sh
+    6.  libor.sh
+    7.  EmptyDir.sh
 
-
+    We can run this script on any file and it will extract and completely format the CDS tables and output them. The accuracy of this script was 76% (running this script on 100 random csv files containing the tables led to 76 files being completely formatted). The rest of the 24 files were around 90 percent formatted with there being some discrepancies in the way the column headers were reported. To ensure that the database consisting of all the tables was accurate and to help us build the unified csv file, we also manually went through each file and corrected the formatting of those files which werent fully formatted by the scripts.
 
 ## Installation
 
