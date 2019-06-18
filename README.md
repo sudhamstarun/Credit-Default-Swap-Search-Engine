@@ -45,7 +45,7 @@ Applications like this show how useful a Credit Default Swap dataset would be to
 
 1. Data folder contains all the extracted .csv files from the reports extracted from the SEC website to be used for searching purpose.
 2. Images folder contains the images used in the readme.
-3. Notebooks folder contains the python notebooks used to generate Credit Default Swap Dataset specifically the *Unified CSV Generation* notebook.
+3. Notebooks folder contains the python notebooks used to generate Credit Default Swap Dataset specifically the *Unified CSV Generation* notebook. The instructions to generate the dataset have been given in the notebook.
 4. The Searchapp folder contains the web application developed to power the Credit Default Swap Search Engine and the installation and demo instructions have been given below
 5. Dataset contains the Credit Default Swap dataset
 6. UnifiedCSVTestData folder contains raw tables extracted befure unification for powering the searching for individual reports containing individual tables also called as *raw tables* view in the Credit Default Swap Search Engine app.
@@ -90,7 +90,16 @@ Applications like this show how useful a Credit Default Swap dataset would be to
 
 ## Installation
 
+1. To run the web app, first install the virtual environment and install all the dependencies using the command:
+```bash
+pip3 install -r requirements.txt
+```
+2. Then simply run the following file in SearchApp folder:
+```bash
+python3 app.py
+```
 
+The web app should be running on localhost:[port number]
 
 ## Requirements
 
