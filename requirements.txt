@@ -3,7 +3,7 @@ beautifulsoup4==4.7.1
 bs4==0.0.1
 Click==7.0
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 itsdangerous==1.1.0
 Jinja2==2.10.1
 json2html==1.2.1
