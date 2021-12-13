@@ -7,7 +7,7 @@ Flask-Cors==3.0.7
 itsdangerous==1.1.0
 Jinja2==2.10.1
 json2html==1.2.1
-lxml==4.3.3
+lxml==4.6.5
 MarkupSafe==1.1.1
 nltk==3.4.1
 numpy==1.16.2
