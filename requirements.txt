@@ -10,7 +10,7 @@ json2html==1.2.1
 lxml==4.3.3
 MarkupSafe==1.1.1
 nltk==3.4.1
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 prettytable==0.7.2
 python-crfsuite==0.9.6
